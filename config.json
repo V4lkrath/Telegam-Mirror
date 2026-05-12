@@ -1,7 +1,6 @@
 {
   "channels": [
     "ircfspace",
-    "vahidonline",
     "iranintltv",
     "OfficialRezaPahlavi",
     "DEJradio",
@@ -10,6 +9,23 @@
     "dw_persian",
     "ManotoTV",
     "persianvpnhub",
-    "Aalijnab"
+    "bbcpersian",
+    "bidarzani",
+    "daadbaan2021",
+    "farsi_iranwire",
+    "farsivoa",
+    "filter_watch",
+    "followupiran",
+    "hranews",
+    "ircfspace",
+    "iranlix",
+    "mamlekate",
+    "matinsenpaii",
+    "no_itsmyturn",
+    "radiofarda",
+    "sahamnewsorg",
+    "tavaana_tavaanatech",
+    "vahidonline"
+  ]
   ]
 }
