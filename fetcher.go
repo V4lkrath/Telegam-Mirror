@@ -17,39 +17,6 @@ import (
 	"github.com/PuerkitoBio/goquery"
 )
 
-// ---------- Structs ----------
-type ChannelInfo struct {
-	ID          int64  `json:"id"`
-	Title       string `json:"title"`
-	Username    string `json:"username"`
-	Photo       string `json:"photo_url"`
-	Description string `json:"description"`
-}
-
-type Media struct {
-	Type      string `json:"type"`
-	URL       string `json:"url"`
-	LocalPath string `json:"local_path,omitempty"`
-	MimeType  string `json:"mime_type,omitempty"`
-}
-
-type Post struct {
-	ID         int64     `json:"id"`
-	Message    string    `json:"message"`
-	Date       time.Time `json:"date"`
-	Views      int       `json:"views"`
-	Media      []Media   `json:"media,omitempty"`
-	Hashtags   []string  `json:"hashtags,omitempty"`
-	Mentions   []string  `json:"mentions,omitempty"`
-	Links      []string  `json:"links,omitempty"`
-}
-
-type ChannelData struct {
-	Info        ChannelInfo `json:"info"`
-	Posts       []Post      `json:"posts"`
-	LastUpdated int64       `json:"last_updated"`
-}
-
 // ---------- Media Helpers ----------
 func getMediaPath(channelUsername, postID string, mediaIndex int, ext string) string {
 	safeUsername := strings.ToLower(channelUsername)
