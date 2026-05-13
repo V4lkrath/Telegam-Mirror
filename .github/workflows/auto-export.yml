@@ -3,21 +3,14 @@ name: Telegram Channel Exporter
 on:
   schedule:
     # Two staggered crons (offset by 2 min) to raise the firing floor.
-    # GitHub deprioritizes and coalesces scheduled workflows under
-    # platform load, so a single */5 schedule routinely delivers every
-    # 30–60 min in practice.
     - cron: "*/5 * * * *"
     - cron: "2-59/5 * * * *"
-  workflow_dispatch: # Allow manual trigger
+  workflow_dispatch:   # Allow manual trigger
 
-# --- ADDED THIS SECTION ---
+# Ensure only one instance runs at a time
 concurrency:
-  # This creates a unique group for this workflow on this branch
   group: ${{ github.workflow }}-${{ github.ref }}
-  # false = If a job is running, the new one waits in a queue until the first finishes.
-  # true = If a job is running, GitHub kills it to start the new one (BAD for this bot).
-  cancel-in-progress: false
-# --------------------------
+  cancel-in-progress: false   # Never kill a running job
 
 permissions:
   contents: write
@@ -25,126 +18,132 @@ permissions:
 jobs:
   export-channels:
     runs-on: ubuntu-latest
-    
+
     steps:
-    - name: Checkout Code (Main)
-      uses: actions/checkout@v4
-      with:
-        fetch-depth: 0 
-        
-    - name: Setup Go
-      uses: actions/setup-go@v4
-      with:
-        go-version: '1.21'
-        
-    - name: Install Dependencies
-      run: |
-        go mod tidy
-        
-    - name: Update config with channels
-      run: |
-        # Create config if it doesn't exist
-        if [ ! -f config.json ]; then
-          cat > config.json << EOF
-        {
-          "channels": [
-            "ircfspace",
-            "vahidonline"
-          ]
-        }
-        EOF
-        fi
-        
-    - name: Run Telegram exporter
-      run: |
-        go run .
-        
-    - name: Check for changes
-      id: verify-changed
-      run: |
-        if [ -d "export" ] && [ "$(ls -A export)" ]; then
-          echo "has_changes=true" >> $GITHUB_OUTPUT
-          echo "Found $(ls export/*.json | wc -l) JSON files"
-          ls -la export/
-        else
-          echo "has_changes=false" >> $GITHUB_OUTPUT
-          echo "No export files found"
-        fi
+      - name: Checkout Code (Main)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-    - name: Configure Git
-      run: |
-        git config --global user.name "Telegram Exporter Bot"
-        git config --global user.email "85139460+V4lkrath@users.noreply.github.com"
+      # ---------- CACHE FOR MEDIA FILES ----------
+      # This saves the media/ folder between runs.
+      # If the cache key changes (e.g., after a week) it will re-download,
+      # but otherwise files are reused.
+      - name: Cache Media Files
+        uses: actions/cache@v4
+        with:
+          path: media
+          key: media-cache-${{ github.run_id }}
+          restore-keys: |
+            media-cache-
 
-    # --- PART 1: Save Bot Memory to Main ---
-    - name: Commit State (if any) to Main
-      run: |
-        # Only commit non-export changes to main (explicitly exclude export folder)
-        git add -A
-        git reset HEAD export/
-        if ! git diff --cached --quiet; then
-          git commit -m "Update bot state [skip ci]"
-          git push origin main
-        else
-          echo "No changes to commit to main branch."
-        fi
+      - name: Setup Go
+        uses: actions/setup-go@v4
+        with:
+          go-version: '1.21'
 
-    # --- PART 2: Publish Exports to Export Branch ---
-    - name: Publish Channel Exports to Export Branch
-      run: |
-        # Save exports to temporary location before switching branches
-        mkdir -p /tmp/exports
-        if [ -d "export" ]; then
-          cp -r export/*.json /tmp/exports/ 2>/dev/null || true
-        fi
+      - name: Install Dependencies
+        run: go mod tidy
 
-        # Checkout or create export branch
-        if git show-ref --verify --quiet refs/remotes/origin/export; then
-          git checkout --track origin/export
-          git pull origin export
-        else
-          git checkout --orphan export
-          git rm -rf .
-          echo "# Telegram Channel Exports" > README.md
-          echo "This branch contains automated exports from Telegram channels." >> README.md
-          echo "" >> README.md
-          echo "Last updated: $(date '+%Y-%m-%d %H:%M:%S UTC')" >> README.md
-          git add README.md
-          git commit -m "Initialize export branch"
-        fi
+      - name: Create config.json (if missing)
+        run: |
+          if [ ! -f config.json ]; then
+            cat > config.json << EOF
+          {
+            "channels": [
+              "ircfspace",
+              "vahidonline"
+            ]
+          }
+          EOF
+          fi
 
-        # Clean up any existing export folder and copy exports to root (only JSON files)
-        rm -rf export/ 2>/dev/null || true
-        cp -r /tmp/exports/*.json . 2>/dev/null || true
-        
-        # Add all export files
-        git add .
-        
-        if ! git diff --cached --quiet; then
-          git commit -m "Update channel exports - $(date '+%Y-%m-%d %H:%M:%S UTC') [skip ci]"  
-          git push origin export
-          echo "✅ Export files pushed to export branch"
-        else
-          echo "No changes to export files."
-        fi
+      - name: Run Telegram Exporter
+        run: go run .
 
-    - name: Create summary
-      if: always()
-      run: |
-        echo "# Telegram Channel Export Summary" >> $GITHUB_STEP_SUMMARY
-        echo "Export completed at: $(date '+%Y-%m-%d %H:%M:%S UTC')" >> $GITHUB_STEP_SUMMARY
-        echo "" >> $GITHUB_STEP_SUMMARY
-        if [ -d "export" ]; then
-          echo "## Exported Files:" >> $GITHUB_STEP_SUMMARY
-          for file in export/*.json; do
-            if [ -f "$file" ]; then
-              filename=$(basename "$file")
-              size=$(stat -c%s "$file")
-              echo "- **$filename** ($size bytes)" >> $GITHUB_STEP_SUMMARY
-            fi
-          done
+      - name: Check for JSON exports
+        id: verify-changed
+        run: |
+          if [ -d "export" ] && [ "$(ls -A export)" ]; then
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+            echo "Found $(ls export/*.json | wc -l) JSON files"
+            ls -la export/
+          else
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+            echo "No export files found"
+          fi
+
+      - name: Configure Git
+        run: |
+          git config --global user.name "Telegram Exporter Bot"
+          git config --global user.email "85139460+V4lkrath@users.noreply.github.com"
+
+      # ----- PART 1: Save non-export state to main branch -----
+      - name: Commit State (if any) to Main
+        run: |
+          git add -A
+          git reset HEAD export/
+          if ! git diff --cached --quiet; then
+            git commit -m "Update bot state [skip ci]"
+            git push origin main
+          else
+            echo "No changes to commit to main branch."
+          fi
+
+      # ----- PART 2: Publish JSON Exports to 'export' branch -----
+      - name: Publish Channel Exports to Export Branch
+        run: |
+          # Temporarily save JSON files
+          mkdir -p /tmp/exports
+          if [ -d "export" ]; then
+            cp -r export/*.json /tmp/exports/ 2>/dev/null || true
+          fi
+
+          # Switch to (or create) export branch
+          if git show-ref --verify --quiet refs/remotes/origin/export; then
+            git checkout --track origin/export
+            git pull origin export
+          else
+            git checkout --orphan export
+            git rm -rf .
+            echo "# Telegram Channel Exports" > README.md
+            echo "This branch contains automated exports from Telegram channels." >> README.md
+            echo "" >> README.md
+            echo "Last updated: $(date '+%Y-%m-%d %H:%M:%S UTC')" >> README.md
+            git add README.md
+            git commit -m "Initialize export branch"
+          fi
+
+          # Clean and copy only JSON files (not media)
+          rm -rf export/ 2>/dev/null || true
+          cp -r /tmp/exports/*.json . 2>/dev/null || true
+
+          git add .
+          if ! git diff --cached --quiet; then
+            git commit -m "Update channel exports - $(date '+%Y-%m-%d %H:%M:%S UTC') [skip ci]"
+            git push origin export
+            echo "✅ Export files pushed to export branch"
+          else
+            echo "No changes to export files."
+          fi
+
+      - name: Create Workflow Summary
+        if: always()
+        run: |
+          echo "# Telegram Channel Export Summary" >> $GITHUB_STEP_SUMMARY
+          echo "Export completed at: $(date '+%Y-%m-%d %H:%M:%S UTC')" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
-          echo "📍 **Export Branch:** [View exports](https://github.com/${{ github.repository }}/tree/export)" >> $GITHUB_STEP_SUMMARY
-        else
-          echo "No files exported" >> $GITHUB_STEP_SUMMARY
-        fi
+          if [ -d "export" ]; then
+            echo "## Exported Files:" >> $GITHUB_STEP_SUMMARY
+            for file in export/*.json; do
+              if [ -f "$file" ]; then
+                filename=$(basename "$file")
+                size=$(stat -c%s "$file")
+                echo "- **$filename** ($size bytes)" >> $GITHUB_STEP_SUMMARY
+              fi
+            done
+            echo "" >> $GITHUB_STEP_SUMMARY
+            echo "📍 **Export Branch:** [View exports](https://github.com/${{ github.repository }}/tree/export)" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "No files exported" >> $GITHUB_STEP_SUMMARY
+          fi
