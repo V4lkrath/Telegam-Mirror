@@ -88,6 +88,10 @@ func fetchChannelDataWithColly(username string) (*ChannelData, error) {
 		channelData.Info.Title = e.Attr("content")
 	})
 
+	c.OnHTML(`meta[property="og:description"]`, func(e *colly.HTMLElement) {
+    channelData.Info.Description = e.Attr("content")
+    })
+
 	c.OnHTML(`meta[property="og:image"]`, func(e *colly.HTMLElement) {
 		channelData.Info.Photo = e.Attr("content")
 	})
