@@ -132,17 +132,10 @@ func extractChannelInfo(html, username string) ChannelInfo {
 
 	// Extract channel description (About)
 	description := ""
-	descRe := regexp.MustCompile(`<meta property="og:description" content="([^"]+)"`)
-	if matches := descRe.FindStringSubmatch(html); len(matches) > 1 {
-		description = matches[1]
-	}
-	
-	if description == "" {
-		descRe2 := regexp.MustCompile(`<div class="tgme_channel_info_description">\s*<div class="tgme_channel_info_description_text">([^<]+)`)
-		if matches := descRe2.FindStringSubmatch(html); len(matches) > 1 {
-			description = strings.TrimSpace(matches[1])
-		}
-	}
+	descRe1 := regexp.MustCompile(`<meta property="og:description" content="([^"]*)"`)
+    if matches := descRe1.FindStringSubmatch(html); len(matches) > 1 {
+        description = matches[1]
+    }
 
 	return ChannelInfo{
 		ID:          0,
