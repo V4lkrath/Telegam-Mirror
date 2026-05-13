@@ -7,6 +7,7 @@ type ChannelInfo struct {
 	Title    string `json:"title"`
 	Username string `json:"username"`
 	Photo    string `json:"photo_url"`
+	Description string `json:"description"`
 }
 
 type Media struct {
