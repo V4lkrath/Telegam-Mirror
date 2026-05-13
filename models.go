@@ -13,6 +13,7 @@ type ChannelInfo struct {
 type Media struct {
 	Type      string `json:"type"` // photo, video, document, audio
 	URL       string `json:"url"`
+	LocalPath string `json:"local_path,omitempty"`
 	Caption   string `json:"caption,omitempty"`
 	Width     int    `json:"width,omitempty"`
 	Height    int    `json:"height,omitempty"`
