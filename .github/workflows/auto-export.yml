@@ -3,7 +3,8 @@ name: Telegram Channel Exporter
 on:
   schedule:
     # Run every 5 minutes
-    - cron: '*/5 * * * *'
+    - cron: "*/5 * * * *"
+    - cron: "2-59/5 * * * *"
   workflow_dispatch: # Allow manual trigger
 
 # --- ADDED THIS SECTION ---
@@ -70,7 +71,7 @@ jobs:
     - name: Configure Git
       run: |
         git config --global user.name "Telegram Exporter Bot"
-        git config --global user.email "bot@telefeed.local"
+        git config --global user.email "85139460+V4lkrath@users.noreply.github.com"
 
     # --- PART 1: Save Bot Memory to Main ---
     - name: Commit State (if any) to Main
@@ -117,7 +118,7 @@ jobs:
         git add .
         
         if ! git diff --cached --quiet; then
-          git commit -m "Update channel exports - $(date '+%Y-%m-%d %H:%M:%S UTC') [skip ci]"
+          git commit -m "Update channel exports - $(date '+%Y-%m-%d %H:%M:%S UTC') [skip ci]"  
           git push origin export
           echo "✅ Export files pushed to export branch"
         else
