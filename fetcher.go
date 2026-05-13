@@ -17,6 +17,39 @@ import (
 	"github.com/PuerkitoBio/goquery"
 )
 
+// ---------- Structs ----------
+type ChannelInfo struct {
+	ID          int64  `json:"id"`
+	Title       string `json:"title"`
+	Username    string `json:"username"`
+	Photo       string `json:"photo_url"`
+	Description string `json:"description"`
+}
+
+type Media struct {
+	Type      string `json:"type"`
+	URL       string `json:"url"`
+	LocalPath string `json:"local_path,omitempty"`
+	MimeType  string `json:"mime_type,omitempty"`
+}
+
+type Post struct {
+	ID         int64     `json:"id"`
+	Message    string    `json:"message"`
+	Date       time.Time `json:"date"`
+	Views      int       `json:"views"`
+	Media      []Media   `json:"media,omitempty"`
+	Hashtags   []string  `json:"hashtags,omitempty"`
+	Mentions   []string  `json:"mentions,omitempty"`
+	Links      []string  `json:"links,omitempty"`
+}
+
+type ChannelData struct {
+	Info        ChannelInfo `json:"info"`
+	Posts       []Post      `json:"posts"`
+	LastUpdated int64       `json:"last_updated"`
+}
+
 // ---------- Media Helpers ----------
 func getMediaPath(channelUsername, postID string, mediaIndex int, ext string) string {
 	safeUsername := strings.ToLower(channelUsername)
@@ -31,7 +64,6 @@ func downloadMedia(url, localPath string) (string, string, error) {
 	if err := os.MkdirAll(dir, 0755); err != nil {
 		return "", "", fmt.Errorf("mkdir failed: %w", err)
 	}
-	// if already exists, skip download
 	if _, err := os.Stat(localPath); err == nil {
 		file, _ := os.Open(localPath)
 		defer file.Close()
@@ -54,7 +86,7 @@ func downloadMedia(url, localPath string) (string, string, error) {
 	}
 	out, err := os.Create(localPath)
 	if err != nil {
-		return "", "", fmt.Errorf("create file failed: %w", err)
+		return "", "", fmt.Errorf("create failed: %w", err)
 	}
 	defer out.Close()
 	if _, err := io.Copy(out, resp.Body); err != nil {
@@ -85,8 +117,7 @@ func fetchChannelData(username string) (*ChannelData, error) {
 		"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15",
 		"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36",
 	}
-	randomUserAgent := userAgents[rand.Intn(len(userAgents))]
-	req.Header.Set("User-Agent", randomUserAgent)
+	req.Header.Set("User-Agent", userAgents[rand.Intn(len(userAgents))])
 	req.Header.Set("Accept", "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8")
 	req.Header.Set("Accept-Language", "en-US,en;q=0.9,fa;q=0.8")
 	req.Header.Set("DNT", "1")
@@ -117,7 +148,7 @@ func fetchChannelData(username string) (*ChannelData, error) {
 	}, nil
 }
 
-// ---------- Extract Channel Info (unchanged) ----------
+// ---------- Extract Channel Info ----------
 func extractChannelInfo(html, username string) ChannelInfo {
 	titleRe := regexp.MustCompile(`<meta property="og:title" content="([^"]+)"`)
 	title := username
@@ -143,7 +174,7 @@ func extractChannelInfo(html, username string) ChannelInfo {
 	}
 }
 
-// ---------- Extract Posts and Download Media using goquery ----------
+// ---------- Extract Posts and Download Media ----------
 func extractPostsUsingGoquery(html string, channelUsername string) []Post {
 	var posts []Post
 	doc, err := goquery.NewDocumentFromReader(strings.NewReader(html))
@@ -152,47 +183,36 @@ func extractPostsUsingGoquery(html string, channelUsername string) []Post {
 		return posts
 	}
 
-	// Each post is inside a div with class "tgme_widget_message_wrap"
 	doc.Find(".tgme_widget_message_wrap").Each(func(i int, postDiv *goquery.Selection) {
-		
-		fmt.Printf("Processing post %d\n", i)
-        fmt.Printf("  Found %d images\n", postDiv.Find("img.tgme_widget_message_photo").Length())
-        fmt.Printf("  Found %d videos\n", postDiv.Find("a.tgme_widget_message_video_player").Length())
-		// Extract post ID
-		postIDStr, exists := postDiv.Attr("data-post")
+		// Post ID
+		postIDStr, _ := postDiv.Attr("data-post")
 		var postID int64
-		if exists {
+		if postIDStr != "" {
 			parts := strings.Split(postIDStr, "/")
 			if len(parts) > 1 {
 				postID, _ = strconv.ParseInt(parts[1], 10, 64)
 			}
 		}
 		if postID == 0 {
-			postID = int64(i + 1) // fallback
+			postID = int64(i + 1)
 		}
 
-		// Extract message text
-		messageText := ""
-		msgDiv := postDiv.Find(".tgme_widget_message_text")
-		if msgDiv.Length() > 0 {
-			messageText = strings.TrimSpace(msgDiv.Text())
-		}
+		// Message text
+		message := strings.TrimSpace(postDiv.Find(".tgme_widget_message_text").Text())
 
-		// Extract date
+		// Date
 		var postDate time.Time
-		timeElem := postDiv.Find("time")
-		if datetime, exists := timeElem.Attr("datetime"); exists {
-			postDate, _ = time.Parse("2006-01-02T15:04:05", datetime)
+		if dt, exists := postDiv.Find("time").Attr("datetime"); exists {
+			postDate, _ = time.Parse("2006-01-02T15:04:05", dt)
 		}
 		if postDate.IsZero() {
 			postDate = time.Now()
 		}
 
-		// Extract views
+		// Views
 		views := 0
-		viewsSpan := postDiv.Find(".tgme_widget_message_views")
-		if viewsSpan.Length() > 0 {
-			viewStr := strings.TrimSpace(viewsSpan.Text())
+		viewStr := strings.TrimSpace(postDiv.Find(".tgme_widget_message_views").Text())
+		if viewStr != "" {
 			if strings.HasSuffix(viewStr, "K") {
 				viewStr = strings.TrimSuffix(viewStr, "K")
 				if v, err := strconv.ParseFloat(viewStr, 64); err == nil {
@@ -205,7 +225,7 @@ func extractPostsUsingGoquery(html string, channelUsername string) []Post {
 
 		var mediaList []Media
 
-		// ---- Photos ----
+		// Photos
 		postDiv.Find("img.tgme_widget_message_photo").Each(func(idx int, img *goquery.Selection) {
 			src, exists := img.Attr("src")
 			if !exists || src == "" {
@@ -221,6 +241,7 @@ func extractPostsUsingGoquery(html string, channelUsername string) []Post {
 				fmt.Printf("  Failed to download photo: %v\n", err)
 				return
 			}
+			fmt.Printf("  Downloaded photo: %s -> %s\n", src, savedPath)
 			mediaList = append(mediaList, Media{
 				Type:      "photo",
 				URL:       src,
@@ -229,7 +250,7 @@ func extractPostsUsingGoquery(html string, channelUsername string) []Post {
 			})
 		})
 
-		// ---- Videos ----
+		// Videos
 		postDiv.Find("a.tgme_widget_message_video_player").Each(func(idx int, a *goquery.Selection) {
 			href, exists := a.Attr("href")
 			if !exists || href == "" {
@@ -241,6 +262,7 @@ func extractPostsUsingGoquery(html string, channelUsername string) []Post {
 				fmt.Printf("  Failed to download video: %v\n", err)
 				return
 			}
+			fmt.Printf("  Downloaded video: %s -> %s\n", href, savedPath)
 			mediaList = append(mediaList, Media{
 				Type:      "video",
 				URL:       href,
@@ -250,21 +272,21 @@ func extractPostsUsingGoquery(html string, channelUsername string) []Post {
 		})
 
 		post := Post{
-			ID:         postID,
-			Message:    messageText,
-			Date:       postDate,
-			Views:      views,
-			Media:      mediaList,
-			Hashtags:   extractHashtags(messageText),
-			Mentions:   extractMentions(messageText),
-			Links:      extractLinks(messageText),
+			ID:       postID,
+			Message:  message,
+			Date:     postDate,
+			Views:    views,
+			Media:    mediaList,
+			Hashtags: extractHashtags(message),
+			Mentions: extractMentions(message),
+			Links:    extractLinks(message),
 		}
 		posts = append(posts, post)
 	})
 	return posts
 }
 
-// ---------- Helper functions for text extraction ----------
+// ---------- Helpers ----------
 func extractHashtags(text string) []string {
 	re := regexp.MustCompile(`#\w+`)
 	return re.FindAllString(text, -1)
