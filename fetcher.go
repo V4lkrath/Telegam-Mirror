@@ -200,6 +200,10 @@ func extractPostsUsingGoquery(html string, channelUsername string) []Post {
 
 	// Each post is inside a div with class "tgme_widget_message_wrap"
 	doc.Find(".tgme_widget_message_wrap").Each(func(i int, postDiv *goquery.Selection) {
+		
+		fmt.Printf("Processing post %d\n", i)
+        fmt.Printf("  Found %d images\n", postDiv.Find("img.tgme_widget_message_photo").Length())
+        fmt.Printf("  Found %d videos\n", postDiv.Find("a.tgme_widget_message_video_player").Length())
 		// Extract post ID
 		postIDStr, exists := postDiv.Attr("data-post")
 		var postID int64
