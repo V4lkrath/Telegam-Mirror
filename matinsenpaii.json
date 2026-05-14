@@ -8,64 +8,12 @@
   },
   "posts": [
     {
-      "id": 3011,
-      "message": "به زودی یه آموزش بر پایه‌ی DNS داریم. یک دونه رایگان بدون سرور، یکی با سرور.\u003cbr/\u003eبه همراه آموزش پیدا کردن ریزالور\u003cbr/\u003eبا تشکر از بچه‌های تیممون، WhiteDNS\u003cbr/\u003e(توی این عکس با سرور رایگان وصلم)",
-      "date": "2026-05-11T20:06:55Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 41200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/jU0hgYBbT7rJbQzGPdS1EwkCd49-xqxu6BmsS29TC6UQPviOb5WvUBu38WON4MYRO-jOcyOKA9KqKHZ18bolMuNe0C9gGdkFmBepK_oyd7_pmqKSDrEpvYAcj0Xn92EsJU7OmyGOj1wg5BZpBfE-bGRgnS11vFH133YsfJOgiB4qqoz412F20brNPf0hXW84RvtrOH3gehWMC6fQZPY9qkgLnfIADISups2LnxL5zOZxXZzhLvTEfMGgSQGebJBWt-Ye_x3rg0zOiNaionBkHnBp_1uzb8HR1uwUvGrgTEohVvcmwq9Jjbhw4kPP45a9pDHyxqXEyNLT3zYnS5q6zA.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/mt0fQHCIJGd3oBqI7J6D38RtEzyDAjrFCFHshFWpK3w5fsKR85a30VBS3dRlAoEG-faoudiAsuWMT2fr6F1i_OIE-ZJYLp6eJFEx68rt-Od_gCw4_Es9SUO13aRQNCMq6FbcWPYdlAGQqUN1m1LftmyyPRa5HFFVxtLt2_6K6veI2lDjm1xwYjLyCabT5elqXrcQbpTIeunOVX_6WsKQiJe_NB1sX1D3B0hpvKjFk-TyTj-Fj5LuKrtnjPOId5GzDVz7mjVTjtRui0SxAy09kJTzTaGo0uh4wMig-Ya3dAqj6RrEih_FRpKh0GISoVIqZc2V-KzLPCGgmx9bE_cr2g.jpg"
-        }
-      ]
-    },
-    {
-      "id": 3013,
-      "message": "سلام به همه دوستان\u003cbr/\u003e\u003cbr/\u003eنسخه جدید  WhiteDNS آماده شد. ممنون از همه کسانی که نسخه‌های قبلی رو نصب کردند، تست گرفتند، لاگ فرستادند و با فیدبک‌هاشون کمک کردند مشکلات رو پیدا و برطرف کنیم \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F998F.png\u0026#39;)\"\u003e\u003cb\u003e🙏\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003cb\u003e\u003cbr/\u003eتمرکز اصلی این نسخه روی بهبودهای داخلی VPN در خود WhiteDNS بوده است. هدف این بود که اتصال کامل‌تر، پایدارتر و مستقل‌تر شود تا کاربران برای باز شدن سایت‌ها و اپ‌ها دیگر نیازی به NekoBox، NVPN یا راه‌حل‌های مشابه نداشته باشند. \u003c/b\u003e\u003cbr/\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003eدر این نسخه مسیر DNS و ترافیک داخل خود WhiteDNS بهتر مدیریت می‌شود، بنابراین تجربه اتصال ساده‌تر شده و کاربر می‌تواند مستقیماً از داخل اپ وصل شود.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e نسخه اپلیکیشن به 1.2.0 ارتقا پیدا کرده\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e حالت Full VPN کامل‌تر و پایدارتر شده\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e حالا DNS هم داخل خود WhiteDNS مدیریت می‌شود\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e دیگر برای باز شدن سایت‌ها و اپ‌ها نیازی به NekoBox، NVPN یا ترفندهای مشابه ندارید\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e مشکل وصل بودن VPN ولی باز نشدن بعضی سایت‌ها و اپ‌ها برطرف شده\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e اتصال روی اینترنت‌های کند و Resolverهای دیرپاسخ بهتر کار می‌کند\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e صفحه اصلی ساده‌تر شده و انتخاب سرور، Resolver و نوع تنظیمات راحت‌تر انجام می‌شود\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e اگر سرور یا Resolver درست تنظیم نشده باشد، اپ واضح‌تر نشان می‌دهد چه چیزی کم است\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e می‌توانید تنظیمات پیشرفته را با نام دلخواه ذخیره کنید\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e امکان ساخت چند پروفایل تنظیمات پیشرفته اضافه شده\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e می‌توانید هر زمان بین پروفایل‌های ذخیره‌شده تنظیمات پیشرفته جابه‌جا شوید\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e امکان برگشت سریع به تنظیمات پیش‌فرض اضافه شده\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e بعد از اتصال، نام پروفایل سرور، Resolver و تنظیمات فعال نمایش داده می‌شود\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e امکان خروجی گرفتن فایل client_config.toml از داخل اپ اضافه شده\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e ظاهر صفحه اتصال و دکمه Connect/Stop مرتب‌تر و جمع‌وجورتر شده\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e GitHub:\u003cbr/\u003e\u003ca href=\"https://github.com/iampedii/WhiteDNS/releases/tag/1.2.0\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/iampedii/WhiteDNS/releases/tag/1.2.0\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eاز همراهی و حمایت شما ممنونیم \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5764953048858238043\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/31E283A3.png\u0026#39;)\"\u003e\u003cb\u003e1⃣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/whitedns\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eWhiteDNS\u003c/a\u003e",
-      "date": "2026-05-12T13:37:54Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 3018,
-      "message": "راهنمای دریافت ریزالورهای MasterDNS / StormDNS در WhiteDNS \u003cbr/\u003e\u003cbr/\u003eربات WhiteDNS حالا امکان جدیدی برای دریافت ریزالورهای MasterDNS / StormDNS دارد.\u003cbr/\u003e\u003cbr/\u003eبرای دریافت لیست ریزالورها مراحل زیر را انجام دهید:\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/31E283A3.png\u0026#39;)\"\u003e\u003cb\u003e1️⃣\u003c/b\u003e\u003c/i\u003e وارد ربات زیر شوید:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/dns_resolvers_bot\" target=\"_blank\"\u003e@dns_resolvers_bot\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/32E283A3.png\u0026#39;)\"\u003e\u003cb\u003e2️⃣\u003c/b\u003e\u003c/i\u003e دستور زیر را برای ربات ارسال کنید:\u003cbr/\u003e\u003cbr/\u003e/dns_master\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/33E283A3.png\u0026#39;)\"\u003e\u003cb\u003e3️⃣\u003c/b\u003e\u003c/i\u003e بعد از نمایش لیست ریزالورها، برای استفاده در اپلیکیشن WhiteDNS روی دکمه Copy Raw بزنید.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/34E283A3.png\u0026#39;)\"\u003e\u003cb\u003e4️⃣\u003c/b\u003e\u003c/i\u003e لیست کپی‌شده را داخل اپلیکیشن WhiteDNS وارد کنید و از آن برای اتصال استفاده کنید.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/WhiteDNS\" target=\"_blank\"\u003e@WhiteDNS\u003c/a\u003e",
-      "date": "2026-05-12T13:37:55Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/i09syGGzigngZHcUjxv7c5g4DSsghRfArV_UNWNP1a-5Q8_GiZs4pH9SGw1Ax6NxR5ZnsOm0lTvubdLOm0lk6zPgmaxTJ2_om-ObFZm0XgqYC2Y3oJN9y-b47ZvehD_wfZHnaE9-zzuDFld60fUbSl8-SoTTC-Pb44-fhwAXbrbhWo-6SvcTj_4XYOLf75zVGqndj8CGs7Oj7ltF77YP1KlQIOz4h2eq8hRNqYlzwfkPhtNP0K5f0snoBDImkIiu4hnjyE5SoWn161gKgWMvg5fjHWHBJ88NHkN3hDeInMPdY89ZBf5jr5AjdpN2nODDdoPpcrLPA7bLUESD-6Xfzg.jpg"
-        }
-      ]
-    },
-    {
       "id": 3019,
       "message": "\u003ca href=\"https://x.com/i/status/2054186290493448677\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eIRCF | اینترنت آزاد برای همه (Twitter/X)\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5812037770301938686\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8DB7.png\u0026#39;)\"\u003e\u003cb\u003e🍷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eاپ متن‌باز و \u003ca href=\"?q=%23%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86\"\u003e#رایگان\u003c/a\u003e TunnelX برای زمانی ساخته شده که کاربر نمیخواد تمام ترافیک در سیستم‌عامل ویندوز از VPN عبور کنه. با این برنامه میشه فقط برنامه‌هایی مثل مرورگر، تلگرام، ابزارهای توسعه یا برنامه‌های مشخص دیگه رو وارد تانل کرد و بقیه ترافیک سیستم رو روی اینترنت عادی نگه داشت.\u003cbr/\u003e\u003cbr/\u003eلینک پروژه:\u003ctg-emoji emoji-id=\"5312016608254762256\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e \u003ca href=\"http://github.com/MaxiFan/TunnelX/releases/latest\" target=\"_blank\" rel=\"noopener\"\u003ehttp://github.com/MaxiFan/TunnelX/releases/latest\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/xsfilterrnet\" target=\"_blank\"\u003e@xsfilterrnet\u003c/a\u003e \u003ctg-emoji emoji-id=\"5053169761232356354\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
       "date": "2026-05-12T13:54:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 37700,
+      "views": 38200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -83,7 +31,7 @@
       "date": "2026-05-12T15:29:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 42800,
+      "views": 43500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -95,7 +43,7 @@
       "date": "2026-05-12T18:17:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 42700,
+      "views": 43400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -107,7 +55,7 @@
       "date": "2026-05-12T19:37:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 43700,
+      "views": 44500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -119,7 +67,7 @@
       "date": "2026-05-13T02:57:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 35100,
+      "views": 35900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -137,7 +85,7 @@
       "date": "2026-05-13T16:35:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 36200,
+      "views": 37900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -149,7 +97,7 @@
       "date": "2026-05-14T07:16:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26300,
+      "views": 29500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -167,7 +115,7 @@
       "date": "2026-05-14T08:09:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23200,
+      "views": 27500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -185,7 +133,7 @@
       "date": "2026-05-14T08:11:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23300,
+      "views": 27500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -209,7 +157,7 @@
       "date": "2026-05-14T08:13:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22800,
+      "views": 27400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -221,11 +169,118 @@
       "date": "2026-05-14T08:15:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22700,
+      "views": 27400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 3035,
+      "message": "\u003ctg-emoji emoji-id=\"5447246917744478110\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E298A0.png\u0026#39;)\"\u003e\u003cb\u003e☠️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e آموزش اتصال رایگان و نامحدود به اینترنت با متد ترکیبی MITM + Psiphon\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5438571934210082705\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eلینک‌های داخلی جهت دانلود: \u003ca href=\"https://guardts.ir/f/db4006f1197c\" target=\"_blank\" rel=\"noopener\"\u003ehttps://guardts.ir/f/db4006f1197c\u003c/a\u003e و \u003ca href=\"https://uploadgirl.ir/d/1f4fb76a-c869-494a-b439-b11cb8d35947\" target=\"_blank\" rel=\"noopener\"\u003ehttps://uploadgirl.ir/d/1f4fb76a-c869-494a-b439-b11cb8d35947\u003c/a\u003e (شامل فایلهای V2rayNG، کلاینت شیر و خورشید، ویدئو آموزشی، V2rayN و فایل Certificate Generator و خود فایل Json پترنیها)\u003cbr/\u003e\u003cbr/\u003eلینک پروژه اصلی: \u003ca href=\"https://github.com/patterniha/MITM-DomainFronting\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/patterniha/MITM-DomainFronting\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e \u003ctg-emoji emoji-id=\"5447644863644320013\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD90.png\u0026#39;)\"\u003e\u003cb\u003e⭐️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eتوی این ویدئو بهتون یاد میدم که چطوری با استفاده از متد ترکیبی سایفون(کلاینت شیر و خورشید) + کانفیگ دامین فرانتینگ پترنیها، به اینترنت بین‌الملل وصل بشید!\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5447644880824181073\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e پیش‌نیازها و نکات مهم: \u003cbr/\u003e\u003ctg-emoji emoji-id=\"5794182096603847292\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/31E283A3.png\u0026#39;)\"\u003e\u003cb\u003e1️⃣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e این ویدئو هیچ پیش نیازی نداره\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/MatinSenPaii/3035\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eتماشا در تلگرام \u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5071261477743100913\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B9.png\u0026#39;)\"\u003e\u003cb\u003e📹\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://youtu.be/M3kZxw1M3vE\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eتماشا در یوتوب\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069054607582298852\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B0.png\u0026#39;)\"\u003e\u003cb\u003e💰\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://matinsenpai.pages.dev/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eدونیت\u003c/a\u003e",
+      "date": "2026-05-14T11:43:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 18600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/sVdbrYScTwNsGMBjlWnK5A21pYmRS8svkqYkPdP9NkzWgnpI4b91VjvWZxBQY-PbPxyzVbqH-_mNq_bLLZ0rNVSA0FtMU3lrRgNc0-hRPqpP7S1IF01N1KeergqxEwK5PJZ5nTjvJRbUXgDZ47su_X1ZbB9Oq4uekKeBWnIlw_eStdUa-3Ojve42tAxoP_nuFM7TJNImUvfcd-8hM0ZIzb8hGcDsky1u6NBUgaGUdtuIaof-uRvi902TDsOdNC_dH3gKaLAd3LlTnmmObW4JXUjCIAjjls8bKQ8BUvPdo5HK0AVrFDaPEn3MWGcOlvB-mn7yo1r0YC4z2FQz8cYvLQ",
+          "width": 1280
+        }
+      ]
+    },
+    {
+      "id": 3036,
+      "message": "دوستان عزیز، خواهش میکنم به DNS بها بدید. معلوم نیست کی مجددا متدهای حال حاضر رو می‌بندن. از نرم‌افزار و آموزش‌های \u003ca href=\"https://t.me/WhiteDNS\" target=\"_blank\"\u003e@WhiteDNS\u003c/a\u003e استفاده کنید و الان که اینترنتتون شاید اوکی تر باشه، نصب و ستاپ کنید",
+      "date": "2026-05-14T11:48:18Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 3037,
+      "message": "حالا دیدین متد ترکیبی سایفون افسانه نبود و واقعا وصل میشد؟\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A3.png\u0026#39;)\"\u003e\u003cb\u003e🤣\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A3.png\u0026#39;)\"\u003e\u003cb\u003e🤣\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A3.png\u0026#39;)\"\u003e\u003cb\u003e🤣\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A3.png\u0026#39;)\"\u003e\u003cb\u003e🤣\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A3.png\u0026#39;)\"\u003e\u003cb\u003e🤣\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-05-14T11:51:23Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 12000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 3038,
+      "message": "\u003ctg-emoji emoji-id=\"5251203410396458957\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA1.png\u0026#39;)\"\u003e\u003cb\u003e🛡\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eمهم: اگر این نسخه رو نصب کنید دیگه دردسر ستاپ کردن MITM و... ندارید!\u003cbr/\u003eاین نسخه حدودا یک ساعت پیش توسط برنامه‌نویس شیر و خورشید آپدیت شد و به راحتی می‌تونید طبق این آموزش بهش وصل بشید:\u003cbr/\u003e1- وارد اپلیکیشن شیر و خورشید(آخرین نسخه که امروز منتشر شده) می‌شید\u003cbr/\u003e2- وارد بخش Options میشید از نوار بالا\u003cbr/\u003e3- روی More Options کلیک میکنید\u003cbr/\u003e4- گزینه‌ی  Connection Protocol رو قرار میدید روی CDN Fronting\u003cbr/\u003e5- میرید و عادی کانکت میشید و به راحتی وصل میشه!",
+      "date": "2026-05-14T12:01:55Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9810,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 3039,
+      "message": "\u003ca href=\"https://x.com/mahdavi/status/2054879407362245084?s=20\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eMahdavi\u003c/a\u003e: \u003cbr/\u003eدر قسمت CDN edge IPs اگه IP های وایت لیست شده آکامای رو بذارید سرعت اتصال بهتر میشه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://x.com/kharabam666/status/2050599288338563184?s=20\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eKharabam\u003c/a\u003e:\u003cbr/\u003e\u003cbr/\u003e63 تا IP وایت لیست Akamai:\u003cbr/\u003e\u003cblockquote expandable=\"\"\u003e\u003ca href=\"http://2.22.151.4/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.4\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.9/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.9\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.12/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.12\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.13/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.13\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.15/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.15\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.17/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.17\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.20/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.20\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.22/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.22\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.23/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.23\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.32/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.32\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.36/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.36\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.37/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.37\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.39/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.39\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.47/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.47\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.51/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.51\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.53/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.53\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.54/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.54\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.58/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.58\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.60/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.60\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.62/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.62\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.135/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.135\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.138/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.138\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.139/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.139\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.141/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.141\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.142/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.142\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.143/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.143\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.144/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.144\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.146/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.146\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.149/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.149\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.150/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.150\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.151/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.151\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.152/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.152\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.153/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.153\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.154/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.154\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.155/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.155\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.156/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.156\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.157/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.157\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.158/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.158\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.159/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.159\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.161/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.161\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.162/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.162\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.163/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.163\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.164/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.164\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.168/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.168\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.169/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.169\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.170/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.170\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.171/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.171\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.173/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.173\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.175/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.175\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.179/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.179\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.181/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.181\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.182/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.182\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.183/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.183\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.184/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.184\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.185/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.185\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.186/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.186\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.188/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.188\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.189/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.189\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.190/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.190\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.191/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.191\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.193/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.193\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.194/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.194\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.195/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.195\u003c/a\u003e\u003c/blockquote\u003e",
+      "date": "2026-05-14T12:04:41Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7930,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/hJ04RVmnTpiAVwG_0vkeJbbodGPCZqOBfftsIkAu27l-CJ_LlDmqU21re-e5z2elfgoZPmxKbC_S_klwORWqERyaf1mnyT-Of7kcYJNfUSYbHUFqoWhtNP5N1StCEJ5uVqHgyos256g6r7q4RM-GY9jfyd5LtkhQr7c4jJ8K7NH9JYrBWY-rqNRygY84MrkzovPDSRbS4jAYmO2L0Eyp1wRy_XNVS6d0Gjjtj96Ii74xnmv6_zSIeI6HAMVLyU3RYCpbveO9uCeAeXj673bSiVTepnFpP3PJ7f-EbskAuhoTEc_JMX10Dbf5p77euljkoUK_MFe1hxwugh_FscRYCg.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/rJLqQQtAF_xZMVD1zGskOoOYrlBOxelriXF7VoqOXz6YtQYeGDME0F-r-WLFt-TzCHAdLgAp02H0koSfvKfpZuEld1vRCO1jSBweEiitlUFh4C4JJ1UwzfqZBazSKrcd8UlTj9wmN3qo9ZVhiMleC3kF9BvPMOoWu7hh_r76fOeLHRbOOMrG8px4Mt9JGOfdOZ-SgYVUailLa91nWdHGL-7cTcLKkoIr24kpyQN75jE0sIRnRjjlZ8e7YjdZbIpbCxR8muiQ5K8mqUY-PNQ1uHJkrAsjak0I_LQ7Pd9oP3D_Yk7iuGpa7b1nag39nxyqfKw9nCYMN7VOS15RlCG--A.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3041,
+      "message": "\u003ca class=\"tgme_widget_message_author_name\" href=\"https://t.me/MatinSenPaii\"\u003e\u003cspan dir=\"auto\"\u003eMatin SenPai\u003c/span\u003e\u003c/a\u003e pinned a video",
+      "date": "2026-05-14T12:06:53Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 0,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 3042,
+      "message": "یوتوب ویدئو رو پاک کرد به علت محتوای خطرناک و آسیب زا به منم استرایک زد\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9890.png\u0026#39;)\"\u003e\u003cb\u003e😐\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-05-14T12:13:05Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3170,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/JfB7LUfdEq1cf1Ty6_Bt-pJXelkbQjhEs9hRXfJZMKXRMRfEy56SJ6bQO4A0HdPYjvsRuqXdDmqp-eLhDWR75KsqeiZ2ZTRKbCAc-tiIXvwIXwYwfPq3cCIcKqnLU4OXr4vmAZZzDuTJX18gtNNnpvWEYaOnNJbY2NxMDsSlBEUl7fgebuqndYV-zTiR7pZ76ZGiHAi_ZdyVAwqk-T9fWeSnTgwo2m17_0vcM22ptlQwb4jFgRYx2L6LdBUEe9cOVkG1iiFTPG7OblFVq7mNlIms6rjFzMcrvUNIzzWVU1wNLgvEgP1Ik0nVjJERbISkG0xpd3O8l7JdiT9kNnryBg.jpg"
+        }
+      ]
     }
   ],
   "last_updated": 0
