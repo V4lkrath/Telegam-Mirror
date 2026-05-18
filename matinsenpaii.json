@@ -8,97 +8,12 @@
   },
   "posts": [
     {
-      "id": 3098,
-      "message": "\u003cb\u003e\u003ctg-emoji emoji-id=\"5447644863644320013\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD90.png\u0026#39;)\"\u003e\u003cb\u003e⭐️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eآموزش کار با اسکنر آیپی برای اتصال از طریق CDN با هسته‌ی سایفون اپ MahsaNG ورژن 16\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eاین آموزش رو فربد عزیز زحمت کشیدن ضبط کردن و برای من فرستادن\u003cbr/\u003eفایل‌های مربوطه رو هم در ادامه قرار میدم واستون، و دارم فایلهای MahsaNG نسخه 16 رو واستون روی لینک داخلی هم آپلود میکنم",
-      "date": "2026-05-17T08:38:40Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 55500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/r9gdf0OW8GjBBtWkRpKsmWV9_D-96TghpdDfn5RNyi1pdCYds8DXtFUh9iOgpsKwFYZAXX-qDL7Z1PO-gQpt1pj-gJTMxw6-nc2QT7vmV2F4lDfEIvb9woali6OqBgI3l9OedvgiKscySvNKuQa4-qoC7gPife4T5wdsJsYXos8dheN7WaKb15CLylJYqL9R2QktGTaZYFlNkqnUkxKCgT1WRgGedZqcaOimETk93qAZ0xCExsFopVBSKrXoo-sD4pTngXiIeNXoK1U4ZTqP-pKwuv9db4uHnHZ8yKoLxwuEFNTlLpAKdJh8tuHuHwFdc_2X8q6mYYlDgcRs1wDvOg",
-          "width": 390
-        }
-      ]
-    },
-    {
-      "id": 3099,
-      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938D.png\u0026#39;)\"\u003e\u003cb\u003e📍\u003c/b\u003e\u003c/i\u003eاسکنر سبک آیپی برای شیر و خورشید\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e-فایل بالا رو با مرورگر باز کنین\u003cbr/\u003e-رنج آماده آیپی رو انتخاب کنین(با میتونین دستی رنج‌های آیپی مد نظرتونو وارد کنین در بخش لیست بازه /ip)\u003cbr/\u003e-بدون وی پی ان اسکن کنین .\u003cbr/\u003e-لیست آیپی‌های سازگار با نتتون در انتهای صفحه در دسترستون قرار میگیره و میتونین وارد شیرو خورشید کنین.\u003cbr/\u003e\u003ca href=\"https://t.me/p1ctok\" target=\"_blank\"\u003e@p1ctok\u003c/a\u003e",
-      "date": "2026-05-17T08:39:05Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 49600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 3100,
-      "message": "آموزش اتصال با آیپی‌های CDN از طریق نسخه‌ی جدید MahsaNG:\u003cbr/\u003e1- وارد نسخه‌ی 16 میشید(نیازی به هیچ کانفیگی نیست)\u003cbr/\u003e2- اون بالا روی حرف F میزنید\u003cbr/\u003e3- گزینه‌ی Psiphon Only رو روشن می‌کنید\u003cbr/\u003e4- روی Psiphon Setting کلیک می‌کنید\u003cbr/\u003e5- بخش Protocol رو می‌ذارید روی cdn_fronting\u003cbr/\u003e6- بخش Aggressive رو قرار میدید روی ON\u003cbr/\u003e7- توی بخش CDN Fronting Settings، آیپی‌هایی که من بالا واستون می‌ذارم برای هر اپراتور رو قرار میدید\u003cbr/\u003e8- روی Save Psiphon Setting میزنید\u003cbr/\u003e9- برمیگردید به منو اصلی برنامه، روی دکمه‌ی گرد پایین سمت راست(اتصال) میزنید\u003cbr/\u003e10- یه نوتیفیکیشن Psiphon tunnel connecting میاد بالا. اون وقتی تبدیل بشه به connected یعنی وصل شده\u003cbr/\u003e\u003cbr/\u003eتوضیحات:\u003cbr/\u003e1- نسخه arm64 برای اکثر گوشی‌های 2020 به جلوتر مناسبه\u003cbr/\u003e2- نسخه arembi برای گوشی‌های قبل 2020 عموما\u003cbr/\u003e3- نسخه‌ی universal روی هر گوشی‌ای نصب میشه فقط حجمش بالاتره چون تلفیق تمام نسخه‌هاست اما حجم نهایی نصب شده روی گوشی شما همون دوتا بالاییه\u003cbr/\u003e\u003cbr/\u003eلینک‌های داخلی:\u003cbr/\u003e1- نسخه arm64 داخلی: \u003ca href=\"https://guardts.ir/f/ee1f60ae6d33\" target=\"_blank\" rel=\"noopener\"\u003ehttps://guardts.ir/f/ee1f60ae6d33\u003c/a\u003e\u003cbr/\u003e2- نسخه arembi داخلی: \u003ca href=\"https://guardts.ir/f/9d474d75a4fb\" target=\"_blank\" rel=\"noopener\"\u003ehttps://guardts.ir/f/9d474d75a4fb\u003c/a\u003e\u003cbr/\u003e3- نسخه universal داخلی: \u003ca href=\"https://guardts.ir/f/7af85b518302\" target=\"_blank\" rel=\"noopener\"\u003ehttps://guardts.ir/f/7af85b518302\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-05-17T08:41:42Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 58500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 3103,
-      "message": "این پست رو هم آپدیت کردم. برای کسایی که آیفون دارن و یا روی ویندوز می‌خوان با شیر و خورشید وصل بشن.\u003cbr/\u003e(نیازمند یه گوشی اندروید طبیعتا)",
-      "date": "2026-05-17T09:59:38Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 53800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 3104,
-      "message": "هرچی آیپی CDN و ... از اول اومدن این متد توی توییتر و کانال‌های تلگرامی گذاشته شده بود رو جمع کردم، دادم AI تکراری‌هاش رو پاک کرد و واستون گذاشتم توی این فایل تکست. یه تست با اسکنر بکنید و بذارید متصل بشه.\u003cbr/\u003e\u003cu\u003eصبور باشید\u003c/u\u003e!",
-      "date": "2026-05-17T10:50:36Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 56400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 3105,
-      "message": "همچین موردهایی رو زیاد واسم میفرستید دوستان.\u003cbr/\u003eمسئله‌ای نیست؛ من که چیزی رو اختراع نکردم که زده باشن به اسم خودشون\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9881.png\u0026#39;)\"\u003e\u003cb\u003e😁\u003c/b\u003e\u003c/i\u003e صرفا زحمت جمع‌آوریش رو کشیدم. منبع هم نذاشته، نذاشته. مهم نیست که.\u003cbr/\u003e هدف، وصل شدن مردمه",
-      "date": "2026-05-17T11:36:16Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 52900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/iXN5pmX8rmmTp3AAt7L6oDiNHXY_2qpmM5lX0Zn_Et2VGTbEVU1bxBasJFMvtPoEsm7Oi87yjSRKV8fLB7IvS5X8Z6_cxg4IJ7flSJ_M1s3wT80UAVxvOJScGBs7_5ZtXjI2Us6aStwrwX_VY9otbc8h32_ZQ5_fADuCtpYKoN97g1dpYr_yPk92U-HqEYruOnXfI17Yx4ckIFxRuPxJssP5eMgfpnrxIczu0NKgAa1OF35vF3iV-rmWNeCWd3CHzzAPHvrEzAFbQyfSf0nehTSL4hKQM9AwV8B11qSWpHk6jyW3dVkYRvP5aG6SibzmCos4hP25D5tPPMTElxi93Q.jpg"
-        }
-      ]
-    },
-    {
       "id": 3106,
       "message": "حدود 40 آیپی جدید به فایل اضافه کردم. فایل رو مجددا دانلود کنید",
       "date": "2026-05-17T13:09:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 50300,
+      "views": 53800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -110,7 +25,7 @@
       "date": "2026-05-17T14:32:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 51200,
+      "views": 54800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -128,7 +43,7 @@
       "date": "2026-05-17T18:18:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 41300,
+      "views": 47100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -146,7 +61,7 @@
       "date": "2026-05-17T18:30:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 40300,
+      "views": 46200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -158,7 +73,7 @@
       "date": "2026-05-17T19:41:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 34900,
+      "views": 42200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -170,7 +85,7 @@
       "date": "2026-05-17T19:55:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31100,
+      "views": 38900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -182,7 +97,7 @@
       "date": "2026-05-17T19:56:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 34200,
+      "views": 42600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -194,7 +109,7 @@
       "date": "2026-05-17T20:00:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33600,
+      "views": 42300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -206,7 +121,7 @@
       "date": "2026-05-17T20:02:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33600,
+      "views": 42400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -218,7 +133,7 @@
       "date": "2026-05-17T20:07:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32600,
+      "views": 42100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -230,7 +145,7 @@
       "date": "2026-05-17T20:23:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30500,
+      "views": 41900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -249,6 +164,112 @@
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
       "views": 0,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 3118,
+      "message": "یکی از دوستان این نکته رو گفته بودش در مورد وارد کردن آیپی‌ها:\u003cbr/\u003e\u003cbr/\u003eمن چندین دفعه هم با سامسونگ هم شیائومی تو برنامه مهسا‌ان‌جی امتحان کردم\u003cbr/\u003eو یه چیزی فهمیدم که خیلی عجیب بود اما درست بود.\u003cbr/\u003eهنگامی که آی‌پی ها رو پس از اسکن، کپی می‌کنید که داخل برنامه وارد کنید حتما باید آی‌پی ها هرکدوم یک خط رو جداگونه داشته باشن\u003cbr/\u003eاینجوری مثلا\u003cbr/\u003e\u003ca href=\"http://20.68.81.211/\" target=\"_blank\" rel=\"noopener\"\u003e20.68.81.211\u003c/a\u003e\u003cbr/\u003e20.63.74.811\u003cbr/\u003e\u003cbr/\u003eو اگه جداگونه نباشن و مثلا اینجوری کنار هم وارد بشن\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://23.96.52.41/\" target=\"_blank\" rel=\"noopener\"\u003e23.96.52.41\u003c/a\u003e \u003ca href=\"http://86.52.17.76/\" target=\"_blank\" rel=\"noopener\"\u003e86.52.17.76\u003c/a\u003e و...\u003cbr/\u003e\u003cbr/\u003eبرای من متصل نمیشن و این رو امشب فهمیدم و با برنامه MahsaNG از سر کنجکاوی امتحانش کردم و در کمال ناباوری جواب داد و متصل شد الانم دارم آپدیتای گوشیمو انجام میدم.\u003cbr/\u003e\u003cbr/\u003eو برای این که بدون زحمت خاصی جدا جدا هرکدوم یک خط رو در بر بگیرن، پس از اسکن کپی کردم، تو تلگرام ارسال کردم و از تلگرام کپی کردم و تو برنامه وارد کردم و درست شد.",
+      "date": "2026-05-18T05:37:22Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 26300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 3119,
+      "message": "همینطور تغییر APN به \u003ca href=\"http://google.com/\" target=\"_blank\" rel=\"noopener\"\u003egoogle.com\u003c/a\u003e رو هم امتحان کنید. گویا روی ایرانسل بیشتر جوابگو بوده. من خودم روی همراه اول فقط با همون لیست آیپی‌هایی که دیروز گذاشتم وصلم به شیر و خورشید",
+      "date": "2026-05-18T06:44:23Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 21200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/plQUwuPTBCLAuUhiySyMqxXjpGkEUPyL0DChPO_Vk6SlvQnproV3O5sQ_Oe8YW9kRI68k-t1Zb3daOPOol8J0fsa6xGN1V_k4BYa27r6O10cZHYUDc87mW3drdR5PCSwxWI-qEbJ5aHdIr7dsSMg5SCcWarvXpjSSyb7sgmScGn9NXE_vj1NPOHHSe2EpbPQPNeG4y2TmYtAqgvUpFhy5CgnG0LYFK4Ttqg72KsYr5j-fw8GAgMzWtyXDfALa_5vpjQJ3MiTPAawK7pjawUvczusH9uEp4BOmBcxCilCEbEHq41OFf0lukUKUvWoy1kQfe-P__hjxi07e6JjNdWgZg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3120,
+      "message": "ایرانسل:\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote expandable=\"\"\u003e\u003ca href=\"http://95.100.69.108/\" target=\"_blank\" rel=\"noopener\"\u003e95.100.69.108\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://104.83.5.203/\" target=\"_blank\" rel=\"noopener\"\u003e104.83.5.203\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://92.122.166.146/\" target=\"_blank\" rel=\"noopener\"\u003e92.122.166.146\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://104.66.70.133/\" target=\"_blank\" rel=\"noopener\"\u003e104.66.70.133\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://104.121.0.17/\" target=\"_blank\" rel=\"noopener\"\u003e104.121.0.17\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://104.83.5.65/\" target=\"_blank\" rel=\"noopener\"\u003e104.83.5.65\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://92.122.166.168/\" target=\"_blank\" rel=\"noopener\"\u003e92.122.166.168\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://104.83.5.82/\" target=\"_blank\" rel=\"noopener\"\u003e104.83.5.82\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://92.123.104.67/\" target=\"_blank\" rel=\"noopener\"\u003e92.123.104.67\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://104.110.191.57/\" target=\"_blank\" rel=\"noopener\"\u003e104.110.191.57\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://92.123.104.7/\" target=\"_blank\" rel=\"noopener\"\u003e92.123.104.7\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://104.109.250.232/\" target=\"_blank\" rel=\"noopener\"\u003e104.109.250.232\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://96.16.122.74/\" target=\"_blank\" rel=\"noopener\"\u003e96.16.122.74\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://23.40.63.69/\" target=\"_blank\" rel=\"noopener\"\u003e23.40.63.69\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://23.73.2.161/\" target=\"_blank\" rel=\"noopener\"\u003e23.73.2.161\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://138.201.54.122/\" target=\"_blank\" rel=\"noopener\"\u003e138.201.54.122\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://144.76.1.88/\" target=\"_blank\" rel=\"noopener\"\u003e144.76.1.88\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://94.130.33.41/\" target=\"_blank\" rel=\"noopener\"\u003e94.130.33.41\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://95.216.69.37/\" target=\"_blank\" rel=\"noopener\"\u003e95.216.69.37\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://185.137.25.214/\" target=\"_blank\" rel=\"noopener\"\u003e185.137.25.214\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://94.130.70.160/\" target=\"_blank\" rel=\"noopener\"\u003e94.130.70.160\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://94.130.50.12/\" target=\"_blank\" rel=\"noopener\"\u003e94.130.50.12\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://37.255.133.30/\" target=\"_blank\" rel=\"noopener\"\u003e37.255.133.30\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://104.81.104.13/\" target=\"_blank\" rel=\"noopener\"\u003e104.81.104.13\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://92.122.73.138/\" target=\"_blank\" rel=\"noopener\"\u003e92.122.73.138\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://96.16.122.55/\" target=\"_blank\" rel=\"noopener\"\u003e96.16.122.55\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://104.81.108.51/\" target=\"_blank\" rel=\"noopener\"\u003e104.81.108.51\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://23.72.248.214/\" target=\"_blank\" rel=\"noopener\"\u003e23.72.248.214\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://104.126.37.185/\" target=\"_blank\" rel=\"noopener\"\u003e104.126.37.185\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://104.83.5.201/\" target=\"_blank\" rel=\"noopener\"\u003e104.83.5.201\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://92.122.166.141/\" target=\"_blank\" rel=\"noopener\"\u003e92.122.166.141\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://104.83.5.216/\" target=\"_blank\" rel=\"noopener\"\u003e104.83.5.216\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://172.237.127.6/\" target=\"_blank\" rel=\"noopener\"\u003e172.237.127.6\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://104.81.108.10/\" target=\"_blank\" rel=\"noopener\"\u003e104.81.108.10\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://23.73.2.148/\" target=\"_blank\" rel=\"noopener\"\u003e23.73.2.148\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://81.91.145.2/\" target=\"_blank\" rel=\"noopener\"\u003e81.91.145.2\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://65.109.34.234/\" target=\"_blank\" rel=\"noopener\"\u003e65.109.34.234\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://81.12.72.218/\" target=\"_blank\" rel=\"noopener\"\u003e81.12.72.218\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://185.143.232.122/\" target=\"_blank\" rel=\"noopener\"\u003e185.143.232.122\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://96.16.122.66/\" target=\"_blank\" rel=\"noopener\"\u003e96.16.122.66\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://88.221.168.138/\" target=\"_blank\" rel=\"noopener\"\u003e88.221.168.138\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://92.122.166.175/\" target=\"_blank\" rel=\"noopener\"\u003e92.122.166.175\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://96.16.122.82/\" target=\"_blank\" rel=\"noopener\"\u003e96.16.122.82\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://96.17.207.149/\" target=\"_blank\" rel=\"noopener\"\u003e96.17.207.149\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://96.17.207.151/\" target=\"_blank\" rel=\"noopener\"\u003e96.17.207.151\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://23.220.113.51/\" target=\"_blank\" rel=\"noopener\"\u003e23.220.113.51\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://5.160.13.85/\" target=\"_blank\" rel=\"noopener\"\u003e5.160.13.85\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://142.54.178.211/\" target=\"_blank\" rel=\"noopener\"\u003e142.54.178.211\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://63.141.252.203/\" target=\"_blank\" rel=\"noopener\"\u003e63.141.252.203\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://96.17.207.135/\" target=\"_blank\" rel=\"noopener\"\u003e96.17.207.135\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.23.168.144/\" target=\"_blank\" rel=\"noopener\"\u003e2.23.168.144\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.23.168.254/\" target=\"_blank\" rel=\"noopener\"\u003e2.23.168.254\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.23.168.250/\" target=\"_blank\" rel=\"noopener\"\u003e2.23.168.250\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.23.168.96/\" target=\"_blank\" rel=\"noopener\"\u003e2.23.168.96\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.21.239.29/\" target=\"_blank\" rel=\"noopener\"\u003e2.21.239.29\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://184.86.103.210/\" target=\"_blank\" rel=\"noopener\"\u003e184.86.103.210\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://23.36.162.202/\" target=\"_blank\" rel=\"noopener\"\u003e23.36.162.202\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://95.101.29.30/\" target=\"_blank\" rel=\"noopener\"\u003e95.101.29.30\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.23.170.80/\" target=\"_blank\" rel=\"noopener\"\u003e2.23.170.80\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://185.200.232.16/\" target=\"_blank\" rel=\"noopener\"\u003e185.200.232.16\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.16.245.188/\" target=\"_blank\" rel=\"noopener\"\u003e2.16.245.188\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://95.101.23.82/\" target=\"_blank\" rel=\"noopener\"\u003e95.101.23.82\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://185.200.232.34/\" target=\"_blank\" rel=\"noopener\"\u003e185.200.232.34\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://184.28.230.87/\" target=\"_blank\" rel=\"noopener\"\u003e184.28.230.87\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.16.19.136/\" target=\"_blank\" rel=\"noopener\"\u003e2.16.19.136\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.23.168.174/\" target=\"_blank\" rel=\"noopener\"\u003e2.23.168.174\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://50.7.5.83/\" target=\"_blank\" rel=\"noopener\"\u003e50.7.5.83\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.23.168.47/\" target=\"_blank\" rel=\"noopener\"\u003e2.23.168.47\u003c/a\u003e\u003c/blockquote\u003e",
+      "date": "2026-05-18T06:50:08Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 20400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 3121,
+      "message": "یک نفر اسکنری که دیروز توی کانال قرار داده شده بود رو برداشته، و توسعه‌اش داده و تبدیلش کرده به یه اسکنر پر و پیمون تر. این هم پروژه‌اش هست:\u003cbr/\u003e\u003ca href=\"https://github.com/hossein8360/cdn-ip-finder\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/hossein8360/cdn-ip-finder\u003c/a\u003e",
+      "date": "2026-05-18T07:05:38Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 19100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/Fle2obtsP6JjOfJ-QZx4Htni99J49wOj1isKwVPPRDH26R6nckE3tHuGLpJezcrrojfjUSljTJopFLrf-OZa65g-MfTrdTZscKcrLvHHEmaKOAo5rX3Ae1czNBIWCQcscq_WRzgk2YZLTKlBm6liQMNoHGXYF-DPB7rFzT6umls9Pk6hqEIFuL9rdmjQDA0s405Ffz6Bg_3F02v5WIjuQc8FN3yiP9p2HdMR8H1_0A5McrttfRkpRb_NhspUiQe_bs_tj0EhLSvOQBzgz42ThD9T8-h9GmKH9rNg8e53k_-_s6bf3lKLHFt2HPewf5hIIK8zsWPBkHLZhNMgAKHjVw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3122,
+      "message": "",
+      "date": "2026-05-18T07:05:54Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 19100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 3123,
+      "message": "فایل رو روی سیستم Extract کنید و بعدش راست کلیک کنید روی index.html و Open with chrome رو بزنید",
+      "date": "2026-05-18T07:21:29Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 16900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/OG_4DgMbgBfBE6sWyUuJ48_ndZdKG1-_ETS91fczE-3U5pMecu2N4gr4-PsnwRPtl_xJtsg9LlmahqeF1NCn59-qL54aC4gMX9Dngu4DBMafGiAr3ruJaQeWcgyUgqp9LBtnfr2_AAlMkhpLHniXYNLR3gZRWCgcdWxL7WTb5haYR6uz9hFPQGI0Vdwy7Kaz8k9DknpTCqcyC8LwCa4hciTSluYZLeHOZAlNvD571O0r0aXsDDSysY_RVywe_umLXBQBqV_YR8AFrknqqDloS_1lkAfjraVsIzE_ZRVd94GRf-Adk8p2fzZJ8qpsoMQsmPbZSWX4fhpMSv1xYoq4Og.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/LD_dtSodoSESRPctlBIDXWKYg87FPj0u78C3HNN_UgHWz8nB6VKBJb3uftsCjEXb3CMSYLXqU_2_DNrftTwuSIb_KmPKSRaoYjyXcU0yHb5fISXB9LrSE75ujh1ninegwp-scR6-5-gKOlKAobRBKcu-yJzOXAnLnbiu4jG8s2h2WmPI-oBFxvFHu2VgxxSbsnUk770sUSnVa5j5Z8Z2gjDwbRrJ2DB5OuY8OtNJl7FZ0LF9hMegxtZ1Pj3_vHyZ6WHTgf0ONlIBfAEXFMHvSQd22oEQCM--F46vPZ4g3rzcs3nVeyj99Xu_CjrmZmEFRJv5oVEe4AaVPNsetpngzQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3125,
+      "message": "یه چیز جالب توجهی پیدا کردم که راجبش ویدئو بسازم. به درد خیلیا میخوره\u003cbr/\u003eترکیب یه متد حال حاضر هست، با یه سایتی که اصلا هیچکس نمیشناسه. انقدر گشتم که پیدا کردم\u003cbr/\u003eبرای VPN نیستش. برای دسترسی رایگان به محتوای یوتوبه\u003cbr/\u003e\u003cbr/\u003eسر کار هستم الان، تموم که شدم واستون ویدئوش رو میگیرم",
+      "date": "2026-05-18T08:13:51Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9240,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
