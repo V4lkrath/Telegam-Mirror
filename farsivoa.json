@@ -8,88 +8,12 @@
   },
   "posts": [
     {
-      "id": 218236,
-      "message": "ایران روزگاری کشوری بود که صدای بازی کودکان در کوچه‌ها بخشی از هویت روزمره‌اش بود. اما اکنون آمارهای رسمی از کاهش شدید نرخ باروری، پیرشدن جمعیت و بسته‌شدن پنجره جمعیتی خبر می‌دهند.",
-      "date": "2026-05-20T16:58:30Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/lcIkQqN94OIY58Yy4sH3esu7QHMN62Sv793ELf7XPwBpbknG4pu-KjzpVpgG1ja83DNnk2rOp0DsYQgSxPrtieVHEgpIrIlqWwqXpc1j8iVYJ0TJvywW0lWMNXIEFBrrQoXbOHXuUxeGH1Yy1zQrzn6k9fBfjZ7gCzffza1leU--62tpLVXypq_u9kQDD-YszR1Le0W3mRp4ig5cx_x9pW2kAmMRhW54CdHM_FdnyDjyXwcRGfzxpelvnQUSYYWoFPdPnk7O-wj3t_A6ZY2psJhVS97jVcIjyvwO5_N9_7xEZDQlvnsHRn_E3HfB2HwlpOF2-LMvE4byOfH3DDNnzw",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 218237,
-      "message": "گفت‌وگو با خالد عزیزی،‌ سخنگوی حزب دموکرات کردستان ایران، درباره ادامه حملات جمهوری اسلامی به مواضع احزاب کُرد در عراق.",
-      "date": "2026-05-20T17:03:43Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1670,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/nl0bqneD8bxB4N7ft8it-bZBdCmXtlmiQc8L1vfJtQDa1b2Qe_Y0zkA9Vo1AwzWktBsIXaAK6p4gv2RZUj8wiwBIO4OISihxYR4KR-sMG-g7d1rNWdGgwA7tuwM1TiHCZK4uEctRAJacCUGYSCDZrsiUAydKQoM_BdGtoTnl1Kl7Ao1U2OpL6ijziqLh3LjXFRndCN2Uq2P1S91diE7rzXauRhWvatS4gFjn6VFM5EpZADNZSVqgUFhTZHQOpwyZSHuWhMWdDremZ0THLtYKhi7evzlHavN0C7SUz0OkczxFBU7nogqSoIfijeMhsrlNq3hmLmdJVSiWm_EFB-SDWA",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 218238,
-      "message": "رئیس جمهوری آمریکا روز چهارشنبه ۳۰ اردیبهشت سخنران اصلی مراسم دانش‌آموختگی آکادمی گارد ساحلی در شهر نیو لاندن، ایالت کنتیکت، بود. صدای آمریکا بخشی از این سخنرانی را به صورت مستفیم و با ترجمه همزمان پژواک کیومرثی پخش کرد.",
-      "date": "2026-05-20T17:08:24Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1740,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/OZxjxsTgCYEf8ji3vY6nYWBRMxhwTvRtAFpxflNWG0XKwabv3JLTTZ1gMf5aZwuCSMZXUODSmAaMLMKv7KqRnY9icTeOVaHh5Nny0cBh7ivSlbgsGpo6rm1SSAeXbxfSNd6ddeuy-J_PVFTVHOXHm4sN5tYRuqm6kIzLPJ3RFYVzkF2GWFPo13cPIMC8uZ1qFfZmKsxMhgY_9VRyKs_Xo_O8Y9L4bqbgIv4AWpJl6mHe8PDVkGMvHFWWLX0mtyafYWmSP4S6ODSEnb7chwNUSYNCwftNBuvEJSYdeZmGG9Jdg7IoPOjELZ9e5oP9bsGCn6k5eB_rm9OoYK2Z5UU-rQ",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 218239,
-      "message": "گفت‌وگو با محمد قائدی، مدرس روابط بین‌الملل، درباره دوگانه جنگ و مذاکره در اظهارات مقام‌های آمریکا و جمهوری اسلامی",
-      "date": "2026-05-20T17:10:24Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1750,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/qbLkQbiPY3KhfzsRvliHmbTcEkMbd4AfE-_rgzwtuOH_HrBBUPRRLC6hZCmrZjSiyCehjqBtqLl9VRXbsIRjM-Cxkzv6G9ruaKTUoVl7FTWoPP5IbU0kuCDIAAG5UKmu6UlpopSK1Oju_0i69CmpcS0dKQhxaQwwYSHt6u3IG6yfmMREENUYzLWuU5ajCLD-XLUMYJ3vwBJ6wgXe_AbQlanbzA_miuXJRRqz4MTwYzFc4jYqRzqQorWLTm5XWqPwAZ5kjOLxJoQ_pXncJ0oKFqbj21961AbxjWrwbs7oECZ4vb2yUQjhPlc5Zn-GYb5g2qm81AVQkpcjLWI5Oh2Pug",
-          "width": 1280
-        }
-      ]
-    },
-    {
       "id": 218240,
       "message": "فرماندهی مرکزی ایالات متحده، سنتکام، از بازرسی یک نفتکش مظنون به تلاش برای نقض محاصره دریایی آمریکا با حرکت به سمت یک بندر ایرانی خبر داد.\u003cbr/\u003e\u003cbr/\u003eبنا بر گزارش سنتکام، ساعاتی پیش در خلیج عمان، تفنگداران دریایی ایالات متحده، بر عرشه نفتکش تجاری «ام/تی سلستیال سی» که پرچم ایران داشت و مظنون به تلاش برای نقض محاصره دریایی علیه جمهوری اسلامی بود فرود آمدند. \u003cbr/\u003e\u003cbr/\u003eنیروهای آمریکایی پس از بازرسی و دستور به خدمه کشتی برای تغییر مسیر، کشتی را آزاد کردند. \u003cbr/\u003e\u003cbr/\u003eسنتکام با تاکید بر اجرای محاصره دریایی اعلام کرد تاکنون ۹۱ کشتی تجاری را مجبور به تغییر مسیر کرده‌اند.",
       "date": "2026-05-20T17:17:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1800,
+      "views": 2100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -108,7 +32,7 @@
       "date": "2026-05-20T17:27:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1690,
+      "views": 2029,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -127,7 +51,7 @@
       "date": "2026-05-20T17:40:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1530,
+      "views": 1860,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -146,7 +70,7 @@
       "date": "2026-05-20T17:51:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1480,
+      "views": 1860,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -158,7 +82,7 @@
       "date": "2026-05-20T17:55:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1450,
+      "views": 1830,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -170,7 +94,7 @@
       "date": "2026-05-20T17:58:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1530,
+      "views": 1940,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -182,7 +106,7 @@
       "date": "2026-05-20T18:16:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1340,
+      "views": 1780,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -201,7 +125,7 @@
       "date": "2026-05-20T18:19:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1470,
+      "views": 1990,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -213,7 +137,7 @@
       "date": "2026-05-20T18:25:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1450,
+      "views": 2009,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -232,7 +156,7 @@
       "date": "2026-05-20T18:27:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1450,
+      "views": 2040,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -251,7 +175,7 @@
       "date": "2026-05-20T18:37:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1280,
+      "views": 1910,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -270,7 +194,7 @@
       "date": "2026-05-20T18:48:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1120,
+      "views": 1820,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -289,7 +213,7 @@
       "date": "2026-05-20T18:51:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1110,
+      "views": 1810,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -308,7 +232,7 @@
       "date": "2026-05-20T19:14:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 800,
+      "views": 1720,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -320,7 +244,7 @@
       "date": "2026-05-20T19:19:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 726,
+      "views": 1890,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -332,7 +256,7 @@
       "date": "2026-05-20T19:31:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 474,
+      "views": 1800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -344,6 +268,61 @@
           "width": 640
         }
       ]
+    },
+    {
+      "id": 218256,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eدونالد ترامپ: اگر با چند روز صبر کردن، از کشته‌شدن افراد جلوگیری کنم این کار را انجام می‌دهم\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eرئیس‌جمهوری آمریکا، دونالد ترامپ، عصر چهارشنبه ۳۰ اردیبهشت در پاسخ به پرسش خبرنگاری درباره علت مذاکرات بی‌وقفه‌اش با رژیم ایران و اینکه آیا از مذاکرات خسته‌ می‌شود گفت: «من هرگز خسته نمی‌شوم. کاری که دوست دارم انجام ‌دهم [این است که] اگر بتوانم با چند روز صبر کردن از جنگ جلوگیری کنم، یا بتوانم با چند روز صبر کردن از کشته شدن افراد جلوگیری کنم، فکر می‌کنم کار بزرگی است.»\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/8152125.html\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/8152125.html\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-05-20T20:07:20Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1460,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA"
+    },
+    {
+      "id": 218257,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003eامید جمهوری اسلامی به کولبران و ملوانان برای واردات مواد پتروشیمی و پلیمری\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-05-20T20:10:21Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1420,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/o5WF8z7JO3H8ey2W_BpJsl0w97rwUbrK54DcAKURZ-auMT0dICREXGlI6-MnEfv3G2KBJOtqNeT-WBtCchjFr2FYRUwSxDY6J9EgllyPsBPHIOb-UgXL9Sfd4blcOTqoGc9QdY1fhSL56Ua9HLs1l5O-iaoS_SFINuSFNdJstDAs59KrlcjNURduyAwp2EM_HJdci_utzCKYDmR1YN_yh9apDlcgSGP5aQ6YbdVZQ9CqoaNgYI0mb0wxm9RoeS8EfuCj5EeDZhCmNgwAZjxzEbeRZmkLoODoKFAzYUG8Y5j4KdJCuA-mfCawMIAp2g9Qeuc5JjfK93-25dJ1tQ7HGA",
+          "width": 640
+        }
+      ]
+    },
+    {
+      "id": 218258,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eسناتور گراهام: جمهوری اسلامی با اقدامات دونالد ترامپ در ضعیف‌ترین وضعیت خود قرار دارد\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eلیندزی گراهام، سناتور جمهوری‌خواه آمریکایی از ایالت کارولینای جنوبی، روز چهارشنبه ۳۰ اردیبهشت با تمجید از سیاست‌های دونالد ترامپ، رئیس‌جمهوری آمریکا، در قبال جمهوری اسلامی، گفت آقای ترامپ توانسته است رژیم ایران را به ضعیف‌ترین وضعیتش از سال ۱۳۵۷ برساند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/lindsey-graham-on-asim-munir-going-to-iran/8152121.html\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/lindsey-graham-on-asim-munir-going-to-iran/8152121.html\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-05-20T20:16:09Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1470,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA"
+    },
+    {
+      "id": 218259,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eوزیر خزانه‌داری آمریکا با وزیر دارایی قطر در مورد لزوم حفظ فشار بر جمهوری اسلامی صحبت کرد\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eوزیر خزانه‌داری آمریکا، اسکات بسنت، روز چهارشنبه ۳۰ اردیبهشت اعلام کرد که با وزیر علی احمد الکواری وزیر دارایی قطر در پاریس دیدار و گفت‌وگو کرده است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/8152133.html\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/8152133.html\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-05-20T21:05:49Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 462,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA"
     }
   ],
   "last_updated": 0
