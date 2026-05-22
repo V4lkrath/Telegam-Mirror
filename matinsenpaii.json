@@ -8,78 +8,12 @@
   },
   "posts": [
     {
-      "id": 3286,
-      "message": "نکته‌ی مهم راجب سرورهای StormDNS و MasterDNS که روی WhiteDNS استفاده می‌کنیم:\u003cbr/\u003e\u003cbr/\u003eهر سرور و پورت 53، فقط ظرفیت 255 کانکشن رو داره و دامنه برای تعداد بالاتر باید لودبالانس(توزیع بار) بشه.\u003cbr/\u003e\u003cbr/\u003eخلاصه اینکه اگر با سرورهای رایگان سرعت نسبتا پایینی رو تجربه می‌کنید، به خاطر تعداد بالای کانکشن روی اون سرور هستش. اگر سرور شخصی خودتون رو راه‌اندازی کنید(که آموزشش رو ضبط می‌کنم واستون) به هیچ وجه سرعت پایینی نخواهید داشت",
-      "date": "2026-05-21T16:14:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 67300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 3287,
-      "message": "داخل گروه اصلی تاپیکی ساختیم به اسم «اولین شروع» که یک توضیح کامل از وایت دی ان اس هستش + یک سری رکورد صدا که آموزش و نحوه استفاده کلی از اپلیکیشن رو آموزش میده.\u003cbr/\u003e\u003cbr/\u003eلینک گروه\u003cbr/\u003e\u003ca href=\"https://t.me/whitedns_group\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/whitedns_group\u003c/a\u003e",
-      "date": "2026-05-21T19:17:39Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 47900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/ODY-Mq7SGMWm2F8EmgNnqsUfFbUJJkIWR-U0L_h2CF-LBOPfk9iCDEoqDlrYfTnGA_Gz1eWRrNZk5hGfqAU7eFbA1NQ-EkfxAPN22ZOLg5S-KGH5d9OlKeoJxMO0C7VT9YDPQQiUZAX7v-E_6GpU8aK_okhVMzBSAJgAac6C_q4MZRvexbJhU7yFbGRYqpfm9IrU5dw3rMKsWpPINkUXZ7inX9l_rjRKhiesoG1Cn4YUN9erwJK2Bb2E95kS9XqphilIGktiV9Q2kUk84_fJEi6vsS2y6iprCW-Qft4mVXNkOrKwc69KMChCn_Szrfr2SvPeZG--G6mE1TZIrz4cVw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 3288,
-      "message": "چنین بود، افسانه‌ی شیر و خورشید\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FABA0.png\u0026#39;)\"\u003e\u003cb\u003e🫠\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-05-21T19:38:30Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 67800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/g8A3h_ZDRelT3qVoSF5iQIPXidWfNA5CNWBFL6h4JL7HhvJgMkd5ZjIn9Bwbg0YRC5LrFOou127ZeADiTkFt-rQRCAATHAFiHTUdvSDHk9ZnMQYPkXOReW48wLDVp4-cVFYi-XQxFGilTkSwmHneBCawzdWnmv0tyQaPDgtk9l7Yr7oWf63xK4OehfGUqNoXxEpeWAJ9X9YCHM7BlRtIAxtdOdgL47LQBurjUtYI4-p-iGBzPHdvvT9acgxLIIgU4441yCzEg2M057EuOvYuMfEqMafVtnin_TWWh2itwc0ZLzL8akr5TcAX3yvJtqwOFsTouZ5ljI9OhTShfwCfdw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 3289,
-      "message": "یه سری تک و توک هنوز بهم میگن که اسپوف وصله اما خب ۹۹ درصد بسته شده.\u003cbr/\u003eروی سرورهای ایرانتون تست بگیرید\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-05-22T08:25:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 57500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/WEnFuK3_3txHVBN5NtkXh6iwvdaxDIPTrgHiF-6FnIioJfUSOa5geB4b8A88yG9kzQIf_0sJfGOyNpf4o_mU-Ut6a9ti1ZMIgnrb_cFv3UyUuI9FdC1i_0ajNP289s4oR7vbsRrl8ELZJKWnLLygkoCFu-Z81VE6IyRo4lnhnywsp61FfftL9KpMisVACrty7to5iibbDL1DXKCcSbYzoN5agSodDCcP04uqMeaA_X6IlctJ65ohIoGvNNd2Wun9YDSlSqWzWM0Cvjmrg-OkSR4cVym-Efrv2LkDhoJThRKL8LRlJjF2j8YUUiZvn8L8n39qiFf-D-212EomsRG9UA.jpg"
-        }
-      ]
-    },
-    {
       "id": 3290,
       "message": "اگر آیپی تمیز کلودفلر داشته باشید، ۱- آدمای عادی(مثل من) می‌تونید با \u003ca href=\"https://youtu.be/svYBcv4bSzo\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/svYBcv4bSzo\u003c/a\u003e به صورت رایگان پنل ادج بسازید، و جای address هرکدوم از کانفیگا، اگر آیپی تمیزتون رو بذارید کار میکنه.\u003cbr/\u003e\u003cbr/\u003e۲- کسایی که پنل دارید می‌تونید یه inbound وب سوکت(WS) یا Xhttp بسازید با هاست و sni روی دامنه‌ای که به آیپیتون point کنه و پروکسی کلودفلرش روشن باشه، و جای address، آیپی تمیزتون رو بذارید. این شکلی باید کار کنه",
       "date": "2026-05-22T11:01:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 53200,
+      "views": 54400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -97,7 +31,7 @@
       "date": "2026-05-22T11:10:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 50900,
+      "views": 51500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -109,7 +43,7 @@
       "date": "2026-05-22T12:17:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 49500,
+      "views": 50700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -127,7 +61,7 @@
       "date": "2026-05-22T12:25:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 49700,
+      "views": 51300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -145,7 +79,7 @@
       "date": "2026-05-22T12:27:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 50000,
+      "views": 51300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -157,7 +91,7 @@
       "date": "2026-05-22T12:28:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 50700,
+      "views": 52000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -169,7 +103,7 @@
       "date": "2026-05-22T14:48:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 46800,
+      "views": 48300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -188,7 +122,7 @@
       "date": "2026-05-22T15:58:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 44900,
+      "views": 46800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -200,7 +134,7 @@
       "date": "2026-05-22T17:06:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 41200,
+      "views": 43600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -212,7 +146,7 @@
       "date": "2026-05-22T19:27:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29000,
+      "views": 33000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -224,7 +158,7 @@
       "date": "2026-05-22T19:37:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26200,
+      "views": 30500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -236,7 +170,7 @@
       "date": "2026-05-22T20:02:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21700,
+      "views": 26700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -262,7 +196,7 @@
       "date": "2026-05-22T20:05:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20800,
+      "views": 26500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -275,6 +209,66 @@
         {
           "type": "photo",
           "url": "https://cdn1.telesco.pe/file/kIscP-x6ld0J4UkJcbXSZtF7N10KdEKiAxXUoDyZAmpvyWknk1w8VI1w_EqCNlAm2euI42G-8nD_pfaU8VCNFJ6YoAEZQreFjArWcA6DVjhgTgI083tynrDe89SiM9AFhZ34FKoZ-JtsLMeHWlpPBLWfj0iGo26Z2VG87gtgHLDq6TNkp2LEJdiWlczcmE_frJgJb5YQiDdRJdI272tuu_MJ_BLnWhFDN34gF52h2giRwnBKzkyGSsNi1u6ga-mVLlqht7My6lX6vhj_b7UJQ0Ff8v__qzqHCw0L_-PesLcYXnoodMZ-EkGPUsoy3YJe9Zbm9NLDBjrfiN1ajthNjA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3306,
+      "message": "والله مع‌الصابرون\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eاگر گوشی بی‌کار دارید، با آیپی‌هایی که بالا گذاشتم تست کنید و Beast mode رو هم روشن کنید و بذارید بمونه.",
+      "date": "2026-05-22T21:31:29Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 12300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/iqME0LyYkLORvdyY2LQCwvxfiI5O3sLkGdDJnrEEKCWutcAiba3fIoQLpNBcirnORiXhm8Oa3R3WfVXDWBOaAoeHNcho5eG-8NcwM-YzakjG7VrqY9O-O6neaJ-tywoo65Qrja9xvE0Zqq1OaIybaIMdWK9RnQKqpeqEeav-4Ws6dd5oxCyzB6NPZzKqeqMLM9HvB-liudcyllhYHxxUVZ-mcGSlvPa15dRBHHfydasAc95idegN-t-xVecE41Ab6shhxQJX18KdBhX3JQO6PHybvWbUWjcaa4v1rlQP2gDZRFW4fmlyg-cXsnSyZ3PATRw9Q-GjF8MjicBzL8c3bw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3307,
+      "message": "یک سری از دوستان هم گفتن برای اینکه روی همراه اول و ایرانسل وصل بشه، باید از بخش About Phone, Status, Ip address آیپی رو ببینید و برای همراه اول باید با 29 شروع بشه، برای ایرانسل با 26\u003cbr/\u003eو باید انقدر بزنید روی هواپیما و بردارید تا روی این عدد بیفته ابتدای آیپی. من خودم حقیقتا ۱۵-۲۰ بار گذاشتم نشد اعصابم نکشید. شما چک کنید محض اطمینان",
+      "date": "2026-05-22T21:33:50Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 11600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 3308,
+      "message": "هر بار که می‌زنید هواپیما و بر می‌دارید، آیپی جدید میگیره سیمکارت",
+      "date": "2026-05-22T21:34:24Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 11300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 3309,
+      "message": "یک بار توضیح میدم این رو.\u003cbr/\u003e\u003cbr/\u003e«حمایت کردن» یعنی Share کردن لینک پروژه. و تشکر کردن از سازنده و استار دادن بهش روی گیتهاب.\u003cbr/\u003eاگر از Repo یه فورک گرفته شده بود و هیچ اسمی از سازنده برده نمی‌شد، اون وقت اون کار دزدی و کار ناحق بود.\u003cbr/\u003eپروژه‌ای که روی گیتهابه هرکسی حق داره از روش ویدئو بسازه، چه برسه وقتی این تلاش برای اینترنت آزاد باشه. نمیدونم انتظار شما از حمایت کردن، چی هست دیگه واقعا توی این اوضاع.\u003cbr/\u003e\u003cbr/\u003eهمه‌ی ما بدون منت داریم برای اینترنت آزاد تلاش می‌کنیم.\u003cbr/\u003eیکی این وسط با انتظار دونیت شدن میاد وسط، دونیتش نمی‌کنن کلاً می‌بنده میره.\u003cbr/\u003eیکی این وسط انتظار داره رضا پهلوی با گل و شیرینی بره در خونه‌اش با ۲۰۰ هزار دلار بگه دمت گرم تو قهرمان این ملتی بیا اینم جایزه‌ات.\u003cbr/\u003e\u003cbr/\u003eبچه‌بازیا چیه؟",
+      "date": "2026-05-22T21:49:29Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5970,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/X-GdwPVZK78S_2OoowFZ8dHTcq2BI_hlN3rAPgHPN9xFYMpkhPHyoE8mqK4ioB-GG9lEUQOzqu1wzECASUwhhxlNp6SUE6wqMiB9VVzx3yNe0R0Bok4Wwm_uiV_Yo4m9epBq7ajnZW6S7vfclcwDyDcOLXjEFZyIWa0ZK7wigcDY_d2J3penppsaqMkS81SFCUPKOXZGuk1Utr9TyIad8r3cpoqqo4Y9fK02uIdBxOtPPeYtMwdppiOikvrzX8S_Xpx4cVLTNh2W1wW8iGG1aosLANzvmFOXZ2-qy4WwmcVvZPbLr8X6dhhbSb-MgnCfCf2vcf6C9sXYHv6VzRv08Q.jpg"
         }
       ]
     }
