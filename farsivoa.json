@@ -3,104 +3,17 @@
     "id": 0,
     "title": "Farsi VOA",
     "username": "farsivoa",
-    "photo_url": "https://cdn1.telesco.pe/file/TcJhwpPaogg38p8YzSOhpkQLci5G1so524ltXova00QeupCCcLNq3_Wc8IiU4wy3ixzWVULx7oKmeEBKKDvGPFat3ktvZwmOLINW4SfZ-dTWaVPZfaC_gq9AH_qaZKJWhvdYL10QdEKCgE3ybghBpQNBzKC7RG8QiFsKfA9EERJ1DS9PbdjNUATKhud3kX0yov0hDOIGl2AsklqKgcfxX3M_WIC-4KE-AK1rgd_6GNeBicUB61l2mSUX3AbR9GdOwmwcz4y1U0jc8cqACZEuUAjD0naYOshYiIxJWDwLOuCiSN7_L3jItAbI5yUBCZfLTJLWu8EO1YsKZ0f3MZeKlg.jpg",
+    "photo_url": "https://cdn1.telesco.pe/file/eCSxIw043XpgKbtxOgFW-PcPrHjcpGd1vIe86DIILEbDE9B-mCVfNfQB2G6lV23haG89SkC_9e14bZep0JPGkJmC9uVQIJgsorJ24t7Vhv7JmMipCsCXIf_CCHnsx2O7OxMTu8jXwZidRLWmEYU1zcGyVVP4G3lW5nTy6dPKo8EOyr3Ao7s534hKumCbNT-QnZl390yrARFj4ut_2-oWr1S7rr06m8Falm3VbOji6n5m6FivygkfBX4Iq25NJzVQa45q421xnMmToMSAXJeCqw3ZUQ5Aw-nFR1WKzJCAzl-XKPMHy0HsVAlQXWQebix_qRy30rC7MA8Uo4RR7ZTFNQ.jpg",
     "description": "تنها کانال رسمی بخش فارسی صدای آمريكا\nعكس، خبر و فيلم هاى خود را براى ما بفرستيد:\n@sendVOA"
   },
   "posts": [
-    {
-      "id": 218847,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003eکانال تلگرامی وحیدآنلاین دقایقی قبل به نقل از کاربران از شنیده شدن صدای چندین انفجار در بندرعباس خبر داد.\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
-      "date": "2026-05-27T22:31:51Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4390,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/kwtse6rzGmV2eKYuxl4FLvqI-6nGebHsvJgxU1B0YxOD2NnAygbPWyrJku3wuqq3BIygwIKZ9nfQEuSeRcy6oqIICp7nAOmaQC8hXBiIwPf9qHHH6c60lU2BFYcS5p0S0fdvh48SKV0_NTICXxc3A8ayLlI6o6lJwFj9gaOtxaZD8VEJhd26le2h-upk4HrlcPLL5irTkqcDbmld5Ox_1P_RQ0bU16fVf73Zw--sFYBfkEueWra2lSGKf_5oB4Y0RXFSOhea6lYxxtG0vV6WFGW3mmmwSYRrTkrkG2siwD88A0sqqpZoWUHe-zJ8cBSeZqF9EDmmBXqNKeaJwU2RHg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 218848,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003eکابینه پرزیدنت ترامپ روز چهارشنبه ۶ خرداد در کاخ سفید تشکیل جلسه داد. در بخش‌هایی از این جلسه موضوع «خشم حماسی» و مذاکره با رژیم ایران نیز مطرح شد. صدای آمریکا بخش‌هایی از این جلسه را به طور مستقیم و با ترجمه همزمان پژواک کیومرثی پخش کرد.\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
-      "date": "2026-05-27T22:59:58Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/UcFzWR_31FlPyQDFtNlXm21a02g38lcmTDx2Cm69JA9Lo7O7JxYN-iq7Bf7gUgmkKmXPJDtIoJLQz_6U38IqpsjG2xvJMfFqCc6h83pfu0oJo9qfu0Ojk3Tu16oYDRAWYE-80IqYdGvux4y_9pY9npyGPrWTCLYHvOHzviKDs1cN2cRkZNBzEl8ScVWd3rQcTDqBFo2CMOdp2JtwKfeXDWd1hr4PzvqOVNwHQ82s9PHkUJcOwjNQ265yfg3bDL8XYYrMSeGZ1Tg6Kw-8Xfj0zJV1V4EdxajjoWvv68sTAjfZ4Ex_rEH5xLqDmXxCgTk1NLLcAy9HYdCOxIkO-Bpdig",
-          "width": 640
-        }
-      ]
-    },
-    {
-      "id": 218849,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003eهشدار سازمان اطلاعات بریتانیا نسبت به جنگ ترکیبی روسیه، چین و جمهوری اسلامی\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
-      "date": "2026-05-27T23:05:33Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3480,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/FbNhYyuqQPEzeqdjabsS2eB-rhuHwepsMYQs7or-2xisekYAdhkmR6HWZYXz4KRe2jZ8KGDlKzl0_vP61DgFyHsbVfyntlxoxFu6LPGmzvKslkIb1kyNGH2wwkwmun-ei-P46JBGmDucI9_l7ob1S184gzXKO5AEUEhhrzkUr25-fKJ23LxlsIDoz-pE_8p7K3UAvClD2d1zlv0UmzIH4UfS-SvTJas5Id-Y529YvWU_wlSh8MQs5RDH0XGc4JHfvluPVoWdvYxPZqIvmz2DH4WrpXIfnNqHHUGjztPcGh1y8sAOKxd9X40gsDRJekWjymO4Mnqm79Dt5mSfRLCs3Q",
-          "width": 640
-        }
-      ]
-    },
-    {
-      "id": 218850,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003eچالش شبه‌نظامیان وابسته به جمهوری اسلامی در عراق؛ انعطاف سیاسی یا حفظ سلاح در برابر دولت بغداد؟\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
-      "date": "2026-05-27T23:10:12Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3370,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/dX3LQM1aL9gRHq6yJmHouCcMjMHs5HbiNTesF2knOzWpIo0VZwhf7tmnlwwHOiVSq3aI6MlHworZiQKpWCI5OdcS2mUIf6jtmFjHqzxshhxkQFF0cxxvE61ZwVuavmrWCNL3vYegMsyZtbe30Ihi_5Orb8ykhsIrPxr47gAZu1xNjOh3oaUJX02oB5SODA1-Fy-fBaHhXcMZgrJC9kQAsHb89dyTjkJ2om6P-ntKRY9KwWoGAw53NwdtiQCisWii-eDV-cJwfgHMUicRdYnUu4nBcqWvE7qQXLzBO-t1DTn7HTC2bHt7EWkoXbGhHX66lV33I0YKPPjv5WllTJSa5w",
-          "width": 640
-        }
-      ]
-    },
-    {
-      "id": 218851,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eیک تبعه آمریکایی در پرونده توطئه برای قتل مسیح علینژاد به ۱۰ سال زندان محکوم شد\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eوزارت دادگستری آمریکا روز چهارشنبه ۶ خرداد در بیانیه‌ای گفت که جاناتان لودهولت، ساکن استاتن آیلند، «به‌دلیل نقش خود در توطئه تعقیب و قتل یک روزنامه‌نگار و منتقد برجسته حکومت ایران، به زندان محکوم شد.»\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/8154602.html\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/8154602.html\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
-      "date": "2026-05-27T23:16:54Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3640,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA"
-    },
     {
       "id": 218852,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003eگزارش جدید بانک مرکزی اروپا از وضعیت بازارهای مالی اروپا\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
       "date": "2026-05-27T23:20:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3600,
+      "views": 4480,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -119,7 +32,7 @@
       "date": "2026-05-27T23:24:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3660,
+      "views": 4570,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -138,7 +51,7 @@
       "date": "2026-05-27T23:27:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3710,
+      "views": 4590,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -157,7 +70,7 @@
       "date": "2026-05-28T00:06:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3810,
+      "views": 5000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -169,7 +82,7 @@
       "date": "2026-05-28T00:10:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3800,
+      "views": 4800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -188,7 +101,7 @@
       "date": "2026-05-28T00:53:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3820,
+      "views": 4890,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -200,7 +113,7 @@
       "date": "2026-05-28T01:06:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4100,
+      "views": 5180,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -212,7 +125,7 @@
       "date": "2026-05-28T02:16:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3860,
+      "views": 5110,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -230,7 +143,7 @@
       "date": "2026-05-28T02:26:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4130,
+      "views": 5370,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -242,7 +155,7 @@
       "date": "2026-05-28T02:45:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4420,
+      "views": 5790,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -260,7 +173,7 @@
       "date": "2026-05-28T03:20:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4140,
+      "views": 5670,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -278,7 +191,7 @@
       "date": "2026-05-28T05:01:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1790,
+      "views": 4130,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -290,7 +203,7 @@
       "date": "2026-05-28T05:22:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1040,
+      "views": 3680,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -308,7 +221,7 @@
       "date": "2026-05-28T05:32:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 617,
+      "views": 3770,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -326,7 +239,7 @@
       "date": "2026-05-28T05:43:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1,
+      "views": 3980,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -335,6 +248,91 @@
         {
           "type": "photo",
           "url": "https://cdn4.telesco.pe/file/pBodbpkRCb3KDwJWlpwogstBf_LRFdubqAexJ-uq2IwKQaozTRChS_MACGVKzNnp7krzmzo4PwL6_46A8aFhnRGDIwi43tqsoc1h_oiuUriWTxA-xAdbfe9EDDIsKvZbm7ceadcWuiWygU0H8TzNjg915uSRzdmKxPOeHwUZLdRx65KiGWS5L7kfry1wjaV-8gSNuz9Xuv68N2sPZnLNhpmyVg4-Md6WYrKwmOKLs6XEYHOjOlcAizxnj89-IFP6w9e9U1JBQ-oPT_--zmXxmqYnjNNayomQcyKbI2z3d0woX19KUNxcvPdeRy0z5serRmrz3JL8y43nB2VM5ZbMHg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 218867,
+      "message": "قیمت‌های جهانی نفت در پی واکنش ایالات متحده به حملات پهپادی جمهوری اسلامی به یک کشتی آمریکایی و هدف قرار دادن مواضع جمهوری اسلامی افزایش یافت.\u003cbr/\u003e\u003cbr/\u003eقیمت نفت شاخص برنت روز پنج‌شنبه با رشدی بالای ۳.۵ درصدی به نزدیک ۹۸ دلار رسید.\u003cbr/\u003e\u003cbr/\u003eارزش سهام در بازارهای بورس جهانی، خصوصا آمریکا، نیز در پی افزایش تنش‌های خاورمیانه مقداری افت کرد.\u003cbr/\u003e\u003cbr/\u003eسایت تسنیم، نزدیک به سپاه پاسداران، به نقل از فردی که او را یک «منبع آگاه نظامی» خواند، اوایل روز پنج‌شنبه به وقت محلی گزارش داد که نیروهای سپاه به یک «نفتکش آمریکایی» که قصد داشت از تنگه هرمز عبور کند، حمله کردند.\u003cbr/\u003e\u003cbr/\u003eآمریکا می‌گوید در اقدامی تدافعی، چهار پهپاد انفجاری جمهوری اسلامی را رهگیری و منهدم کرد و یک مرکز پهپاد در ایران را پیش از پرتاب پنجمین پهپاد، هدف حمله قرار داد.\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-05-28T06:19:00Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3240,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/NxbycTteRpxl8nmrNs2NMqGN0zADGf-ys9A4z45_EZqkxdAOCyA645arZQpjf9RCklRJSAZILX9jo0uOY_wIwEXsWrucVF5sySF7hwZL6dyRjquaRg57WDKsu1JaRYIrdib5DI3o7P4zgoh11vgqHnK2WoOoNjlgDuimINCmYjYIFvjJKN2lbwZvWQWMT2Sxe6aMcWkaf8_BqA4klgv1dBzLHiKG4Nv1QbBqwqCkgMR63jk0VHCkIszejdAiYVzEj-j3gqzj4bwhN4u2QXhFNEZvlFY5cDVaKIJeLLigK_64T4-Lc2EtZ4gzBa3ObQvtemsn9wNFfo650fo4sZnt2A.jpg"
+        }
+      ]
+    },
+    {
+      "id": 218868,
+      "message": "دنی دانون، سفیر اسرائیل در سازمان ملل، اعلام کرد که این سازمان اسرائیل را فهرست ناقضان مرتبط با «خشونت جنسی در مناطق درگیری» و در کنار «بی‌رحم‌ترین سازمان‌های تروریستی جهان مثل حماس و داعش» قرار داده است.\u003cbr/\u003e\u003cbr/\u003eآقای دانون در سخنانی ویدیویی که روز پنجشنبه در شبکه اجتماعی ایکس منتشر شد، گفت: «این یک تصمیم سیاسی است! جدا از واقعیت‌ها و حقیقت!»\u003cbr/\u003e\u003cbr/\u003eاو افزود: «اسرائیل برای هر ادعا، شواهد، اسناد و پاسخ‌های مفصل ارائه کرده است. ما از نمایندگان سازمان ملل دعوت کردیم به منطقه بیایند و از نزدیک موضوع را بررسی کنند، و آن‌ها البته ترجیح دادند این کار را نکنند. وقتی واقعیت‌ها با روایت مورد نظرشان همخوانی ندارد، در سازمان ملل به‌سادگی روایت را تغییر می‌دهند.»\u003cbr/\u003e\u003cbr/\u003eرسانه‌های اسرائیلی گزارش دادند که اسرائیل قصد دارد همکاری خود با دفتر آنتونیو گوترش، دبیرکل سازمان ملل، را در پی این تصمیم متوقف کند.\u003cbr/\u003e\u003cbr/\u003eدر گزارش پیشین که ژوئیه ۲۰۲۵ از سوی دفتر گوترش منتشر شد، حماس در فهرست «طرف‌هایی که به‌طور جدی مظنون به ارتکاب یا مسئول رفتار تجاوز یا دیگر اشکال خشونت جنسی در موقعیت‌های درگیری مسلحانه هستند» قرار گرفته بود.\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-05-28T06:54:26Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2830,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/XOL5htli27ZG-81g5ZxXRD1c353wGr7Ze6Jqg37S4izmLSAWbuOH1qYyrAafCZ_353g_wfoM9kHaZSCG_FB84bYtIhg9J2kqNhjj4TNe_6DF2qFDkaCP5GTaVBzmK11oaf-IMuxr3N_TFG96qjb4ubayZKYUX2T5Et14HDtInjUWb3mZAOr1EI_gk2v-kw6vR3_d-HIIkXhw_du3RiPWc4Pf1HWkpgkZ9dOhHQ04E-2BAsdY2jatxzqjJAaCQ0taD2K4Gtyv9pl12cOseF3rlu00v_KUDkVlZ-K9HKZoQ8QdsLzwHEyRuOYoiTgb0JWw09WXO6tvO0k3yAtfimG8KQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 218869,
+      "message": "رئیس اتحادیه صنف چاپخانه‌داران و صحاف تهران، اعلام کرد که بخش قابل توجهی افزایش قیمت کالاها و اجناس، ناشی از هزینه بسته‌بندی و افزایش ۲۰۰ تا ۴۰۰ درصدی قیمت مواد اولیه صنعت چاپ است.\u003cbr/\u003e\u003cbr/\u003eبابک عابدین به خبرگزاری ایلنا گفته است که هزینه‌ بسته‌بندی و چاپ، تأثیر مستقیم بر تورم قیمت کالاهای اساسی داشته است.\u003cbr/\u003e\u003cbr/\u003eاو یادآور شد که بخش قابل توجهی از این افزایش قیمت، ناشی از هزینه بسته‌بندی است، زیرا برای تهیه مواد اولیه مانند پلیمرها، آلومینیوم و کاغذ مجبور به پرداخت هزینه‌های چندبرابری هستیم.\u003cbr/\u003e\u003cbr/\u003eبه گفته رئیس اتحادیه صنف چاپخانه‌داران، این هزینه‌ها مستقیماً به صنایع مصرفی منتقل و در نهایت به صورت تورم شدید به مصرف‌کننده تحمیل می‌شود.\u003cbr/\u003e\u003cbr/\u003eعابدین یادآور شد که پس از جنگ، قیمت موادی مانند آلومینیوم و ورق‌های چاپ‌پذیری که در بسته‌بندی استفاده می‌شوند به سطح بی‌سابقه‌ای رسیده است.\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-05-28T07:16:30Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/heN5PmSOOH2DPoq-LMcnycHr2GNmDBWns1WRNHTsd3gK_l377R453aatCDtNv8Esp0w1yzal0uSrU5JHRzEW5sUtTaX6LWS2ikVQbMO-SUnd4JtWnSZNBr3xGJzU3ZinNh1QWEUmFsSEAHREhY34MOjoNNG6JQEhNSsuq40LHGDtfxQao71MJZ0wKrYjVddWG3FzmTYKRH1MXWgn8AICaD9pXkqRDq94Fbs7XMScvdcMa98lqbSBPWX3aG5jFY9-KeyMf40xAiCe5FiV6T8jBai1j0kH5RELRhnnKBT7_WZ5Zlazvcbst7oBPSF5p7sgKvOMmb7bqHupUulYFfvr4w.jpg"
+        }
+      ]
+    },
+    {
+      "id": 218870,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eافزایش ۵ تا ۴۵ برابری تعرفه برق «پرمصرف‌ها»\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eمدیرکل دفتر مدیریت انرژی و مشتریان توانیر از افزایش ۵ تا ۴۵ برابری تعرفه برق خانوارهای «پرمصرف» خبر داد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eاو مدعی شد مصرف برق یک چهارم مشترکین خانگی بالاتر از الگوی مصرف است و نیم درصد مشترکین هم «بسیار بدمصرف» هستند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eطبق گزارش‌های توانیر، بخش خانگی تنها حدود یک سوم برق کشور را مصرف می‌کند و سرانه مصرف برق بخش خانگی ایران حدود ۱۱۰۰ کیلووات ساعت در سال است؛ رقمی که ۶۰ درصد کمتر از اتحادیه اروپا و چندین برابر کمتر از آمریکا و کشورهای عرب حوزه خلیج فارس است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eجمهوری اسلامی طی یک دهه گذشته حتی نیمی از اهداف رشد تولید برق را نتوانسته محقق کند و اکنون در فصول گرم سال با ۲۰ تا ۲۵ درصد کسری برق مواجه است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/iran-5-to-45-times-increase-in-electricity-tariffs-for-high-consumption-consumers/8154811.html\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/iran-5-to-45-times-increase-in-electricity-tariffs-for-high-consumption-consumers/8154811.html\u003c/a\u003e",
+      "date": "2026-05-28T08:20:12Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 959,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA"
+    },
+    {
+      "id": 218871,
+      "message": "ارتش اسرائیل اعلام کرد در جریان یک حمله هوایی خود به جنوب نوار غزه در روز سه‌شنبه گذشته یک «مقام ارشد مالی» حماس کشته شده است.\u003cbr/\u003e\u003cbr/\u003eارتش اسرائیل روز پنجشنبه اعلام کرد که این حمله در خان‌یونس انجام شد و ایهاب کریزم، مسئول یک شبکه مرکزی برای انتقال پول به حماس در جریان این حمله کشته شد.\u003cbr/\u003e\u003cbr/\u003eبه گفته ارتش اسرائیل، کریزم مسئول «مدیریت انتقال میلیون‌ها دلار به شاخه نظامی حماس» بوده و اخیراً نیز «به نقض توافق آتش‌بس ادامه داده است»؛ اقداماتی که به گفته ارتش اسرائیل، باعث شد حماس بتواند حملات علیه نیروها و غیرنظامیان اسرائیلی را پیش ببرد.\u003cbr/\u003e\u003cbr/\u003eطبق اعلام ارتش اسرائیل، در این حمله همچنین محمد الهباش، یک فرمانده مقر تولید تسلیحات حماس، نیز کشته شد.\u003cbr/\u003e\u003cbr/\u003eهمزمان ارتش اسرائیل پنجشنبه گزارش داد که نیروهای واحد کماندویی این ارتش، تحت هدایت شاباک، طی دو روز گذشته در چند عملیات در کرانه باختری هفت فلسطینی مظنون به تروریسم را بازداشت کردند؛\u003cbr/\u003e\u003cbr/\u003eبر اساس این گزارش، برخی متهم به برنامه‌ریزی حملات قریب‌الوقوع علیه اسرائیل بودند.\u003cbr/\u003e\u003cbr/\u003eارتش اسرائیل اعلام کرد همه بازداشت‌شدگان برای بازجویی بیشتر به نیروهای امنیتی تحویل داده شدند.\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-05-28T08:33:06Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 355,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/QCKHfU60OQnEP5ZNRIiKyTNpx2q1Q0lt6DVbUuRGFkBs1VpWgrdqHbhodkg31-eJkfgfRsCkIq--8ZsiVrTHUO0CS3Vy7rZQP1famsvqr5a6inC6QnxB7dYuRSZZGdzMjX8qd5OUcbP_ANt4zHwSUhLOKEMLWEqJEtXtpea2LT-HeBX0VIf00RbXX4GDpvcMFc8hLE5WuwmN0u87egi0fhvgDqD5JQzR-8fYxBBtTpIk6tcCRgWCoNLyculjbpzTHgqsuFRnfZS2_wK45IDQygKh2L7AuX716GdfXfA0Lyc_FxrBwfSEB_n38u6X_fw3b3YTIP0-qE195wkgPjf64g",
+          "width": 1920
         }
       ]
     }
