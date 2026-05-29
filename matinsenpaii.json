@@ -8,46 +8,12 @@
   },
   "posts": [
     {
-      "id": 3523,
-      "message": "یکی قوی‌تر مجدد پیدا کردم\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"http://45.130.125.69/\" target=\"_blank\" rel=\"noopener\"\u003e45.130.125.69\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003eیه اسکنر کوچولو و ساده هم می‌نویسم",
-      "date": "2026-05-28T16:24:25Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 50100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 3524,
-      "message": "اولین آیپی ای که اسکنر پیدا کرد و داره کار میکنه\u003cbr/\u003eمبارکه",
-      "date": "2026-05-28T16:55:08Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 46600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/ZSUKS77iRdsBZA5GE5WqCazvJKzFdk8wCyedC1y8h_ko2jpmDV-2whCTRaLiNfxWs8OJnX7ieOHpRa8w2tGwsBi0p1MGpP2IyBE3Mz4_Q-dctBTjxu0jcnk-9ej1FVrrZyZ-04ygaPL-lSJ6D_z1VL2qbHG-C_LwsP9LOYA-5Yr1Z3LxDRM_9vQp3w97-lwn5J8WAR1hRT0Z-xgNQdzFq-fxHKhJ-_7m0y1IBSr-aTOgxekCHFGMZy7YSC6n6_HpqgMKYupAK_x8YtCSLYSBee_0CSqukv28hBU_keRd3E9Ui9oBiKGupiQCA00gIzcbWJiQtTNxyxfx4J9vm2ptSw.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/cdgcEKhfaxJAT29g5ADzrkTXwNPZxkawaMrWzYaEBE1wHF6mpSMli_BlghE8sVC3CHwqGKYE13lBrkNbOy1ZCwDtSFRxfpTkHKOLErpCAl4iT8RwWN5cCe0Vr7Q_Umxv9kBuZdtVpPYm3CDGWYsnOqnIysPC4J88-apaxew5l6IZRkd4_988zurokSoxWRbcyqEEFipu9elNeWT3XVRsv8cLe1kkF7HAHbxUmb34J6PAxmdbNggOL99ajJi9u8ppBJ5Uam2xMSSa7ImW3DBPycLNXsLzgXLoDkWpZUUFbVDNujy_gCPHO9ZZ9AHIdSgniEseT15CupK4sDmgHN6bJQ.jpg"
-        }
-      ]
-    },
-    {
       "id": 3526,
       "message": "\u003ctg-emoji emoji-id=\"5447246917744478110\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E298A0.png\u0026#39;)\"\u003e\u003cb\u003e☠️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e پروژه‌ی \u003cb\u003eSenPai Scanner\u003c/b\u003e — اسکنر IPهای Cloudflare \u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eچی کار می‌کنه؟\u003c/b\u003e  \u003cbr/\u003eاز شبکه‌ات چند هزار IP از محدوده‌های رسمی Cloudflare رو تست می‌کنه، سریع‌ترین و سالم‌ترین‌ها رو پیدا می‌کنه تا توی کانفیگ V2Ray / Xray / Trojan بذاری.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eچطور اجرا می‌شه؟\u003c/b\u003e  \u003cbr/\u003eفقط فایل مخصوص سیستم عاملت رو دانلود کن و اجرا کن.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e۴ حالت اصلی:\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6005676598475364749\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29A99.png\u0026#39;)\"\u003e\u003cb\u003e⚙️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eQuick Scan\u003c/b\u003e — سریع: تعداد IP، تعداد worker و timeout رو انتخاب می‌کنی و اسکن شروع می‌شه (پیش‌فرض: حالت HTTP + تست واقعی داده)\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6005676598475364749\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29A99.png\u0026#39;)\"\u003e\u003cb\u003e⚙️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eCustom Scan\u003c/b\u003e — کامل: تعداد IP، پورت، محدوده CIDR، فیلتر دیتاسنتر (مثل FRA)، حالت tcp/tls/http، خروجی CSV/JSON/TXT\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6005676598475364749\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29A99.png\u0026#39;)\"\u003e\u003cb\u003e⚙️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eTest IPs\u003c/b\u003e — لیست IPهای خودت رو از فایل \u003ccode\u003eips.txt\u003c/code\u003e عمیق‌تر تست می‌کنه\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6005676598475364749\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29A99.png\u0026#39;)\"\u003e\u003cb\u003e⚙️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eDiscover Colos\u003c/b\u003e — می‌فهمی از شبکه‌ات به کدوم دیتاسنترهای Cloudflare دسترسی داری\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eچی اندازه می‌گیره؟\u003c/b\u003e\u003cbr/\u003e- تأخیر (latency) و jitter  \u003cbr/\u003e- درصد packet loss  \u003cbr/\u003e- در حالت HTTP: تأیید Cloudflare + شناسایی colo (مثل FRA، AMS)  \u003cbr/\u003e- یک نمونه دانلود کوچک — تا گول IPی که «وصل می‌شه ولی داده نمی‌ده» رو نخوریم\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eنکته مهم:\u003c/b\u003e  \u003cbr/\u003eاین یه ابزار\u003cb\u003e پروکسی نیست\u003c/b\u003e — فقط IPهای خوب رو پیدا می‌کنه. تست نهایی هنوز با همون کانفیگ واقعی‌ات روی Xray/V2Ray هست.\u003cbr/\u003e\u003cbr/\u003e---\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5226989999689318156\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E84.png\u0026#39;)\"\u003e\u003cb\u003e🎄\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eپلتفرم‌ها:\u003c/b\u003e Linux · macOS · Windows  \u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5271604874419647061\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eلینک پروژه: \u003ca href=\"https://github.com/MatinSenPai/SenPaiScanner\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/MatinSenPai/SenPaiScanner\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eدانلود فایل‌ها از گیتهاب: \u003ca href=\"https://github.com/MatinSenPai/SenPaiScanner/releases\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/MatinSenPai/SenPaiScanner/releases\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eدانلود فایلها از تلگرام: \u003ca href=\"https://t.me/MatinSenPaii/3526\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/MatinSenPaii/3526\u003c/a\u003e",
       "date": "2026-05-28T17:47:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 44700,
+      "views": 44900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -65,7 +31,7 @@
       "date": "2026-05-28T17:50:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 48900,
+      "views": 49300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -77,7 +43,7 @@
       "date": "2026-05-28T17:53:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 48300,
+      "views": 48500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -89,7 +55,7 @@
       "date": "2026-05-28T18:52:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 46000,
+      "views": 46400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -107,7 +73,7 @@
       "date": "2026-05-28T19:09:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 45100,
+      "views": 45600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -125,7 +91,7 @@
       "date": "2026-05-28T19:45:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 41400,
+      "views": 41900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -137,7 +103,7 @@
       "date": "2026-05-28T20:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 36800,
+      "views": 37400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -155,7 +121,7 @@
       "date": "2026-05-28T21:09:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30800,
+      "views": 31600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -167,7 +133,7 @@
       "date": "2026-05-28T21:53:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23200,
+      "views": 24200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -179,7 +145,7 @@
       "date": "2026-05-28T21:53:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23400,
+      "views": 24400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -191,7 +157,7 @@
       "date": "2026-05-28T22:28:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13800,
+      "views": 14900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -200,6 +166,46 @@
         {
           "type": "photo",
           "url": "https://cdn4.telesco.pe/file/r8NoSdf7pdyCImavKubMs8c4MGNIjEFN3-AJdzfvQkCWCUPTwg1mwf2pAXAO9VdhSo2kTY8Us3bLwPPpNlrbo8ZxOj9ApPUW3pMZpz_HlRoMnlF8vvwvE5S5BiZxrcRWcPAvLuSgFmMsoXaAavWZcy1B0FV-7beRLEjkO6TaRMUpIC2wj92_A0QPkCxFNsYNP6zl6ie9V_7gC6VGvkfFRsHMKOkU6IENXLho9MFIinYVVl8xpPxtrGipT-5MGKD21WvDRRv60WzwKrpho81fFu2ttqbUaCbPA00STdL8_g2yG-mJGp1MFnn2TdzpsIVfsbDyQZXAT6IfSByxVC8ouA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3543,
+      "message": "بازنویسی یک کانفیگ تکراری با آیپی تمیز‌های متفاوت!\u003cbr/\u003eبا این پروژه‌ی رسول عزیز می‌تونید این کار رو به سادگی انجام بدید:\u003cbr/\u003e\u003ca href=\"https://github.com/seramo/v2ray-config-modifier/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/seramo/v2ray-config-modifier/\u003c/a\u003e\u003cbr/\u003eاین هم نسخه تحت وب ساده‌اش بدون نیاز به نصب:\u003cbr/\u003e\u003ca href=\"https://seramo.github.io/v2ray-config-modifier/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://seramo.github.io/v2ray-config-modifier/\u003c/a\u003e\u003cbr/\u003eبرای حمایت از سازنده، روی گیتهاب بهش استار بدید اگر دوست داشتید",
+      "date": "2026-05-29T00:13:11Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2640,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/D7vq0Tan6BEEi37ydFSBIH0yLMxZ_fUUjqYGD7PIp_rFs43-PR4-_L6ElAqrmmEuLQWKy8NItBUcCGDvhCKihiL0vCE-PH-pZVQzBPU8Duu3M2Sj-TqADn3EPUSCGDa8ld0rv2kMPjrnVgGM64bEHmpHR1B-28u6ktaWfrjK8oApwTIdzILt6XbGBGrpbb5X_x3xo_mzfoYvdSfhMf3AMNtFDGrxP1ZvlDo0Nv20STBQAsWL21Oms2DhfTmhwMRnhDAli-aa49Tbebow30asi02GmkqDD8ug2y_Yb6X-EbaBNGp0aJhl4ktJ8CROojmNAPv5ruy_FAq63ibNat5ALw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3545,
+      "message": "توی آپدیت جدید اسکنر، آیپی‌ای که Healthy هست واقعا بهتون پینگ میده!\u003cbr/\u003eهمینطور با زدن دکمه‌ی c روی کیبوردتون توی تست لایو، میتونید این آیپی‌ها رو کپی کنید.\u003cbr/\u003eیک سری دوستان عزیز متخصص هم برای تست بهتر، روی پروژه pr زدن که دستشون درد نکنه واقعا.\u003cbr/\u003eتا دقایقی دیگه منتشر می‌کنم\u003cbr/\u003e\u003cbr/\u003eهمینطور که توی تصویر می‌بینید، یک آیپی به من healthy داده شده و همون داره واسم کار می‌کنه با سرعت عالی",
+      "date": "2026-05-29T00:16:13Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1660,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/pLNb6k48lowYV7UFSU34eQVmK6--UcbIrg1Ra0JS1zLtQoFJ9VoYv-Pbc5Gq5ISRh1PiTVZhlEk4N8ldAHX7P8jz0GikeJang3xAavBob1exo2nGjfamyCFSRab_ehpJdTssvOltUIaOcr4fZNvtifEXZ6VWCTWy_P5-qUbQ01dqhUPrb7eNM6vBmXF_WEWXVKNmlTXd_jLtjk2FH_m2Oo053MnqG6dOdPzrHap4HHEsOBgrqrOR7aErF7eR37PyQqp7rBD-rwr6AICGBxNOoi2NWgKgdcJfSiKnuHIARWq50TWO1UPT-mFvln8-2LJNjw1B6YHamwhtsowvjx9mBg.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/AiW8dC63EJghEpRrUVTeOPxn7_u6igOGt2KfsyqSE-j1Zl7NoDFDkOAFacXOcM4m3pstqFvzluRZhacw0N5i3vhkFVJxnQhkbFxYGZWXk1jVBitFMvnGUxG2yRKgCbn4VpuXp_ZYyv42b5cTdLL-qPxDm4N0TyyW3K1_QwiT4ZN4XsQBes8EdjnXu-cZCdnf27xKpfrUWyoYD9zZEENkc9PMTdwgTgr2Jd_tu-bZYL81q0TbpC6w_jFDa7nYyEJ_yFLtc9KgQiMs2aI2GIHou3BhMVPAQU4V42MkogpGPTwuFgTm5p6lM6GFgcVg-9vquB6XY-eUP67xoX2p2YM2qQ.jpg"
         }
       ]
     }
