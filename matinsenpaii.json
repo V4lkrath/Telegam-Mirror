@@ -8,34 +8,12 @@
   },
   "posts": [
     {
-      "id": 3545,
-      "message": "توی آپدیت جدید اسکنر، آیپی‌ای که Healthy هست واقعا بهتون پینگ میده!\u003cbr/\u003eهمینطور با زدن دکمه‌ی c روی کیبوردتون توی تست لایو، میتونید این آیپی‌ها رو کپی کنید.\u003cbr/\u003eیک سری دوستان عزیز متخصص هم برای تست بهتر، روی پروژه pr زدن که دستشون درد نکنه واقعا.\u003cbr/\u003eتا دقایقی دیگه منتشر می‌کنم\u003cbr/\u003e\u003cbr/\u003eهمینطور که توی تصویر می‌بینید، یک آیپی به من healthy داده شده و همون داره واسم کار می‌کنه با سرعت عالی",
-      "date": "2026-05-29T00:16:13Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 43200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/pLNb6k48lowYV7UFSU34eQVmK6--UcbIrg1Ra0JS1zLtQoFJ9VoYv-Pbc5Gq5ISRh1PiTVZhlEk4N8ldAHX7P8jz0GikeJang3xAavBob1exo2nGjfamyCFSRab_ehpJdTssvOltUIaOcr4fZNvtifEXZ6VWCTWy_P5-qUbQ01dqhUPrb7eNM6vBmXF_WEWXVKNmlTXd_jLtjk2FH_m2Oo053MnqG6dOdPzrHap4HHEsOBgrqrOR7aErF7eR37PyQqp7rBD-rwr6AICGBxNOoi2NWgKgdcJfSiKnuHIARWq50TWO1UPT-mFvln8-2LJNjw1B6YHamwhtsowvjx9mBg.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/AiW8dC63EJghEpRrUVTeOPxn7_u6igOGt2KfsyqSE-j1Zl7NoDFDkOAFacXOcM4m3pstqFvzluRZhacw0N5i3vhkFVJxnQhkbFxYGZWXk1jVBitFMvnGUxG2yRKgCbn4VpuXp_ZYyv42b5cTdLL-qPxDm4N0TyyW3K1_QwiT4ZN4XsQBes8EdjnXu-cZCdnf27xKpfrUWyoYD9zZEENkc9PMTdwgTgr2Jd_tu-bZYL81q0TbpC6w_jFDa7nYyEJ_yFLtc9KgQiMs2aI2GIHou3BhMVPAQU4V42MkogpGPTwuFgTm5p6lM6GFgcVg-9vquB6XY-eUP67xoX2p2YM2qQ.jpg"
-        }
-      ]
-    },
-    {
       "id": 3547,
       "message": "\u003ca href=\"https://t.me/MatinSenPaii/3527\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eراهنمای ورژن‌ها\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eتغییرات و بهبود‌ها:\u003cbr/\u003e\u003cblockquote expandable=\"\"\u003e- رفع کامل LOSS% اشتباه روی شبکه‌های محدود و DPI (مشکل اصلی کاربران). حالا تایم‌اوت بین Dial، TLS و HTTP به‌درستی تقسیم می‌شه و پکت‌لاس فیک کاملاً برطرف شد.\u003cbr/\u003e- ذخیره خودکار IPهای سالم بعد از Quick Scan و کپی در کلیپ‌بورد با زدن دکمه C\u003cbr/\u003e- خروجی فقط شامل IPهای سالم (بدون IPهای مرده)\u003cbr/\u003e- فرمت txt حالا ساده: فقط یک IP در هر خط( از \u003ca href=\"https://t.me/MatinSenPaii/3543\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/MatinSenPaii/3543\u003c/a\u003e برای بازنویسی کانفیگ استفاده کنید)\u003cbr/\u003e- پیش‌فرض‌های هوشمندتر برای شبکه‌های محدود (تایم‌اوت ۵ ثانیه، دانلود ۶۴KB)\u003cbr/\u003e- کاهش تخصیص حافظه و فشار GC\u003cbr/\u003e- حذف IPهای تکراری در اسکن\u003cbr/\u003e- اسکریپت نصب یک‌خطی (شامل آپدیت و Termux برای اندروید)\u003cbr/\u003e- بهینه‌سازی منو و تمیزکاری کد\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003eممنون از همه Contributorها: \u003ca href=\"https://github.com/ProArash\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eProArash\u003c/b\u003e\u003c/a\u003e، \u003ca href=\"https://github.com/M-logique\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eM-logique\u003c/b\u003e\u003c/a\u003e، \u003ca href=\"https://github.com/Mralimoh\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eMralimoh\u003c/b\u003e\u003c/a\u003e، \u003ca href=\"https://github.com/Hoot-Code\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eHoot-Code\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
       "date": "2026-05-29T00:29:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 62300,
+      "views": 64800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -47,7 +25,7 @@
       "date": "2026-05-29T00:35:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 51500,
+      "views": 53400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -59,7 +37,7 @@
       "date": "2026-05-29T06:03:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 54100,
+      "views": 57200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -89,7 +67,7 @@
       "date": "2026-05-29T09:04:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 47600,
+      "views": 51600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -101,7 +79,7 @@
       "date": "2026-05-29T09:56:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 45700,
+      "views": 50700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -113,7 +91,7 @@
       "date": "2026-05-29T13:18:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33600,
+      "views": 42100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -125,7 +103,7 @@
       "date": "2026-05-29T13:26:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31800,
+      "views": 41100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -137,7 +115,7 @@
       "date": "2026-05-29T14:15:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24700,
+      "views": 36900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -155,7 +133,7 @@
       "date": "2026-05-29T15:16:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15400,
+      "views": 32299,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -167,7 +145,7 @@
       "date": "2026-05-29T15:31:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10100,
+      "views": 30100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -176,6 +154,96 @@
         {
           "type": "photo",
           "url": "https://cdn1.telesco.pe/file/KR1AmAibixKhXXEPSdBGrrBAtJb7Js3OsTkALkoRZrMlMTwyuff6pKtu2T5Kjar4wlcu_VeB48Bwp85dAcQiLmyCQfcg2iTivafqIf4zm-W1QMSn6-oDUMcgUd1gNrKPqQIq0--JRqPWhCVdgyPvduE9cDkyT4iD9y0yiMoy1jXJWGF6WiNTadEYYikVcgZzJBTpwyyYCLn3YhtddHS9n2jSDLsbEGzBsmySEKn6R7dBILW2qlWJYtQB0yzlyd9FEaaAzyn8bNNFpvfurGu3rgyTvncjRi5s2B2RenwVBbluEofBKf4qMSvUimDOCKSjzGWsO44Sbuh8STUSMTKYWg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3566,
+      "message": "ورژن 3 منتشر شد\u003cbr/\u003e\u003ca href=\"https://github.com/MatinSenPai/SenPaiScanner/releases/tag/v0.3.0\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/MatinSenPai/SenPaiScanner/releases/tag/v0.3.0\u003c/a\u003e",
+      "date": "2026-05-29T15:56:57Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 26400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 3567,
+      "message": "اگر اکانت جدید می‌خواید بسازید، از BPB استفاده نکنید فعلا. با این آموزش، edge tunnel بسازید:\u003cbr/\u003e\u003ca href=\"https://www.youtube.com/watch?v=svYBcv4bSzo\u0026amp;t=618s\" target=\"_blank\" rel=\"noopener\"\u003ehttps://www.youtube.com/watch?v=svYBcv4bSzo\u0026amp;t=618s\u003c/a\u003e",
+      "date": "2026-05-29T16:01:07Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 26400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 3568,
+      "message": "کسایی که بهشون پینگ فیک میداد، با یه کانفیگ edge سالم امتحان کنن.\u003cbr/\u003eحالا چه شکلی میفهمیم که کانفیگ سالمه؟\u003cbr/\u003eمن خودم توی مهسا ان جی وصل میشم، بعد میرم توی v2rayng پینگ میگیرم ازش:)\u003cbr/\u003eاین باید مشکلات رو برطرف کرده باشه",
+      "date": "2026-05-29T16:16:06Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 23200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 3569,
+      "message": "لیست جدید 33 تایی از کانفیگ‌های Spoof که همه‌شون کار می‌کنن و خودم تستشون کردم",
+      "date": "2026-05-29T16:34:08Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 20100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 3570,
+      "message": "اسکنر همچنان مشکل داره متاسفانه روی اینترنت‌های دارای اختلال. دارم روش کار می‌کنم",
+      "date": "2026-05-29T16:38:18Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 17600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 3571,
+      "message": "این چنل کانفیگ‌های جیسونی علاوه بر hcaptcha رو زحمت کشیده و جمع‌آوری کرده: \u003ca href=\"https://t.me/SNI_SPOOFINGconfig\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/SNI_SPOOFINGconfig\u003c/a\u003e",
+      "date": "2026-05-29T16:43:09Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 16300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 3572,
+      "message": "روی یه اینترنت عادی هم این شکلیه نسبت. یعنی تعداد آیپی‌های سالم کمه و همین هم شانسیه چون range ها به صورت رندوم انتخاب میشن. حداقل 200 هزارتا اسکن کنید",
+      "date": "2026-05-29T17:26:57Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/ZNVidUXRKINyuQzGVo0XgACQ-m0tmG5A-HUcgHC2SQAC663MH7e6WVlE1EEh876Y-Fd5cAzTlw4DyAkvSGHbkWhIttXM-c2A-F_wLEFM2dKOHZ23EK6Eu597vC7AYm_H9JSXkOEOiMDREkNiPJ30xNNz_NuSfPH4GCIpG2WBfpIZ7ZpywGUHi1iHhNEqXXyuXaXAv2upzRiKqUgsPxLjv0ypiawHlON_ux_Er5Tju1CfCsrWUVPxdk6drzDOvfRHA1E7Fab2vRuDYuXGGb0Fzx_J484bh7CDsIa_h6d9k-WsXFgUSaEpyIj-CKbPOMxfmAmBbW7AkgsZxtBTtQyK3g.jpg"
         }
       ]
     }
