@@ -8,48 +8,12 @@
   },
   "posts": [
     {
-      "id": 3542,
-      "message": "\u003cb\u003eبا شرایط امروز اینترنت، دسترسی به کانفیگ ها برای برخی اپراتور ها امکان پذیر است و برای برخی نه. ولی راه حلی هست که امکان داره کانفیگ هایی که سالم هستند ولی پینگ نمیدهند رو هم به کار بندازید.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eبا امکان جدید ربات \u003ca href=\"https://t.me/Whitedns_Installer_bot\" target=\"_blank\"\u003e@Whitedns_Installer_bot\u003c/a\u003e میتونید کانفیگ V2Ray خودتون رو ارسال کنید و اون رو تبدیل به کانفیگ هایی پشت آی‌پی های سفید بکنید. \u003cbr/\u003e\u003cbr/\u003eوارد ربات بشید، روی «تبدیل کانفیگ با آی‌پی سفید» کلیک کنید و سپس کانفیگ V2Ray خودتون رو بفرستید.\u003cbr/\u003e\u003cbr/\u003eتشکر \u003cbr/\u003eتیم WhiteDNS\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/WhiteDNS\" target=\"_blank\"\u003e@WhiteDNS\u003c/a\u003e",
-      "date": "2026-05-28T22:28:11Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 37600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/r8NoSdf7pdyCImavKubMs8c4MGNIjEFN3-AJdzfvQkCWCUPTwg1mwf2pAXAO9VdhSo2kTY8Us3bLwPPpNlrbo8ZxOj9ApPUW3pMZpz_HlRoMnlF8vvwvE5S5BiZxrcRWcPAvLuSgFmMsoXaAavWZcy1B0FV-7beRLEjkO6TaRMUpIC2wj92_A0QPkCxFNsYNP6zl6ie9V_7gC6VGvkfFRsHMKOkU6IENXLho9MFIinYVVl8xpPxtrGipT-5MGKD21WvDRRv60WzwKrpho81fFu2ttqbUaCbPA00STdL8_g2yG-mJGp1MFnn2TdzpsIVfsbDyQZXAT6IfSByxVC8ouA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 3543,
-      "message": "بازنویسی یک کانفیگ تکراری با آیپی تمیز‌های متفاوت!\u003cbr/\u003eبا این پروژه‌ی رسول عزیز می‌تونید این کار رو به سادگی انجام بدید:\u003cbr/\u003e\u003ca href=\"https://github.com/seramo/v2ray-config-modifier/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/seramo/v2ray-config-modifier/\u003c/a\u003e\u003cbr/\u003eاین هم نسخه تحت وب ساده‌اش بدون نیاز به نصب:\u003cbr/\u003e\u003ca href=\"https://seramo.github.io/v2ray-config-modifier/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://seramo.github.io/v2ray-config-modifier/\u003c/a\u003e\u003cbr/\u003eبرای حمایت از سازنده، روی گیتهاب بهش استار بدید اگر دوست داشتید",
-      "date": "2026-05-29T00:13:11Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 40400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/D7vq0Tan6BEEi37ydFSBIH0yLMxZ_fUUjqYGD7PIp_rFs43-PR4-_L6ElAqrmmEuLQWKy8NItBUcCGDvhCKihiL0vCE-PH-pZVQzBPU8Duu3M2Sj-TqADn3EPUSCGDa8ld0rv2kMPjrnVgGM64bEHmpHR1B-28u6ktaWfrjK8oApwTIdzILt6XbGBGrpbb5X_x3xo_mzfoYvdSfhMf3AMNtFDGrxP1ZvlDo0Nv20STBQAsWL21Oms2DhfTmhwMRnhDAli-aa49Tbebow30asi02GmkqDD8ug2y_Yb6X-EbaBNGp0aJhl4ktJ8CROojmNAPv5ruy_FAq63ibNat5ALw.jpg"
-        }
-      ]
-    },
-    {
       "id": 3545,
       "message": "توی آپدیت جدید اسکنر، آیپی‌ای که Healthy هست واقعا بهتون پینگ میده!\u003cbr/\u003eهمینطور با زدن دکمه‌ی c روی کیبوردتون توی تست لایو، میتونید این آیپی‌ها رو کپی کنید.\u003cbr/\u003eیک سری دوستان عزیز متخصص هم برای تست بهتر، روی پروژه pr زدن که دستشون درد نکنه واقعا.\u003cbr/\u003eتا دقایقی دیگه منتشر می‌کنم\u003cbr/\u003e\u003cbr/\u003eهمینطور که توی تصویر می‌بینید، یک آیپی به من healthy داده شده و همون داره واسم کار می‌کنه با سرعت عالی",
       "date": "2026-05-29T00:16:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 41200,
+      "views": 43200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -71,7 +35,7 @@
       "date": "2026-05-29T00:29:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 58500,
+      "views": 62300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -83,7 +47,7 @@
       "date": "2026-05-29T00:35:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 48800,
+      "views": 51500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -95,7 +59,7 @@
       "date": "2026-05-29T06:03:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 49200,
+      "views": 54100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -125,7 +89,7 @@
       "date": "2026-05-29T09:04:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 40600,
+      "views": 47600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -137,7 +101,7 @@
       "date": "2026-05-29T09:56:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 36500,
+      "views": 45700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -149,7 +113,7 @@
       "date": "2026-05-29T13:18:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16400,
+      "views": 33600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -161,11 +125,59 @@
       "date": "2026-05-29T13:26:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12900,
+      "views": 31800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 3563,
+      "message": "BPB - Edge - VahidFarid\u003cbr/\u003eفقط Edge داره کار میکنه. هر سه هم روی یک اکانت",
+      "date": "2026-05-29T14:15:57Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 24700,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/loaxfetpbRk-9mRGGAuoVBAxRUNi4H-OV71XlhQBru2hPU957iYmnfjeAAsCKHngjb6EcO7fBqg-d9ciNaMuirPcNRYtE03ut7xXBn-o0AHtsxCAf22o7PLW6Pip6G58UASz4fj-R5L7tacX-wpJJaSYHANnPMDSph_k9sNr9exeqAM_MTarPGVQ07ks--Wxl6JR8zK-SItGf0yujmYshlPiTCMyAKc2LIvS0H5LpFXZ5VqITqzqAqGQhXI9tftMwwhGta-ekbvPFPAJqI1kO3L7hBIAEoiz4DfqDl38JYI3ZoCXjWxKxxShXBhzQlgrk04CvtVZ5ycZqGZHb2VPNw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3564,
+      "message": "به لطف دوست عزیزمون abolix، به اسکنر هسته‌ی xray اضافه شد که دیگه پینگ فیک نگیرید. همینطور دارم باگ‌هاش رو می‌گیرم که بتونید راحت استفاده کنید",
+      "date": "2026-05-29T15:16:19Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 15400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 3565,
+      "message": "به لطف دوست عزیزمون abolix، به اسکنر هسته‌ی xray اضافه شد که دیگه پینگ فیک نگیرید. همینطور دارم باگ‌هاش رو می‌گیرم که بتونید راحت استفاده کنید",
+      "date": "2026-05-29T15:31:33Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 10100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/KR1AmAibixKhXXEPSdBGrrBAtJb7Js3OsTkALkoRZrMlMTwyuff6pKtu2T5Kjar4wlcu_VeB48Bwp85dAcQiLmyCQfcg2iTivafqIf4zm-W1QMSn6-oDUMcgUd1gNrKPqQIq0--JRqPWhCVdgyPvduE9cDkyT4iD9y0yiMoy1jXJWGF6WiNTadEYYikVcgZzJBTpwyyYCLn3YhtddHS9n2jSDLsbEGzBsmySEKn6R7dBILW2qlWJYtQB0yzlyd9FEaaAzyn8bNNFpvfurGu3rgyTvncjRi5s2B2RenwVBbluEofBKf4qMSvUimDOCKSjzGWsO44Sbuh8STUSMTKYWg.jpg"
+        }
+      ]
     }
   ],
   "last_updated": 0
