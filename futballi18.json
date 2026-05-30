@@ -8,82 +8,12 @@
   },
   "posts": [
     {
-      "id": 83314,
-      "message": "\u003ctg-emoji emoji-id=\"5438211766842593349\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87ABF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇫🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5438169268141193565\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8FB4F3A081A7F3A081A2F3A081A5F3A081AEF3A081A7F3A081BF.png\u0026#39;)\"\u003e\u003cb\u003e🏴󠁧󠁢󠁥󠁮󠁧󠁿\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eتیفوی هوادارای دو تیم که واسه بازی امشب تدارک دیدن:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FUTBALLI18\" target=\"_blank\"\u003e@FUTBALLI18\u003c/a\u003e",
-      "date": "2026-05-30T16:02:20Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝗙𝗨𝗧𝗕𝗔𝗟𝗟𝗜 𝟭𝟴+",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/KwzOnOzldVhQR-wixpoHQVWAC16YO0VY_3OAY3adOlfco3UpAQd3D6okqxXbbkwbd_zed-kxl4UJpg7xjtw_3GE24LKIRxxidgEmrHWAcJiq65fLNyAIRXNGwF8AteyxXk1Sg4duJBfUb9OcVsBjQgCfDZXodHl5rYmfU8wHtm329omdjrDgFdPLgvHRA0G982lpI08ps8GPlGBCT477HFRV_Cyk9sH97ck9R657ZoPvKudlQa501qM8oaChxaVLpeP5jxQZxFKdQIf5jHx1o8b0IqUrJoXIgw3EmOp57YCn2ZG7uaOrFyb9WmTRI_kFbVpPpxGRcberYiqcM0J_hQ.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/P4cNb1lMuQEvACyFNUt-wOQm4ztjBFy1ElJZuK5GSBhrcKjGIFYpG-g_8Ysxp0_DUygU1uSWwRKvPiVsDiihTtUoTeGmLFarcWn1qq2NXNMkZzfTFXkJZw4GhZG6dbTebxcb0oyzDuLRFYk0k7HQUd_AUSqD6tIHMeoRUx7SDGzzdpch-seMerJdfnsPe5fRsK-sYxaQI5DGev-OZwbU_YT3VGJVIE2IlrNLJN10ptyynqIgOQl4IGFY1D7h6rzE3q2SZKmO43SWC5NAy6fuV7OgF4Yr8_kPgDhHHNUSfsD3aeYD3K2RU0681V5ovnainRG7QClioJ4E6QxORGYFVA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 83316,
-      "message": "سکس پاری‌سن‌ژرمن و آرسنال شروع",
-      "date": "2026-05-30T16:02:39Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝗙𝗨𝗧𝗕𝗔𝗟𝗟𝗜 𝟭𝟴+"
-    },
-    {
-      "id": 83317,
-      "message": "گلگلگلگلگللگلگلگلگل",
-      "date": "2026-05-30T16:07:10Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝗙𝗨𝗧𝗕𝗔𝗟𝗟𝗜 𝟭𝟴+"
-    },
-    {
-      "id": 83318,
-      "message": "هاااااورتز",
-      "date": "2026-05-30T16:07:14Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝗙𝗨𝗧𝗕𝗔𝗟𝗟𝗜 𝟭𝟴+"
-    },
-    {
-      "id": 83319,
-      "message": "یاموسی",
-      "date": "2026-05-30T16:07:15Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝗙𝗨𝗧𝗕𝗔𝗟𝗟𝗜 𝟭𝟴+"
-    },
-    {
       "id": 83320,
       "message": "چه گلی هم زد",
       "date": "2026-05-30T16:07:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14100,
+      "views": 18200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -95,7 +25,7 @@
       "date": "2026-05-30T16:07:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13700,
+      "views": 18800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -107,7 +37,7 @@
       "date": "2026-05-30T16:08:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14100,
+      "views": 19200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -119,7 +49,7 @@
       "date": "2026-05-30T16:09:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14000,
+      "views": 20100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -138,7 +68,7 @@
       "date": "2026-05-30T16:10:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13300,
+      "views": 18400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -150,7 +80,7 @@
       "date": "2026-05-30T16:17:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12300,
+      "views": 17400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -162,7 +92,7 @@
       "date": "2026-05-30T16:22:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10300,
+      "views": 17400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -184,7 +114,7 @@
       "date": "2026-05-30T16:28:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8200,
+      "views": 15300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -202,7 +132,7 @@
       "date": "2026-05-30T16:36:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6150,
+      "views": 14300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -220,7 +150,7 @@
       "date": "2026-05-30T16:36:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6160,
+      "views": 15300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -250,11 +180,90 @@
       "date": "2026-05-30T16:42:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3090,
+      "views": 13300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "𝗙𝗨𝗧𝗕𝗔𝗟𝗟𝗜 𝟭𝟴+"
+    },
+    {
+      "id": 83335,
+      "message": "خدا پدر و مادر سیمئونه رو بیامرزه",
+      "date": "2026-05-30T16:49:56Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 12300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝗙𝗨𝗧𝗕𝗔𝗟𝗟𝗜 𝟭𝟴+"
+    },
+    {
+      "id": 83336,
+      "message": "پاریس عجیب از کون آورد",
+      "date": "2026-05-30T16:50:17Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 11300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝗙𝗨𝗧𝗕𝗔𝗟𝗟𝗜 𝟭𝟴+"
+    },
+    {
+      "id": 83337,
+      "message": "\u003ctg-emoji emoji-id=\"5438272652298979717\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AAF09F87BA.png\u0026#39;)\"\u003e\u003cb\u003e🇪🇺\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eنیمه اول بازی؛\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5438211766842593349\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87ABF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇫🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eپاری‌سن‌ژرمن 0-1 آرسنال\u003ctg-emoji emoji-id=\"5438169268141193565\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8FB4F3A081A7F3A081A2F3A081A5F3A081AEF3A081A7F3A081BF.png\u0026#39;)\"\u003e\u003cb\u003e🏴󠁧󠁢󠁥󠁮󠁧󠁿\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FUTBALLI18\" target=\"_blank\"\u003e@FUTBALLI18\u003c/a\u003e",
+      "date": "2026-05-30T16:54:59Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 10200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝗙𝗨𝗧𝗕𝗔𝗟𝗟𝗜 𝟭𝟴+",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn5.telesco.pe/file/pwgOUkAuke_6BkPFMh1bGZPKmYGQvwHq8pG_K0qOh2RS9RI7l6mmt8mH245Ha7Ex6YQ6ASl3Mf1jlu7rmK3f_e1TFl7e22LRym5zxp5tjVwTGSaIpzzNmzSNQk0l9w1aGksBUoMwkWge1Ur1h_7UKg3XpLFYh8ZuBBQban9e5stHUIT3UC0TVoXR18e118tICVELqxlbQn7vz_og1FMU1UaNTDXnWxvNru2xlXWGZyzo_5FEVH2K4Qf-su1fptZd9ifcXW15LnqDPdJVE8LpgG1-3aIZauzAEqTMiQB6wHqNsGfQ5SjahhlxBB5LywklEzquztuP9F0qzoEHIdxuFg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 83338,
+      "message": "از لحاظ تعداد پاس؛\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5438211766842593349\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87ABF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇫🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e 345 \u003ctg-emoji emoji-id=\"5438169268141193565\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8FB4F3A081A7F3A081A2F3A081A5F3A081AEF3A081A7F3A081BF.png\u0026#39;)\"\u003e\u003cb\u003e🏴󠁧󠁢󠁥󠁮󠁧󠁿\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e 105\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FUTBALLI18\" target=\"_blank\"\u003e@FUTBALLI18\u003c/a\u003e",
+      "date": "2026-05-30T16:59:15Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 8189,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝗙𝗨𝗧𝗕𝗔𝗟𝗟𝗜 𝟭𝟴+",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/LSXehf4ANeXrE6pBAE5feyccs8FkCHEBRlY6HX39tBw8PbGb5EqJkqajv0Bu5iGyDSekYs-CE-DLrr0KtYd8EbrfuwqVgGIuRNRBztjlnwlaVay7MiqpHvS4zkUyuHr5loCh9QMj9lgJti7wkuPMCPs4Va5u1WERYeNatOUX1R8LZ-SagO2e_LvVTf4WzjXl-v6gAd4SDHX-BE5L-QLwIeINp021xgK56ErVVXL1MPlzudBDtTYaI5NF_Kym5Tk1t7V9S-LGwp91SAwJaGzjlkPaCfp4OpNapWoMXh60w4IlP-BzRXQ7ONgM_CihgyRkR_RDwzFOE_jkgXrjkS5KAw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 83339,
+      "message": "\u003ctg-emoji emoji-id=\"5438169268141193565\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8FB4F3A081A7F3A081A2F3A081A5F3A081AEF3A081A7F3A081BF.png\u0026#39;)\"\u003e\u003cb\u003e🏴󠁧󠁢󠁥󠁮󠁧󠁿\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eوضعیت آرسنال مقابل پاریس بعد از اینکه یه گل جلو افتاد:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FUTBALLI18\" target=\"_blank\"\u003e@FUTBALLI18\u003c/a\u003e",
+      "date": "2026-05-30T17:02:49Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5110,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝗙𝗨𝗧𝗕𝗔𝗟𝗟𝗜 𝟭𝟴+",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/agI3fkdhfDDdG9Spk6qaGlUHx7lm9brzYgCrL0kbe6y5gpx4dyGb5NvhuERR82j2cJSgFaPQ_Vv2AsR6fUZqMdGPLr1i8mjXbDfoQhj2P67bhWCZbIFiTwY0ZByc0wRH4izSOa9IE54D9tdEQVQtUlnhydmnvSFN_ad-T1aWnpoMQM4R4U5OPrifKSjCIwajbMnRj1gIMFq0IGDfdzE-902X52AzhT-JSvJo79zv9Icr-zFjoAP4tn6LyNigN9ssm0BNF8_fC_seKg2iaAbipgdVdMrBQgKa7JeOoZKcqxFwoOUtRM1Jee2SfIFwrWqUs4CTdlG-fxAlrt_gNYWjLw",
+          "width": 480
+        }
+      ]
     }
   ],
   "last_updated": 0
