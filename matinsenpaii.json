@@ -8,84 +8,12 @@
   },
   "posts": [
     {
-      "id": 3586,
-      "message": "مشکل bpb هم به کمک دوستان حل شد",
-      "date": "2026-05-30T04:14:59Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 52200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/TDG1m0xo58pPpv1LCEs2GaeACUh16HbOgyYVz57pT8MH0Fa8wTuVTufs358RJhC-Z3n0XqCeh8UCcadoygk03viGFLXnLRGwtr0I-i_bGKG2PMfQCOfUsmQ5OWi314BMTFXN7bYA4HSogFvwtWt3FLZHidrk1b5X1iDUQCz2qNBBUowtmXu56AmlTz2OXsdgfS86w4sdNTAm1_oJhVGzualYQ4BGdg9R48lxhLl9h_3BIZIOgnF5eOGCAYFiR_auW2E21Q29vZQisnxHy0QRJNhgv2cS5R5FSMneTumDRKitJ0t3oxaUNeM2kxXce71ZutC2Szlag71ZDN99BXi2zQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 3587,
-      "message": "آموزشش رو ضبط می‌کنم الان رفقا. دایرکت ترکید\u003ctg-emoji emoji-id=\"5370646412243510708\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F98AD.png\u0026#39;)\"\u003e\u003cb\u003e😭\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
-      "date": "2026-05-30T04:18:03Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 52800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 3588,
-      "message": "\u003ca href=\"https://github.com/MatinSenPai/SenPaiScanner/releases/tag/v0.4.0\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/MatinSenPai/SenPaiScanner/releases/tag/v0.4.0\u003c/a\u003e",
-      "date": "2026-05-30T05:57:26Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 52800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 3589,
-      "message": "متشکرم از دوتا دوست عزیزی که 105 و 3 دلار دونیت کردن. من تازه ولت رو چک کردم\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e مقدارش مهم نیست. کم یا زیادش یه اندازه ارزشمنده و کمک بسیار بزرگیه به من. ازتون ممنونم",
-      "date": "2026-05-30T06:14:19Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 53100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 3590,
-      "message": "متاسفانه به این علت باید حتما اسکنر رو توی لیست سفید آنتی ویروس قرار بدید. ویندوز دقیقا این بلا رو سر BPB Wizard هم آورده بود یادمه",
-      "date": "2026-05-30T06:48:29Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 52800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/dXjNLG-Hh9IvX7oQ4wLoIOkl5fRIPxXWnY5PJUNeE7mxl3K_9WgyNxUIjsMnqE0xQVsUZvAWdwH7c0rZhKOuuZOgNoJQfQ9Ct2WbPOG2jOwpChKxFOS-2lj_86GhdKVlhSHSZkmfTsMpzVwGwtXjTQPMQ-MkNXO4I_6MSc2-M8ANZhMmM-2O-Kml9yMYEB4HVwtED-jdfm8gZO46ha4UvJe5UICLbObijj8vsEOVvrJKP9Tf3YwehqtiqxsdboKX5OhBopFSzvNcu2bhSQc72bMSPlWqgwuhBrDmrKmne25uRpfHQM5WuynAmWktAIhPxKh_X5uhuXAGCBL_n52nPw.jpg"
-        }
-      ]
-    },
-    {
       "id": 3591,
       "message": "‏دوستان می‌دونستید که این روشن/خاموش شدن Wifi ویندوزتون باگ نیست؟! به‌خاطر فیلترینگ شدید فایروال‌های ایرانه\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A6F09F8FBBE2808DE29980.png\u0026#39;)\"\u003e\u003cb\u003e🤦🏻‍♀️\u003c/b\u003e\u003c/i\u003e دلیل و راه‌حلش: \u003cbr/\u003eتست اتصال مایکروسافت (NCSI) که فیچر ویندوز ۱۰ به بعده بلاک می‌شه؛ به زبان ساده، به‌خاطر فیلترینگ، ویندوز فکر می‌کنه اینترنت قطع شده و برای همین هی وای‌فای رو خاموش/روشن می‌کنه تا اتصال برقرار شه.\u003cbr/\u003e\u003cbr/\u003eراه غیرفعال کردنش:\u003cbr/\u003e۱. همزمان کلید Windows + R رو فشار بده (کلید ویندوز همون لوگو ویندوز روی کیبورد)\u003cbr/\u003e۲. توی کادر Run که باز شد، بنویس regedit و اینتر رو بزن.\u003cbr/\u003e۳. برو این مسیر:\u003cbr/\u003eHKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Services\\NlaSvc\\Parameters\\Internet\u003cbr/\u003e۴. روی EnableActiveProbing دابل‌کلیک و بعدش Value رو ۰ کن.\u003cbr/\u003e۵. سیستم رو ری‌استارت کن و تمام.\u003cbr/\u003e\u003cbr/\u003eدیگه این فیچر غیرفعال می‌شه و VPNتون قطع نمی‌شه :(\u003cbr/\u003e البته تا وقتی که غیرفعاله حتی اگه اینترنت قطع باشه، همیشه «Connected» نشون می‌ده.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5470060791883374114\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8D.png\u0026#39;)\"\u003e\u003cb\u003e✍️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://x.com/i/status/2060532878862352755\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eگیک‌زهرا\u003c/a\u003e",
       "date": "2026-05-30T13:26:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 45500,
+      "views": 46400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -97,7 +25,7 @@
       "date": "2026-05-30T13:32:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 41400,
+      "views": 42400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -109,7 +37,7 @@
       "date": "2026-05-30T13:41:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33600,
+      "views": 34600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -127,7 +55,7 @@
       "date": "2026-05-30T15:26:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 37500,
+      "views": 40200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -139,7 +67,7 @@
       "date": "2026-05-30T15:45:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 36400,
+      "views": 39400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -151,7 +79,7 @@
       "date": "2026-05-30T18:29:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28000,
+      "views": 33600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -170,7 +98,7 @@
       "date": "2026-05-30T18:30:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27500,
+      "views": 33100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -182,7 +110,7 @@
       "date": "2026-05-30T18:42:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26300,
+      "views": 33200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -194,7 +122,7 @@
       "date": "2026-05-30T19:48:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9440,
+      "views": 21900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -205,6 +133,66 @@
           "url": "https://cdn1.telesco.pe/file/e3IyAaA5kHR2u44Xo3sudtGVhDV7JjX6a3GyTStiyXPxYHuWEY1GLrqYIDGh1uNQCVzNbbGd0r6AfTUOAFap62vIO9AANAW2AOXyk_MNGEDMbXQ5YCbpWwbp2zB6Db14I2Gs-xcF9j4T4TshFV2phYjDUjYVAfqzqikZgPCa9aUQwNsyHcLPHQxPtOsa5Gk2i5rDjrXOhxOjMPHFAee2HaxMN2c51Pk7Atq4mq15z4i7Axzy5_1y8X-kuClyVNZvO9v4i3vtJBpFFWT09UOvwLZJLsm9-LhUiImUjoKDn6UvQyUW7dfphlNbuJfIvop_4EbH8IYY9pLaTCapFrOpyg.jpg"
         }
       ]
+    },
+    {
+      "id": 3607,
+      "message": "دوستان گل من از سرور خودتون برای اسکن استفاده نکنید. دامنه و سرورتون ابیوز می‌خوره\u003cbr/\u003eچرا خب ورکر رایگان نمی‌سازید:)",
+      "date": "2026-05-30T20:18:14Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 14100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 3608,
+      "message": "ورکر رایگان اینه\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9186.png\u0026#39;)\"\u003e\u003cb\u003e👆\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-05-30T20:22:18Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 12200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 3609,
+      "message": "\u003ca class=\"tgme_widget_message_author_name\" href=\"https://t.me/MatinSenPaii\"\u003e\u003cspan dir=\"auto\"\u003eMatin SenPai\u003c/span\u003e\u003c/a\u003e pinned a video",
+      "date": "2026-05-30T20:22:23Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 0,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 3610,
+      "message": "دوستان اگر از Undefined در نمیاد، \u003cbr/\u003e1- صفحه رو رفرش کنید\u003cbr/\u003e2- حداقل نیم ساعت صبر کنید\u003cbr/\u003e3- اگر نشد، پروژه‌ی Worker جدید بسازید و دوباره مراحل رو انجام بدید",
+      "date": "2026-05-30T20:33:18Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7390,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 3611,
+      "message": "",
+      "date": "2026-05-30T20:37:18Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4230,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
     }
   ],
   "last_updated": 0
