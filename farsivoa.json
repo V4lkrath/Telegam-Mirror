@@ -3,122 +3,17 @@
     "id": 0,
     "title": "Farsi VOA",
     "username": "farsivoa",
-    "photo_url": "https://cdn1.telesco.pe/file/RFNK6GHZadt6QqDaLIb1JOsGov9xqsJMBVQvbC79Hp1UZBcy7NlLbukVLbQToFwdZj4D7y7AM9MFRwHLQs--UOvFxQGfNHU8k1BOCaLkYEXehOUOSNMSnlQlCRQVGq9Y2xvFbKCZ7Bn-48JCI_vv11spElMJViwNndyOWzkSBdRxiq-sK6_8KqRGZDg_6_4DcfT0Welb_iS8bep2aaZxiBRY5SlmAnuuMJnv_L1XFYrCZbifx766lWwaYQsIEdGUpX5-IMhfWUqvX1OSKtGIpMBKKJT4GCIRqc2Yy7S-10ueeKN4p4GY0XQMSMXmqUlRpK1QJ-MdLbPSxrB9CnG3ZA.jpg",
+    "photo_url": "https://cdn1.telesco.pe/file/hoKn8-zMttVFRASc0r1QAJRtf6mEdr1K2S2yzivOg0QMBgKU9ndtKvevtf-9gVP93UzLmO3hDNRzdLN8Ma7-bNEMhfljjJMZbtK2X3k5sqbG9DI_cSUskVowkffkNLds4TnQnlOMbYwDKRks8tDlTb_puakytznUuY5EO3jO8V6m7KHFDQvOVO9gD6HnMn4NTJzyTYslQssn93cumbFTEK0OjL9L974Y45o7WjptObtA3Hm2CJAAxxR2UcWbsugDTQcfah9pwz1MwhxM6Sequ1vbKISzz2pGaMT1Xr_x249NS9wBrJrAItlhh8KoK0p3gY1UQvprpCjYe1A4wYj6uQ.jpg",
     "description": "تنها کانال رسمی بخش فارسی صدای آمريكا\nعكس، خبر و فيلم هاى خود را براى ما بفرستيد:\n@sendVOA"
   },
   "posts": [
-    {
-      "id": 219116,
-      "message": "زنگ خطر اجتماعی در ایران؛ جامعه بدون طبقه متوسط به کجا می‌رود؟ گفت‌وگو با فریدون رحمانی جامعه‌شناس",
-      "date": "2026-05-30T18:55:13Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4260,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/Ehmqc8cIbb5kSbkAT_ys_sgAgZGdKbP_e41f0AO13rMlvG-5gY8vYwZP-sUBaRVE10L6zL1q4rbdYxwnmDt0ihutWaPczcljv12c1L5v7fy5c93jpjpWZpJb48Ke4QOqzvUxVqY8tGHNVvQg7RSToDTV86WD3bhlQTdkEePMYvkb7TnXRCGdADlUd8LAyxGPJ3X9_Qj0YW0DFJS1hqaOOCPM8xrbuteWrkEmdNYVQUxrHynuNo37f_v2d3Ov9-5ny7vXvz95g4Yz0JDseMDH8nppjE0gWnlMeeWhSFn5TjrVFYrh5P2aE4DKRUVSuKHN0LqX6Cesnf_Q02PnQAzQ-g",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 219117,
-      "message": "گزارش نرگس صبا در برنامه تفسیر خبر: ترور به سبک جمهوری اسلامی در اروپا",
-      "date": "2026-05-30T18:58:11Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4430,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/i9ahoVk3szACis_uu8pNxG4lY95FGnm0aViG5sPjvzccDyHhqxJebZbRKEsfKGlvFV9NRhlE2xGbGIHi7cZNjhfoTAl3ZS5XNtx-PfIXLl8hvYb8YRK9wEj8HQmZHMSBH-rDN7u1XOpAxuxXQFx7YF92SCUcAJjgEcQYE_lUtGQkrnVJ2wAvelvsaCMXCItO2-D-G9T82wSB4Ohsiz4Qn5aLYI387e-zlpBxY9y-TMSS_lxBL50FBvpa_WQ-Qc48-tjZ9EisPNwOPjuCrzi4CRB3c_A2_X11_UitR2s_k4_Gx0Eb_YeSN6twqNaXiiEiKKL5J-fDM0-AhxQ7gpznkw",
-          "width": 404
-        }
-      ]
-    },
-    {
-      "id": 219118,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eحزب‌الله با راکت و پهپاد شمال اسرائیل را هدف قرار داد؛ ارتش اسرائیل عملیات در جنوب لبنان را گسترش می‌دهد\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eهم‌زمان با گسترش عملیات ارتش اسرائیل در جنوب لبنان، حزب‌الله لبنان روز شنبه ۹ خرداد چندین راکت و پهپاد به سوی شمال اسرائیل شلیک کرد. \u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/hezbollah-rockets-target-northern-israel/8155609.html\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/hezbollah-rockets-target-northern-israel/8155609.html\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
-      "date": "2026-05-30T19:11:58Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA"
-    },
-    {
-      "id": 219120,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003eسفر قالیباف به دوحه؛ بر خلاف اصرار مقامات رژیم نشانه‌ای ازآزادسازی پول‌های بلوکه‌شده نیست\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
-      "date": "2026-05-30T19:19:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4790,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/E0HbFWth1jIhP4UPR9kt3DpTL4xmjjfXAXeFqdG5j5l6BJ5FDVe9lYGS29WAQjsftK_TAvhGsPDfKQ-UlDswbac6MdshSiWCHGA7rJva4rdWaXTg2RstHGuD5ef4mYHPoKRN5-VobOyr6YifPChTgkPWaEhEH2aH2M18gCyALNrGx8qfofPuw_7-zMb7AQQgESQVpZJTB2HQjS2RkUf9WE_JvRkB0IrCYLXoJ_8AUy1s6TA3cz4UH5S41puHFTKitLWmUDF8gWpYOKWep7Kr4FTXBI15MjafG9fiHWt8u0QVwADuQuEJeT8DEzEIcd47m5vNH3AZmhc2sCvpLzaZsA",
-          "width": 640
-        }
-      ]
-    },
-    {
-      "id": 219121,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A2.png\u0026#39;)\"\u003e\u003cb\u003e📢\u003c/b\u003e\u003c/i\u003e‌ پادکست خبری شنبه ۹ خرداد ۱۴۰۵\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9B9C.png\u0026#39;)\"\u003e\u003cb\u003e🛜\u003c/b\u003e\u003c/i\u003eدر صورتی که با مشکل اینترنت مواجه هستید میتوانید اخبار صدای آمریکا را از نسخه‌های پادکست خبری ما روزانه دنبال کنید و یا اخبار را از نسخه سبک وب‌سایت ما پیگیر باشید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/lite\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/lite\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A1.png\u0026#39;)\"\u003e\u003cb\u003e📡\u003c/b\u003e\u003c/i\u003eبروزترین فرکانسهای ماهواره‌ای را نیز میتوانید از صفحه زیر پیگیری کنید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/satellite\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/satellite\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9494.png\u0026#39;)\"\u003e\u003cb\u003e🔔\u003c/b\u003e\u003c/i\u003eدیگر شبکه‌های اجتماعی ما هم دنبال کنید:\u003cbr/\u003e\u003ca href=\"https://linktr.ee/voafarsi\" target=\"_blank\" rel=\"noopener\"\u003ehttps://linktr.ee/voafarsi\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eما را به اشتراک بگذارید\u003cbr/\u003e\u003ca href=\"https://t.me/farsivoa\" target=\"_blank\"\u003e@farsivoa\u003c/a\u003e",
-      "date": "2026-05-30T19:23:38Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4980,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA"
-    },
-    {
-      "id": 219122,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eوزیر جنگ آمریکا می‌گوید «تنگه هرمز» باز می‌شود و عوارضی هم در کار نخواهد بود\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eشبکه آمریکایی سی‌بی‌اس در گزارشی نوشت که موضوع بسته شدن تنگه هرمز به‌طور منظم در گفت‌وگوهای پیت هگست، وزیر دفاع آمریکا، با کشورهای دیگر در کنفرانس دفاعی شانگری‌لا در سنگاپور مطرح شد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/hormuz-strait-raised-in-talks/8155610.html\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/hormuz-strait-raised-in-talks/8155610.html\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
-      "date": "2026-05-30T19:23:44Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5820,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA"
-    },
-    {
-      "id": 219123,
-      "message": "\u003ca class=\"tgme_widget_message_author_name\" href=\"https://t.me/farsivoa\"\u003e\u003cspan dir=\"auto\"\u003eFarsi VOA\u003c/span\u003e\u003c/a\u003e pinned an audio file",
-      "date": "2026-05-30T19:23:54Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 0,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA"
-    },
     {
       "id": 219124,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eنخست وزیر لبنان از مذاکرات با اسرائیل دفاع کرد\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eنواف سلام، نخست‌وزیر لبنان از مذاکرات با اسرائیل که روز جمعه در پنتاگون برگزار شد، دفاع کرد. \u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/israel-lebanon-us-pentagon-negotiations-hezbollah-/8155608.html\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/israel-lebanon-us-pentagon-negotiations-hezbollah-/8155608.html\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
       "date": "2026-05-30T19:49:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5830,
+      "views": 6230,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -130,7 +25,7 @@
       "date": "2026-05-30T20:46:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5160,
+      "views": 5820,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -148,7 +43,7 @@
       "date": "2026-05-30T21:21:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4580,
+      "views": 5310,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -166,7 +61,7 @@
       "date": "2026-05-30T22:41:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3170,
+      "views": 3950,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -185,7 +80,7 @@
       "date": "2026-05-30T22:44:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3170,
+      "views": 3980,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -204,7 +99,7 @@
       "date": "2026-05-30T23:59:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2620,
+      "views": 3490,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -230,7 +125,7 @@
       "date": "2026-05-31T00:20:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2850,
+      "views": 3650,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -242,7 +137,7 @@
       "date": "2026-05-31T00:42:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2880,
+      "views": 3750,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -260,7 +155,7 @@
       "date": "2026-05-31T00:44:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3130,
+      "views": 4070,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -279,7 +174,7 @@
       "date": "2026-05-31T01:24:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3340,
+      "views": 4460,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -291,7 +186,7 @@
       "date": "2026-05-31T02:38:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2970,
+      "views": 4390,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -300,6 +195,115 @@
         {
           "type": "photo",
           "url": "https://cdn1.telesco.pe/file/iGWgnBXVWV6cTVCFn_ucXHm6lARjzisr3TyNIayxYOA__j4gA6XXPunHIGDV_nEoRpTBm9oyL0eHkKgTPthUJG75rFvHo3WuJ6iXcL3vusHJi1_IEldSsYe7-re9nXhSnIHeArTYefV0DmuKxFY-AMK9XXlTTdS2ZPd-9G9Zfr56m5kX4uwT0w8t5CsfDfyiljK33eI3jFaYTMW7pFoLs84aV3XkjNG6o6QFHoGQ2p8uB8ncHhiggWxoXGFucN-srLtAkx9Ni473NJ6xPGJDXm34fxRfLDOiYiexT0BtxQetOAldN9MUY_oJg19U7hfhBS-0LAn0xtkQh4eLJ678lQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 219137,
+      "message": "ارتش ایالات متحده اعلام کرد در حمله‌ای تازه به یک شناور در شرق اقیانوس آرام، سه مرد کشته شدند؛ حمله‌ای که دومین مورد از این نوع در دو روز گذشته به شمار می‌رود.\u003cbr/\u003e\u003cbr/\u003eفرماندهی جنوبی ارتش آمریکا روز شنبه در پیامی در شبکه ایکس گفت اطلاعات به‌دست‌آمده نشان می‌داد این شناور در مسیرهای مورد استفاده برای قاچاق مواد مخدر در شرق اقیانوس آرام حرکت می‌کرد و در عملیات قاچاق مواد مخدر نقش داشت.\u003cbr/\u003e\u003cbr/\u003eاین فرماندهی افراد کشته‌شده را «نارکوتروریست» خواند و اعلام کرد در جریان این عملیات هیچ نیروی آمریکایی آسیب ندیده است.\u003cbr/\u003e\u003cbr/\u003eاین حمله دومین عملیات مشابه ارتش آمریکا در دو روز گذشته است. رویترز نوشته این حمله تازه‌ترین مورد از مجموعه حملاتی است که طی ماه‌های اخیر علیه شناورهای مظنون به ارتباط با قاچاق مواد مخدر انجام شده است.\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-05-31T04:50:38Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2260,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/Fznw8W-7bEbQwwHGgHrBUI6E99MVusJLQ47VT87KP8zq4kh-ff7aIJ5xhj3KzS2duU-lGSp8vM6dicFh6zR4cv_ocJNHR9SlZlsY4kgGt_5uVFpYOWVMYTHSlkom2ZgKqYpwor9S0mbY1cCxNDB_dsO4Hoy2mor-jQClgbuO01cORbf9MAwR8RsObi1yjhQF1A1j-vLDp29-DF-w9L9YYi45_9_SU5FezrDxFfnCJt9PPsSe2vS4tjINCSzsttfYpszyVrOFV9vIrN-52ouROJh6iJ3f_tUn_NrpFKPaJ6fcgr_YjE1zBf8MOh2ZIJHT0T1NJURBm9HyYmG9kPanag",
+          "width": 1920
+        }
+      ]
+    },
+    {
+      "id": 219138,
+      "message": "آژانس بین‌المللی انرژی اتمی اعلام کرد که یک پهپاد به ساختمان توربین نیروگاه هسته‌ای زاپوریژیا در جنوب شرقی اوکراین اصابت کرده است.\u003cbr/\u003e\u003cbr/\u003eاین نهاد وابسته به سازمان ملل متحد یکشنبه اعلام کرد که از سوی این نیروگاه هسته‌ای مطلع شده که این حمله باعث ایجاد حفره‌ای در دیوار ساختمان نیروگاه شده است.\u003cbr/\u003e\u003cbr/\u003eرافائل گروسی، مدیرکل آژانس بین‌المللی انرژی اتمی، نگرانی شدید خود را درباره این حادثه ابراز کرد و گفت: «حمله به تأسیسات هسته‌ای مانند بازی کردن با آتش است.»\u003cbr/\u003e\u003cbr/\u003eآژانس در پیامی در شبکه ایکس اعلام کرد که تیم این نهاد در این نیروگاه تحت کنترل روسیه درخواست دسترسی کرده است تا ساختمان توربین آسیب‌دیده را از نزدیک بررسی کند.\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-05-31T05:10:21Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1820,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/uyHSKImdhe0ebbh2QpaQmjRpEzLjC_QvahPtX0yoXqiEXxGIMoQNa-SStgYUpgxqPotX7TTGMzteh9SGEp9_7SJkiJYrBBl3uOErCufWap60nL5LATD_GQQRhOxT8j5ymBvzqxEaVwZm8VRLvxY1XdXI2oESv8qpgLbc5lnbMkM7aOj2sneBdburrM6X_ey-geNSl-Wt0c_4VcEcZlTSRzCt-3SSgPZmXvdnm9OOdZFxjGwuwpXfTal6NNq6l6z0O1nCfXU2MS0D8RHxT94fMH-q7vt-sog0omQKhBwpVacRJ-qClw6ej-rKDvqgRxKHtKHOBb0coXJ9SCoDPCJJQA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 219139,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A2.png\u0026#39;)\"\u003e\u003cb\u003e📢\u003c/b\u003e\u003c/i\u003e‌ پادکست خبری شنبه ۹ خرداد ۱۴۰۵\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9B9C.png\u0026#39;)\"\u003e\u003cb\u003e🛜\u003c/b\u003e\u003c/i\u003eدر صورتی که با مشکل اینترنت مواجه هستید میتوانید اخبار صدای آمریکا را از نسخه‌های پادکست خبری ما روزانه دنبال کنید و یا اخبار را از نسخه سبک وب‌سایت ما پیگیر باشید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/lite\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/lite\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A1.png\u0026#39;)\"\u003e\u003cb\u003e📡\u003c/b\u003e\u003c/i\u003eبروزترین فرکانسهای ماهواره‌ای را نیز میتوانید از صفحه زیر پیگیری کنید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/satellite\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/satellite\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9494.png\u0026#39;)\"\u003e\u003cb\u003e🔔\u003c/b\u003e\u003c/i\u003eدیگر شبکه‌های اجتماعی ما را هم  را هم از لینک زیر دنبال کنید:\u003cbr/\u003e\u003ca href=\"https://linktr.ee/voafarsi\" target=\"_blank\" rel=\"noopener\"\u003ehttps://linktr.ee/voafarsi\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eما را به اشتراک بگذارید\u003cbr/\u003e\u003ca href=\"https://t.me/farsivoa\" target=\"_blank\"\u003e@farsivoa\u003c/a\u003e",
+      "date": "2026-05-31T05:15:54Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA"
+    },
+    {
+      "id": 219140,
+      "message": "\u003ca class=\"tgme_widget_message_author_name\" href=\"https://t.me/farsivoa\"\u003e\u003cspan dir=\"auto\"\u003eFarsi VOA\u003c/span\u003e\u003c/a\u003e pinned an audio file",
+      "date": "2026-05-31T05:15:59Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 0,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA"
+    },
+    {
+      "id": 219141,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eاکسیوس و نیویورک‌تایمز: ترامپ شروط توافق احتمالی با تهران را سخت‌گیرانه‌تر کرده است\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eاکسیوس و نیویورک‌تایمز گزارش دادند دونالد ترامپ خواستار سخت‌گیرانه‌تر شدن شروط چارچوب توافق احتمالی با جمهوری اسلامی شده و نسخه اصلاح‌شده را برای بررسی به تهران فرستاده است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eاکسیوس نوشت ترامپ از تیم خود خواسته چند بند از متنی را که فرستادگانش با طرف‌های ایرانی روی آن کار کرده بودند، اصلاح کنند؛ به‌ویژه بندهای مربوط به برنامه هسته‌ای و مواد هسته‌ای ایران.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eنیویورک‌تایمز نیز گزارش داد ترامپ از کندی پاسخ جمهوری اسلامی به پیشنهادهای آمریکا ناراضی بوده و نسبت به بخش‌هایی از توافق که می‌تواند به آزادسازی دارایی‌های ایران مربوط باشد، نگرانی داشته است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/trump-tightens-terms-of-potential-deal-with-iran/8155753.html\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/trump-tightens-terms-of-potential-deal-with-iran/8155753.html\u003c/a\u003e",
+      "date": "2026-05-31T05:29:04Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1660,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA"
+    },
+    {
+      "id": 219142,
+      "message": "ارتش اسرائیل اعلام کرد که یک سرباز این نیرو در حمله پهپادی حزب‌الله در جنوب لبنان در شامگاه شنبه کشته شده است.\u003cbr/\u003e\u003cbr/\u003eدر گزارش ارتش اسرائیل، این سرباز کشته‌شده، گروهبان یکم مایکل تیوکین، ۲۱ ساله، از واحد شناسایی تیپ گیواتی و اهل اشکلون، معرفی شده است.\u003cbr/\u003e\u003cbr/\u003eارتش اسرائیل اعلام کرد که این حمله حدود ساعت ۱۰:۳۰ شامگاه شنبه رخ داد و در جریان آن، یک پهپاد که توسط حزب‌الله هدایت می‌شد، به موضعی که نیروهای تیپ گیواتی در آن مشغول فعالیت بودند، اصابت کرد.\u003cbr/\u003e\u003cbr/\u003eدر نتیجه انفجار، چهار سرباز دیگر نیز به‌طور سطحی زخمی شدند که آنان برای درمان به بیمارستان منتقل شدند.\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-05-31T05:42:10Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1340,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/sybKhmyBorwxqkXMxEOjPqmtdF36YwPpWwwN1GYaBqmdoK2wsHuWlw9djzEqk-SQjsFFUEGy60BNXILP3KxmhqINaqsg83MMUiLnhfG8hGuoXXz-l1Gq1KfHOGLpul3pjRRv-kDRYPwistXUOFhDVTNbB7m5P597F_UC6NQiU-89Gq8GcNJbtu24tvE6-JZ8ux7b7LCZE2JXIPHVBTxNzn2wSPILc3IpK_19Lrzar832epE66V3St6WnDJ65-Mvz5fh9iUPdL7fHQDCITy2_y_72f6tDgvBivZx0SF4r_3zZMibosEPpJRvFiLckyE9Nl9C9rhkIw7PkV1WoabDcvg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 219143,
+      "message": "بدر عبدالعاطی، وزیر خارجه مصر و رافائل گروسی، مدیرکل آژانس بین‌المللی انرژی اتمی، در یک تماس تلفنی تحولات منطقه‌ای و آخرین تحولات مذاکرات واشنگتن-تهران را مورد بحث قرار دادند.\u003cbr/\u003e\u003cbr/\u003eبر اساس بیانیه وزارت خارجه مصر، این تماس شامل بررسی آخرین تحولات مسیر مذاکرات میان ایالات متحده و حکومت ایران و تلاش‌ها برای دستیابی به توافقی بود که «نگرانی‌های همه طرف‌ها را در نظر بگیرد».\u003cbr/\u003e\u003cbr/\u003eوزیر خارجه مصر بر «ضرورت افزایش تلاش‌های دیپلماتیک و حمایت از روند رسیدن به توافقی میان دو طرف آمریکایی و ایرانی» تأکید کرد؛ تفاهمی که بتواند به «کاهش تنش و جلوگیری از تشدید بحران کمک کرده و امنیت و ثبات منطقه‌ای و بین‌المللی را تقویت کند».\u003cbr/\u003e\u003cbr/\u003eهمچنین دو طرف همچنین نتایج نشست یازدهم کنفرانس بازنگری معاهده عدم اشاعه سلاح‌های هسته‌ای را که در نیویورک برگزار شد، بررسی کردند.\u003cbr/\u003e\u003cbr/\u003eدر این تماس، وزیر خارجه مصر ابراز تأسف کرد که این کنفرانس نتوانست به توافقی درباره سند نهایی دست یابد و تأکید کرد که مصوبات کنفرانس‌های بازنگری قبلی همچنان معتبر هستند.\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-05-31T06:05:48Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 715,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/eb3tcUrW-m7z8iSW_ILHYWwGDibKK5c5XxRri3-IlxfHgTMjHo9cqPnFjms9BLrl5Y9-MzDDDk467GMIaDRrhhuXXG78AE7AOqpfQGFea5_dTu-ZJXxzqhvOTveEQJ0-iZ_fOWIqVKLLVV_EfKKRe8qZnhVWPz1M16HoIokUUwpyKEmsrjF8MUmVoXsrKhBuXSh3lqv7XplVlsphmQ-XMB1wfOxQtpGFyZ0ChBKSiuNMIOtAZifj4EuxUzXO9UPR-0OW_wuoWG1eoYD5zySX1pUEbkpcpeajndnBdlmkCJmCHDBix6X5xEIupuUW6fRBOKBpQWerVfbtB6KFAmELsw.jpg"
         }
       ]
     }
