@@ -13,7 +13,7 @@
       "date": "2026-05-30T09:56:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 192,
+      "views": 196,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -51,7 +51,7 @@
       "date": "2026-05-30T12:43:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 170,
+      "views": 173,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -69,7 +69,7 @@
       "date": "2026-05-30T14:19:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 147,
+      "views": 152,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -91,7 +91,7 @@
       "date": "2026-05-30T15:49:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 140,
+      "views": 146,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -133,7 +133,7 @@
       "date": "2026-05-30T16:01:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 156,
+      "views": 165,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -151,7 +151,7 @@
       "date": "2026-05-30T17:51:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 154,
+      "views": 165,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -169,7 +169,7 @@
       "date": "2026-05-30T19:44:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 129,
+      "views": 149,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -187,7 +187,7 @@
       "date": "2026-05-30T22:38:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 66,
+      "views": 102,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -199,6 +199,36 @@
           "width": 352
         }
       ]
+    },
+    {
+      "id": 18823,
+      "message": "⁨ ارشیا عسکری، کودک ١٧ ساله و اهل مشهد مرکز خراسان رضوی، شامگاه پنجشنبه ١٨ دی ۱۴۰۴ با شلیک مستقیم نیروهای حکومتی کشته شده است.\u003cbr/\u003e\u003cbr/\u003eدادبان: بر اساس حقوق بین‌الملل، کشتن هدفمند غیرنظامیان غیرمسلح در جریان سرکوب اعتراضات، در صورت وقوع به‌صورت گسترده یا نظام‌مند، می‌تواند مصداق جنایت علیه بشریت بوده و موجب مسئولیت کیفری بین‌المللی عاملان و آمران آن شود.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%A7%D8%B1%D8%B4%DB%8C%D8%A7_%D8%B9%D8%B3%DA%A9%D8%B1%DB%8C\"\u003e#ارشیا_عسکری\u003c/a\u003e \u003ca href=\"?q=%23%D8%AF%D8%A7%D8%AF%D8%A8%D8%A7%D9%86\"\u003e#دادبان\u003c/a\u003e⁩",
+      "date": "2026-05-31T04:40:18Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 8,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "دادبان؛ مرکز مشاوره و آموزش حقوقی ویژه کنش‌گران",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/OYcrI7RSYAGpOZ-Bc0yxhcXbuLdPeZeqpnTCWz0iKMtFl4W5xwKzsAKYuHuV54E1z4UDkHRg2IP2c-oVOaXON7ibKTgWaDATXJ67vgVvKPqWl8ZmMeNNyOl4DAFP114wNafmrTjwKIX-XEvPHD9kZLJs-4AlmEh_Fgh432pkmaYY-fPZ7Sa17oRVcQ_hk7NdAbeYViVGoK_001o3Cewtw9GNjxOVSgF3Zo2UYZYo8wRRy8W0BaDW5Amh88zI76LBgcC9nVQOZM4EiCKoxoFSgp8s0i6HiO2dKaugVfWkAnWbL0N8gQtFcveGTT05ol7svdGdBN84Gzd1OSW_SJnlZA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 18824,
+      "message": "\u003ca class=\"tgme_widget_message_author_name\" href=\"https://t.me/Daadbaan2021\"\u003e\u003cspan dir=\"auto\"\u003eدادبان؛ مرکز مشاوره و آموزش حقوقی ویژه کنش‌گران\u003c/span\u003e\u003c/a\u003e pinned a photo",
+      "date": "2026-05-31T04:40:22Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 0,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "دادبان؛ مرکز مشاوره و آموزش حقوقی ویژه کنش‌گران"
     }
   ],
   "last_updated": 0
