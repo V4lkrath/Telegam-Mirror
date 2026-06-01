@@ -3,172 +3,17 @@
     "id": 0,
     "title": "Farsi VOA",
     "username": "farsivoa",
-    "photo_url": "https://cdn1.telesco.pe/file/hoKn8-zMttVFRASc0r1QAJRtf6mEdr1K2S2yzivOg0QMBgKU9ndtKvevtf-9gVP93UzLmO3hDNRzdLN8Ma7-bNEMhfljjJMZbtK2X3k5sqbG9DI_cSUskVowkffkNLds4TnQnlOMbYwDKRks8tDlTb_puakytznUuY5EO3jO8V6m7KHFDQvOVO9gD6HnMn4NTJzyTYslQssn93cumbFTEK0OjL9L974Y45o7WjptObtA3Hm2CJAAxxR2UcWbsugDTQcfah9pwz1MwhxM6Sequ1vbKISzz2pGaMT1Xr_x249NS9wBrJrAItlhh8KoK0p3gY1UQvprpCjYe1A4wYj6uQ.jpg",
+    "photo_url": "https://cdn1.telesco.pe/file/qd_b2wfK0WJdW5wHz8EhAzzG9K4VABgZVpbVzr94QrjQJK9GotPbAckA698w2PXN2ZeXzx0_QZLlQtlQuXlZUJKv8ptnm6abYx8r86WfanEC2FqX27B3ud4-Ypg3r89UBeAz2gJpga1Kdqm4Z8-H7T4IvmoowRsf8miOoBRTOWGdNqu-D8XE8D7QyNWsRFPQIlAGuiApEL0H0UwoCCfdqPXLrCN7fjZuTsNbzOGlc_Q9DVMISyRvNWRpYRIAxMo37nP_eovypPLiS1sju8iq1qu8xdlgJ86h0uUv3epDcCBWH6daIYoIDiBqdBSJipxWgO2XIMTMT7111ShnrK2NSg.jpg",
     "description": "تنها کانال رسمی بخش فارسی صدای آمريكا\nعكس، خبر و فيلم هاى خود را براى ما بفرستيد:\n@sendVOA"
   },
   "posts": [
-    {
-      "id": 219201,
-      "message": "ده سال زندان برای شهروندی که از معترض نشسته در برابر ماموران فیلمبرداری کرد",
-      "date": "2026-05-31T18:26:57Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4410,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/uklczNnY9dZLXS7zA-mXnaYisTSCE0hps2119NBp4RE3Ofteyu52dTyQLUCYviKWpWyfaw4pb0LHafHYljDbfDxYkI8vHUBWD4HbZqmgh_e3ziIvwcDnN2NsAB-sUlXxToo89ho1gJ5Z_KjKF2XU6cNLuRnzHMIGQ5F1GEbsdwXmC1G_d6CjJ09xcdrFX-ALd4FpMQn-UrEyr6WC53ing_Ubu3N6aEX_3h-w-7bjBbbF4ISvaoMXJYLCAH-NuY0D20bzdX9t1GF1mtfjrnwkSrIdu7NkufiC_Twq5aMz-FNBo6FEAmuUFU8mfyG-0pPdVxc_N8on4O-DcX3UZC4zlA",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 219204,
-      "message": "روزنامه شرق در گزارشی از گسترش پدیده‌ای نوشت که آن را «بحران خاموش ترک درمان» نامیده است؛ وضعیتی که در آن بیماران به دلیل افزایش هزینه‌ها، درمان‌‌ و مراقبت از بیماری‌های مزمن را به تعویق می‌اندازند یا به‌کلی کنار می‌گذارند.\u003cbr/\u003e\u003cbr/\u003eبر اساس این گزارش، فشار همزمان تورم درمانی، کاهش قدرت خرید خانوارها، رشد قیمت دارو و تجهیزات پزشکی و پوشش محدود بیمه‌ها باعث شده درمان برای بسیاری از خانواده‌ها از یک حق ضروری به کالایی وابسته به توان مالی تبدیل شود.\u003cbr/\u003e\u003cbr/\u003eگزارش کامل را در \u003ca href=\"https://ir.voanews.com/a/8155757.html\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eوب‌سایت صدای آمریکا\u003c/a\u003e بخوانید.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
-      "date": "2026-05-31T18:47:07Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4160,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/HOHbSgl2OYzVfjk2HNVe3tVC9SPixYAxsOX_u7Qh0Ha_8oIHVNyfx1wHMjRgFjJ9lbnGU01ZuE_9cgQYWjiydrOmLAPujKi2T6LKxS7vCJY16MSKPMb7yRGiGjIyenR3szszIG_KGHg3jrUUqihDsMcnc0rBGMT79sdmj-baEPw67Aox2UsAHVOW2cvziC2mcx-yei9xa2VR5eC-CAXa2MQRjwbAbTrPt8DLQJ4EnmuVaFQu-QEXJ-s2XkGYLsosWrem9P9OPifTeuOYMCpezKky1dV-r1WrF7NIEzgjuHQaGkt_ItnG3cNXgkDokj-BvgWnmxnbmThzQ5KLr7tAAg",
-          "width": 1080
-        }
-      ]
-    },
-    {
-      "id": 219205,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eصدور حکم زندان علیه یک وکیل؛ وقتی مجازات اعتراض «یک‌سال حضور در ستاد امر به معروف» است\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E297BE.png\u0026#39;)\"\u003e\u003cb\u003e◾️\u003c/b\u003e\u003c/i\u003eمنابع حقوق بشری روز یکشنبه ۱۰ خرداد، از محکومیت مهدی انصاری، وکیل دادگستری به پنج سال حبس، و محکومیت نیما حسن‌خانی، از بازداشت‌شدگان اعتراضات دی‌ ۱۴۰۴، به «یک سال حضور در ستاد امر به معروف و نهی از منکر» به علاوه محکومیت‌های دیگر خبر دادند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/nima-hassankhani-mehdi-ansari-protesters-prison-lawyer/8155821.html\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/nima-hassankhani-mehdi-ansari-protesters-prison-lawyer/8155821.html\u003c/a\u003e",
-      "date": "2026-05-31T18:49:06Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA"
-    },
-    {
-      "id": 219206,
-      "message": "در حالی که ماه‌ها قبل مسئولان فدراسیون فوتبال جمهوری اسلامی از تضمین‌ها و شروط حضور تیم در جام جهانی صحبت می‌کردند، حالا در فاصله ۱۱ روز تا آغاز جام جهانی گزارش‌ها حاکی از آن است که فدراسیون برای تعیین تکلیف ویزاها بار دیگر به فیفا نامه زده است.",
-      "date": "2026-05-31T18:50:26Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4640,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/nQB5WxK-1Pp10547f5GkGXdNcjT-FN4CXkErfaa1W6tk16lRyU_cxI2GqmXmk-ZivIEjzk-_-N8sN7OaRQtdLRcaxOwzrSpEXv5gPfCzk8dBWOyM8w2v2r6SRdQZY22FHi14NMmqjGZlDcGxoOxqefcCtxLlnQtWur29NfGsacsT42zoUK8_j9iJd80T5-NeUhMFbpkTjB0SKy1mnc-g7iZc3dVxBp04dsWk3OqwXo67GLPAwdHuE6uKtyDeFhSf4k2GOwXEx_pmhxlVE-Q0NMFPKjCegHvsh1cTppyDQCvB1Qgsq5mZVwwLMd1AwFA0w2m9zUQkCKMvjGHXO2-E8A",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 219207,
-      "message": "فرماندهی مرکزی ایالات متحده، سنتکام، تصویری از هدایت یک بالگرد «ام‌اچ-۶۰ اس سی هاوک» هنگام فرود روی عرشه ناو «یواس‌اس میلیوس» در جریان عملیات پروازی در ۸ خرداد منتشر کرد.\u003cbr/\u003e\u003cbr/\u003eسنتکام می‌گوید ناو «میلیوس» از محاصره آمریکا علیه جمهوری اسلامی حمایت می‌کند؛ محاصره‌ای که تا ۱۰ خرداد، مسیر ۱۱۸ کشتی تجاری را تغییر داده و ۵ فروند را از کار انداخته است.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
-      "date": "2026-05-31T19:00:50Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4970,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/BPZoNUAQQ9RiuWnkByp0RXBMZZ6UBXRdpoivFVOrDCEFLHRso_ZhAy-tijO8hDPsOEucw-elvM_xZHjOyGhdaszK8DzoeNwhKb0gbveibv7r9Ed3oL8Kb07P1tTjCJiqjSoNhCCXQHRJ_tCyoChPnP2h4ZIAe5DV78-OjBr-pH_B2D-YL6nO0unrIlMm2CJAo2wzdEfFfkih6sRSGSmepcTnMIoKVnBNqB5Exeqql9BNMgHytXxA1_BOvpv8Kh1CjIyPfbwjxDMtEkHLjm5fJRXOAtRA0lIfffBdSL4dO5Wv2BEEjppOYikOOdtIqHqoSZXutvIF11WXmNibFqSA_g.jpg"
-        }
-      ]
-    },
-    {
-      "id": 219208,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eدیدگاه | سقوط قلعه بوفور و شکستی که حزب‌الله و جمهوری اسلامی تقدیم جهان اسلام کردند\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E297BE.png\u0026#39;)\"\u003e\u003cb\u003e◾️\u003c/b\u003e\u003c/i\u003eتصرف قلعه تاریخی و راهبردی بوفور (یا بوفورت که نام عربی آن «شقیف» است) توسط ارتش اسرائیل در جنوب لبنان می‌تواند برخی معادلات نظامی و سیاسی این کشور را تغییر دهد و یک شکست تاریخی برای حزب‌الله و جمهوری اسلامی ثبت کند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/opinion-beaufort-castle-fall-hezbollah-defeat/8155798.html\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/opinion-beaufort-castle-fall-hezbollah-defeat/8155798.html\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
-      "date": "2026-05-31T19:01:59Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5730,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA"
-    },
-    {
-      "id": 219210,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003eدر سایه بحران دارو و معیشت در ایران؛ دغدغه روزنامه کیهان لبنان است\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
-      "date": "2026-05-31T20:10:21Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4050,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/B8bcX6JC5oWAwhnnypGX-fdltaY5JYsgctS4np5qEkdaK_mNtE8cJ81OKSPfDyGDSGXWMW9otsX62xFdzZamSxc8AQLHPagTe5WftaCgy1Z4_HAoLtJNbkvQCul6ftpF-kR8xOOsGgucmNzUgaV1hQB0IOUpvQ1QUUMlbudccclHG91LrD1rJYouasW394OxANkH57uXADn5ISQNlMgBS8DM6h4HHdrCRwYL5lc1saHduHK2Z9DDj4tHqek1yQgZcXVwGBA7ZLxBW38bKpvoTOyCwsUi9tpKx2Ah-G7-kkXHL1JoPdiUk8ugUFa5i9sXYduo8XCZccXwPTNjJyN4Ew",
-          "width": 640
-        }
-      ]
-    },
-    {
-      "id": 219211,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003eبازنشستگان ایرانی زیر فشار تورم ساختاری؛ گفت‌وگو با رضا غیبی\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
-      "date": "2026-05-31T20:16:50Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4050,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/JTRCwmU9DQlBWPPK7E6RFqfGfGVkgd9HtoO2_52sQTocF0igdj2p9emBUF2UvXhbuAVJDi2GXmViPwZNDtBRlXbOPBlfy84yKaLZaSz19Dbyn2B92CYE7MHZH2yggLXDviBE9tCLjuDX8X4Bepuet6B1LEdsOVxUL_3tBtyY8KdljRqGqdtZ-09QkABjZXz5ZZJPNgn9cMXcppQzA_zWBfxFC9Vg5je_ArVS2CUEI25lQnLDFfuii2i-y65uyJOqyaCtf62nawJEuu5CaL_WWVFKXQ0AJS7VblrJJj0ktX1IXYKG3Y92zwXQyVHyQIO10DpKfpB6A8DuN9EltltBpg",
-          "width": 640
-        }
-      ]
-    },
-    {
-      "id": 219212,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003eمایک والتز، سفیر آمریکا در سازمان ملل متحد، در واکنش به پستی در شبکه اجتماعی ایکس که به نقل از اسکات بسنت، وزیر خزانه‌داری آمریکا، نوشته بود حملات جمهوری اسلامی به کشورهای جنوب خلیج فارس باعث شده این کشورها در شناسایی و مسدود کردن دارایی‌های تهران در بانک‌های خود با واشنگتن همکاری کنند، گفت بله، جمهوری اسلامی «اشتباه بزرگی» مرتکب شد و تا آینده قابل پیش‌بینی، بهای آن را خواهد پرداخت.\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
-      "date": "2026-05-31T20:43:17Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3840,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/slnevquA4t7YTgZIG2kTO5TqPInMhuq_Zcxvl2_cG2ea3hezTqVVxBYPvqobj8UGulxZEjAhJYq2LtrPQS4K_o2xR7JJXo7-MTi0t6UwenwFksXrsnj1gsp_c_W0LSBaEBkhgYriDuw4XWkG6bWaE9fHJavc_frzzWWChSHBfSdbG42R9MIyphRTl_GH0QtS_6FSIkwt_1CDK03-G-lpINzd9pXXrLccl8XdowCsuLSQCN88JC2rR3AqGpoUyEaMO2mPmZOFQQqlQt-GikH0jb9IFLeQAzM_O8dp-KbcxafrnPqEQWHtMRCooJzCxZKQ14uANnhOteKUrt6U_svmcA.jpg"
-        }
-      ]
-    },
     {
       "id": 219213,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eادامه راکت‌پرانی‌های حزب‌الله به شمال اسرائيل هم‌زمان با تلاش‌های دولت لبنان برای ادامه مذاکرات صلح\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eرسانه‌های اسرائیلی از ادامه حملات راکتی گروه تروریستی حزب‌الله به شمال اسرائيل خبر می‌دهند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/8155833.html\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/8155833.html\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
       "date": "2026-05-31T21:47:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2670,
+      "views": 4720,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -180,7 +25,7 @@
       "date": "2026-05-31T22:10:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2380,
+      "views": 4440,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -192,7 +37,7 @@
       "date": "2026-05-31T22:28:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2220,
+      "views": 4440,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -210,7 +55,7 @@
       "date": "2026-05-31T22:51:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1760,
+      "views": 3960,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -229,7 +74,7 @@
       "date": "2026-05-31T22:55:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1950,
+      "views": 4450,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -247,7 +92,7 @@
       "date": "2026-05-31T23:03:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1840,
+      "views": 4620,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -266,7 +111,7 @@
       "date": "2026-05-31T23:07:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1860,
+      "views": 4650,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -285,7 +130,7 @@
       "date": "2026-05-31T23:18:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1730,
+      "views": 4720,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -304,7 +149,7 @@
       "date": "2026-05-31T23:24:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1790,
+      "views": 4870,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -323,7 +168,7 @@
       "date": "2026-05-31T23:41:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1790,
+      "views": 5440,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -335,7 +180,127 @@
       "date": "2026-06-01T01:32:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 631,
+      "views": 5140,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA"
+    },
+    {
+      "id": 219225,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eآژیرهای هشدار در کویت؛ سپاه پاسداران از حمله به یک پایگاه هوایی منطقه خبر داد\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eسپاه پاسداران از حمله به یک پایگاه هوایی در منطقه خبر داد و ادعا کرد که این پایگاه مبدأ حمله به یک دکل مخابراتی در جزیره سیریک واقع در استان هرمزگان بوده است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eروابط عمومی سپاه پاسداران دوشنبه از اعلام جزئیات بیشتر خودداری کرد و مشخص نکرد که این پایگاه در کدام کشور قرار داشت.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eدر این زمینه خبرگزاری رسمی کویت گزارش داد که پدافند هوایی این کشور، جایی که یک پایگاه آمریکا در آن قرار دارد، روز دوشنبه در حال رهگیری حملات موشکی و پهپادی بوده است.\u003cbr/\u003eآژیرهای هشدار نیز در سراسر کویت به صدا درآمده‌اند، اما جزئیات بیشتری ارائه نشده است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/8156042.html\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/8156042.html\u003c/a\u003e",
+      "date": "2026-06-01T04:33:22Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3220,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA"
+    },
+    {
+      "id": 219226,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eآمریکا طرح تازه‌ای برای کاهش تنش میان لبنان و اسرائیل پیشنهاد کرد\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eیک مقام آمریکایی به رویترز گفت مارکو روبیو، وزیر خارجه آمریکا، در گفت‌وگو با رئیس جمهور لبنان، و نخست‌وزیر اسرائیل، طرح تازه‌ای را برای کاهش تنش میان اسرائیل و لبنان مطرح کرده است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eهدف از این طرح ایجاد زمینه برای «کاهش تدریجی تنش» و رسیدن به توقف مؤثر درگیری‌ها عنوان شده است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eبر اساس این طرح، در گام نخست حزب‌الله لبنان، گروه مورد حمایت ایران، باید همه حملات خود به اسرائیل را متوقف کند و در مقابل، اسرائیل از تشدید عملیات در بیروت خودداری کند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eاین پیشنهاد در حالی است که آتش‌بسی که بیش از شش هفته پیش با میانجی‌گری آمریکا اعلام شد، در عمل بارها با حملات متقابل حزب‌الله و اسرائیل تضعیف شده است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/rubio-spoke-to-israeli-lebanese-leaders-about-new-ceasefire-plan/8156041.html\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/rubio-spoke-to-israeli-lebanese-leaders-about-new-ceasefire-plan/8156041.html\u003c/a\u003e",
+      "date": "2026-06-01T05:05:40Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2560,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA"
+    },
+    {
+      "id": 219227,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A2.png\u0026#39;)\"\u003e\u003cb\u003e📢\u003c/b\u003e\u003c/i\u003e‌ پادکست خبری یکشنبه ۱۰ خرداد ۱۴۰۵\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9B9C.png\u0026#39;)\"\u003e\u003cb\u003e🛜\u003c/b\u003e\u003c/i\u003eدر صورتی که با مشکل اینترنت مواجه هستید میتوانید اخبار صدای آمریکا را از نسخه‌های پادکست خبری ما روزانه دنبال کنید و یا اخبار را از نسخه سبک وب‌سایت ما پیگیر باشید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/lite\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/lite\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A1.png\u0026#39;)\"\u003e\u003cb\u003e📡\u003c/b\u003e\u003c/i\u003eبروزترین فرکانسهای ماهواره‌ای را نیز میتوانید از صفحه زیر پیگیری کنید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/satellite\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/satellite\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9494.png\u0026#39;)\"\u003e\u003cb\u003e🔔\u003c/b\u003e\u003c/i\u003eدیگر شبکه‌های اجتماعی ما هم دنبال کنید:\u003cbr/\u003e\u003ca href=\"https://linktr.ee/voafarsi\" target=\"_blank\" rel=\"noopener\"\u003ehttps://linktr.ee/voafarsi\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eما را به اشتراک بگذارید\u003cbr/\u003e\u003ca href=\"https://t.me/farsivoa\" target=\"_blank\"\u003e@farsivoa\u003c/a\u003e",
+      "date": "2026-06-01T05:15:18Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2470,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA"
+    },
+    {
+      "id": 219228,
+      "message": "\u003ca class=\"tgme_widget_message_author_name\" href=\"https://t.me/farsivoa\"\u003e\u003cspan dir=\"auto\"\u003eFarsi VOA\u003c/span\u003e\u003c/a\u003e pinned an audio file",
+      "date": "2026-06-01T05:15:24Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 0,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA"
+    },
+    {
+      "id": 219229,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eقیمت نفت با پیشروی اسرائیل در لبنان بیش از دو درصد افزایش یافت\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eقیمت نفت در معاملات اولیه روز دوشنبه، پس از پیشروی تازه ارتش اسرائیل در جنوب لبنان و افزایش نگرانی‌ها درباره امنیت تنگه هرمز، بیش از دو درصد بالا رفت. روندی که از نگاه بازار می‌تواند بر بازگشایی تنگه هرمز و بازگشت عرضه نفت اثر بگذارد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eنفت خام آمریکا با دو دلار و ۳۷ سنت افزایش، به ۸۹ دلار و ۷۳ سنت در هر بشکه رسید. نفت برنت نیز با دو دلار و ۱۶ سنت افزایش، ۹۳ دلار و ۲۸ سنت معامله شد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eاین جهش پس از آن رخ داد که قیمت‌ها در معاملات جمعه، به امید توافق تهران و واشنگتن، کاهش یافته بود.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eافزایش بهای نفت نشان می‌دهد ریسک ژئوپلیتیک در خاورمیانه بار دیگر بر نگرانی‌های مربوط به تقاضای جهانی غلبه کرده است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/oil-prices-rise-more-than-2-percent-as-israel-advances-in-lebanon/8156043.html\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/oil-prices-rise-more-than-2-percent-as-israel-advances-in-lebanon/8156043.html\u003c/a\u003e",
+      "date": "2026-06-01T05:33:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2290,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA"
+    },
+    {
+      "id": 219230,
+      "message": "خبرگزاری میزان وابسته به دستگاه قضایی جمهوری اسلامی، از اجرای حکم اعدام مهرداد محمدی‌نیا و اشکان مالکی، دو نفر از معترضان دی ماه ۱۴۰۴ خبر داد.\u003cbr/\u003e\u003cbr/\u003eاین دو معترض صبح روز ۱۱ خرداد و کمتر از پنج ماه پس از دستگیری اعدام شدند و از روند برگزاری دادگاه و نحوه دفاعیات گزارشی منتشر نشده است.\u003cbr/\u003e\u003cbr/\u003eمهرداد محمدی‌نیا و اشکان مالکی در پرونده موسوم به «مسجد جعفری»، متهم به مسدودسازی خیابان و آتش‌زدن مسجد شده بودند. این پرونده یک متهم دیگر به نام «آرمان معرفتی» نیز دارد و منابع حقوق بشری نگران اعدام این معترض نیز هستند.\u003cbr/\u003e\u003cbr/\u003e«اقدام به تخریب و آتش‌زدن عمدی مسجد»، «تخریب اموال عمومی»، «درگیری با مأموران انتظامی»، و «انسداد خیابان‌ها و ممانعت از عبور و مرور مردم»، از جمله اتهام‌های منتسب به این دو معترض بوده است.\u003cbr/\u003e\u003cbr/\u003eدر خبر اولیه، جزئیاتی در مورد زمان و شرایط بازداشت، و روند دادرسی این دو اعلام نشده و تنها آمده است که حکم اعدام آنها پس از تأیید حکم در دیوان عالی کشور اجرا شده است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/iran-judiciary-executed-two-more-january-protesters/8156046.html\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/iran-judiciary-executed-two-more-january-protesters/8156046.html\u003c/a\u003e",
+      "date": "2026-06-01T05:37:23Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2650,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/aap2Qise5o3WhxWvUhsxnyNGi9mKlLPYM6KXDsHD6JD3T6JBSQKFWeCqMhIf8IAIvXRnEzhZgRvDHG0HxjkDQMD7s5Jr-UqSEmcLMgaUxbBYtR7edHy01AnxajoFvaPC_kgvb_hBjopBYnhV0N775mbV_HzbkS29xkZEDSxfaavHuEoqgbeWtVf48KRqiDWKlW-0jGsFuWdECLZ5V8m6A-koax_1PT67R5qJYXd5Wj0aHJrz3wYfFdJXvaztF0_bhIE8JVgfKX1607BGVnJghuPQqAOIzfKWUDsVFlLIby9Law3MLhcyNt_quPg14vER59LUEdVHin5-Puld4d3m7Q.jpg"
+        }
+      ]
+    },
+    {
+      "id": 219231,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eترامپ توافق احتمالی با رژیم ایران را «توافقی خوب» برای آمریکا توصیف کرد\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eدونالد ترامپ، رئیس‌جمهوری آمریکا، اعلام کرد که جمهوری اسلامی «واقعاً می‌خواهد به یک توافق برسد و این توافق برای آمریکا و کسانی که با ما هستند، توافق خوبی خواهد بود.»\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eپیشتر اکسیوس و نیویورک‌تایمز گزارش دادند پرزیدنت ترامپ خواستار سخت‌گیرانه‌تر شدن شروط چارچوب توافق احتمالی با جمهوری اسلامی شده و نسخه اصلاح‌شده را برای بررسی به تهران فرستاده است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eاکسیوس نوشت ترامپ از تیم خود خواسته چند بند، به‌ویژه بندهای مربوط به برنامه هسته‌ای و مواد هسته‌ای را اصلاح کنند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eنیویورک‌تایمز نیز گزارش داد ترامپ از کندی پاسخ جمهوری اسلامی به پیشنهادهای آمریکا ناراضی است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/trump-described-possible-agreement-with-iran-as-a-good-deal-for-us/8156044.html\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/trump-described-possible-agreement-with-iran-as-a-good-deal-for-us/8156044.html\u003c/a\u003e",
+      "date": "2026-06-01T06:02:35Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2450,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA"
+    },
+    {
+      "id": 219232,
+      "message": "فرماندهی مرکزی ایالات متحده آمریکا (سنتکام) اعلام کرد که در دفاع از خود در مقابل تجاوزهای رژیم ایران، حملاتی به سایت‌های راداری و مراکز فرماندهی و کنترل پهپادهای جمهوری اسلامی در گروک و جزیره قشم در جنوب ایران انجام داد.\u003cbr/\u003e\u003cbr/\u003eسنتکام با انتشار بیانیه‌ای نوشت که این حملات «سنجیده و هدفمند» در طول آخر هفته (شنبه و یکشنبه) صورت گرفت و «در پاسخ به اقدامات تهاجمی ایران انجام شد که شامل سرنگونی یک پهپاد ام‌کیو-۱ آمریکا بود که در حال انجام عملیات بر فراز آب‌های بین‌المللی بود.»\u003cbr/\u003e\u003cbr/\u003eبر اساس گزارش ارتش آمریکا، جنگنده‌های آمریکایی به سرعت واکنش نشان دادند و سامانه‌های پدافند هوایی رژیم ایران، یک ایستگاه کنترل زمینی و دو پهپاد انتحاری یک‌طرفه را که «تهدیدی آشکار برای کشتی‌های در حال عبور از آب‌های منطقه بودند»، منهدم کردند.\u003cbr/\u003e\u003cbr/\u003eسنتکام افزود که هیچ‌یک از نیروهای نظامی آمریکا آسیب ندیدند. این نهاد تأکید کرد که در طول آتش‌بس جاری، در واکنش به «تجاوز بی‌دلیل ایران» به حفاظت از دارایی‌ها و منافع ایالات متحده ادامه خواهد داد.\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-06-01T06:43:44Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1150,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/safvhmG4MdxaCygf4dTw0d7lCDWy2auCQP41oVXniKUviax9wnere1J3mK-ZOsuxcVh9FmfEJIiPAMgq76nMOCLznaReKB4K6vtAOcz-MLayPvgkp5UG-Pxb6ns1ojm7eo3MpMVCGv6eWCW3FcxztKLRG2lEbsCP5qbgBr3V8AG4mumU-pKpQDek-q-5JeCxunkX_DQhNeQf9_fxdo6JiqPstO1dLMJdCChmJ9IqvkKKyb3Kfy_jUxcI7-5i-sz5-FqdQuy9cbIOrm9OLspupc2ifnn9QkwE2-OURNaEibrzZy2ddeHf-YVp5wvuCZXZv4HnPc9jbfm9YY9zEmE8Vg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 219233,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eهزینه وصل‌ماندن اینترنت ۸ برابر شد؛ تبدیل فیلترشکن به خرج ثابت خانوار\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eهزینه دسترسی به اینترنت آزاد در ایران، پس از سه ماه قطع مستمر و هم‌زمان با ادامه فیلترینگ و اختلال‌های گسترده، به یکی از هزینه‌های ثابت خانوارها تبدیل شده است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eگزارش اقتصادنیوز نشان می‌دهد بازار فیلترشکن مانند بسیاری از کالاها و خدمات دیگر با جهش شدید قیمت روبه‌رو شده و هزینه «وصل ماندن» برای کاربران ایرانی چند برابر شده است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eبر اساس این گزارش، پیش از قطعی‌های گسترده دی‌ماه ۱۴۰۴، بسته ۳۰ روزه ۳۰ گیگابایتی فیلترشکن با قیمت ۵۹ هزار و ۹۰۰ تومان فروخته می‌شد؛ یعنی هر گیگابایت حدود یک هزار و ۹۹۶ تومان. اما اکنون همین بسته به ۴۳۹ هزار تومان رسیده و قیمت هر گیگابایت آن حدود ۱۴ هزار و ۶۳۳ تومان شده است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/cost-of-staying-connected-to-internet-increased-8-times/8156045.html\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/cost-of-staying-connected-to-internet-increased-8-times/8156045.html\u003c/a\u003e",
+      "date": "2026-06-01T07:01:23Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 453,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
