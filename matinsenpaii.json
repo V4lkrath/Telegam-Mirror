@@ -8,76 +8,12 @@
   },
   "posts": [
     {
-      "id": 3646,
-      "message": "خب البته ما به این نتیجه رسیدیم\u003cbr/\u003eاسپوفی فکر نکنم در کار باشه:)\u003cbr/\u003eاما باز تست کنید بهمون بگید",
-      "date": "2026-06-01T14:17:57Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 52700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/MNl_jxfSr6QOJV6IjnfikbmY5BeXBqHsn7nvXQN8X_sk58QBLlQmxD-ccNUsoSWZFi68q88Bqjpv7aZzMhmfaj0GngQx1XWcSs-pzWQgFsb1gYCgXrvlVjFsQ5txILFxO7fGiMYoDulSesO0QB2Y9zQf0EW3FGJPYTeq_DeTmd1J-fdNGLscOGXvBoaJGaTszT0J-n6dwN8161QgBjqJuv9mXNjnPcDrB2Hd68UjAE8y1EuvCyySGwc38kRkPYHWLRqsq5lKR83IrL1OkvDQNm51oPvbpU6GAL7Pxbe7fTEQ6a0osD-FquxPb6jlY6Zn_akuCY565zWNf0zbZRf7xg.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/Kt_7PWmGLOASbw9ZZBRFS7fwGAlpndDiZU_whm4nG4eBzbHKtMxqX8eaA7X-5dC5KOMMaePdMaxk_hhzQ_6RCB2i1EAj_J2CT1V8Sj5CZP7Lx-kcivfhY1s39QsJDTvJBe8FBe30UclWle5su9coqPLoh8MF_ESof2XkCy8GJFdYYgdR_wJhwGEva2xyHstUPHNod5g9bpnmkW8eD8AM5RZ1npgrh0rpywMDQfuU3RzzBDHR8SFO8g5yU6S3u8hWfHhz9yBtFBYn2fk-b8HW0JnEflMtxEANspb_s8HA-UkAKKu5H6pAYky1KNh-x-oXmCIQ0JREy5o1svo1f4kseA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 3648,
-      "message": ".",
-      "date": "2026-06-01T14:39:39Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 51800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 3649,
-      "message": "عنوان ویدئو هم یوتوب و اینجا تغییر کرد. بابت اشتباهم عذرخواهی می‌کنم",
-      "date": "2026-06-01T15:32:10Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 50400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 3650,
-      "message": "اگر به این ارور خوردید، پروژه‌ی جدید بسازید. اگر باز هم نشد، با یه اکانت دیگه وارد بشید و مجدد تست کنید. توی این ویدئو \u003ca href=\"https://youtu.be/_aXy8wwyRG8\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/_aXy8wwyRG8\u003c/a\u003e به همین ارور خوردم و این شکلی حل شد",
-      "date": "2026-06-01T15:38:26Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 56000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/ORonWV6EOCZNHg1onjkRLyHO1-DS2U4U-ClfHIo0tE3fek0OhpNTDLsgH1xd4zgCL4hN_6vNNfq5v_im6TusGeT97sf1gI00zU95h1GljmW0rEyDYhd4ZRAR0hATpVV1VKRSoxcfqj-Sed-_OE8Rq0xs-apnNVgI5jABcMSuMHm9-TWMXCobqfge3Jl42SK8QCzl0fYXmteEcnEW0TrHoYFJhwRB8P4qfkH1WDRW0tijNSvNl_Anaoa5FosRxdEyjsqANXMa-CAEZthXVxHovTjhjFNGbmPjVKd6buP3Rfk6v6oIo58EN44bagi8WdL3xTe8ivqWF2QiA3N_73A0DQ.jpg"
-        }
-      ]
-    },
-    {
       "id": 3651,
       "message": "نکته: کانفیگ اسپوفی که با این آموزش ساختید رو روی PC هم میتونید استفاده کنید به راحتی",
       "date": "2026-06-01T17:02:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 53900,
+      "views": 54400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -89,7 +25,7 @@
       "date": "2026-06-01T19:15:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 55100,
+      "views": 55800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -107,7 +43,7 @@
       "date": "2026-06-01T20:04:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 54900,
+      "views": 56100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -119,7 +55,7 @@
       "date": "2026-06-01T21:25:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 53100,
+      "views": 54300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -131,7 +67,7 @@
       "date": "2026-06-02T08:08:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 47900,
+      "views": 49300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -143,7 +79,7 @@
       "date": "2026-06-02T08:24:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 50500,
+      "views": 51800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -155,7 +91,7 @@
       "date": "2026-06-02T08:43:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 55000,
+      "views": 56200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -167,7 +103,7 @@
       "date": "2026-06-02T14:19:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 50200,
+      "views": 52600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -185,7 +121,7 @@
       "date": "2026-06-02T15:34:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 50600,
+      "views": 53200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -203,7 +139,7 @@
       "date": "2026-06-02T17:31:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 43000,
+      "views": 46500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -215,7 +151,7 @@
       "date": "2026-06-02T17:32:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 43900,
+      "views": 47500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -227,7 +163,7 @@
       "date": "2026-06-02T19:26:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 34500,
+      "views": 39400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -239,7 +175,7 @@
       "date": "2026-06-02T19:26:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 35400,
+      "views": 40300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -251,7 +187,7 @@
       "date": "2026-06-02T20:39:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22400,
+      "views": 28700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -269,7 +205,7 @@
       "date": "2026-06-02T20:40:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22000,
+      "views": 28500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -281,11 +217,73 @@
       "date": "2026-06-02T21:58:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2130,
+      "views": 17000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 3672,
+      "message": "به نظر که جنگه\u003cbr/\u003eچون بالستیک زدن\u003cbr/\u003eاگه آمریکا نگه اینا نقض آتش‌بس نیست",
+      "date": "2026-06-02T22:01:58Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 16600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 3673,
+      "message": "",
+      "date": "2026-06-02T22:04:30Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 15100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/t2O1X8kEUoBhKogLfjrR9Qn-wKSBhA4yCxIvO7RICSoP1LbMnnZAcNW7bvRbU1BsUrZ_3lNQknU9Q29TLS2MxTihrYbMUXTTQ9eocLTNDqBziNY4OdEvz67rI4XzGMag0mS6OnSsbx4_tzCxHdLIgu2RdqmyUcRmfTPjGFwbjge38j_3pQtSBKtOQ8tcEiOdhZ2mO-P0TSMyEYrbkI_hUZ37BAyc5QL0tyYzlPkTlcVJ51DCVFVtHiQtV7L0-tXB8jZK8zDLfP9M-T_080Rl1dB9EIxQ5mTXZtqdaNNCJEEufbrfiOGrbmIA2gqVSs8V2eef5JVizPnMas16M9pGbg",
+          "width": 720
+        }
+      ]
+    },
+    {
+      "id": 3674,
+      "message": "من الان خودم با WhiteDNS آنلاینم(داشتم تست میکردم دامین اینها نپریده باشه) \u003cbr/\u003eخواهش میکنم ستاپ کنید هر چه سریعتر. هرچی نیاز دارید توی ویدیو هست\u003cbr/\u003e\u003ca href=\"https://youtu.be/6Pm7kNQb3mo?is=Hh_zNDNmPQGHgzLb\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/6Pm7kNQb3mo?is=Hh_zNDNmPQGHgzLb\u003c/a\u003e",
+      "date": "2026-06-02T22:17:52Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 12100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 3675,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EAC.png\u0026#39;)\"\u003e\u003cb\u003e🎬\u003c/b\u003e\u003c/i\u003e آموزش کامل TheFeed از صفر تا صد\u003cbr/\u003e\u003cbr/\u003eاگر تازه با TheFeed آشنا شدید و نمی‌دانید از کجا باید شروع کنید، این ویدیو دقیقاً برای شماست. \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eدر این آموزش یاد می‌گیرید:\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e اضافه کردن کانفیگ\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e آشنایی با ریزالورها (DNS)\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e پیدا کردن ریزالورهای سالم\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e مشاهده کانال‌ها و دریافت محتوا\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e آشنایی با بخش TeleMirror\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e رفع مشکلات رایج کاربران\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e نکات مهم برای استفاده بهتر از برنامه\u003cbr/\u003e\u003cbr/\u003eدفید یک سیستم مبتنی بر DNS است که امکان دسترسی به محتوای کانال‌های تلگرام را حتی در شرایط محدودیت اینترنت فراهم می‌کند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A2.png\u0026#39;)\"\u003e\u003cb\u003e📢\u003c/b\u003e\u003c/i\u003e کانال اصلی پروژه:\u003cbr/\u003e\u003ca href=\"https://t.me/networkti\" target=\"_blank\"\u003e@networkti\u003c/a\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A6.png\u0026#39;)\"\u003e\u003cb\u003e📦\u003c/b\u003e\u003c/i\u003e فایل‌های نصب:\u003cbr/\u003e\u003ca href=\"https://t.me/thefeedfile\" target=\"_blank\"\u003e@thefeedfile\u003c/a\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29A99.png\u0026#39;)\"\u003e\u003cb\u003e⚙️\u003c/b\u003e\u003c/i\u003e کانفیگ‌های عمومی:\u003cbr/\u003e\u003ca href=\"https://t.me/thefeedconfig\" target=\"_blank\"\u003e@thefeedconfig\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote expandable=\"\"\u003eتوضیحات متنی \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eسلام. توی این ویدیو می‌خوام خیلی ساده و سریع نحوه کار با برنامه The Feed رو توضیح بدم.\u003cbr/\u003e\u003cbr/\u003eبعد از نصب و باز کردن برنامه، اولین کاری که باید انجام بدید اضافه کردن یک کانفیگه. برای این کار از بالا روی علامت جمع بزنید و کانفیگ مورد نظرتون رو وارد کنید. کانفیگ‌های عمومی داخل کانال \u003ca href=\"https://t.me/thefeedconfig\" target=\"_blank\"\u003e@thefeedconfig\u003c/a\u003e منتشر میشن و می‌تونید از اونجا دریافتشون کنید.\u003cbr/\u003e\u003cbr/\u003eهر کانفیگ دارای تعدادی ریزالور پیش فرض هست که توسط سازنده کانفیگ داخل کانفیگ قرار میگیرن. بعد از اینکه کانفیگ رو اضافه کردید، برنامه شروع می‌کنه به بررسی ریزالورها. ریزالورها همون DNS هایی هستن که The Feed از طریق اون‌ها اطلاعات رو دریافت می‌کنه. این مرحله ممکنه چند دقیقه طول بکشه، پس اگر بلافاصله کانال‌ها نمایش داده نشدن نگران نباشید. بعد از پیدا شدن ریزالورهای سالم، لیست کانال‌ها دریافت میشه و می‌تونید وارد هر کانال بشید، پست‌ها رو ببینید و در صورت وجود، عکس‌ها، فایل‌ها، ویس‌ها و ویدیوها رو دانلود کنید.\u003cbr/\u003e\u003cbr/\u003eاگر یه زمانی دیدید برنامه کند شده یا اطلاعات جدید دریافت نمی‌کنه، معمولاً مشکل از ریزالورهاست. برای همین داخل برنامه بخشی به اسم «پیدا کردن ریزالور» وجود داره. وارد این قسمت بشید و روی «بارگذاری لیست پیش‌فرض» بزنید. با این کار حدود ۵۸ هزار ریزالور برای اسکن آماده میشن. \u003cbr/\u003eاگه خودتون ریزالور خاصی دارید، می‌تونید به صورت دستی هم واردش کنید. علاوه بر این، ربات \u003ca href=\"https://t.me/dns_resolvers_bot\" target=\"_blank\"\u003e@dns_resolvers_bot\u003c/a\u003e هم می‌تونه برای پیدا کردن ریزالورهای جدید بهتون کمک کنه.\u003cbr/\u003eبعد دکمه «شروع اسکن» رو بزنید تا برنامه ریزالورهای سالمی که روی اینترنت شما کار می‌کنن رو پیدا کنه. وقتی چند تا ریزالور پیدا شد، می‌تونید اون‌ها رو به لیست فعال اضافه کنید. فقط یادتون باشه موقع اسکن بهتره VPN خاموش باشه تا نتیجه دقیق‌تری بگیرید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eداخل برنامه یه بخش دیگه هم به اسم Tele Mirror وجود داره. این قسمت با سیستم اصلی TheFeed فرق داره و برای نمایش کانال‌های عمومی تلگرام از سرویس‌های گوگل استفاده می‌کنه. با TeleMirror می‌تونید خیلی از کانال‌های عمومی دلخواهتون رو دنبال کنید، ولی محدودیت‌هایی هم داره؛ مثلاً امکان دانلود فایل یا پخش ویدیو توی این بخش وجود نداره. همچنین اگر سرویس‌های گوگل در دسترس نباشن، ممکنه Tele Mirror کار نکنه. البته این موضوع روی بخش اصلی TheFeed تأثیری نداره و سیستم اصلی برنامه همچنان از طریق DNS به کار خودش ادامه میده.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eدر نهایت اگر جایی به مشکل خوردید، اولین چیزی که باید بررسی کنید ریزالورها هستن. در اکثر مواقع با پیدا کردن چند ریزالور سالم، مشکل برنامه برطرف میشه. برای دریافت آخرین اخبار پروژه هم می‌تونید کانال \u003ca href=\"https://t.me/networkti\" target=\"_blank\"\u003e@networkti\u003c/a\u003e رو دنبال کنید، فایل‌های نصب رو از \u003ca href=\"https://t.me/thefeedfile\" target=\"_blank\"\u003e@thefeedfile\u003c/a\u003e بگیرید و کانفیگ‌های عمومی رو از \u003ca href=\"https://t.me/thefeedconfig\" target=\"_blank\"\u003e@thefeedconfig\u003c/a\u003e دریافت کنید.\u003cbr/\u003e\u003cbr/\u003eممنون که این ویدیو رو دیدید و امیدوارم از The Feed لذت ببرید.\u003c/blockquote\u003e",
+      "date": "2026-06-02T22:35:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/g7-Yf0GapNNGICjafZ5Nf-El5Mqd1eup9tLq-E22_2ABIjynyxrt10cfY6mFRQ9ipwM4hKMfo5Lqnak5i61XhE6XVv3M_neesQ1XwFlYHaM9G7KCuc611W9cQxAjdIxeuUh35Wb34KsXBBGyiQCYNIDQFO2zg9ga-WckCwthE9SduwGW4OabOY3Q9UurFHupPVBmrQuCW-OlyCNHiATM-cyUludmjbKpWc7tR-xJ3sw9kfJ4pgAjnz0GRs3VuJMy_WJ2HhIiuOnQYpS-m3Nkw8W4vudGBYUoBPDf26F3ltg74waVD8uWn_46qPj6XTPyUHWxdUse7nw8BJv0NLw8PQ",
+          "width": 516
+        }
+      ]
     }
   ],
   "last_updated": 0
