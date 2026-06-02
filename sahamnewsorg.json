@@ -3,196 +3,17 @@
     "id": 0,
     "title": "سهام نیوز",
     "username": "sahamnewsorg",
-    "photo_url": "https://cdn1.telesco.pe/file/D0wLmEqgZhdoApKL_4nPkarPzADD-ItR3z4I3cLIWUASlWBXb7BgGjNI3CAXaECbEKojGgRgiLsRP6c3DRdyVEE3CRVqWpLR_b35r1UWjYGYUZipLXyldNJkqCLaOPKZ-rUEilgKcFbgaZdGO5jMl37fbq9tn9cOi9682L4gN1zbAoHLYWo3pxHLZX52_M7hi5u912WimDpKkx9ATRzlIwmPqcRhl7SZFYutzZmJ-mB2_1DZ6lpVRLn3mGVFZppM6ShQfrbrc5BAnw6pl9Gr-cVju7PLkliHBOfbeTJQdTS5imU8Gei97HjjTRxET0EIxuI79ERD1tofQP5EJ-mUzA.jpg",
+    "photo_url": "https://cdn1.telesco.pe/file/fdnMQAxa4ChNaUe40bLYwP_fKMNohYQbYd8s8s_eeMfWi1BcncYt_drIOiwr7yCPMmrUPud3TqafVaYZj3VdrgcovjaFNBIZBzbAPslhMryhcDlfB6sme92Aj6-2-B5k_sBUNm2i-AU-Gu4ngJx79SpJRRVjNqj12KPXuW8I15gjuHUD27R-ObLIzNtuIwBur1Q9a3D7QhpvwrWN3CCbkfFspb0jeP-tHfuN5y_5kYrdRQsov5-RMTi_bDL2r2cjr7PpF_BWdkbzMpgOajmpT_X2mMVvY1FAVTmkK7vERVkc8LtTu5W2eVHW6bUNOtYcVNSXQIwmyYbHHIYvIY755g.jpg",
     "description": "پایگاه خبری سهام نیوز \nwww.sahamnews.org\ninfo@sahamnews.org\nwww.fb.com/sahamnews.org\nwww.instagram.com/sahamnewsorg"
   },
   "posts": [
-    {
-      "id": 142486,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003eتصاویری از كرمانشاه در ١٩ دى، صحنه هايى را نشان مى دهدكه در آن نيروهاى مسلح بسيج و سپاه پاسداران شمارى از شهروندان را متوقف كرده و به سوى آنان تيراندازى مى كنند.\u003cbr/\u003eدراين تصاوير، شليك به مردم در معابر عمومى ديده مى شود! \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Sahamnewsorg\" target=\"_blank\"\u003e@Sahamnewsorg\u003c/a\u003e",
-      "date": "2026-06-02T09:23:38Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 44000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "سهام نیوز",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/t6WiYl777c4TmJXPG8WrKW8Zon8OE5EpLMC-GsMSGUzn3NyWR7a3lHN6WGiIc_EuNSzBzCC97PGH_HheGzULrbt6oDoERZJNMNTRJ_yFdXiaCOmt6XLfGk3-cJzu2MQ2NlqHneXsVMV2lI0VQD6vdUsGAWM4GAbzAoGqOvuPMBgk_s08f0or-8bnD7xpUdzWvAesPavp_SenGv8vVh1l9d1GHNHTafavvRknZJZ5IRlx9DuNdOtPdR6gv50lIsJivX5zI86y_rRT-6H67fxGbMSf0yUTehht6LCQJ7hTWPxRsnrj0QyHtxm-lM55YF9gSn2kXUKiXc3kvJxLnxR9uA",
-          "width": 336
-        }
-      ]
-    },
-    {
-      "id": 142487,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003eتصویری از تهران در جنگ ۴۰ روزه\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Sahamnewsorg\" target=\"_blank\"\u003e@Sahamnewsorg\u003c/a\u003e",
-      "date": "2026-06-02T09:29:15Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 43100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "سهام نیوز",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/fyTLx9YbdTgOWk3IzOuDOqeChCa8cTqSOcLxO_Sr2Y8GXozbnAnsIglCaP3Qam9PehqA-5MsuWiDIGLhVrdNWma_epiO4SaCuUG20OBctMH7s_qiiNY1BzjDZbkB9UNss6lbNTuMgKfuAg5dSbzTq81K8j8AkkbJZbaBWIi0N3bKk8zDD307X1q-JMm-bZNYwXKW0n234v0qME-QJl0FIxJotNylPw9954Bc1l3cDnN8ygbCclGDpdSKA7GrXkMjvC_aX--rSPxfItgE141ETpgLYSWiR3TtaktcpB0iDHUQ62xYtlEC4A7oTQQJPVNo6dUt2HLbjNJhf89a3sscBg",
-          "width": 352
-        }
-      ]
-    },
-    {
-      "id": 142488,
-      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003eدختر و همسر سردار ایزدی معروف به حاج رمضان تعریف میکنند که مرحوم آنقدر در زیرزمین مخفیانه زندگی میکرده که در اثر کمبود ویتامین دی استخوان هایش ترکهای ریز میخورد\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003ca href=\"https://t.me/Sahamnewsorg\" target=\"_blank\"\u003e\u003cb\u003e@Sahamnewsorg\u003c/b\u003e\u003c/a\u003e",
-      "date": "2026-06-02T10:24:38Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 41700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "سهام نیوز",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/bgh48bG9iEY85oux_6_yniQo_q-kG9GbGf38C3gU8JV_QPl7xJ5LhGHhIi2aRuie4GowP069d0C9PwK8vIDxA10Rcw-Q5sIy4AqG2FUS4xsqTrWObzmuEjB0GthL3MsHkPkY315r4z75hrMCbmbgbtfzrOKA3coVgfzGoZNLW6GPyUtnSHlgpVGDNN2z_TsWgPD9-kvPifllH3XLgRGkPTEygvQiHVQ3kN5GfIZcQju76BHMoqqbUl5I5THcOzohS-G1ViRe2LLKW4KjedWJKdzLNfheX3At0oYKD_jRzlB_uySUPVEWrom0_OpAzuJs16fsCFsLCykhrxrCFmEiPw",
-          "width": 352
-        }
-      ]
-    },
-    {
-      "id": 142489,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003eمردی که باور داشت جنگ به تغییر رژیم در ایران می‌انجامد، رئیس جدید موساد شد؛ رومن گوفمان کیست؟\u003cbr/\u003e\u003cbr/\u003eبا رفتن دیوید بارنئا و روی کار آمدن رومن گوفمان، بنیامین نتانیاهو عملا تنها مقام ارشد اسرائیلی خواهد بود که از زمان حمله مرگبار هفتم اکتبر ۲۰۲۳ (۱۵ مهر ۱۴۰۲)، تاکنون همچنان در جایگاه خود باقی مانده است.\u003cbr/\u003eسرلشکر رومن گوفمان، مشاور و دبیر نظامی نخست‌وزیر اسرائیل، روز دوم ژوئن ۲۰۲۶ (۱۲ خرداد ۱۴۰۵) در مراسمی رسمی به‌عنوان رئیس جدید سازمان اطلاعات خارجی اسرائیل (موساد) معرفی شد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Sahamnewsorg\" target=\"_blank\"\u003e@Sahamnewsorg\u003c/a\u003e",
-      "date": "2026-06-02T10:36:15Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 40700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "سهام نیوز",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/rSTr7zexaUYTzUHSDE0wOq09KZgYjyBfSjJPGVuQqk6-Vqiz_SnHQq8Sw1oqbS8mtCho-hJwa8I0ISq5CD8xlM9ZklswWok6qpM4bHkOZvA2ZvTFTvLHHmb8Ptr8mr0n2uwgj8Rc5UeYLEdJ0e6SUORN-qQODk7K7QrmoURlT2RANd4pveFudmbXwjFeFhpjLi8m3-N38b1pi-JS0SpMQHz3zefj-M5xrQreGrxgM3kHVJ9wwniFyGWPh5y1Wgac2QWO4zHPxUR9BI3UfET4lnloblyKMNxyxAjRygTC1d81QLSuUve18k26Ey-N5vBKhRJBNANUrN0ef7veGFGugw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 142490,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003eیاشار سلطانی: سیاست‌گذاری و حکمرانی در صنعت خودرو، از راهزنی عبور کرده و به \u003ca href=\"?q=%23%D8%AD%D8%B1%D8%A7%D9%85%D8%B2%D8%A7%D8%AF%DA%AF%DB%8C\"\u003e#حرامزادگی\u003c/a\u003e⁩ رسیده است.\u003cbr/\u003e\u003cbr/\u003e‏البته با پوزش از حرامزاده‌ها!\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Sahamnewsorg\" target=\"_blank\"\u003e@Sahamnewsorg\u003c/a\u003e",
-      "date": "2026-06-02T11:23:31Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 39100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "سهام نیوز"
-    },
-    {
-      "id": 142491,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003eرسایی: روی برد موشکهایمان کار می کنیم تا روزی کاخ سفید را با موشک های ایرانی خراب کنیم\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA5B9.png\u0026#39;)\"\u003e\u003cb\u003e🥹\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Sahamnewsorg\" target=\"_blank\"\u003e@Sahamnewsorg\u003c/a\u003e",
-      "date": "2026-06-02T11:28:52Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 38000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "سهام نیوز",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/tb0vTBZ0ZQ95H2yvziKv8PX57eXfDLo0us8uF4FfKO5XgO_xlSB0EBl7-GuWMVLeML7dJKUGmBC1oFYZLLJxeJIhHMM5F7nrmb_zYWIRxd2F24Z_6_ohpM7J7Q4gFb-zwGwmYJu3Yl-4SbNsEnPpBboVgfyRL6UH4gVv1wS8Oyz_movBBIoKhiySI7euS01Rq3ziQp3h4WL2u99OaUNSmJ-KjvZI4uZTBybN-O2hBhXlIljxaeJ0_v-Nf6t0kbRQOxtJG8ngwhBiahQWutd54oQe4ipOoGmphZLFgX2W6PihdrWXQDnm260afnwl3o978UXyr4u14uaboE1pfWezHA",
-          "width": 640
-        }
-      ]
-    },
-    {
-      "id": 142492,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003cb\u003eکارت‌به‌کارت بین‌بانکی در شبکه شتاب از ۱۰ میلیون تومان به ۱۵ میلیون تومان افزایش یافت\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eبانک مرکزی: سقف خرید با کارت بانکی به ۴۰۰ میلیون تومان رسید. \u003cbr/\u003e\u003cbr/\u003eدر حوزه انتقال وجه غیرحضوری نیز سقف حساب‌های غیرتجاری به ۳۰۰ میلیون تومان و حساب‌های تجاری به یک میلیارد تومان افزایش یافته است. \u003cbr/\u003e\u003cbr/\u003eانتقال از طریق «پایا» و «ساتنا» همچنان تا سقف ۲۰۰ میلیون تومان انجام می‌شود.\u003cbr/\u003e\u003cbr/\u003eسقف برداشت نقدی از خودپرداز‌ها نیز ۵۰۰ هزار تومان تعیین شده است.\u003cbr/\u003e\u003ca href=\"https://t.me/Sahamnewsorg\" target=\"_blank\"\u003e@Sahamnewsorg\u003c/a\u003e",
-      "date": "2026-06-02T11:32:27Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 39400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "سهام نیوز",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/O4MKT2T-dxTx2fyOSvyLf0w79xFuGOZtaCoDTlm6H8lKdSxG7HWC8zxd066Bz6HglOWIQ7FgLvyITp9Ao4F-2kQfSgxuWzmo4NZBx6-x-devnwzlBHwT_5dsIPEhvc4wXYH21EqGRxyzsLBHvRNwmH4EWgSn0UbooVTbcfltqfb7MWZmERc75f5Tr6BgdTiTTbqkWVUd03bb5rTrdWgYcibVgZl1ms5dC89qQ4GFRibIakBw6XH8lIaQDm23j9XTGbo_DCx4VFyHTSWhD7nmOCftLQaxIm1ZKKi2Gkg6ngex0G3QOmRrTR8viLqMg-VsoDP3uezCKtu5twn_UkQJpQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 142493,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003eکاتز وزیر دفاع اسرائیل :  تو لبنان هیچ آتش‌بسی در کار نیست و ارتش اسرائیل همچنان داره علیه حزب‌الله عملیاتش رو ادامه می‌دهد \u003cbr/\u003e\u003cbr/\u003eاسرائیل ساعتی پیش برای شهر «نبطیه» در جنوب لبنان دستور تخلیه کامل داد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Sahamnewsorg\" target=\"_blank\"\u003e@Sahamnewsorg\u003c/a\u003e",
-      "date": "2026-06-02T11:38:09Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 38300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "سهام نیوز"
-    },
-    {
-      "id": 142494,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003eرئیس‌جمهور لبنان: ‌لبنان⁩ بیش از ۳ هزار شهید از دست داده و بیش از یک میلیون آواره وجود دارد و هیچ گزینه دیگری جز مذاکره نیست\u003cbr/\u003e\u003cbr/\u003e‏رئیس جمهور لبنان: هیچ چشم‌اندازی برای پایان جنگ وجود ندارد و هیچ گزینه دیگری جز مذاکره نیست.\u003cbr/\u003e\u003ca href=\"https://t.me/Sahamnewsorg\" target=\"_blank\"\u003e@Sahamnewsorg\u003c/a\u003e",
-      "date": "2026-06-02T11:39:48Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 38600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "سهام نیوز"
-    },
-    {
-      "id": 142495,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003eسد کارون ۴ سرریز کرد\u003cbr/\u003e\u003cbr/\u003eامسال یکی از بهترین سالهای آبی سدهای زنجیره کارون و سد دز بود و الان با ظرفیت کامل حدود ۱۴ میلیارد مترمکعب ذخیره آب دارن ( ۱۰۶ برابر سد کرج)\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BB.png\u0026#39;)\"\u003e\u003cb\u003e🔻\u003c/b\u003e\u003c/i\u003eپ ن: امسال به برکت نبود ظالم درهای رحمت از نزولات آسمانی تا هوای پاک شامل کشور شده است\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Sahamnewsorg\" target=\"_blank\"\u003e@Sahamnewsorg\u003c/a\u003e",
-      "date": "2026-06-02T11:45:18Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 41800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "سهام نیوز",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/JqaiW1prdTZNsFCMAvaZIHpisjejFxmgQreQH0cwTcby8OSkNe9lA2CRV7P_v_yEVENj-0NGJNQoyrI5JfCu5qfL80Lhep4joh-jEVoBoimT6HcE6rw71wRGztV-htM2rJzBVNwgiA2VN0ufUN2Ycr6Wxd6aAZWPgxPfxYxcW0cJqMv6jZaTa00Kv6-Nq-k4V7W3eHHuu7P18aFnJTU5otsgf1CfdcjlOQ8U_ouwpmheyBd53DrJIqV8CdLmaidIz41v6E8HLHqTRDD-fzkEyam64OVsd1jL2E7YZVC3OESU5ABP9hWSKthXTku6xG2mFtNjFiWxBy7iME_KV2JMbw",
-          "width": 352
-        }
-      ]
-    },
-    {
-      "id": 142496,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003eنوری همدانی:هیچکس حق ندارد حرفی بزند یا حرکتی انجام دهد که بوی اختلاف از آن به مشام برسد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BB.png\u0026#39;)\"\u003e\u003cb\u003e🔻\u003c/b\u003e\u003c/i\u003eپ ن: قریب ۴۰ ساله با همین توجیه مزخرف ، با هر انتقادی و اعتراضی مخالفت و سرکوب می کنند\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Sahamnewsorg\" target=\"_blank\"\u003e@Sahamnewsorg\u003c/a\u003e",
-      "date": "2026-06-02T12:11:32Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 39200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "سهام نیوز"
-    },
     {
       "id": 142497,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003eایسنا: اپراتورها پول کسانی که اینترنت پرو خریدند را پس نمی‌دهند و فقط می‌شود اینترنت پرو را به اینترنت عادی تغییر داد!\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Sahamnewsorg\" target=\"_blank\"\u003e@Sahamnewsorg\u003c/a\u003e",
       "date": "2026-06-02T12:14:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 39100,
+      "views": 46500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -204,7 +25,7 @@
       "date": "2026-06-02T16:29:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26000,
+      "views": 38100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -216,7 +37,7 @@
       "date": "2026-06-02T16:34:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25600,
+      "views": 38700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -228,7 +49,7 @@
       "date": "2026-06-02T16:44:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24700,
+      "views": 37700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -246,7 +67,7 @@
       "date": "2026-06-02T17:01:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22800,
+      "views": 36400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -264,7 +85,7 @@
       "date": "2026-06-02T17:17:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21800,
+      "views": 37400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -283,7 +104,7 @@
       "date": "2026-06-02T17:26:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20000,
+      "views": 35500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -295,7 +116,7 @@
       "date": "2026-06-02T17:32:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19900,
+      "views": 37100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -307,7 +128,7 @@
       "date": "2026-06-02T17:41:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17500,
+      "views": 35800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -316,6 +137,195 @@
         {
           "type": "photo",
           "url": "https://cdn4.telesco.pe/file/hdMi4E5H_n5ztBdLCku4raFLAznLzc-wew-_Igvmbrr3JvfXiEfH8LpN48Yex_X5vkGlO4IGgX81MClfpvHIVwN6IclppVuY5LuCnZTQ7o7-a54VBe2nZcdledp8B7XeE_kWQs58Wy_SWkdgBFA__pj408u0o4iDbCBvHenyfRJjy1wF6yieMH9BAPrAKKDXXaps8sXA9BMxG5-bPINXbj2PkjNl209TCj71TNcgFu6GXj5eGWgtbmAFITVN-EkyXWQNVqOwEHPNgpNfSV1Os8w5eA7Myck29vj5_rPBByafOgl0JR6QZj7WQXufIvcE_EqZ4QESlr4TwFuQLR2Jag.jpg"
+        }
+      ]
+    },
+    {
+      "id": 142506,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003eتنها در دو ماه اخیر نزدیک به ۳۰۰ نفر در ایران اعدام شدند. این مسئله از دهه ۶۰ تا الان بی‌سابقه است. همکارم مسعود آذر، با مرور پرونده‌های اعدام شدگان و تجزیه و تحلیل متن احکام اعدام و روایتهای رسمی قوه قضاییه، توضیح میده که چگونه حکومت از شرایط جنگی برای  انتقام‌گیری و زهر چشم گرفتن در این دو ماه استفاده کرده: از سلب امکان گرفتن وکیل مستقل تا کشتن کسانی که مدعیست قصد کاری رو داشتند و نه انجام اون کار تا کاربرد گل و گشاد عبارت جاسوسی.سیاوش اردلان\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Sahamnewsorg\" target=\"_blank\"\u003e@Sahamnewsorg\u003c/a\u003e",
+      "date": "2026-06-02T19:26:41Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 25900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "سهام نیوز",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/u5BjJ1Hct12_Ymf8EXAUenl_IGEx7s3pw_ozwavHJY_CePFqwXj5wU-qRqafHXw8syMtQOfPoB6fnM-XYoioQu3muzB9__AEidSTsGZQXaJd1tUOJj5QGqpzFjYebgKOQ_n7F-YGHcH9rawpANASg5G397o1tqsTyS8ek7vGQvDTmm55PbGFt8NU2cXfBnPsTCVa_KWEtVqVnEhF7PtRFJo-0uzTG7KWDRpbuZdmhfEa_mHVYQXnwbYJuwg-t3n7TUfxyTkYekReLetw2Spi8_G5uugfg4p64RUkBmzeQ71uUi-1QJYpriFUeW2Wg6mg1m3foZkD7VrI4Qv_iKqe2A.jpg"
+        }
+      ]
+    },
+    {
+      "id": 142507,
+      "message": "‏\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003eمحمد صدر عضو مجمع تشخیص مصلحت نظام:\u003cbr/\u003e\u003cbr/\u003e‏سیدحسن نصرالله به احمدی نژاد گفت میزان کمکی که در دوره سیدمحمد خاتمی به ما شد در جمهوری اسلامی سابقه نداشت.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Sahamnewsorg\" target=\"_blank\"\u003e@Sahamnewsorg\u003c/a\u003e",
+      "date": "2026-06-02T19:43:39Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 23400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "سهام نیوز",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/aQyRHsRsaQGrCiNbXnemvype1T3fOywgAMNxuDaOPcJO22LyBv7MOFeWBGnzV1KgjODc35pWjwDgCPNBYDW26b8LywTd9OPLDUm80ZG6Jb2dNcobxh2c3NXV6KwT8GRCZ_d95j1GjxiuCNHLC0xq86WCeUNekNHn8N1r29jyUbsLpAnPWAZagRA4sdBEAsJK5APoc50aPzhf__Xte08Gart9W2KAKVr3h8m1pjMg3mjclVCMr9gWzB02AGcDcpE6bPBAyCeI4YOUP2ZbfLJhlQqA5eP6d0lsxlpvZvPS1wk2N00Ct8Ti-1a-nWUpJvrP0F0wz3q_-j028Q5x2yjulQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 142508,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003eمریم باباجانی، از بازداشت‌شدگان اعتراضات سراسری دی‌ماه ۱۴۰۴ در ایذه، توسط شعبه یک دادگاه انقلاب اهواز به ۳۲ سال و شش ماه و دو روز حبس محکوم شده است.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Sahamnewsorg\" target=\"_blank\"\u003e@Sahamnewsorg\u003c/a\u003e",
+      "date": "2026-06-02T19:55:56Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 20900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "سهام نیوز",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/Jd_Qn9W0B9VADo7DljzNYr-_rFS2QoAM0zyRnGqIPVhKlSPNDGhJgUTH4fPTlSTsdWE83W_T-hkL1aOr4odGXZrVvcbi2US9TfDXwsMtlRAN_nRb2AKgHB-vl3PlPLhDeuZIEzPV5r9Bq-mbid0awWcGraG1g6Ig-J3eH2W-Oq3F5ZNBGd5YmKBchWO97U3XyA7vvUVCO0Hhfw7MW6Er1kORStRl1V-3usSHPJTnlsyiLpsi97d9RxMdlyQ8AuFd57tB4YUptWGpFDg6C9LFmUVO1WePsQoc01llG2GXUVClvgyoIOuw_eevtJlqm3WImN3ouBsVwHqCk6C7S8sRVw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 142509,
+      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003eنتانیاهو:رژیم ایران محکوم به فناست\u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003eما اجازه نخواهیم داد رژیم ایران چرخ تاریخ را به عقب برگرداند. اجازه نخواهیم داد به سلاح هسته‌ای دست یابد. اجازه نخواهیم داد وجود ما را تهدید کند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003eاین رژیم محکوم به فناست و ما به آن کمک خواهیم کرد تا به آن مقصد برسد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003eاین رژیم دیگر به تهدید ما با بمب‌های هسته‌ای و هزاران موشک بالستیک کشنده باز نخواهد گشت.\u003cbr/\u003e\u003ca href=\"https://t.me/Sahamnewsorg\" target=\"_blank\"\u003e@Sahamnewsorg\u003c/a\u003e",
+      "date": "2026-06-02T20:07:58Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 18700,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "سهام نیوز"
+    },
+    {
+      "id": 142510,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003eموجودی ۲۱ میلیارد دلاری حساب مرد ایرانی در ترکیه دردسرساز شد\u003cbr/\u003e\u003cbr/\u003eرسانه‌های ترکیه گزارش دادند که بیش از یک تریلیون لیر به‌طور نامشخص به حساب بانکی احمد جهانگرد تکالو، شهروند ایرانی ۳۲ ساله ساکن شهر وان، واریز شده است؛ اتفاقی که به مسدود شدن تمامی حساب‌های او از سوی سازمان تحقیقات جرایم مالی ترکیه (MASAK) منجر شد.\u003cbr/\u003e\u003cbr/\u003eاین مرد ایرانی پس از آنکه کارت بانکی‌اش هنگام خرید از یک فروشگاه کار نکرد، برای بررسی مشکل به بانک مراجعه کرد و در آنجا متوجه شد موجودی حسابش به ۹۹۹ میلیارد و ۹۹۹ میلیون و ۹۹۹ هزار و ۹۹۹ لیر و ۹۹ قروش رسیده است.\u003cbr/\u003eتکالو گفت کارکنان بانک نیز از مشاهده این رقم شگفت‌زده شدند و پس از بررسی اولیه، موضوع را به مقام‌های مسئول گزارش کردند. به گفته او، پس از ورود این مبلغ به حساب، تمامی حساب‌های بانکی‌اش مسدود شد\u003cbr/\u003e\u003cbr/\u003eبر اساس گزارش‌ها، این مبلغ معادل حدود ۲۱.۸ میلیارد دلار است؛ رقمی که می‌توانست صاحب حساب را در میان ثروتمندترین افراد جهان قرار دهد.\u003cbr/\u003e\u003cbr/\u003eمقام‌های ترکیه تحقیقات درباره منشا این واریز غیرعادی را ادامه می‌دهند و دسترسی صاحب حساب به دارایی‌هایش همچنان محدود است.\u003cbr/\u003e\u003ca href=\"https://t.me/Sahamnewsorg\" target=\"_blank\"\u003e@Sahamnewsorg\u003c/a\u003e",
+      "date": "2026-06-02T20:14:58Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 18800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "سهام نیوز",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/FQnXk5Vy-WoQPgUFII6XpaRuH1xlbWsmUJ4GXNn-sgAeQBct__F8qoscoPRFddoLUmcRncjD8zdh3YLgUXyF3Oqb30-M3AXmq2UsOC6cNXC71Vl3UC3zTj8MiRZ2VWf8E5DP_QPSB3_wMgjrsX7gWe3hFHlz9N6fIfuITlcLySrxANL6Nc_wmrH0e1-kbRDwnA_H8F-QyynodXJ04f2WgCzE0rn50WBHcHp5rgE1BbVwRTQtdeoaQQgMZwarsRDuyfJRtg_AbmkYm_-PlXKZisrTzj6sCc7tEIWO73WU125T7mC4aatDmDZzmTgiALJ5sjGTO-9FMA2r5LrzVqflcA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 142511,
+      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003eمحمود قیم\u003c/b\u003e،\u003cb\u003e مداح :کوروش اگه سگ اهل بیت نیست پس خاک بر تمدن ایران باستان\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003ca href=\"https://t.me/Sahamnewsorg\" target=\"_blank\"\u003e\u003cb\u003e@Sahamnewsorg\u003c/b\u003e\u003c/a\u003e",
+      "date": "2026-06-02T20:21:42Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 16900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "سهام نیوز",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/tqMoum-LXvzOWR2On2Ekswjl9B42sQOvBIWzNiVxXHnL639Ow_qBCCpCC_gKFxcD9qmuCjoPfHAk91VrdNYguuSUE1xRRdcqNuBkHtlJiyVxguZqnEl78mt2a8_aoiG120OcjGEyuKxSV-mP0U_W1Kz-OrIPzOymVZLcih2e0Y4ScpQeDjx91a6HcCxbvuAYW_j1x1VXpaqnvLNiTQKnkvChWvfe9mO_0XV-faxcOhPf9OX4Ve5Rmabs_kSxJ48nJ7XuEdJeApbMPOkv2y7mgovfVPFLLJMFSX9qYjodLVVcDIRI_7o15kJ4-P8z_WjLug5kbkPZHMKQ4W7RgxPLNg",
+          "width": 640
+        }
+      ]
+    },
+    {
+      "id": 142512,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003eویدئویی از لحظه حمله هوایی به یه سامانه موشکی تو جنگ ۴۰ روزه در کرج\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Sahamnewsorg\" target=\"_blank\"\u003e@Sahamnewsorg\u003c/a\u003e",
+      "date": "2026-06-02T20:36:17Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "سهام نیوز",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/O65QrSZR49nD1bjMae6H-g2wS9XPyD7CR5rNo5nptB8nbkX9Grq1l61xC_15o_jc7qO9CaTT5i_nRY71l-rK8HxqitNVbPv4M_Cp172TDPHaN-utM2ApxAJ8AoSGCa9JsH9YGkzGI3GCBM7HK19HmFBhI1z68mjZpFN4w8M2J_BCS0oiUFJR5GsTpgmNnte9THhZxf18bpIJzIXHPDLOOb9ggdoXg1rn3OEcTJUUyu_j2OJ1rTuMJyT5-8ZQdR-0bEsJQObDouWFX7nO7QuDZnnYvD5DRV0zC4FspeJ3XTPWBVBOcYSfJmxrJYxaY4yaqkQ65J4_bw245AHI1el8oQ",
+          "width": 480
+        }
+      ]
+    },
+    {
+      "id": 142513,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003eترامپ مذاکره را زنده اعلام کرد، خزانه‌داری تحریم را؛ پشت پرده این دوصداییِ عجیب در واشینگتن چیست؟\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8D.png\u0026#39;)\"\u003e\u003cb\u003e✍️\u003c/b\u003e\u003c/i\u003eحمید آصفی\u003cbr/\u003eدر سیاست بین‌الملل، تکذیب‌ها گاهی از خودِ خبرها مهم‌ترند. وقتی یک رئیس‌جمهور وارد میدان می‌شود و با لحنی روایت «توقف مذاکرات» را رد می‌کند، مسئله فقط اصلاح یک خبر رسانه‌ای نیست؛ بلکه تلاش برای مدیریت یک صحنه سیاسی است. صحنه‌ای که هر کلمه می‌تواند بر بازارها، محاسبات امنیتی، تصمیم سرمایه‌گذاران و رفتار بازیگران منطقه‌ای اثر بگذارد.\u003cbr/\u003e\u003cbr/\u003eتأکید ترامپ بر اینکه مذاکرات «چهار روز پیش، سه روز پیش، دو روز پیش، دیروز و امروز» ادامه داشته‌اند، بیش از آنکه یک توضیح خبری باشد، نوعی نمایش سیاسی است؛ نمایشی برای القای این پیام که کانال گفت‌وگو زنده است و موتور دیپلماسی خاموش نشده است. در چنین شرایطی، آمریکا نمی‌خواهد در جایگاه طرفی دیده شود که میز مذاکره را واژگون کرده است؛ همان‌گونه که ایران تمایل ندارد مسئول مرگ دیپلماسی معرفی شود.\u003cbr/\u003eدر واقع، هر دو طرف در وضعیتی قرار گرفته‌اند که می‌توان آن را «برزخِ مذاکره» نامید؛ نه آن‌قدر به توافق نزدیک‌اند که جشن پیروزی برپا کنند و نه آن‌قدر از یکدیگر دور شده‌اند که پرچم شکست را بالا ببرند. این وضعیت، قلمرویی خاکستری است؛ سرزمینی میان امید و بن‌بست، میان امضا و انکار.\u003cbr/\u003eاز همین رو، خبر توقف مذاکرات می‌توانست این برزخ را به یک بن‌بست رسمی تبدیل کند؛ چیزی که ظاهراً هیچ‌یک از طرفین در مقطع کنونی خواهان آن نیستند. تکذیب ترامپ را می‌توان تلاشی برای جلوگیری از شکل‌گیری چنین برداشتی دانست؛ تلاشی برای حفظ آنچه شاید بتوان آن را «تنفس مصنوعی دیپلماسی» نامید.\u003cbr/\u003eپشت پرده چه می‌تواند باشد؟\u003cbr/\u003eاگر لایه‌های سطحی خبرها را کنار بزنیم، تصویری متفاوت آشکار می‌شود. نه تصویر یک توافق قریب‌الوقوع و نه تصویر یک رویارویی اجتناب‌ناپذیر؛ بلکه تصویر دو طرفی که در حال آزمودن آستانه تحمل یکدیگرند.\u003cbr/\u003eتحریم‌های جدید از یک سو و تأکید بر ادامه مذاکرات از سوی دیگر، نشانه ورود به مرحله‌ای است که می‌توان آن را «دیپلماسیِ فشارِ همزمان» نامید؛ مرحله‌ای که در آن لبخند و تهدید، همسایه یکدیگر می‌شوند. در این مدل، طرفین تلاش می‌کنند بدون ترک میز مذاکره، هزینه مقاومت طرف مقابل را افزایش دهند.\u003cbr/\u003e\u003cbr/\u003eدر چنین فضایی، خبرهای متناقض نه استثنا بلکه قاعده‌اند. هر روز روایتی متولد می‌شود؛ روایتی که گاهی از پیشرفت می‌گوید و گاهی از بحران. این همان مه سیاسی است که قدرت‌ها برای پنهان کردن خطوط نبرد دیپلماتیک ایجاد می‌کنند.\u003cbr/\u003eواقعیت آن است که اکنون بیش از آنکه جنگ اراده‌ها در میدان رخ دهد، در عرصه ادراکات جریان دارد. هر طرف می‌کوشد طرف مقابل را متقاعد کند که زمان علیه او حرکت می‌کند. این نبردِ ساعت‌هاست؛ نبردی که عقربه‌ها به اندازه موشک‌ها اهمیت پیدا می‌کنند.\u003cbr/\u003eروند مذاکرات به کجا می‌انجامد؟\u003cbr/\u003eاگر از هیاهوی روزانه فاصله بگیریم، محتمل‌ترین چشم‌انداز نه فروپاشی مذاکرات است و نه دستیابی سریع به یک توافق جامع. آنچه بیشتر دیده می‌شود، حرکت به سوی یک توافق محدود، مرحله‌ای و کنترل‌شده است؛ توافقی که بحران را مدیریت کند، نه اینکه آن را برای همیشه حل کند.\u003cbr/\u003eبه نظر می‌رسد دو طرف هنوز به این جمع‌بندی نرسیده‌اند که هزینه شکست مذاکرات کمتر از هزینه ادامه آن است. همین واقعیت، مهم‌ترین سوخت موتور گفت‌وگوهاست.\u003cbr/\u003eالبته مسیر پیش رو مستقیم و هموار نخواهد بود. هرچه مذاکرات به نقاط حساس‌تر نزدیک شود، تعداد تحریم‌ها، تهدیدها، تکذیب‌ها و پیام‌های متناقض افزایش خواهد یافت. این بخشی از منطق چانه‌زنی در مرحله پایانی است؛ مرحله‌ای که هر طرف تلاش می‌کند آخرین امتیازها را از دل تردیدها استخراج کند.\u003cbr/\u003eشاید به همین دلیل باشد که امروز بیش از هر زمان دیگری، سیاست شبیه دریایی مه‌آلود شده است. کشتی‌ها هنوز در حرکت‌اند، اما هیچ‌کس ساحل را به‌وضوح نمی‌بیند.\u003cbr/\u003e\u003cbr/\u003eجمع‌بندی\u003cbr/\u003eآنچه اکنون در برابر ما قرار دارد، نه داستان توقف مذاکرات است و نه داستان پیشرفت قطعی آن. ما در میانه پدیده‌ای قرار گرفته‌ایم که می‌توان آن را «مذاکره‌سایه» نامید؛ وضعیتی که در آن توافق و تقابل همزمان در کنار یکدیگر نفس می‌کشند.\u003cbr/\u003eتحریم‌ها پیام فشارند. تکذیب‌ها پیام تداوم گفت‌وگو. و هر دو از یک منطق مشترک تغذیه می‌شوند: تلاش برای تغییر محاسبات طرف مقابل.\u003cbr/\u003eدر افق کنونی، نشانه‌ها بیشتر از ادامه مسیر دیپلماسی حکایت دارند تا پایان آن. اما این دیپلماسی، دیپلماسیِ آرامش نیست؛ دیپلماسیِ اصطکاک است. دیپلماسی‌ای که در آن دست‌ها برای مذاکره دراز می‌شوند، اما انگشتان همچنان بر اهرم‌های فشار باقی می‌مانند.\u003cbr/\u003eو شاید راز این روزهای پرابهام همین باشد؛ اینکه تاریخ هنوز تصمیم نهایی خود را نگرفته است. پرونده روی میز باز مانده، قلم‌ها آماده‌اند، اما امضا هنوز در پناه مه ایستاده است.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Sahamnewsorg\" target=\"_blank\"\u003e@Sahamnewsorg\u003c/a\u003e",
+      "date": "2026-06-02T20:41:25Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 12800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "سهام نیوز"
+    },
+    {
+      "id": 142514,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003eعضو کمیسیون صنایع مجلس:\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eنماینده‌های مخالف می‌گفتند، مردم به قطعی اینترنت عادت کردند!!\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003ca href=\"https://t.me/Sahamnewsorg\" target=\"_blank\"\u003e\u003cb\u003e@Sahamnewsorg\u003c/b\u003e\u003c/a\u003e",
+      "date": "2026-06-02T21:07:25Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 6920,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "سهام نیوز",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/AmKfG9Fbjx2vbh9SKX0LJQXjA4C8QITTKXLU3vBdx-EPXhBxzfP5zB6616nZExqkjNKXRs29LP8nHfTEY2WS_Q_g_7lkibj_0oVBfULWARORI9e5WJCyNVsh6gWC9fkSnXWScN_2YeJ-wc9oK3hJQpxo7zz6TPCyptVtLxMfJGhHx4k-gBNi9WNwHWDJ6q1aUMcOrMJe_171DL7llM9XxstPPG6AG0nGbf0P3sFq9_n9Cxi1mUjSE7tcp6Zby9qCxFsRO2fIo0UMXgzIQTErY35eyJM-Zd23MF08T8DxXQL2KHr6OhGOxss-BYW5GUqORjnVX0I99ztLjy7EpZWm3Q.jpg"
+        }
+      ]
+    },
+    {
+      "id": 142515,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003eلحظات اصابت گلوله های آتشین روسیه به کی یف، پایتخت اوکراین: تصاویر سهمگینی که به سینما می مانند!\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Sahamnewsorg\" target=\"_blank\"\u003e@Sahamnewsorg\u003c/a\u003e",
+      "date": "2026-06-02T21:17:10Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4730,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "سهام نیوز",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/QDYr-h2XS2eCxj3mwOBq9Sssb8R5VaLe_Nkh7HyhTv70G_2vEhwC4wWI1VjWDeMwj0tYfvEILikXXEQ7ev7T9kdzdnCzQSbyDKG380INuj52afg045Q6ENqzrm4CVitGiA87XmFRUDur9vd0FPrDqiVv2cfT_YP8sCEw2kAswRK6gwBS2WnIr519YInKu9Y-z9DwL0nGAsMlo3EQ3cuQUMXWURSs0eTd406PnqSkml6tbQftyzueUtbftBOZonICHwMQ1kAdFBZYU6PHUDVinponR7VRvkN46qBSQhru9vZnfutvve3kwh87AM-3t_Vb4Q4DFD30JvDIqY1ew64XFQ",
+          "width": 640
+        }
+      ]
+    },
+    {
+      "id": 142516,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003eکشف راز جوانی در قفسه سینه؛ اندامی که تصور می‌شد «بی‌مصرف» است، کلید طول عمر و درمان سرطان شد\u003cbr/\u003e\u003cbr/\u003eیک عضو کوچک و کمتر شناخته‌شده در بدن، ممکن است یکی از مهم‌ترین عوامل پنهان در پیش‌بینی طول عمر، خطر بیماری‌ها و موفقیت درمان سرطان باشد.\u003cbr/\u003e\u003cbr/\u003eبرای دهه‌ها، باور عمومی در دنیای پزشکی این بود که «تیموس» – غده‌ای کوچک در پشت جناغ سینه – فقط در دوران کودکی کارایی دارد و با عبور از دوران بلوغ، به اندامی بازنشسته و بی‌اهمیت تبدیل می‌شود. اما حالا تحقیقات جدید پژوهشگران «مَس جنرال برایگم» که در مجله علمی \u003ci\u003eNature\u003c/i\u003e منتشر شده، این فرضیه قدیمی را به‌طور کامل در هم شکسته است؛ یافته‌های جدید نشان می‌دهد که این غده، نه تنها در بزرگسالی از کار نمی‌افتد، بلکه نقشی حیاتی در سلامت بزرگسالان و افزایش طول عمر ایفا می‌کند.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Sahamnewsorg\" target=\"_blank\"\u003e@Sahamnewsorg\u003c/a\u003e",
+      "date": "2026-06-02T21:19:33Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4420,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "سهام نیوز",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/FOk_dWScS6DTXJxxPW37b-MksF6wrVqUeX4wL9P8jra8goY4Tnd3suZkFQzQf_XRXAaj04Nxwo_6QBqc2GV_Z3f1ANQNB3IOLak6_js7WZBtE3NK2CzWvyDXNRpcx_dNOoSOd7_nMiOZ_RjpAdLZ9dbLLs3HhnmWwq7_JrXAPWBGmzaqIXZ08LT5Uksm_crbKmOWVAuLogPp1y4h7CfUBNamx_rd-1BYEOBkTbtNpcyt2fucp87PiUPG8IfoDOfqU6g4-YnWOlQhziUB_2I2RtZGn8YOH1FhtMZ8wN2EUmyK2anR3-oH4oD-oQ9mg3qQGAUUvCP4EWyAnUh96Pt-aw.jpg"
         }
       ]
     }
