@@ -4,70 +4,16 @@
     "title": "Matin SenPai",
     "username": "matinsenpaii",
     "photo_url": "https://cdn1.telesco.pe/file/rr40MKZ_9bJ_nlp32p6gFWNd4VQVeEvFrXfPPyKJFp73SM6rlZjEV-VJAA6aLDpReE1bYOl9fXi6NzgF-0ar0SSGSCUjY_w__xuz4QxRHibmceyokMp5AA4OqPKNNu9vMCjM0ZNSrKcxTKEKlAVv6x_m-bN9_LrgZHFaTPeEC4jjsYbuZTA2weQSAiK4HZA4VbOXZ4GzCLY4eWnNxaHbAU6iCEskh7QVj9VkI8po2-REKhjhPqAaXbn6iqEBSoAl-ir0J3StS9vog6kr2qv_ugjYnDkWQON7D3TCNPAE03W4dwD2Ri4ozVjD6898-yKr5OEbpbwsvOPxlWoWS3gkgw.jpg",
-    "description": "درود! متین هستم و کامپیوتر رو دوست دارم! در حال یادگیری هستم و چیزهایی که یاد میگیرم رو سعی می‌کنم به شما هم یاد بدم اگر به دردتون بخوره =)\n\n•YouTube:\nhttp://www.youtube.com/@Matin_SenPai\n\n•Github:\nhttps://github.com/MatinSenPai\n\nهمکاری: @MatinPaiSen"
+    "description": "درود! متین هستم و کامپیوتر رو دوست دارم! در حال یادگیری هستم و چیزهایی که یاد میگیرم رو سعی می‌کنم به شما هم یاد بدم اگر به دردتون بخوره =)\n\n•YouTube:\nhttp://www.youtube.com/@Matin_SenPai\n\n•Github:\nhttps://github.com/MatinSenPai"
   },
   "posts": [
-    {
-      "id": 3665,
-      "message": "برای مشکل آپلود روی کانفیگ مستقیم پشت CDN، تنها راه استفاده از اسپوفه. sni spoof",
-      "date": "2026-06-02T20:39:53Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 56500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/k22cSh7ShIk6IzvJePl7nLI0Xw1ciGtXH1yOQc3157nkjewBXeAGNrRP2yDNdY0d_QpihXYXnstTiXT_4xJhmjbRqvyOpu12Jvn5oH7owkzX4rOEpV6Z_RVFFaxm_hG9b8jHCYgRjQ0SUuvp7SYUgT3Ln_6x57MYJ_Ljd4U2ZHTB0oMqEMn7zWsA4EwJEm3Juq39_FO3Lu8SnNcx7ZzKOscQLb2ipKPxQJpTvImLgXVJbCVNiQJt2gmB-rjRQu2ptpuJbh3A5s1EPVJ4VVwmQ16o44Hx9o8YIwlNL7lwTuc4J9sOb6s2JOyp4EisXjHPXqmGZI0NCyaHZCIWNI8rqA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 3666,
-      "message": "استفاده از فرگمنت هم جوابه",
-      "date": "2026-06-02T20:40:41Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 57000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 3671,
-      "message": "لطفا WhiteDNS رو ستاپ کنید هر چه سریعتر تا قطع نکردن:\u003cbr/\u003e\u003ca href=\"https://youtu.be/6Pm7kNQb3mo?is=Hh_zNDNmPQGHgzLb\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/6Pm7kNQb3mo?is=Hh_zNDNmPQGHgzLb\u003c/a\u003e",
-      "date": "2026-06-02T21:58:56Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 54700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 3672,
-      "message": "به نظر که جنگه\u003cbr/\u003eچون بالستیک زدن\u003cbr/\u003eاگه آمریکا نگه اینا نقض آتش‌بس نیست",
-      "date": "2026-06-02T22:01:58Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 55000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
     {
       "id": 3673,
       "message": "",
       "date": "2026-06-02T22:04:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 53800,
+      "views": 54000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -86,7 +32,7 @@
       "date": "2026-06-02T22:17:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 51500,
+      "views": 51600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -98,7 +44,7 @@
       "date": "2026-06-02T22:35:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 51700,
+      "views": 51800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -117,7 +63,7 @@
       "date": "2026-06-03T00:26:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 54600,
+      "views": 54800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -129,7 +75,7 @@
       "date": "2026-06-03T00:41:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 54900,
+      "views": 55100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -137,11 +83,11 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/keC7hsKlZo1FYQEH4U4Qf9eh2Epk801WwpnW_LkjnpcP7kp4gRF_rgNUsBHYVsg6L1RYfm4_OyZL1ynXsBSiHbVbnNo-WLZUmjmGs27a8QN5vpnjJcXs1KM1cjZws8JMtq66mRbqhRn5LWG3x9-oUYJ0WCdCLw8nOZsv2SKtXMNkL-9h_RP3D8_5_N0NyNEWtoBE5eswaMg6xNpTvmSjCRGJAKcMPoi6rWH9CXOpTfc4Fxei04QtMCGHmtSWulliGAKmJV2E3jplu1dOgxOMfNul9W-d1wnzEXumIoYIfGcGabS1DyIhg81tPqHcqVF0jx8MO0BIltgusF1EI7xSLQ.jpg"
+          "url": "https://cdn1.telesco.pe/file/uRP5p7PG9w1myHwUC9GDwaSEy0XWv0hgUC0EG5A9WYBiEOzCYuP37V8A7iPXedSiCYgkjDqOvlZR4bqLQkAFJMiR9HhfvQyuXOIFlUFirtlQYN1rmSYhwEcaFOgktVyNslLQy6gNG7XvDSq-PV2upF_CEkRj_u26HyjbWlIMc0a_biJbfpZ_sFxXpRTsCPOD2hQre2k-F28qkCfch6QXIkrFzQ1EJBw6NC7tsP3F5plcZ4684zkwrflVWGNc6MaKRbWnpFsdUvl08jfVzY-zLPpAO1bc_BHqFItLPwrWT5IR7Sj8G_7BKw-WChejrOdKZilwRq9CNlEfUu1vp3LlGg.jpg"
         },
         {
           "type": "video",
-          "url": "https://cdn1.telesco.pe/file/JqqQg9m84K5sqcsqjWZhSoRA8dsStq1CDh8-sSngJx4tKfX9EF8wgMFZYdFZE113082JT5XLiQtg_S-KAx17IR5Maox4chQiqn4_dwlj7qwLRkdJwWoBHSGef8_tFYcsGl3vHpAtlMvMNIkpwgXJaD1a8wPAetXPuR0rrBTaFLq7HtV7az1S2UhhM1gneCCZix3xmm7k-6IsFI5u0yV6wdW21BfptoPNjg3ZytF6Qhqm_VTI6W3_DfXeIrz2R9xK9o9hpndN46xCBLQ5KcoKgfwJWiYraCbjwac4O3HjKsemqQnECP3efzPBkSa_3alyBxqrmSvmfatLKEBaTtXW7w"
+          "url": "https://cdn1.telesco.pe/file/cu8CoisLapYyuR2zb9imVijwnac8O-bKlmPe83P67N4MdR2md_PrYENtjrukOpkp0r31i27921WQ3V_99sTQB2Sxk3V1JT3UiAU8rDbe53Tk4G8hrH71uE-B3iKFyXwCTTCEQKXks3DMb0t0Q_m7SampHIHC3SboL_I5emsWLA-p8KoQfS-UOrPb9qnCpls7g2XE6E2209owSI-eCxYjnCDQGoonOUpBNyjis9NYzKhKzcHozrFW2Dpb0XXNL_vxazEI59W-bVpDKTxplg5tYXPizVJSlNyDg0lpMHxj55qMcMmIjVCxEQay_cVzv8VHjTua30Z2SJ4U05v_NC3FuQ"
         }
       ]
     },
@@ -151,7 +97,7 @@
       "date": "2026-06-03T05:08:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 50100,
+      "views": 50400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -163,7 +109,7 @@
       "date": "2026-06-03T11:26:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 48600,
+      "views": 49100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -181,7 +127,7 @@
       "date": "2026-06-03T11:35:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 47400,
+      "views": 47700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -205,7 +151,7 @@
       "date": "2026-06-03T17:11:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28700,
+      "views": 29300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -217,7 +163,7 @@
       "date": "2026-06-03T18:06:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 35800,
+      "views": 36600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -229,7 +175,7 @@
       "date": "2026-06-03T18:46:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32900,
+      "views": 34100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -247,7 +193,7 @@
       "date": "2026-06-03T19:17:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29500,
+      "views": 31200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -259,7 +205,7 @@
       "date": "2026-06-03T19:22:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28800,
+      "views": 30600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -271,11 +217,66 @@
       "date": "2026-06-03T19:52:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24400,
+      "views": 26600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 3689,
+      "message": "تاریخ ۸ سپتامبر ۲۰۲۴ bpb یاد داده بودم یادش به خیر\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-06-04T01:38:47Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2630,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 3690,
+      "message": "یه آموزش هم با گوشی داده بودم",
+      "date": "2026-06-04T01:39:38Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2860,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 3691,
+      "message": "واقعا متوجه نمیشدم چرا مردم پول vpn میدن",
+      "date": "2026-06-04T01:40:06Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 3692,
+      "message": "کمتر از یکساعت پیش مدل جدید تصویر ساز Reve 2.0 معرفی شد , این مدل با پیشی گرفتن از نانو بنانای دو، رتبه دوم رو در جدول مدل های تصویر ساز بعد از GPT بدست آورده\u003cbr/\u003eاز سایت \u003ca href=\"http://Reve.com/\" target=\"_blank\" rel=\"noopener\"\u003eReve.com\u003c/a\u003e‎ می‌تونید به صورت محدود و رایگان تستش کنید.\u003cbr/\u003eیادداشت تیم: «ما روشی نوین برای تولید و ویرایش هر نوع تصویر با استفاده از چیدمان‌های دقیق ابداع کرده‌ایم. برای نخستین بار، خلق تصاویری که گویی می‌توان آن‌ها را لمس کرد، امکان‌پذیر شده است.»\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5470060791883374114\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8D.png\u0026#39;)\"\u003e\u003cb\u003e✍️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://x.com/i/status/2062260665121919101\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eسگارو\u003c/a\u003e",
+      "date": "2026-06-04T01:54:38Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1290,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/KJ6okHNqNDSUJemSr2ecZow_O3Vyc0RuoJVSosvU1iu_7Hch-het8jS81ECSzOuZZmzn33A8N69WWyd6GnMYgIBgPQjY2LqiTez4iRqv2XF0h6imvmZ57hxlGMNPQeGU0LNYItPhrcMrAXeoZBJmiMRco3yiQel58SV-14K4B8GINQ4AawaSVsh0dE7c16kLeyZfunN6hXlCIQplxa_1RovolHPJBcIjRrTg1B6uEb29Ga1RyZEiNoSxgRnF9NO7X7SsMiLCoAeIG1H7XKh843yK4aeuguTP7eqrt6Y6U5he7uKXrZMzJNTXazSu_xNbhZfjiK3CQWmBsT39H0g5MA",
+          "width": 1280
+        }
+      ]
     }
   ],
   "last_updated": 0
