@@ -8,106 +8,12 @@
   },
   "posts": [
     {
-      "id": 7259,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87BAF09F87B8.png\u0026#39;)\"\u003e\u003cb\u003e🇺🇸\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A5.png\u0026#39;)\"\u003e\u003cb\u003e💥\u003c/b\u003e\u003c/i\u003e\u003cb\u003eاسرائیل پس از  صدور اخطار تخلیه در منطقه صیدا در صور حملات خود را به مواضع حزب الله در این مناطق آغاز کرد \u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/iranlix\" target=\"_blank\"\u003e@iranlix\u003c/a\u003e",
-      "date": "2026-06-05T10:37:08Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1010,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "ایرانلیکس",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/d3ULg335m-BtqmBatG24pefIwJtlPUjm2I6Rth_duVT8EbS2uIeNI6kXSOrCnpjSfDDohERZk60WIO2DQZu7lntrUS_k6H0xa1fZXKJJgLJU2FCPHb8a0BxCakeg7fY4355-8Ga-gqbMCNsVKEzRd65MCW1wnmHFg-RUqgILqAOEpD1jLQFqTP-kANqcb3zzydbM-UBGSQb2N_TMrpuhcrESndepKevoohv5jBB7JZ2G7fAbUkdEkA0TbNjDKa2eSqSmL_QFr-cptzZ34higjUzin9WUxjvO9G-def9kAt3QV15-jg9FAsIRO684CFak5KYyo-R4-glxI5Ne8h8Asg.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/poKDFVW_ixtlNUq5BM3bDUHaMxd8-O7x4oSwsNQnetT7GOxym1K5ebao7-ofO-s2AWRzBN02YuuDooI27C0l9C4uWvc8eTxGwlVG_lS2YMjmnnAUcPKFAjZVgIFMsGwsLZa2vzEfRTau8ZC6cDPYcVqetvcUHAc0uxc_uC1ZlUqqNSK03mm6hVHb3UVf1gn_JQ4LSab5EF08TWPlhZaoStDKBt1tzy-FDKUxr0VsfzlBwkfPYBUk2DEGULROkR4C5ZixqeMnLhky3dRw-OMsrWCsVy1Pak921KlO9EpC5jhWx9wS16hGCwSD0Y8jZLskEb80MPEK02t5NSIfFswv9g.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/fiKzIjzDk9l9BQ_IYq37iXfiIW9d8lqpVAurSMcqvYNfhhejJiHvf-FaWw3YlnA8yfKAMbrgDuCDi8esYDmpejetJX48k8pf2XXg1u50DKOu0GsCtlX7Kd1ldFWt5N0m4e7hTSUvj8kgdWWjZldSBmNkbnrVwFW_rgUbTw9wId9HmUvWRGznFJVwjm4vlUzgMvGMnTF0SS293kG6gIZKJy7cUoN3HU38cXiHpMwP4_9FkKNLUahGZd3baAH8ZRLO8N8g2syn5cK-oIEMfkPoKwPLMVZjtjRtKom7j4oOREjO2bdELtIYueT0BDKFMa2CIk1LRYjSSwgmsCNZyKFrRQ.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/jSYs43DUUwAnQXyGTlxI0uWFoCBhkslvC_t_1usGdBS5MFtRxjRt7VgkElVa7lS7TCzkQ-9jCai5_eA63EWhLJxddNtXxaCqULUDrmIqVOXfDTGKfHHdWxTh-yM_BwDiQHv5yo0mc2zpkwNmRk1FyNFimbH0C2eSkW-cjZ4PydKQYp16my_fV0XFjTIl4-8uscLQ1fydbtYP2AOcUd_x_Nqu5PIGiS8M3752lp3ZHvzjmR8uW0JUbredhiHrx1GeGPR5XKmPyZDpnN0a59WroiA6obPkjrldT65IKhoeuWtgAewNN--3PLq_lkvaVWid6iQz4W6O26Zuka9H2a59mw.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/sMYPs_XVVAHpVh3R_-jmIVlisoRCiSrbuJyuiNeM5rU1XHrzMkENLKy54F1eNrXk24qMY7k9SB7agRt6zoaDmpPmlmHhzD2ZZUUdO7oAj9LCpQY4D_jYttRO6q6bKe9_y5Qhf2vsKkk5gQyF4tt1nppRmloRkDD8F1MEL7kN7J0yyvew-BIafBhAQCDsNJ7v7ue10UThbZ5AhIaDy47LKrVG2fB--SY-o3SvNZk5jTVkfDU6_g4-ggnfnQmDMDSw9nybnmellAC5ABCgm3S-rckuTSMR2EPSstmAdsL5okI-Ag9_YaxaEK6GN6g7wr1p6criTZfRRZEU-yTXBWSxSw.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/cKEJC-lwp413GwuTxklEI8ZoYJoXPgz-bIkCs1YFaW__ES6INiDHCkYJ8AT-j95u7iH-Xee9sw194vjNBQJqcDhIN7ewcOVo2wfd1hJJODT2Qj2vYbP13K6tMjV9R1cjLmqNojxD3F55p1jbqbs8nQ4Qri43umFv9Jf0JNN0l7OgAj0r5IAmE0c3KsyE3n-REsI5CiG6fdvqY6mc5C7HeDcwh3XKWKGnPnq0V3IA6bL4fQklx0z60hRO2qS_mQi4qTmAADbMR6OM1I1Yn-RLkgA5LsYyWAEu8m4FBhejVNEzYnZnagXwH90qQUNc1Lh8XC4WscqUvPa80l6Jf4tFkQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 7265,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BB.png\u0026#39;)\"\u003e\u003cb\u003e🔻\u003c/b\u003e\u003c/i\u003e\u003cb\u003eتا دیروز، تقریباً ۶۳ تانکر نیروی هوایی ایالات متحده (KC-135Rs و KC-46As) در فرودگاه بن گوریون اسرائیل مشاهده شدند\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E299A6.png\u0026#39;)\"\u003e\u003cb\u003e♦️\u003c/b\u003e\u003c/i\u003eهواپیماهای نظامی ایالات متحده بیش از نیمی از جایگاه‌های پارکینگ فرودگاه را اشغال کرده‌اند و عملیات تجاری در فرودگاه اصلی غیرنظامی اسرائیل را مختل کرده‌اند\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E299A6.png\u0026#39;)\"\u003e\u003cb\u003e♦️\u003c/b\u003e\u003c/i\u003eبا وجود گزارش خبری قبلی که ادعا می‌کرد نیروی هوایی ایالات متحده بیشتر هواپیماهای نظامی را از فرودگاه بن گوریون خارج خواهد کرد، چنین اتفاقی نیفتاد\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/iranlix\" target=\"_blank\"\u003e@iranlix\u003c/a\u003e",
-      "date": "2026-06-05T11:49:36Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 889,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "ایرانلیکس",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/FLgokZmLenSTYqS5na0BAzySZATNsGqN97mNBlv_wzCe5r76d7suHfY4oK1VHvXLHS-JW1kOBslOuSgjw1X9RzU5iQsNmiVawg62bqsOWvF2N8BfeNYZNzrKiJmczYZyFt9Ygkz3ShHwCYyOEu_7F983bnQIt2LC9Gn_dp17RhxmW0sG3Wpu8bZa4Lb8jFZshrPufr9J9xqUQGmVCtYE7-0hxRgdAasbfIKwYKrH0bVDbotFJvG4C5vyWL3xYkbggVJvvrf4Q6K8PkCiXjUCG17b73NQRrCRtZUfjXOt-CPBV9D_ZF5b-9a-NOUc_4QzXjUOvN8xSdp7B4XEKNO3KA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 7266,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87BAF09F87B8.png\u0026#39;)\"\u003e\u003cb\u003e🇺🇸\u003c/b\u003e\u003c/i\u003e\u003cb\u003eفرماندهی اقیانوس هند و آرام ارتش آمریکا اعلام کرد صبح امروز نفتکش ج.ا M/T DAVINA توسط تفنگداران دریایی این کشور در اقیانوس هند توقیف شد.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/iranlix\" target=\"_blank\"\u003e@iranlix\u003c/a\u003e",
-      "date": "2026-06-05T12:01:06Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 881,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "ایرانلیکس",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/Pp54xXL2Ns2kJ94oQNDFlcvO-AxDtn4Tx8tFMABeWz4bQWWawC5oD5SjNmQAQkH2PQoE9O8QfL1Xc0t-odPT8i1OGIR42ZsdJJkuLLrMUixKzBrtdXDWrBliH2qSKUoPFfXcWciUBCO9ew7ymhucm0zCgc2fFrYulzomw6vFBydA1lrwq2VVVdzJF0WMCdSaey-FDazh6EmLqCOMv5MVAOwzRmCX3PpzjPH7gKcQ18-tDPf_kU2r7j5JLqoxIlu7Hz2BUqJJEj-aXbVmNffPNrNhlGvCg_y3fP90Y_KG_eE2Kq-5yzuVSONaiGotsQ2jqATocIdjj4tIMjMHbkdA3A",
-          "width": 852
-        }
-      ]
-    },
-    {
-      "id": 7267,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E299A6.png\u0026#39;)\"\u003e\u003cb\u003e♦️\u003c/b\u003e\u003c/i\u003e\u003cb\u003eپهپادهای انتحاری اوکراینی شب گذشته حملات گسترده ای را به کشتی های تجاری روسی که حامل غلات دزدیده از مناطق اشغالی اکراین بودند را  در دریای آزوف انجام دادند\u003c/b\u003e.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/iranlix\" target=\"_blank\"\u003e@iranlix\u003c/a\u003e",
-      "date": "2026-06-05T12:05:52Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 863,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "ایرانلیکس",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/OfXrpoQOIcVuWWksGhyGCkvIf5YBWuvAeCpT0m_9ivAFvY7IctXYepoQfZIfifYoxlHfhH0ZM4XYCLlcuhytdrslcHHoke9ffApNf0gpT79tfAEB8v-lPpxqr3RhpTPgRlbWccllERnFms8Y2sYh06g06_TZCgV_JI5sqqR71dzznRNUAVn3lurW2kPJXnXGq1Vpj2jY3g5mVfsNKMgOPlcPIVJAYDc9_wdKhRmOeUhiq22Ii40yaIRISIhCxXlFac291ixq69s3NGNZRtDgisET3mHA2930rHo5q6Rra_uFygKvU3_Eb5oVGGiny38LsUTNOpKogkKoFnxHKMTs6g",
-          "width": 644
-        }
-      ]
-    },
-    {
       "id": 7268,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E299A6.png\u0026#39;)\"\u003e\u003cb\u003e♦️\u003c/b\u003e\u003c/i\u003e\u003cb\u003eیه مادر شهید تو شبکه خبر داشت خطاب به تیم مذاکره کننده می‌گفت: نه سازش نه پوزش انتقام انتقام، که همون موقع شبکه خبر صداشو قطع کرد.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/iranlix\" target=\"_blank\"\u003e@iranlix\u003c/a\u003e",
       "date": "2026-06-05T12:16:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 876,
+      "views": 973,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -126,7 +32,7 @@
       "date": "2026-06-05T12:48:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 798,
+      "views": 906,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -145,7 +51,7 @@
       "date": "2026-06-05T13:12:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 766,
+      "views": 891,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -163,7 +69,7 @@
       "date": "2026-06-05T13:56:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 649,
+      "views": 789,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -181,7 +87,7 @@
       "date": "2026-06-05T14:07:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 606,
+      "views": 751,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -199,7 +105,7 @@
       "date": "2026-06-05T14:09:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 610,
+      "views": 752,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -218,7 +124,7 @@
       "date": "2026-06-05T14:11:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 691,
+      "views": 838,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -236,7 +142,7 @@
       "date": "2026-06-05T14:25:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 639,
+      "views": 813,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -254,7 +160,7 @@
       "date": "2026-06-05T15:28:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 438,
+      "views": 721,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -273,7 +179,7 @@
       "date": "2026-06-05T15:30:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 437,
+      "views": 721,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -291,7 +197,7 @@
       "date": "2026-06-05T16:14:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 231,
+      "views": 580,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -300,6 +206,141 @@
         {
           "type": "photo",
           "url": "https://cdn4.telesco.pe/file/gLkxp1RS1a09J58ioyirgXMMvXPM28jFRkHFSXfAFTCdeP6xkBlPDsrpu614lElYPejcSu1MLN3H2J5LxnLxJ28c74c5v1-ymt9SyNm_wkbbh6IPNbIRzweZBjgMgY3OfaBTeuQNl17kP8m4L013cBRr16aPGiF-f2trnvoMs9exnbxgt2P_tkzp3AgmFxX2_Jd5oa2xFtmWwDK3gGquc5XtuymkjUFezAwPsSzEqopuirvC6oDw13mxvDYaaZjXohNquvYkX14caUe23I6ZFUdvA9j1flxpcXacrR1rHCmJgkMNpoNdT9PCEOcHXHnoWicKXfYcW680JQr8-38j5A.jpg"
+        }
+      ]
+    },
+    {
+      "id": 7279,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BB.png\u0026#39;)\"\u003e\u003cb\u003e🔻\u003c/b\u003e\u003c/i\u003e\u003cb\u003eوزارت خزانه‌داری آمریکا جمعه اعلام کرد که تحریم‌های جدیدی مرتبط با ج.ا وضع کرده است.\u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E299A6.png\u0026#39;)\"\u003e\u003cb\u003e♦️\u003c/b\u003e\u003c/i\u003eبراساس گزارش وزارت خزانه‌داری آمریکا، در چارچوب به‌روزرسانی تحریم‌های مقابله با تروریسم، مهرداد گرامیان نیک و رومینا گرامیان نیک با تابعیت ایران، محمد شکول میهن‌دوست با تابعیت ترکیه و سرباز عبدالزاده با تابعیت افغانستان در فهرست تحریم‌ها قرار گرفتند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E299A6.png\u0026#39;)\"\u003e\u003cb\u003e♦️\u003c/b\u003e\u003c/i\u003eهمچنین ۱۲ نهاد فعال در حوزه‌های کشتیرانی، نفت، گاز و پتروشیمی در فهرست این تحریم‌ها قرار گرفتند و شش فروند کشتی با پرچم کشورهای پاناما و سنت کیتس نیز در همین چارچوب تحریم شدند.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/iranlix\" target=\"_blank\"\u003e@iranlix\u003c/a\u003e",
+      "date": "2026-06-05T17:19:12Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 438,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "ایرانلیکس",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/HiWqcAI-n9JzOslKF-9O47URQSSvmmjRX8M9LJ37Qq6U_oD5gdFErQ1ILNy6Ty1sHU1l7EH63Zvj7DuDlCFmx-QYPhV4Q5YMKfDOcTZsm2dCZZgypC9XDjFDaIav6pBR4-j5RrzO_L76aPWOPXXGn_-Y_w-HRwHVx5Ll5ntyLRWkqAO4LjC4JgW8coMV_wiJTI2PdDa5Fc3aLlhaqlxQCJmEbGYJbtcqZu9qv9CGZ9Fp-YbFyKNfYnvs-QrMDOgLUZY4rOpmcrC6tlzxe1aQLuF9QX1rA8EGy_1tPB6FiNqx4llu2LjZFygbiRBgLSedjGz4QG8X23_sSEEAO9Nagw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 7280,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BB.png\u0026#39;)\"\u003e\u003cb\u003e🔻\u003c/b\u003e\u003c/i\u003e\u003cb\u003eنواف سلام نخست‌وزیر لبنان:\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E299A6.png\u0026#39;)\"\u003e\u003cb\u003e♦️\u003c/b\u003e\u003c/i\u003e\u003cb\u003eما موفق شدیم به توافق آتش‌بس برسیم، اما متعجب شدیم که سپاه پاسداران اولین مخالف آن بود\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/iranlix\" target=\"_blank\"\u003e@iranlix\u003c/a\u003e",
+      "date": "2026-06-05T17:21:56Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 434,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "ایرانلیکس",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/UszdAJlPNKaLhZNKG03bGtqpzqPJWO9BrxfRpdboy_GpxZI_OFhigeydrxoS7A6e6jQLgl7UiicFubNQUlKuns2I2Ry2hDrNShUr70PW8vKnxUmILwe67yQQUxcEXbVYfnYm5tUnSI8C6GBWb7fuTNMQcYwamKGfXTFk_KzbQye1E1QH57MSgiMa_jdpRXZJrLCeVeJCQxjH_TAHMh4aAuMzzcvRW6kmPBQctVRID866RPZyWaInHA-74W0otvQgpgwJG9sLJEpCe6dYUz6ljDaYgtIIQ3VVBNP3ALA4sZrqQYUwcOUvrAZy18hrD3JA_JZd7JZgCtegGtTWRcT8zQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 7281,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BB.png\u0026#39;)\"\u003e\u003cb\u003e🔻\u003c/b\u003e\u003c/i\u003e\u003cb\u003eمحسن رضایی: مذاکرات متوقف شده است، آمریکا اگر توافقی می‌خواهد باید فورا ۲۴میلیارد دلار دارایی های ایران را آزاد کند\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E299A6.png\u0026#39;)\"\u003e\u003cb\u003e♦️\u003c/b\u003e\u003c/i\u003e\u003cb\u003eاگر محاصره دریایی ادامه یابد ما [از طریق تاکتیک‌های ناشناخته] جنگ را به دریای سرخ، دریای مدیترانه و اقیانوس هند می‌کشانیم.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003cb\u003eتاکتیک ناشناختش اگه مثل تاکتیک‌های کربلای ۴ باشه که نصف سپاه پاسداران را تو یک وعده فقط میده لادست آغا لواطعلی! \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003c/b\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/iranlix\" target=\"_blank\"\u003e@iranlix\u003c/a\u003e",
+      "date": "2026-06-05T17:21:56Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 458,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "ایرانلیکس",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/W3KmPmWX7pO9vPojmkYjASItmBjA0frRlpWfCIzltz7bXUst_DjHGloGg5lQxq_OtAVrsO9LjI29uZsroxkVc7EDzpv1IqO0nxNPB4YhO8nQuNgtVgFESKZnxAmemQFrduxismNwGJcPrT1TWMNcTONAYRjZNJWRNAcd8A6xsuI3rSrwQRLH5E-vExz5GJxnmlFc0U-zyHTM7XG0_KOaHcavRoTVXxpK25OIBbJ2YeMGUQBlyvLIGxaEOMpCEYFuEoY9HMabSa2YLXH7yjB0PUb_KbXrQFWzOGEZGx1azQ9BzQ0XkoV0skPgpLofNTaYN-Jy7KFB7HwtiOBifMqgaw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 7282,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E299A6.png\u0026#39;)\"\u003e\u003cb\u003e♦️\u003c/b\u003e\u003c/i\u003e\u003cb\u003eجرزوالم پست به نقل از منابع اطلاعاتی اسرائیل: جِی. دی. ونس طرح محرمانهٔ موساد برای استفاده از نیروهای کُرد علیه ج.ا را مستقیماً در اختیار اردوغان گذاشته و اردوغان سپس با لابی‌گری نزد ترامپ، خواستار لغو آن شده است\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E299A6.png\u0026#39;)\"\u003e\u003cb\u003e♦️\u003c/b\u003e\u003c/i\u003e\u003cb\u003eپس از آنکه اردوغان با ترسیم خط قرمز خود گفته بود «هیچ نیروی نظامی کُرد در نزدیکی مرزهای ترکیه حضور نداشته باشد» ترامپ سپس این عملیات را وتو کرد.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/iranlix\" target=\"_blank\"\u003e@iranlix\u003c/a\u003e",
+      "date": "2026-06-05T17:34:36Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 401,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "ایرانلیکس",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/jYH8X5UETBymbztMttibbIMnLP77HX2YXC9AgWO9iDWHCdWgkcgUGP2qxrucoZW4cQ-Gh2UG9ylDZm5ICnveJmPl1fDfQr_rVNNHDLjvq7vFyBzbxyQg5MrNxuQc_5gr13eOOyq18LnfP3JJBiLjLLWJjnQizDCqY7hoCNTT8OgTZSbK2r804tgve3csC03K5CsCSvtL7DPzTXt398XgVfkx9g8_MSYViv-5OpOald71LByRdx9vgA1WcxT4H7Vn8fPVlQxN2nAkXPDmWy1bKS7JyWNGS67sWkYKbHSxWTP2WwRweLFauNb-KPLvOvcjeL8nkPour6U4niAeN5gFOQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 7283,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BB.png\u0026#39;)\"\u003e\u003cb\u003e🔻\u003c/b\u003e\u003c/i\u003e\u003cb\u003eگزارشگر: نظر شما درباره اتهام وزیر امور خارجه ج.ا به آمریکا و اسرائیل درباره نسل‌کشی چیست؟\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003eمارکو روبیو:رژیم ج.ا؟ آن‌ها متخصص نسل‌کشی هستند. هزاران نفر را کشته‌اند. هر مشکلی در خاورمیانه هست، مربوط به رژیم ج.ا است. حزب‌الله؟ رژیم ج.ا\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003eشبه‌نظامیان شیعه که عراق را ویران و تهدید می‌کنند؟رژیم ج.ا\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003eحماس؟ رژیم ج.ا\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003eحوثی‌ها؟ رژیم ج.ا\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003eاسد در سوریه؟ رژیم ج.ا\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003eهر جا نگاه کنی، پشت همه این‌ها رژیم ج.ا است.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/iranlix\" target=\"_blank\"\u003e@iranlix\u003c/a\u003e",
+      "date": "2026-06-05T17:52:51Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 292,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "ایرانلیکس",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/kVzxB8fjZ0M4H9ebK8fJWD_qg9m53UuUqJRpCPYeG6tyUE-uSzi1ollFqs8vjZEnSQPynY4vI0v3zz4Pzcc21NCGs3rw4K30xQ4Omzck9-KCQuON4KtzjE5WAk1P-h9P8gmb_iE7hHLR88eA5ReAaV5CPToseeD9kAU0E97VYersMbQHYIAKtf3-ydPCJoDqVr0bCBAZXjW7j9s3xZyZ3M4E4GRpfOBp3YyI2xrAzoj3qDiizF7CejfCrZUFxQjwD_8IP1xqWRl8v1TJfk1S1SGoDRirBZc9OlOyyN0AXog3OtM_Ia1fxR-gT-lztuiC6BxD3bIH3H43K9CU2Sx0lQ",
+          "width": 848
+        }
+      ]
+    },
+    {
+      "id": 7284,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E299A6.png\u0026#39;)\"\u003e\u003cb\u003e♦️\u003c/b\u003e\u003c/i\u003e\u003cb\u003eقراردادهای فاش‌شده نشان می‌دهد که روسیه موشک‌های هوا به هوا و هوا به زمین را برای ج.ا تأمین می‌کند.\u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003eلیست موشک‌ها: ایکس-۳۸ هوا به زمین (هدایت لیزری) — ۱۲۰ واحد\u003cbr/\u003eآر-۷۳ هوا به هوا (برد کوتاه) — ۱۲۳ واحد\u003cbr/\u003eآر-۷۷ هوا به هوا (برد متوسط) — ۴۲ واحد\u003cbr/\u003eایکس-۳۱ ضد رادار/ضد کشتی — ۴۲ واحد\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003eتحویل‌ها به قراردادهای جنگنده سوخو-۳۵ ج.ا مرتبط است، با قطعاتی که تا سال ۲۰۲۷ سفارش داده شده‌اند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003eج.ا در اسناد روسیه با نام رمز «K10» ذکر شده است.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/iranlix\" target=\"_blank\"\u003e@iranlix\u003c/a\u003e",
+      "date": "2026-06-05T18:00:05Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 225,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "ایرانلیکس",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/iqOzntTfuCHRe6xr0vCsGQDsgG0nib7oXeRzNFZ8tE3ktZvJXMaUnRDG53Bn4V2kAc_9nGkxd_wnrAjWnKpmzCNmLtXFsXEycYeGFqycy1DcAPHV72dlbNq8GkroO_0j6nzDH4IEF_Am7nSF4VZv9ZbxigyVvDTBbljEJZj8VprMJ_hXNVVlmKlseRX-Yr3re96ijJaIow3agsd0I-sf2p3BiuUCQkn0aY5TxVr_8W-p3e5fP3auOw82-ZCCDyKpGYss9yXVjDYEWjhi1XT0H23fqkZsmLv-6DQ4qDLQDV70JAdBtZtKyAutVzFEXgHIDdzMJius7aFgJPmSyOQOxg.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/aasJkFZzVnfqypLL_FmHBKInLlGAxcCZFE4N3B_loM4A0KUI0WtEpMqpjX_RICZd1nlBihtiLKODQpebXW0Bukbm8Xzg6JAnIanlYKyhKRghgc27m2QzpKwFPptIa5iuzmuWe2LGzEcxjdkxbTcei--ro0EBGgz23VGarnoiK9uUBCNASaG7kuhzUpa4-8zDQjUKrKDbgK8y7s6DH6HmU8pCtPAt0b_YSNGu4CxypY5ngVEvMvGXGeaPVZoFxT8OCtt-xNpnRYfPo84QNwok6lZ1hV0hE8HU5o9ZbUmdVIubSSGKoeZM1zGn2RmiAVwf2W28d3UuDOG4oBQ8tEjvAg.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/oMpHzHuW7BZlFEMsbe9kfT_K3UnB15ZGLAlhcmJVRn0C-yDnh0C8EcBRmY2_QI_afdBEJtaXomXSzqfLxifI2HkEYGi_UNwq4ZbsuZBEaElVh6NPyPBQlWvbsFhTXQFoA__o-cNpHW6qwxCfNUeZMXLSUqu7r699nFCAIjLDk59nPzq0I0ooUa92uKZgYju6vzu3allZpKW4TxXax-vv5uJe8j7RcaFztbAeJ6DE5ubEOR3rUYufv0EA94jhQjuzlli9jcwZ-DCFz-xPi_RoP1UL5-kX-cgw9asfYQUQmafxzxt3DxSGXabzPN8FAUNmqQr1xIhbDTlMyw-bW3SUgQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 7287,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E299A6.png\u0026#39;)\"\u003e\u003cb\u003e♦️\u003c/b\u003e\u003c/i\u003e\u003cb\u003eشبکه خبری الحدث، روز جمعه ۱۵ خرداد ماه به نقل از «منابعی آگاه» گزارش کرد تهران موافقتش با انتقال بخشی از ذخایر اورانیوم خود به یک کشور ثالث را به اسلام‌آباد اعلام کرده است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E299A6.png\u0026#39;)\"\u003e\u003cb\u003e♦️\u003c/b\u003e\u003c/i\u003eبر اساس این گزارش، اصلی‌ترین اختلاف باقی‌مانده در مذاکرات میان تهران و واشنگتن به موضوع آزادسازی دارایی‌های بلوکه‌شده ایران مربوط می‌شود و نحوه و سازوکار آزادسازی این اموال همچنان یکی از شکاف‌های مهم میان طرفین به شمار می‌رود.\u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003cb\u003eبلاخره اورنیومی رو هم که بخاطرش همه کشور رو غارت کرده بودن دادن رفت\u003c/b\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/iranlix\" target=\"_blank\"\u003e@iranlix\u003c/a\u003e",
+      "date": "2026-06-05T18:09:55Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 163,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "ایرانلیکس",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/pT_wH6wo6rPPINFbYMF4yLXlVo_Xa5G8OkDAIsSDl2ozy3YOCesUzlW7R01Ezhn3SbY7tv9pbDBbcJnwVb6RVLGbXiKyy_OIzQKu9RRwHDIn_U4vEcmuzMuz9FaPEMyDmagAdtp4whyfHbKnskWL5B78wF7rQKZ-0Z0k4EqJI9XIhMZt9KLe3VboRSn5yJF7SYgt_iRnYFEODcFA2loGNxVpx1cFxG_R02KaEzwAhfVmCw0RmTd8ex9drlkgyDwiG9pY_tRAQqL7J4mpc2fNV1RiNOQFozhBknuWPVH2sbPx9FPGfx8mTOHXzvdB05yvCP3G_Zhez_tMbcm7OBN6NA.jpg"
         }
       ]
     }
