@@ -3,83 +3,17 @@
     "id": 0,
     "title": "Matin SenPai",
     "username": "matinsenpaii",
-    "photo_url": "https://cdn1.telesco.pe/file/KjyHmNBXXfAacMdLFZOlMulLXdL9t4O9P3A6_NeY0b2nRHPx088JKBr9OOt6b1ZNOuAld6pD2kgsYUv0uHkdmLXEvrxXT9du_rfmwEWuXB2jBHo0ar4nz_PeleEfSUo9i13GWJzMGJRLt-7Vpb2n4sgXLdo67pDuHj_SmrtSRr2HXm6B08e9Ijjq9ZxbfZkLG3_bojJyaiqyh0SBN9j5ID0FEAQsQhJMROoG02hLHG5nlNA8rGmc9wHWPSOa1Fr8MCSWI-vpbvPXy4vMAkPC8Tk9z5GbDeZwUGbrGbjHx4nAcuARIJrWs1G5yuwLKPYb_whdAp6iwVAeygIR6anAWg.jpg",
+    "photo_url": "https://cdn1.telesco.pe/file/hydHG3AJaSjhI-hB5czzLrSbn1jD6zY7WVnIXTXX_nbBoi10mECf7hY2ajmzDGQ92rlAOO0Q_Gc4bOU2uTjBTCBdiU5gkfcRJnYJx62UXvq8dzWKq3ZsQBMkTrVkzr7sI7btA55RKSHibslBXUcB6MOBJBmOPr7m7JpYpmgrU12j-isOCTArnqFJ_9laPg80oXd8A8Z9CQNu9W7K6KSDvadW3hqzkFRWaOErwFHT4eHngBsHEYYQSSLlVHabFQ_yKjQmZ1kAzh4iDVmN9SC-VRlw5zCgur65Xex0HzjewEPIXrj3fCjpDqXKy57ocj4kOTF2YszVjHcZcRRFJ-wLxQ.jpg",
     "description": "درود! متین هستم و کامپیوتر رو دوست دارم! در حال یادگیری هستم و چیزهایی که یاد میگیرم رو سعی می‌کنم به شما هم یاد بدم اگر به دردتون بخوره =)\n\n•YouTube:\nhttp://www.youtube.com/@Matin_SenPai\n\n•Github:\nhttps://github.com/MatinSenPai"
   },
   "posts": [
-    {
-      "id": 3707,
-      "message": "‏شرکت OpenAI ویژگی Dreaming رو برای حافظه ChatGPT معرفی کرد! \u003cbr/\u003e\u003cbr/\u003eبالاخره بعد از مدت‌ها انتظار، OpenAI ویژگی خیلی مهمی به اسم Dreaming رو برای ChatGPT معرفی کرد. این آپدیت حافظه رو از حالت «یادآوری ساده» به یه سیستم هوشمند و پویا تبدیل کرده.\u003cbr/\u003e\u003cbr/\u003eقبلاً چی بود؟\u003cbr/\u003eقبلاً ChatGPT چند تا نکته رو یادش می‌موند، ولی بعد از مدتی قدیمی و بی‌ربط می‌شد. مثلاً اگه بهش گفته بودی رژیم غذایی خاصی داری یا پروژه‌ای داری، بعد از چند هفته دیگه درست به یادش نمی‌اومد.\u003cbr/\u003e\u003cbr/\u003eحالا با Dreaming چی شده؟\u003cbr/\u003eبا این قابلیت ChatGPT تو پس‌زمینه (حتی وقتی باهاش حرف نمی‌زنی) همه چت‌هات رو بررسی می‌کنه، خلاصه می‌کنه، الگوها رو پیدا می‌کنه و حافظه‌ش رو همیشه تازه و به‌روز نگه می‌داره. انگار داره «رویا می‌بینه» و اطلاعات رو مرتب و هوشمندانه سازماندهی می‌کنه.\u003cbr/\u003e\u003cbr/\u003eفایده‌های واقعی‌ش چیه؟\u003cbr/\u003eشخصی‌سازی خیلی بهتر: ترجیحاتت، علایقت، محدودیت‌هات و جزئیات زندگی‌ت رو خیلی دقیق‌تر به خاطر می‌سپاره. مثلاً اگه قبلاً گفتی عاشق عکاسی طبیعت هستی، دیگه پیشنهادهای generic نمی‌ده؛ مستقیم بهت ایده‌های مرتبط با سبک مورد علاقه‌ت می‌ده.\u003cbr/\u003e\u003cbr/\u003eپروژه‌های طولانی: اگه روی یه پروژه چند ماهه کار می‌کنی (مثل نوشتن کتاب، راه‌اندازی بیزینس یا یادگیری زبان)، لازم نیست هر بار از اول توضیح بدی. ChatGPT زمینه کامل رو حفظ می‌کنه.\u003cbr/\u003e\u003cbr/\u003eآپدیت خودکار: مثلاً اگه گفتی قراره به سفر بری، بعد از سفر خودش متوجه می‌شه و اطلاعات قدیمی رو پاک یا آپدیت می‌کنه.\u003cbr/\u003eکنترل کامل داری: می‌تونی حافظه رو ببینی، ویرایش کنی، بگی چی رو فراموش کنه یا چی رو حتماً یادش بمونه.\u003cbr/\u003e\u003cbr/\u003eدر کل، ChatGPT دیگه مثل یه دوست معمولی عمل می‌کنه که فقط حرفاتو گوش می‌ده (حتی این هم با ما دوست معمولیه!) حالا مثل یه دستیار واقعاً باهوش شده که تو جزئیات زندگی و کارتو درگیره و همیشه به‌روزه.\u003cbr/\u003e\u003cbr/\u003eاین ویژگی از امروز برای کاربران Plus و Pro در آمریکا فعال شده و به زودی برای بقیه کشورها و حتی کاربران معمولی هم می‌رسه.\u003cbr/\u003e\u003cbr/\u003eلینک کامل توضیحات OpenAI:\u003cbr/\u003e\u003ca href=\"https://openai.com/index/chatgpt-memory-dreaming/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://openai.com/index/chatgpt-memory-dreaming/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5470060791883374114\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8D.png\u0026#39;)\"\u003e\u003cb\u003e✍️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://x.com/i/status/2062831593014599984\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e Diego JR\u003c/a\u003e",
-      "date": "2026-06-05T12:07:44Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 45800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/ElB2-DHGwlBW6iae7xJf1tRAuoL08F7xmOm5GJ2BK7Xk0xtjlVAphKi7c5kkmbB7y2YAuf_h7ppaqC8JsUJtuQZCnlvYvbyl28N23IAnhd71TpgTUcMLcoYSeVt7TeR-35-NWZ-reyA-kf-MgAQs8KzzmpwLXGUahnCBwjciN1dEu_s5mJUEMAKmS_RTCsZ9jmcZOS4o7-7fFpD3fTEUuzRafoEjUHbltgFGRKl80kCubpivOf-AxIZbn-i7dMj87MxBx4phhFJrP29QdQs19oFs47S8-dBbZmOrRUWxAjCynF6XtXy0ftQf_OivzA157RHXzTNQpJFmO6RpURVJgQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 3708,
-      "message": "اگر به مشکل خوردید:\u003cbr/\u003e\u003cbr/\u003e1- نسخه کلاینت sing-box باید ۱٫۱۲٫۰ یا بالاتر باشه.\u003cbr/\u003e\u003cbr/\u003e2- کلاینت‌های Xray باید به آخرین نسخه به‌روزرسانی بشن، به طور مثال v2rayNG، v2rayN و Streisand.\u003cbr/\u003e\u003cbr/\u003e3- برای اتصال صحیح، باید قابلیت Hev TUN رو توی v2rayNG فعال کنید. Tun بومی Xray در حال حاضر بی‌فایده‌ست.\u003cbr/\u003e\u003cbr/\u003e4- اگر از نسخه‌های پایین‌تر از ۳٫۵٫۱ به نسخه ۴ ارتقا می‌دید، باید دوباره لینک ساب رو از پنل دریافت کنید.\u003cbr/\u003e\u003cbr/\u003e5- این روزها Fragment روی برخی اپراتورها توی ایران کار نمی‌کنه. می‌تونید تنظیمات Fragment packet رو از tlshello به 1-1 تغییر بدید و تست کنید. همچنین می‌تونید حالت Fragment رو روی حالت «bypass Iran firewall» بذارید و امتحان کنید.",
-      "date": "2026-06-05T15:20:32Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 40900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 3709,
-      "message": "AzadiTunnel نسخه آیفون شیر و خورشید \u003ctg-emoji emoji-id=\"5050921560601265461\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003eیک اپ iOS برای اتصال امن و پایدارتر، با تمرکز روی تجربه ساده، CDN Fronting، DNS هوشمند و تست اتصال.\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5771905342485044801\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B1.png\u0026#39;)\"\u003e\u003cb\u003e📱\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eلینک مستقیم اپ استور:\u003cbr/\u003e\u003ca href=\"https://apps.apple.com/ca/app/azaditunnel/id6776486891\" target=\"_blank\" rel=\"noopener\"\u003ehttps://apps.apple.com/ca/app/azaditunnel/id6776486891\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e \u003cbr/\u003e\u003ca href=\"https://x.com/i/status/2062857877912433112\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمنبع توییتر\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/xsfilterrnet\" target=\"_blank\"\u003e@xsfilterrnet\u003c/a\u003e \u003ctg-emoji emoji-id=\"5053169761232356354\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
-      "date": "2026-06-05T16:57:26Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 35700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/PZTe_hunFe5l1F_95qtE8bPvF54Nr_euxbNSXz9NRMF9MzkA2EnspIJ1z_Xo3XLaozNwK_S6yqpb4uJezq6VylolkYkCH9okrW_ILYLze_H57aAQJhYcGDEQrjsU2at39RDfji-DnQw_oWWSCcB0g4tcqtHsAIgk957x09zMesYW3AFtPZrPcMrFio6l6qcFSBZPWdn0HcDOMhaF6tcYnAY4veXxpOj9sr0vst1aXqYQAo_JbAdU2IVnPXpRmk9uoLMUWOsLMzK-Q0__WbKOlLAvdrE7QlS9thm3Q0pekgRiYHbzp3jnlblbv0aCrNaGMLs_LY0AqHcjdV0RFMd-Ig.jpg"
-        }
-      ]
-    },
-    {
-      "id": 3710,
-      "message": "سرویس WhiteDNS-Wizard برای کسایی طراحی شده که سرور و دامنه خریدن، و حالا نمی‌دونن که با اینا چیکار بکنن\u003ctg-emoji emoji-id=\"5472375242385005771\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F918D.png\u0026#39;)\"\u003e\u003cb\u003e👍\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003eاین نرم‌افزار مولتی‌کراس پلتفرم تحت CLI اوپن سورس، از شما اطلاعات سرور و دامنه میگیره، به علاوه API-TOKEN کلودفلر، و برای شما صفر تا صد کار نصب پنل، گرفتن سرتیفیکیت و ssl و ... رو انجام میده. و این خروجی‌ها رو میده:\u003cbr/\u003e1- کانفیگ VLESS WS شخصی\u003cbr/\u003e2- کانفیگ REALITY-XHTTP شخصی\u003cbr/\u003e3- کانفیگ Hysteria2 شخصی\u003cbr/\u003e4- کانفیگ Shadowsocks شخصی\u003cbr/\u003e5- کانفیگ Tor vless ws\u003cbr/\u003e6- کانفیگ Tor Hysteria2\u003cbr/\u003e7- کانفیگ Tor direct\u003cbr/\u003e8- به زودی مستر و ... هم اضافه میشه\u003cbr/\u003eآموزشش رو هم داریم با آپدیت بعدی\u003cbr/\u003e\u003cbr/\u003eگیتهاب:\u003cbr/\u003e\u003ca href=\"https://github.com/iampedii/WhiteDNS-Wizard\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/iampedii/WhiteDNS-Wizard\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-06-05T18:42:31Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 39400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/sgMmfAz4Lbhi8SjoUsmvsjD9ugNXsWmIwryf1O1MFh2SLOtDpVkbrTEQbPfmHfDAoBKXhz3Sae9UGR4FZ7TAhYdmoByuccLgFxWYfmm4WXXCreYkTZ0AGYVwo8j52SDZjvy-rqPcwiRsz5kxtF5_-xeHlNvxWuq5QKSZ1r1mMhFR4tu9pgSV1UBPLpqy9_S4yJich9B5sh-fUbpx1Ebt8crXEOmJdfglaP9JWurdopz7d-GSjTM8oCjPNldgmtzVB9rhtiu_psin5S4u9oDwCoFCrQrnV9tdZoN1iX-hsHMVB7Utx2HAPMwGfFpslDyvibT3ZJym8brz0v96foFMtw.jpg"
-        }
-      ]
-    },
     {
       "id": 3711,
       "message": "یه کار جالبی یکی از بچه‌ها سر SenPaiScanner در آورده که واستون قرار میدم به زودی. PR های بقیه‌ی دوستان هم بررسی کردم و همه عالی بود و تأیید شد و رفت روی کد اصلی",
       "date": "2026-06-05T20:32:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 35300,
+      "views": 37800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -91,7 +25,7 @@
       "date": "2026-06-05T20:48:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 34200,
+      "views": 37100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -103,7 +37,7 @@
       "date": "2026-06-05T21:21:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33200,
+      "views": 37000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -121,7 +55,7 @@
       "date": "2026-06-05T21:24:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32400,
+      "views": 36600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -133,7 +67,7 @@
       "date": "2026-06-05T22:21:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28500,
+      "views": 33800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -151,7 +85,7 @@
       "date": "2026-06-05T23:10:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26500,
+      "views": 33000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -163,7 +97,7 @@
       "date": "2026-06-05T23:14:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26700,
+      "views": 33000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -181,7 +115,7 @@
       "date": "2026-06-05T23:18:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27800,
+      "views": 35500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -203,7 +137,7 @@
       "date": "2026-06-06T04:37:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19900,
+      "views": 32100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -214,6 +148,54 @@
           "url": "https://cdn1.telesco.pe/file/oa0WrOIqn7QVSjqANaGD4C1OlrkMOVANMTgdgaiGZsQoh4BBqO-zcNrRqGh4LcxI3pOC0U-IoXMXKhC45Wufg0Z23ZEZKwrATKBwRJO_dGElZiZDT8tE-pKaUryWw-qNmn-Lw7_USNWOtn8ZMSaQ_ftnfSlmhM5PgdXyZPjW2KNbOv6XzMrYRq7d22U5tilcuFRUYh7XWV7Azz7TDQpXieUGdI9WIEfe3d940vBdJwqLRkHgh-AEU7nIiAzqatag9LVYYiF3WkJhGVjggwnTnVulA8LgHCebRhQQUan0UJ8phA17_EWTnuuX8LU5INFGPg_7jFHsMTgiAWtNkoWPGw.jpg"
         }
       ]
+    },
+    {
+      "id": 3727,
+      "message": "مراقب باشید سرور ۱۲۸ مگابایت رم و بدون ipv4 و اینا نخرید دوستان\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e اونا رو هیچ کاریشون نمی‌تونید بکنید",
+      "date": "2026-06-06T08:28:13Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 23000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 3728,
+      "message": "توی ویدئوی WhiteDNS توضیح دادم که چه سروری برای خرید مناسبه",
+      "date": "2026-06-06T08:43:47Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 20500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 3729,
+      "message": "یک سری بحث و احتمال هست که یوتیوب فیلترش برداشته بشه، همون‌طور که گویا برای یک سری شده الان هم (البته مشخص نیست اختلاله یا واقعا داره رفع فیلتر میشه).\u003cbr/\u003eاینکه حقی که ازمون گرفتن رو بدن هنر نیست، ولی خب واقعا خوب میشه اگه این اتفاق بیفته و مردم همه بتونن دسترسی داشته باشن\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E299A5.png\u0026#39;)\"\u003e\u003cb\u003e♥️\u003c/b\u003e\u003c/i\u003e همون‌طور که \u003ca href=\"https://t.me/weebheadreacts/663\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eقبلاً هم بارها گفتم\u003c/a\u003e، ما یوتیوبر بی خانمان هم بشیم مهم نیست، مهم دسترسی درست هست و آزاد برای همه هستش.\u003cbr/\u003eاون یوتوبر بی‌شرفی که ناراحت میشه از آزاد شدن دسترسی هم بنظرم هرچه سریعتر آرک تمرینی نفس نکشیدن رو شروع بکنه\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FABB5F09F8FBB.png\u0026#39;)\"\u003e\u003cb\u003e🫵🏻\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-06-06T09:14:12Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 17500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 3730,
+      "message": "یکی ویدئوهای ساخت VPN  رو قاچاق کنه پاکستان\u003cbr/\u003eبدبختا نت اینا رو هم زدن اما با این وضعیتی که دارن ۴-۰ از ما جلو هستن هنوز ۱۶ درصد نت هست",
+      "date": "2026-06-06T09:40:57Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 12900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
     }
   ],
   "last_updated": 0
