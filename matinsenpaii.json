@@ -8,60 +8,12 @@
   },
   "posts": [
     {
-      "id": 3779,
-      "message": "امیرپارسا زحمت کشید تمام لینک‌های ساب رو جمع کرد اینجا:\u003cbr/\u003e\u003ca href=\"https://t.me/xsfilterrnet/3549\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/xsfilterrnet/3549\u003c/a\u003e",
-      "date": "2026-06-10T18:43:21Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 43700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 3780,
-      "message": "\u003ctg-emoji emoji-id=\"5447644863644320013\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD90.png\u0026#39;)\"\u003e\u003cb\u003e⭐️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eپروژه‌ی FreeLLMAPI — یه پروکسی OpenAI-compatible فوق‌العاده‌ست که ۱۶ تا از بهترین ارائه‌دهنده‌های LLM(مدل‌های زبانی بزرگ. همون هوش مصنوعی خودمون) رایگان رو روی هم جمع کرده!\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eتقریباً ۱٫۷ میلیارد توکن توی هر ماه ظرفیت inference (از Google Gemini، Groq، Mistral، Cerebras، OpenRouter، GitHub Models، Cloudflare، NVIDIA، HuggingFace و ... + هر endpoint سفارشی مثل Ollama، vLLM، LM Studio و غیره) می‌ده.\u003cbr/\u003e\u003cbr/\u003eویژگی‌های اصلی:\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5447174087984038144\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A4.png\u0026#39;)\"\u003e\u003cb\u003e🔤\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eیه endpoint واحد (/v1/chat/completions) برای همه‌چی\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5447174087984038144\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A4.png\u0026#39;)\"\u003e\u003cb\u003e🔤\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eروتینگ هوشمند + failover خودکار (اگر یه کلید به rate limit خورد، سریع میره سراغ بعدی)\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5447174087984038144\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A4.png\u0026#39;)\"\u003e\u003cb\u003e🔤\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eمدیریت دقیق quota هر api key تا زیر حد استفاده‌ی رایگان بمونیم\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5447174087984038144\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A4.png\u0026#39;)\"\u003e\u003cb\u003e🔤\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eکلیدها به صورت رمزنگاری‌شده ذخیره میشن\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5447174087984038144\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A4.png\u0026#39;)\"\u003e\u003cb\u003e🔤\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eداشبورد باحال برای مدیریت api key\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5447174087984038144\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A4.png\u0026#39;)\"\u003e\u003cb\u003e🔤\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eنصب خیلی راحت با Docker\u003cbr/\u003e\u003cbr/\u003eدر واقع همه free tierهای پراکنده رو تبدیل کرده به یه LLM قدرتمند و همیشه در دسترس، بدون اینکه مجبور بشی با کلی SDK و rate limit جداگانه کلنجار بری.\u003cbr/\u003e\u003cbr/\u003eبهترین‌ها برای کدنویسی (بر اساس این پروژه و لیست هوش مصنوعی‌ها) عمدتاً DeepSeek V4 Pro، Qwen3-Coder سری (مخصوصاً Qwen3-Coder Next و 480B) و Codestral/Devstral هستن.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5438571934210082705\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eلینک پروژه: \u003ca href=\"https://github.com/tashfeenahmed/freellmapi\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/tashfeenahmed/freellmapi\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-06-10T20:13:50Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 45200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/lr7zahDIfEmsrakwWXUtt8JWpae0LzYg0FVJWqdSy1Q9zk9nM7lER9rENEFjcUwgMmln5-GsWZGTDj8E_HtNQ70iwYgds1N-KeoIbR7w8cPG0rcWwuEu-JPDS4pEytCyM9gVe0kbNTSq4TwucFPTZkkM69ikKztMdp24VJCK7lOvsMj7CXzCksS5v8lPDg9vriESx2e63D4snAr5V4KZwBk-AwaizNXdin1d9NgpSxj-1aT7zK5yPw2VVW4lRpZIujYvLtBbW9KzhCIZZvpE-gkhnU9FGtVRYRGJgFNPfTrsUrmRHRDaIr_cks17nvUjhHsG2qu5aO7wvEa98AQghg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 3781,
-      "message": "‏وقتشه یه سری حقایق راجب بورسیه MEXT ژاپن بگم.\u003cbr/\u003eحالم از این پوسترا مخصوصا راجب بورسیه‌ی ژاپن به هم می‌خوره.\u003cbr/\u003eواقعیت:\u003cbr/\u003e۱- از چندین هزار متقاضی، سالانه زیر ۵۰ نفر(متغیر) مجموعا از تمام مقاطع برگزیده میشن که اونم کاملا شانسیه.\u003cbr/\u003e۲- انتخاب شدن شما تماما به نیاز ژاپن بستگی داره و اصلا هم اعلام نمی‌کنن که ما به فلان رشته نیاز داریم. ممکنه شما تمام شرایط عالی رو داشته باشی با بالاترین نمره، اما «امسال ژاپن به رشته شما نیاز نداشته باشه»(مقطع ارشد و دکتری) و این رو به صورت مبهم فقط بهتون میگن که شما رد شدید! یعنی هیچ دلیلی برای رد شدنتون بهتون نمیدن توی هیچ مقطعی. شخص A با دانش نزدیک به صفر بدون بلد بودن انگلیسی یا ژاپنی قبول میشه چون ژاپن این رشته رو نیاز داره، شخص B بدون توضیح رد میشه با اینکه دانش و علم خیلی بالایی داره یا حتی مدرک زبان ژاپنی داره، چون به رشته‌اش نیاز ندارن. و فقط میگن رد شدی بدون توضیح.\u003cbr/\u003e۳- روند غربالگری به شدت غیراستاندارد، و رد شدن توی هر مرحله بدون توضیح هست(سه مرحله داره شامل ارسال مدارک و آزمون کتبی و مصاحبه که هرجا رد شدید، علتی نمیگن)\u003cbr/\u003e۴- ثبت نام برخلاف به روز بودن خود کشور ژاپن، به صورت کاملا سنتی و با پست کردن مدرک کاغذی برای سفارت توی یه فرآیند بسیار زمان‌بر و استرس‌زا(نکنه فلان چیز رو یادم رفته باشه) و هزارتا دنگ و فنگ انجام میشه. همه چیز کاغذی. همه‌چیز. یعنی حتی زحمت نمی‌دن به خودشون کد ملی شما رو وارد کنن اطلاعاتتون رو بگیرن. و توی همه‌ی ۱۵-۲۰ تا مدرکی هم که می‌خوان، یه نقطه اگر اشتباه باشه رد می‌شید توی مرحله‌ی اول. که باز هم توضیحی نمی‌دن بهتون که چرا رد شدید. صرفا میگن نقص مدارک\u003cbr/\u003e۵- شما ممکنه تمام تلاشتون رو بکنید، همه‌ی مراحل رو قبول بشید، اما در نهایت ژاپن توی اون سال Mext رو برای ایران کنسل کنه!! بله درست شنیدید. پارسال به خاطر جنگ ۱۲ روزه، ژاپن بورسیه‌اش رو برای ایران لغو کرد(\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A3.png\u0026#39;)\"\u003e\u003cb\u003e🤣\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A3.png\u0026#39;)\"\u003e\u003cb\u003e🤣\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A3.png\u0026#39;)\"\u003e\u003cb\u003e🤣\u003c/b\u003e\u003c/i\u003e) صرفا چون تایم آزمونش جنگ شد. به تعویق هم ننداخت. لغو کرد. امسال هم همین شد دقیقا و به دلیل وضعیت کشور، لغو کرد. و تمام کسایی که پارسال و امسال هدفشون رو گذاشته بودن Mext، گند خورد به زندگیشون.\u003cbr/\u003eخلاصه‌ی کلام اینکه برای بورسیه تمرکزتون رو روی ژاپن به تنهایی نذارید و چندین تا کشور زیر نظرتون باشه",
-      "date": "2026-06-10T21:16:17Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 49600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/jMas--XUaKifIP-MGmxYteGG5lGJ_LTNbOJRAimYfZxpr6T9sHiizEjhhoc3epoh0ONYvgv5EQIwhw6mk6-viDouRGE2WKBHf0tENNR5afeuF5t6g6qlkCRW2C6xLxGvgRNkjHUitnKnVstI5BHE9zqbt8bQpFLv6tQB5B88-mMKP2L7cijZzlBl0loIKf5YVtOHDUdqpjNw6_2N5BZo62KT0tdaE86a4TOsmTHxfzrcS0zTj36p-Lrk3uKL7QXxGKSS3xDT94IBzyAjWho611Ivyb0A-yursshn30ZTg0OhzkRprYzYCSTe7pVZ79mwP9QMLEQVrns_CuHdcmmjgA.jpg"
-        }
-      ]
-    },
-    {
       "id": 3782,
       "message": "اگر خواستید مفهوم فیلترینگ منطقه‌ای رو بفهمید، سوار اتوبوس بشید و از تهران برید خوزستان. به هر شهری می‌رسید آیپی تمیزهاتون از کار میفتن و باید دوباره اسکن کنید. به استان خوزستان که می‌رسید، گوشی تبدیل به یه پاره آجر بی‌مصرف میشه و فقط می‌تونید باهاش زنگ بزنید\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e",
       "date": "2026-06-10T21:48:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 51100,
+      "views": 51700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -73,7 +25,7 @@
       "date": "2026-06-10T22:10:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 52100,
+      "views": 53200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -85,7 +37,7 @@
       "date": "2026-06-11T05:45:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 44100,
+      "views": 45700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -97,7 +49,7 @@
       "date": "2026-06-11T10:09:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 38100,
+      "views": 40900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -127,7 +79,7 @@
       "date": "2026-06-11T12:18:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 34400,
+      "views": 37500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -145,7 +97,7 @@
       "date": "2026-06-11T12:39:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 34300,
+      "views": 37900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -157,7 +109,7 @@
       "date": "2026-06-11T13:43:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32500,
+      "views": 36800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -169,7 +121,7 @@
       "date": "2026-06-11T13:44:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33100,
+      "views": 37400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -181,7 +133,7 @@
       "date": "2026-06-11T13:47:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32500,
+      "views": 36800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -193,7 +145,7 @@
       "date": "2026-06-11T13:47:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32800,
+      "views": 37000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -205,7 +157,7 @@
       "date": "2026-06-11T15:00:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27300,
+      "views": 33400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -217,7 +169,7 @@
       "date": "2026-06-11T16:28:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19000,
+      "views": 28600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -229,7 +181,7 @@
       "date": "2026-06-11T16:34:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17500,
+      "views": 28500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -241,7 +193,7 @@
       "date": "2026-06-11T17:04:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13000,
+      "views": 26500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -252,6 +204,48 @@
           "url": "https://cdn1.telesco.pe/file/ntyPk9pbDsCTyM_o_cH6F8YnzzkyX3t_uwee2_ATNFlIA3c2nIdwWAQ8v_BCXesHpszgwWA8YUyZZFY_f1UoVMW_T3n5Ql_Q6KrkQ4Ip8a4uI_Xb9BUsDGqNbUQBm-stQeJ0n8nJLi-9EGLEHWwS7tNWsmBrjE6cDxXTLrdQ8wmUVvcDS-kS5FQ04pfhAFS-iTHLgpfzdrVJCEuWwG-Y0DRia7-k7FKNF4B3R74BMzGdDbTrodLJjsOvQxBGWMPSQvMA-YUY6FOhSgl72JJeMAp8dc9gYzmVKnypX4bbfOg6f9qQM9OuiEHz1iDan3nI07DsIQdoeznKonPhO0yPxg.jpg"
         }
       ]
+    },
+    {
+      "id": 3804,
+      "message": "‏\u003cb\u003eخطر سرقت اطلاعات و رمزهای عبور؛ مراقب نسخه‌ی جعلی X-VPN باشید\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eمحققان شرکت «سایدرز» (Cyderes) کمپینی فعال را شناسایی کرده‌اند که در آن نسخه‌های جعلی چند برنامه محبوب برای انتشار بدافزار استفاده شده‌اند. یکی از مهم‌ترین نمونه‌ها، نسخه جعلی اپلیکیشن «ایکس وی‌پی‌ان» (X-VPN) است که برای نصب بدافزاری به نام STX RAT روی سیستم قربانیان استفاده شده است. این بدافزار می‌تواند رمزهای ذخیره‌شده، نشست‌های فعال و اطلاعات سیستم را سرقت کند و به مهاجم امکان اجرای دستور از راه دور بدهد.\u003cbr/\u003e\u003cbr/\u003eدر این حمله سرویس ایکس وی‌پی‌ان هک نشده و کانال‌های رسمی دانلود این برنامه سالم هستند. خطر اصلی متوجه کاربرانی است که نسخه آلوده را از منابع غیررسمی (در این مورد، یک مخزن ناشناس در سرویس Bitbucket) دانلود کرده‌اند. در پاسخ به این تهدید، ایکس وی‌پی‌ان به‌سرعت آپدیت نسخه ۷۷.۵.۳ ویندوز را با کنترل‌های سخت‌گیرانه‌تر منتشر کرد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29E95.png\u0026#39;)\"\u003e\u003cb\u003e➕\u003c/b\u003e\u003c/i\u003e نوشدارو پلاس: این هشدار مشخصاً به نسخه ویندوز X-VPN مربوط است، آن هم زمانی که کاربر نسخه جعلی و دست‌کاری‌شده را از منابع غیررسمی دانلود کرده باشد. طبق اعلام X-VPN، نسخه‌های رسمی دریافت‌شده از وب‌سایت X-VPN یا Microsoft Store تحت تأثیر این سناریو نیستند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003e روش زیرکانه هکرها برای اجرای حمله\u003cbr/\u003eاین کمپین ابتدا با نسخه‌های جعلی برنامه‌هایی مانند «بایننس» (Binance)، «بای‌بیت» (Bybit)، متاتریدر ۵ (MetaTrader 5) و کیف پول اکسودوس (Exodus)، معامله‌گران را هدف قرار داد. آن‌ها حتی به سراغ پلتفرم بازی استیم نیز رفتند و در نهایت تمرکز خود را روی کاربرانی گذاشتند که از ابزار تغییر آی‌پی ایکس وی‌پی‌ان برای حفظ حریم خصوصی بهره می‌برند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A1.png\u0026#39;)\"\u003e\u003cb\u003e💡\u003c/b\u003e\u003c/i\u003e نکته: بد نیست بدانید شرکت Kaspersky (کسپرسکی) پیش‌تر متوجه شده بود که همین بدافزار با نفوذ به سایت CPUID، بیش از ۱۵۰ قربانی را در صنایع و کشورهای مختلف آلوده کرده بود.\u003cbr/\u003e\u003cbr/\u003eبر اساس یافته‌های شرکت سایدرز، مهاجمان در فایل نصبی اپ‌های معتبر یک فایل مخرب به نام CRYPTBASE.dll جاسازی می‌کنند؛ تکنیکی که به آن «بارگذاری جانبی» (DLL Sideloading) می‌گویند.\u003cbr/\u003e\u003cbr/\u003eبه دلیل ساختار سیستم‌عامل ویندوز، فرایند نصب برنامه در ظاهر کاملاً عادی پیش می‌رود، اما فایل پنهان‌شده، بدافزار را مستقیماً به حافظه دستگاه تزریق می‌کند تا آنتی‌ویروس‌ها متوجه ردپای آن نشوند. پس از فعال‌سازی، بدافزار می‌تواند ارتباطات خود را در قالب ترافیک عادی و قفل‌گذاری‌شده وب پنهان سازد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003e چطور قربانی برنامه‌های جعلی نشویم؟\u003cbr/\u003eدفاع در برابر این نوع حملات بسیار ساده است و نیازی به دانش فنی ندارد:\u003cbr/\u003e\u003cbr/\u003e• دانلود از منابع رسمی: برنامه‌ها را فقط از وب‌سایت اصلی شرکت یا فروشگاه‌های رسمی دانلود کنید. این هشدار برای ما کاربران ایرانی که اغلب ناچار به دانلود از منابع واسطه هستیم، اهمیتی دوچندان دارد.\u003cbr/\u003e\u003cbr/\u003e• تایپ مستقیم آدرس: برای جلوگیری از ورود به سایت‌های مشابه و جعلی، آدرس را مستقیم تایپ کنید و روی تبلیغات کلیک نکنید.\u003cbr/\u003e\u003cbr/\u003e• استفاده از نرم‌افزارهای امنیتی: داشتن یک آنتی‌ویروس قدرتمند و به‌روز در کنار رعایت اصول دانلود امن، لایه محافظتی محکمی ایجاد می‌کند.\u003cbr/\u003e\u003cbr/\u003eاگر گمان می‌کنید نسخه جعلی را نصب کرده‌اید، فرض را بر لو رفتن اطلاعاتتان بگذارید. فوراً رمزهای عبور خود را از یک دستگاه امن تغییر دهید، از حساب‌ها خارج شده و احراز هویت دومرحله‌ای را فعال کنید.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5470060791883374114\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8D.png\u0026#39;)\"\u003e\u003cb\u003e✍️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://x.com/i/status/2065089765368627261\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eیونس مرادی(نوشدارو)\u003c/a\u003e",
+      "date": "2026-06-11T18:19:29Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 24300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/X-poJRLrGzPgn2aBB-svYL1__mpM7cxqc3KMg9xE2fpOT0gIkAnmKz7axcKFDYVcmmTVvlSizKuJQIvZkRRuyjfK6cpftDB7UCtxDjvkQrF-d31shw2a7LavCwQQ4vqJna-wYX-KcdduF0kXUpabgackr6pz5ZP4xg_-mB3Kij45xoF737JslNifjB8ADAdsXpZxCs5Sq6F6mrJWdVvbLwxuVanYC9GZFd6buwoVHjjoSp9-tLcz60rU5FM--HM09JoGMIkFxU-32_Bt0_3TYlI9XmDtAlbzpiLDSc2SRFScRkPU0Lex54d8OGdyJVW1rSrXbM4M1Caa5bSV7YYdVg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3805,
+      "message": "واقعا نمی‌تونم تصور کنم توی این دوران قطعی، چقدر بدافزار روی گوشی تمام ملت ایران نصب شده!",
+      "date": "2026-06-11T18:35:18Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 19200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 3806,
+      "message": "درود به همه رفقا\u003ctg-emoji emoji-id=\"5812037770301938686\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8DB7.png\u0026#39;)\"\u003e\u003cb\u003e🍷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003eاگر از پنل bpb و... استفاده میکنید میخواید ip ثابت باشه ولی جز لوکیشن آلمان\u003ctg-emoji emoji-id=\"5911096835887337583\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87A9F09F87AA.png\u0026#39;)\"\u003e\u003cb\u003e🇩🇪\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003eمیتونید از ابزار زیر استفاده کنید برای ip های مختلف برای مثال:\u003cbr/\u003eمیتونید از ip چین استفاده کنید برای دور زدن تبلیغات یا از ip آمریکا برای بیشتر هوش مصنوعی ها خلاصه این ابزار مشابه واسه خود bpb برای ثابت کردن ip هست ولی با لوکیشن بیشتر\u003ctg-emoji emoji-id=\"5379748062124056162\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003eلینک پروژه:\u003ctg-emoji emoji-id=\"5978787831164704530\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://smart-ip-scanner.10-354.workers.dev/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://smart-ip-scanner.10-354.workers.dev/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/mehdisedighinasab\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eتوسعه دهنده\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/xsfilterrnet\" target=\"_blank\"\u003e@xsfilterrnet\u003c/a\u003e \u003ctg-emoji emoji-id=\"5053169761232356354\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-06-11T19:20:15Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7550,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
     }
   ],
   "last_updated": 0

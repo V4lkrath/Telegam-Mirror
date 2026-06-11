@@ -8,153 +8,12 @@
   },
   "posts": [
     {
-      "id": 10714,
-      "message": "",
-      "date": "2026-06-11T13:15:09Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5370,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "نظامی - سیاسی",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/Kf_XM5ni2vt77A1pVuSx3AKpgmBLBTh_61xG_4AxTv9D65gupfkyejwihguPiN-IAHgjj72yW4VFCgSWZGaHBpxCvIWYDbokEm3Tx3jY-tDefP-2qRjtLxs_ndkgASSeEqQuFWzNgEg9dPj2X0eAwVziwqtCUzNp3KwLX6Nz0ge2wsY8DtM4Or1bhsqJ0nXqzKBB73UYoIylx7HCFMYhblsy26v3DeJNthf-L-u9ufPrLGVthf6gu24_dkaZSHUxKq-oOoVr7qhcKih8r_EAe2OY7FLuUBrdy9ATIgm1A0r1vIz3z4JdZ-OnJ1-9Gs016eoqBne8inazhyMXlrPqIA",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 10715,
-      "message": "مجری شبکه فاکس نیوز:\u003cbr/\u003eاما آیا امشب بمباران بیشتری صورت خواهد گرفت؟\u003cbr/\u003e دونالد ترامپ:\u003cbr/\u003eبله، امشب بمباران بیشتری در کار خواهد بود. این بار بزرگ‌تر و قدرتمندتر خواهد بود. فراموش نکنید، ما تمام پدافند ضدهوایی آن‌ها را از کار انداخته‌ایم. آن‌ها هیچ ضدهوایی ندارند، هیچ‌چیز ندارند. منظورم این است که شاید با یک سلاح دوش‌پرتاب یا چیزی شبیه به آن شانس بیاورند، اما در کل، می‌دانید که آن‌ها هیچ دفاعی ندارند.\u003cbr/\u003eمجری دیگر:\u003cbr/\u003eنمایندگان در تماس تلفنی‌شان با شما چه گفتند؟\u003cbr/\u003e دونالد ترامپ:\u003cbr/\u003eکار آن‌ها تمام است. معذرت می‌خواهم، کارشان تمام است. اما روزنامه‌ها و رسانه‌ها از نوشتن این موضوع خودداری می‌کنند؛ کار آن‌ها تمام است. ما می‌توانیم همین فردا وارد آنجا شویم. ما می‌توانیم سرباز بفرستیم؛ البته من مایل به اعزام نیروی زمینی نیستم، اما اگر می‌خواستم، می‌توانستیم گروه کوچکی از سربازان را بفرستیم و کنترل کل منطقه را به دست بگیریم.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/mwarmonitor\" target=\"_blank\"\u003e@mwarmonitor\u003c/a\u003e",
-      "date": "2026-06-11T13:15:46Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6290,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "نظامی - سیاسی"
-    },
-    {
-      "id": 10716,
-      "message": "",
-      "date": "2026-06-11T13:20:08Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5660,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "نظامی - سیاسی",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/pJ8lSBimf2YxLcV_vynWztg92JG5L-h15oN9RA6ipEW9ex2ysRgdk_0eus1rPLg5yw2TR0jKbC5KUwWlcl26chCMukguq8hw5TaeNEw0r3isBKe1SbfSYmrSISvadbQgIGrlnjCRz76pFnNArIJBGH2wM2U-9bINY0Shx0onxpLWqjwTtOh42JN0IiYvRweNeaFDa8oXTHAs3Bc2fm3k8NOMphJvICarHCZK2xkj05Cr7d7AysH7RWZQ8ZlgDhuMZcvqIPMyAq5GxMkHZula8G3ATDN-nUDKnzT6B8Ol37fukDZemVpX8T1QG7TRrB6GirfKrKaH5e-iTy_r9A1Xpw",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 10717,
-      "message": "گزارشگر:\u003cbr/\u003e«خب، شما می‌گویید... یعنی دارید اعلام می‌کنید که امشب ضربه بسیار سختی به آن‌ها خواهید زد. چه عواملی باعث شد این پست را بگذارید؟»\u003cbr/\u003eدونالد ترامپ:\u003cbr/\u003e«خب، این هم یکی از همان چیزهاست، آن‌ها هیچ دفاعی ندارند، هیچ کاری نمی‌توانند در موردش بکنند. آن‌ها... تنها چیزی که دارند اخبار جعلی است. می‌دانید، مثلاً نیویورک تایمز طوری می‌نویسد که انگار وضعیت آن‌ها عالی است، در حالی که اینطور نیست، آن‌ها نابود شده‌اند.\u003cbr/\u003eسی‌ان‌ان (CNN) و... آن ام‌اس‌ان‌بی‌سی (MSNBC) یا هر چیزی که این روزها صدایش می‌کنند... ان‌بی‌سی (NBC) مجبور شد خودش را از شر آن خلاص کند چون برای شهرتشان بد بود.\u003cbr/\u003eاما... تبلیغات و رسانه‌ای که در اختیار دارند باورنکردنی است. انگار دارند خوب عمل می‌کنند، در حالی که دارند تارومار می‌شوند، دقیقاً تارومار می‌شوند. آن‌ها به‌شدت تشنه توافق هستند، خیلی زیاد می‌خواهند توافق کنند.\u003cbr/\u003eاما خب، وقتی نیویورک تایمز را می‌خوانید، یا وال استریت ژورنال را می‌خوانید که خیلی جعلی است... منظورم این است، می‌دانم که این رسانه متعلق به شماست [خطاب به فاکس نیوز]، اما واقعاً یک تکه زباله است. وقتی وال استریت ژورنال را می‌خوانید، می‌بینید که امروز سرمقاله‌ای نوشتند درباره اینکه ما به اندازه کافی به آن‌ها ضربه نمی‌زنیم! منظورم این است... به اندازه کافی ضربه نمی‌زنیم؟ ما دیشب به ارزش ۲۵۰ میلیون دلار بمب روی سرشان ریختیم. می‌دانید، کل این ماجرا دیوانه‌کننده است.\u003cbr/\u003eو آن‌ها واقعاً تسلیم شده‌اند. فقط خودشان هنوز این را نمی‌دانند! خب؟ برای اینکه با شما صادق باشم، آن‌ها هنوز این را نمی‌دانند.\u003cbr/\u003eو ما داریم با آن‌ها صحبت می‌کنیم و همه این‌ها... اما می‌دانید... ببینید، ترجیح من همیشه این بوده که کارگیل (Cargill) و... را بگیریم. برایان این را می‌داند، خیلی وقت پیش با او صحبت کردم. لارنس هم این را می‌داند، خیلی وقت پیش با او هم صحبت کردم. گفتم ترجیح من این خواهد بود.\u003cbr/\u003eاما برای اینکه صادق باشم، نمی‌دانم آیا آمریکا طاقت و تحملش را دارد یا نه. می‌دانید، ثروت زیادی به دست می‌آید، اما نمی‌دانم آمریکا این طاقت را دارد یا نه. فکر می‌کنم آن‌ها دوست دارند بازگشت ما به خانه را ببینند.»\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/mwarmonitor\" target=\"_blank\"\u003e@mwarmonitor\u003c/a\u003e",
-      "date": "2026-06-11T13:20:46Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "نظامی - سیاسی"
-    },
-    {
-      "id": 10718,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eوزیر خزانه‌داری آمریکا:\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003eرژیم ایران در بازی حاصل‌جمع صفر که در حال انجام آن است، بازنده خواهد بود.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003eهرگونه خسارتی که به متحدان ما در خلیج فارس وارد کند، از محل منابعی که از حساب‌های ایران برداشت می‌شود، جبران خواهد شد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003eهرگونه عوارضی که به «سازمان تنگه خلیج فارس» پرداخت شود، با برداشت از حساب‌های آن‌ها خنثی خواهد شد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003eهر حمله‌ای که ایران انجام دهد، تنها پیامدهای اقتصادی و مالی‌ای را که با آن روبه‌روست، عمیق‌تر خواهد کرد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/mwarmonitor\" target=\"_blank\"\u003e@mwarmonitor\u003c/a\u003e",
-      "date": "2026-06-11T13:38:12Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6610,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "نظامی - سیاسی"
-    },
-    {
-      "id": 10719,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eپهپادها مواضع گروه‌های اپوزیسیون کردِ ایرانی را در شهرستان قوش‌تپه در استان اربیل هدف قرار دادند.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/mwarmonitor\" target=\"_blank\"\u003e@mwarmonitor\u003c/a\u003e",
-      "date": "2026-06-11T14:08:41Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6120,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "نظامی - سیاسی"
-    },
-    {
-      "id": 10720,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eگزارش CNN: ایران در حالی که ارتش این کشور در حال انتقال محموله‌های موشکی است، سامانه‌های پدافند هوایی خود را در جزیره خارک نوسازی کرده است.\u003cbr/\u003eایران همچنین در امتداد خط ساحلی جزیره خارک مین‌گذاری انجام داده است.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/mwarmonitor\" target=\"_blank\"\u003e@mwarmonitor\u003c/a\u003e",
-      "date": "2026-06-11T14:17:08Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6240,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "نظامی - سیاسی"
-    },
-    {
-      "id": 10721,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e«آن‌ها تلاش می‌کنند، چون بسیاری از مواقع واقعاً موفق هم می‌شوند. یک نفتکش که در سواحل جنوب عمان اقدام به جعل موقعیت (اسپوفینگ) کرده بود، فقط چند روز پیش در خارک نفت خام بارگیری کرده است. این کشتی همچنین تحت تحریم‌های اوفک وزارت خزانه‌داری آمریکا قرار دارد.» TANKER TRACKER \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/mwarmonitor\" target=\"_blank\"\u003e@mwarmonitor\u003c/a\u003e",
-      "date": "2026-06-11T15:00:19Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6080,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "نظامی - سیاسی",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/XIQ9XJ2R3USTWva_Z8uhg81xTsTC7t2wFinHyatKTjwkyF1hgvqt6VuR3m6zM-SGxgrmn9cYEFXM0ARF69frwTd4E27H5_JBVKEKB8nZhdG7679pl7mnD3N9Z_q2sKHjBfQKG7fepDjS8FGTkX26U2_ZWjj-RkSGKuyFrKKrOuThBSH1tK_mp_0gZC4GDTFsR3iZt1r5i_aS9Cp6UeT2o_svInwtUQFmfFxkv1n7zGFtuH5IPvzppCc-lQnQjVz5GDOL19U7xZQ02G6FranE5nTFLT0Ex3ysLyhJSZ1DB857r3ys89htR1SiwFVPM3YFy14Nqg1qNFhPm9UGMSjiBw",
-          "width": 478
-        }
-      ]
-    },
-    {
-      "id": 10722,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e «پنتاگون به دلیل یک حادثه امنیتی مرتبط با مواد خطرناک مشکوک تعطیل شد، و یک تیم تخصصی مواد خطرناک در حال رسیدگی به این حادثه است.»\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/mwarmonitor\" target=\"_blank\"\u003e@mwarmonitor\u003c/a\u003e",
-      "date": "2026-06-11T15:10:34Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5950,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "نظامی - سیاسی"
-    },
-    {
-      "id": 10723,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003e«سخنگوی پنتاگون: مشکلی در کیفیت هوا در داخل ساختمان شناسایی شد، به همین دلیل ساختمان تعطیل شد.»\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003e«تخلیه افراد از چندین طبقه در پنتاگون انجام شد.»\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/mwarmonitor\" target=\"_blank\"\u003e@mwarmonitor\u003c/a\u003e",
-      "date": "2026-06-11T15:11:10Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6010,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "نظامی - سیاسی"
-    },
-    {
       "id": 10724,
       "message": "فعال شدن پدافند در جنوب",
       "date": "2026-06-11T15:19:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5810,
+      "views": 6740,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -166,7 +25,7 @@
       "date": "2026-06-11T15:38:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5510,
+      "views": 6610,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -178,7 +37,7 @@
       "date": "2026-06-11T15:46:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5290,
+      "views": 6310,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -190,7 +49,7 @@
       "date": "2026-06-11T16:06:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5300,
+      "views": 6730,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -208,7 +67,7 @@
       "date": "2026-06-11T16:55:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4570,
+      "views": 6580,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -227,7 +86,7 @@
       "date": "2026-06-11T17:23:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3720,
+      "views": 6240,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -239,7 +98,7 @@
       "date": "2026-06-11T17:32:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3700,
+      "views": 7200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -257,7 +116,7 @@
       "date": "2026-06-11T17:34:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3410,
+      "views": 6730,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -269,7 +128,7 @@
       "date": "2026-06-11T18:01:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1070,
+      "views": 6360,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -281,7 +140,7 @@
       "date": "2026-06-11T18:05:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 161,
+      "views": 6390,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -293,6 +152,139 @@
           "width": 800
         }
       ]
+    },
+    {
+      "id": 10735,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eمنبعی نزدیک به تیم مذاکره‌کننده به خبرگزاری فارس گفته است که ایران هنوز هیچ متنی را برای یک پیش‌نویس اولیه تفاهم‌نامه (MoU) با آمریکا تأیید نکرده است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003eاین تکذیب پس از آن منتشر شد که ترامپ ادعا کرده بود ایران «در بالاترین سطح» با چنین متنی موافقت کرده و بعدتر گفته بود این سند نهایی شده است.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/mwarmonitor\" target=\"_blank\"\u003e@mwarmonitor\u003c/a\u003e",
+      "date": "2026-06-11T18:24:37Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5980,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "نظامی - سیاسی"
+    },
+    {
+      "id": 10736,
+      "message": "یادتون نره \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9186.png\u0026#39;)\"\u003e\u003cb\u003e👆\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9186.png\u0026#39;)\"\u003e\u003cb\u003e👆\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9186.png\u0026#39;)\"\u003e\u003cb\u003e👆\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-06-11T18:30:07Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5430,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "نظامی - سیاسی"
+    },
+    {
+      "id": 10737,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eسی‌ان‌ان به نقل از یک منبع مطلع: ایران پیش‌تر از طریق میانجی‌های قطری، تازه‌ترین پیش‌نویس توافق پیشنهادی با ایالات متحده را منتقل کرده است.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/mwarmonitor\" target=\"_blank\"\u003e@mwarmonitor\u003c/a\u003e",
+      "date": "2026-06-11T18:52:04Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4870,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "نظامی - سیاسی"
+    },
+    {
+      "id": 10738,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eنیویورک تایمز: پیش از لغو حملات برنامه‌ریزی‌شده علیه ایران در روز پنج‌شنبه، ترامپ با میانجی‌های پاکستانی گفت‌وگو کرده بود؛ آن‌ها به او گفته بودند که با ایران «به توافقی» رسیده‌اند.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/mwarmonitor\" target=\"_blank\"\u003e@mwarmonitor\u003c/a\u003e",
+      "date": "2026-06-11T19:03:50Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4490,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "نظامی - سیاسی"
+    },
+    {
+      "id": 10739,
+      "message": "اولین گل جام جهانی زده شد. \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/mwarmonitor\" target=\"_blank\"\u003e@mwarmonitor\u003c/a\u003e",
+      "date": "2026-06-11T19:16:08Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3940,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "نظامی - سیاسی",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/moJ4FcNGMLEda412V6HAq3kaBM_GkulEmNIK39OIzIkxa-KyMzJjQpzZZIjHtkcmJqlSIusfXOMr5Bx8IOLpIzxlypg-3AGCB5HcjC8_-m88t0wdp3ATuDpHV4-fnXrUytK4oUCJD8scPHgdVwHr4Ow1BLPk_jocVWA9yztlk1navJQIdO3Y4qpG5bCcXaqCYw4UFv9kjpi5oAMbKnISCTAacdVgKGizW8DQAMMEwESqPXJRydkj__uvtTz95SWVJ9zKbbyqGhGi8vcUJfSEwLAL0NdM5mNKEtKo7x9_G9PVwWTQ08BFAQFlOM29YXAnrJxRwALPFxaJjtwb2Ei2_g.jpg"
+        }
+      ]
+    },
+    {
+      "id": 10740,
+      "message": "‌\u003cbr/\u003eتکمیلی: روایت ترامپ از «پذیرش ایران» در برابر واقعیت میدانی\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003eهمزمان با عقب‌نشینی تاکتیکی آمریکا از اضافه‌بندهای جدید به پیش‌نویس توافق، دونالد ترامپ با افزایش لحن تهدیدآمیز در شبکه‌های اجتماعی، تلاش می‌کند روایت «تسلیم ایران در برابر بمباران» را بسازد؛ روایتی که با واقعیت میدانی مذاکرات فاصله دارد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003eبراساس اطلاعات خبرنگار فارس، حدود دو هفته پیش متن پیش‌نویس تفاهم‌نامه میان تیم‌های مذاکره‌کننده تقریباً نهایی شده بود و تنها منتظر تأیید نهایی در تهران و واشنگتن بود. اما در خلال این بررسی، ترامپ بار دیگر برخلاف توافق مذاکره‌کنندگان آمریکایی که پیش‌نویس ایران را پذیرفته بودند، خواستار اضافه شدن چند جزئیات جدید شد. در واکنش، ایران اعلام کرد که آن متن جدید را بررسی نمی‌کند و عملاً پاسخ آمریکا را نداد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003eپس از آن، تنش‌های پراکنده در تنگه هرمز و جنوب ایران و همچنین حمله به ضاحیه عملاً پرونده مذاکره را مسکوت گذاشت.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003eاما از روز چهارشنبه، تیم قطری با میانجی‌گری وارد میدان شد و خبر از عقب‌نشینی آمریکا از همان اضافه‌ بندهای جدید داد؛ یعنی بازگشت به همان متن اولیه‌ای که هنوز منتظر تأیید نهایی در ایران بود.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003eهمزمان با این عقب‌نشینی محسوس آمریکا، ترامپ با راه‌اندازی عملیات رسانه‌ای و ادبیات تهدیدی کوشید القا کند ایران زیر فشار بمباران عقب‌نشینی کرده است. اما واقعیت آن است که تا این لحظه، نه تنها ایران پاسخ نهایی نداده، بلکه این آمریکا بوده که به خواسته قبلی خود بازگشته است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003eالبته بنظر می رسد با توجه به اینکه امریکا متن پیشنهادی ایران را پذیرفته است احتمال بررسی مجدد این متن وجود دارد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/mwarmonitor\" target=\"_blank\"\u003e@mwarmonitor\u003c/a\u003e",
+      "date": "2026-06-11T19:23:33Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3710,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "نظامی - سیاسی"
+    },
+    {
+      "id": 10741,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eبنیامین نتانیاهو و دونالد ترامپ امشب قرار است با یکدیگر گفت‌وگو کنند — به نقل از کان نیوز.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/mwarmonitor\" target=\"_blank\"\u003e@mwarmonitor\u003c/a\u003e",
+      "date": "2026-06-11T19:24:16Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3640,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "نظامی - سیاسی"
+    },
+    {
+      "id": 10742,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eترامپ می‌گوید: این توافق باید طی چند روز آینده نهایی شود—احتمالاً مراسم امضا در اروپا برگزار خواهد شد و این اتفاق یک چیز بسیار خوب است. بازار سهام بالا رفته است. بازار سهام این توافق را دوست دارد. اگر پایین برود یعنی آن را نمی‌پسندد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/mwarmonitor\" target=\"_blank\"\u003e@mwarmonitor\u003c/a\u003e",
+      "date": "2026-06-11T19:40:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2710,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "نظامی - سیاسی"
+    },
+    {
+      "id": 10743,
+      "message": "",
+      "date": "2026-06-11T19:42:45Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2380,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "نظامی - سیاسی",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/eZL9PwpMEq9Bco0EGS2_pv7twAPz92oGBJ41S13zXETayHrREg-n7B9IHm3YjxbTGuOlCGiFnQGv8ZQYqS2tM1PHQ5awASSAIOJneYsDfnEsy-8218Z9X-XJW4ptz9bU_ktNQcV_LIGPyT1z8UB-PhdMot7iqjurUD4ha_4Nlr5_RTi859fRowD_GQGLiwghQArt_pFPtvnZWmrz24_GAET6yt6wq8bUzF9Xl9S76Cmi70UKPE4h2VksnL92i91YqtyFeS3_TAhNjgCW0dvK7vdZsYoiD_LiPoQfYHNfIhDjgYb7jPNbOWRrbUO3ewrHmahTf_WCCGQBsn9JbRcxGg",
+          "width": 640
+        }
+      ]
+    },
+    {
+      "id": 10744,
+      "message": "«ما به تازگی به یک توافق عالی برای پایان دادن به جنگ با ایران دست یافته‌ایم. در حال حاضر کار روی نهایی کردن اسناد و مدارک جریان دارد که احتمالاً طی چند روز آینده به پایان خواهد رسید. همچنین ممکن است مراسم امضای این توافق در اروپا برگزار شود.\u003cbr/\u003eاین اتفاق بسیار بزرگی است؛ بازار بورس ۱۰۰۰ واحد رشد داشته و این نشان‌دهنده استقبال و رضایت آن‌ها از این توافق است. وقتی بازار بورس بالا می‌رود یعنی از توافق راضی هستند و اگر افت کند یعنی آن را نمی‌پسندند. اما روند بازار صعودی بوده است. قیمت نفت کاهش یافته و فکر می‌کنم حتی از سطح قبلی خود نیز پایین‌تر خواهد آمد. پیش از این وقتی در ایالت آیووا بودم، قیمت هر گالن نفت ۱ دلار و ۸۵ سنت بود. مطمئن نیستم که دقیقاً به آن رقم برسیم، اما به آن بسیار نزدیک خواهیم شد. قیمت‌ها کاهش می‌یابد و با افت قیمت نفت، هزینه‌های دیگر نیز پایین می‌آید.\u003cbr/\u003eاز همه مهم‌تر، ما به توافقی رسیده‌ایم که بر اساس آن ایران هرگز به سلاح هسته‌ای دست پیدا نخواهد کرد؛ این تمام هدفی بود که برای دستیابی به آن تلاش می‌کردیم و مسیر سختی را پشت سر گذاشتیم. این یک دستاورد بسیار بزرگ است. به زودی مراسم امضا برقرار خواهد شد و اسناد در مراحل پایانی خود قرار دارند. باید منتظر ماند و دید چه می‌شود. روند کار بسیار خوب است، کار رو به اتمام است و به سرعت نهایی خواهد شد. آن‌ها نیز به اندازه دیگران خواهان این توافق بودند. فکر می‌کنم این موضوع می‌تواند سرآغاز روابط خوب بسیاری در آینده باشد.\u003cbr/\u003eمن به تازگی با رهبران بسیاری از کشورهایی که نامشان در بیانیه آمده صحبت کرده‌ام؛ با بی‌بی (بنیامین نتانیاهو) و همچنین رهبران بزرگ کشورهایی چون قطر، امارات، عربستان سعودی، بحرین، کویت و دیگران گفتگو داشتم. همچنین قرار است با رئیس‌جمهور اردوغان از ترکیه صحبت کنیم که شخص فوق‌العاده‌ای است. روحیه همکاری بسیار خوبی حاکم است. کشور پاکستان نیز عملکرد فوق‌العاده‌ای داشت؛ نخست‌وزیر و کسی که من او را ژنرال می‌نامم — او یک ژنرال است، یک ژنرال عالی‌رتبه، و در واقع او یک فیلد مارشال (ارتشبد) است، یک درجه بالاتر.\u003cbr/\u003eهمه آن‌ها بسیار خرسند هستند. تمام منطقه خاورمیانه و حتی فراتر از آن خوشحال هستند. به محض اینکه توافق امضا شود، تنگه نیز بازگشایی خواهد شد.»\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/mwarmonitor\" target=\"_blank\"\u003e@mwarmonitor\u003c/a\u003e",
+      "date": "2026-06-11T19:42:54Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "نظامی - سیاسی"
     }
   ],
   "last_updated": 0
