@@ -3,217 +3,17 @@
     "id": 0,
     "title": "Farsi VOA",
     "username": "farsivoa",
-    "photo_url": "https://cdn1.telesco.pe/file/sUKqTG_pDWkKLQmP5lFmdYj1txz7P9fu6faNvvIui174_C2qzr7foM3dPfc1yhWQ5RwTERrGb9CASxBcq19OvtUxCYZ9W1T0DForIWYSBD7oX_exxMroOqDwkB2D8DI3Ri9lVrofF-bH9OCCfhhfezKq5aCkRhR9MXDRntIBI9d4cUBBIwAogamCGMKg6kx42PnYYToxU7E64VGKethzdzHyZHCGHj-QHzEs3l1Jb1xaNvIY1b_X7M5IiXdkbYSs6xXQynlwbeXtb56wjN11-ijze-h8czm3Wud9QxD5MPehZonZ0TfvT5RGCxI_H_qvd8b7W_qBgx22npZEj6Rl1A.jpg",
+    "photo_url": "https://cdn1.telesco.pe/file/VW3ZgTnHQmk3oah-f7YVJRE4NAPOeonH13RhWPE0FyHA02JK4ZhgAbD2IKDx9POtAWh9wC3RqiUwDjse8Ckl3gUSK3HHsdamwL9smL6VuSy7JvYLDy7knAfL1epWn48K3a1qXFZYC6so_9stkPSNVIA9zCoQW6Yw1NZncf8Pp3xCi_Fw9sjsJOl0TkYODV2fnTj9z1Adnk6Ju0ssJ4wgbNmc8D7R8gdi1Dl5zSMFDPLWqMV9wV7Nsa7M0nPIOJtpPgm1_sub9D5Fsv6-GRTeVUuKNEyUegykYmpY0NFCULWQm7tzDg55UWdZYxV2OQUzdIsiHz5ZOpKvOO7yYLITrg.jpg",
     "description": "تنها کانال رسمی بخش فارسی صدای آمريكا\nعكس، خبر و فيلم هاى خود را براى ما بفرستيد:\n@sendVOA"
   },
   "posts": [
-    {
-      "id": 220318,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003eسنتکام ادعای منابع رسانه‌ای در ایران را که می‌گویند جمهوری اسلامی به یک «ناو جنگی آمریکایی در تنگه هرمز» حمله کرده است نادرست خواند و گفت هیچ ناو جنگی آمریکایی مورد حمله قرار نگرفته است.\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
-      "date": "2026-06-10T23:47:35Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/XTeMKp6_kpoODtpI9OcESJT1aqH5M--K9AsUrdjBtB9t3TpkqSA74RmUCpecOslIZXHdZg1QkDJpn1myhxSjKvq3f8gbzU8Wab6sO_F22kVa_u_NBoyE7D8LooploZQXaEmBl7FKHE9g5m-TX1xDcY4g5NfLvrAfIhCksj7wmOB2UB2xvu7vRG6AJHm4E6fKojPg5VmbmD45Qi8zgVE28AntQU4fxhateCx5W9kGr3HxtZEhVRpXfZgFQgfvRXyXDKzUVL5dyPWj-L2g9sB7Vq_JHFEFxPAIkuoy7NZBBwZgg8VpbOaChxeff22y7JFtyAmqa49y9FfBXWb0qlT9xQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 220319,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003eستاد فرماندهی مرکزی آمریکا، سنتکام، ادعای تازه سپاه پاسداران را که «تنگه هرمز بسته است» رد کرد و گفت «حقیقت» این است که «کشتی‌های تجاری امشب همچنان به ورود و خروج از تنگه هرمز ادامه می‌دهند.»\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
-      "date": "2026-06-10T23:52:47Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2470,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/YRMcNoFTsbA2FjAuWHbUBeJE4-Z47Lqle57asO-lkxP-BWXHm5lUuaE5eZBUZAmbW9bE6KQ3ktzTOFZVXHGUAW1qVabk1EBp7oZwB3hwxzwC43XDZ-ylvJol9P0yrZsWf_m0phyxHNgJzEOS9QRONKwTB61GP5HsMtNfUFrxfmkw5M4xOVllMghge0s8X8_r2K5iYgwo3kb-YcTZESpC946Kp-oGnfg5XcG8w78eAK1MrKssmC9n2_sBM6Pd33M8nfFar7LSbM7nfFV15-NkrZlKZNQ0FPmYJ-zKEs1vVZenzm_sxjoWwyRUsxPnDl5LtBeBEMZRg3aDmXWenyfoVg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 220320,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003eخبرنگار فاکس‌نیوز دقایقی قبل گزارش داد که رئيس جمهوری آمریکا، دونالد ترامپ، همراه با جی‌دی ونس، دامادش جرد کوشنر، و استیو ویتکاف، در «اتاق وضعیت» کاخ سفید حضور داشت. آقای ترامپ به فاکس‌نیوز گفت ۴۹ موشک تاماهاک برای زدن اهدافی در ایران استفاده شد. آقای ترامپ گفت برخی از این اهداف فقط حدود ۶۰ کیلومتر با پایتخت، تهران، فاصله داشتند.\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
-      "date": "2026-06-11T00:01:10Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2340,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/eMD124xq6py0ky6T_pHLkXR1lRz90o8LyQZq7MO96gffe0_tQLpoEK6gi0multILf6RnGJOi82n_NevGQzIMIMzhCJMmSGqYKA7XfP7Rmhp86tgw_-xvsm8IpwFBG2CgDu-I_CqLRUWOOB0kNik3pnkFAoLAF-4lZnOls2qw0m2GtvtDPxl8vsZ42AsTjfJc5o9VOFCIbTGT5Fw5aEvJg3dDgGNhmwre8SSpax2Vltq8BEu1MRS3Bv4VEHaagdt9JdBmfLUaNxFJ8Gzn_eq2QdBEjls_FgArvL9qE3kBzdRmltHmxKjKTGlAwOOR2pedflAIui_modg4CyYR0BOnsA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 220321,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003eخبرنگار فاکس‌نیوز می‌گوید که دونالد ترامپ، رئیس‌جمهوری آمریکا به این سوال که اگر جمهوری اسلامی با شما توافق نکند چه اتفاقی می‌افتد؟ پاسخ داد که فردا شب هم شدید بمباران خواهند شد.\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
-      "date": "2026-06-11T00:04:34Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2380,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/TFO7GAEgggpGup4qkE13NiNDDaZKR9A061Vx6asU2shGahMsd1GgkZ6TRRa8IujmecaXNOv3CEVhY8OImZI_5v4f6pEcqEG_OL-VuXYw10xns772u2zINNrywxUXSOx7bZ1j4-WADJUoYbWF0eQMIH187f7iOsx85LhFjC6th7Lv4nBi8RFZT7OOEtdmqEAb4rh9Gn9yvC9DmM9gUzDiN3lMprEdiiGO5pk0CYavnFoha1yOA2zyes-KAOPX9_895fEWhYvii4Yv2qb8a8cAWj8doRAIrJhYjHqfZUrRdw625gTYxzZABH4Sz_SFUF5NdFg4u-oCZNtgIZfrmYqA6Q.jpg"
-        }
-      ]
-    },
-    {
-      "id": 220322,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003eطالبان و پاکستان؛ دو روایت از حملات مرزی اخیر پاکستان به بخش‌هایی از افغانستان\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
-      "date": "2026-06-11T00:07:11Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2180,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/rUvl3NHKub2SW6VY0MRA_JR0UTV_6oP_VZ3fRduMtynlIYXggmSGn7cHXoom1WGmTlOHB0IyHepzW77LYTMYrF2egwuzQXrzYZuuU3oLg9I4ZBiNNf5V2s8gMklu6wIkt1FyKyEHIjj1-wEmO0X4LKhBiI6DiZo28GqTSmm2A9iK9BwtjRjuf2i9kbxBHND7VD67bGmeCicFEMFwT2A6rBu9RTMZUrGTrF3q7_ST5MkUfCSfqG5Ed90RXDTwnktrsOVaQIdX8r9MX1t8x2eUze6bQlTVvJWXRkdvdBNJvbVt-zxOcSF69PE_Xh4zPY1WqQOrZ2lQYOeXbkW-gZkOXA",
-          "width": 640
-        }
-      ]
-    },
-    {
-      "id": 220323,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003eدونالد ترامپ، رئیس‌جمهوری آمریکا به فاکس‌نیوز گفت که آتش‌بس با جمهوری اسلامی بیش از هر آتش‌بس دیگری در جهان نقض شده است. او افزود که مقامات جمهوری اسلامی زبان «زور» می‌فهمند.\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
-      "date": "2026-06-11T00:10:10Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2330,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/mkszc5Wcap-SVnb_sC8c3MXOEO0fbtDHSrXA1Z2zr6k6y28dBwyb-2BTTfQjWs397VTIccSWDmor3eFYP1aXONS2ZcHAq66Ci33rnQmZg79aOiz5_jLw--isZs6NMc9BDUgQD9hqKxnRL2JLHWfjUBkrQbV39Y9ZOqT7QJWmCMLWKck1MIuUvHk8vow1wfQUZ9sgY6pJTJI1y2iu4DO7Gf_vbY-i-NKWaPS48GYlUzyLoo79qJzCh10mjy1fK4bt7saGr2Yk2hPejDJ-oAILCaqpMjY2G66pWozw4ZEuSDehyZdIVN8Va-InW417a5yf-daATcNMQpFrBvz2UstO8Q.jpg"
-        }
-      ]
-    },
-    {
-      "id": 220324,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003eخبرنگار فاکس‌نیوز، تری یینگست، که چهارشنبه شب با دونالد ترامپ، رئیس جمهوری آمریکا صحبت کرد، می‌گوید طرز فکر آقای ترامپ این است که جمهوری اسلامی دو گزنیه دارد، یا توافق می‌کند و یا باید ضربات ادامه‌دار نیروهای آمریکایی را دریافت ‌کند.\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
-      "date": "2026-06-11T00:15:24Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2240,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/I3GrfNx-ekWKcMKjG2Gu-fhycf-7_f5e24VAY3Ml2gaeoWXYy4nnGKPeRNOPzFdMBeVfms1rUmjzTS-Pw_8q_ITn4aOGg5UQK6P-QIwX0fIhGaUVi7whHwJCjuhjVynEDJPYh7jU-NLlHgCGsecaso4EVVgydYJsCXxzTCMlswCI62X4ZNsu3N7U8OjYDoKfKGHVWPouwm0PwF_2PAxXYwy1VRMnKbJfQysgWJyo0JXbiXRE0ujgePD9g47Mom1Xx4A99MPn2XE1qteDhUqkXzlnkcOF_1V_7cZKs7t2KEC6yA_nAOWXhL6LyWRY7rJuJoKSsiRC4xfWlXvAiF6_oQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 220326,
-      "message": "طبق گزارش‌های مردمی دریافتی کانال تلگرامی وحید آنلاین از مناطق غرب استان البرز و شرق استان قزوین، از حدود ساعت ۳:۲۰ تا ۳:۴۵ بامداد ۲۱ خرداد، صدای چندین انفجار و عبور احتمالی موشک در مناطقی از هشتگرد، نظرآباد، سهیلیه، اشتهارد، ساوجبلاغ و آبیک شنیده شده است.\u003cbr/\u003e\u003cbr/\u003eشاهدان محلی از وقوع دست‌کم ۵ تا ۱۰ انفجار در فواصل کوتاه زمانی خبر داده‌اند و برخی نیز مشاهده نور ناشی از انفجارها را گزارش کرده‌اند.\u003cbr/\u003e\u003cbr/\u003eبه گفته ساکنان این مناطق، شدت برخی انفجارها به حدی بوده که موجب لرزش منازل و بیدار شدن ساکنان شده است.\u003cbr/\u003e\u003cbr/\u003eهمچنین گزارش‌هایی از شنیده شدن موج انفجار در شهر جدید هشتگرد، نظرآباد و آبیک منتشر شده است و برخی شاهدان منشأ صداها را محدوده‌های اطراف اشتهارد، هشتگرد یا کرج عنوان کرده‌اند.\u003cbr/\u003e\u003cbr/\u003eپیشتر دونالد ترامپ، رئيس جمهوری آمریکا به فاکس‌نیوز گفته بود ۴۹ موشک تاماهاک به مواضع جمهوری اسلامی حمله شد و برخی از این اهداف در حدود ۶۰ کیلومتری تهران قرار داشتند.\u003cbr/\u003e\u003cbr/\u003eاو در عین حال گفت هواپیماهای آمریکایی بر فراز ایران پرواز می‌کنند.\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
-      "date": "2026-06-11T00:21:26Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/n-0bveVIKU-AgVCUh3r8E39gcIN2k18NIsDGFzeMBwpWYQB2YHnTw0o7cjMm8zeen8P0sHUBH9hxXnjOR2DTAMZDVkW-ccxNfYidwEQfMPP8ZSGkXWYYrlAFV3PSsWYd3y0O8ESW5wwUXEP_s9EJO9Q9kHRt90chLRxMC6nzB9QkagmytK4rBI8Q_oyf_GV5jB0p4rPBZZ3eHqhQUxv6z5EIOT-0pFWWYowYD2-Gey7EZ4FDHbAwyuvqGjBjOxNSmPE51rTtUVPVc4jCowOmclfJsnKxENBJt0LWnKJHX1lk7eioeK59RE4oYf0D9eCHIgrC8hGbRTCyXOaaB_5peg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 220327,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003eچرا جمهوری اسلامی ماجراجویی می‌کند؟ گفت‌وگو با علیرضا اردبیلی کارشناس روابط بین الملل\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
-      "date": "2026-06-11T00:29:45Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2230,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/Vqpbo_SU5J-0BhjAN7yvP-ebp6GRrJaSYOiyjM9FIKP0c0lO9sD8DfVhIzZHBtEzXNT9IeK5u8XcxgZ9vedqga6KlNgO3X1nvgQJuVVB34wCD96wjGMeXI1GtQtOneSeeuFsJK3bEPUuvY3yORYZzqzjW0yOTJ5bA2GpDA8uAQD5nwjN_nL2N8_F-A2opfZ1DtL0TRyH0EbFBN2ZhT_c7BBkmKw2hK369cgWVRUs-6inKIl22DON9L5_6Kvfvis5y82wLl-SfQLEMUN2hpT-mSiLm3XAFT2sie_b0o_jsNNkxSn9QXuA9ibKS1V-4ceyq7ItOji4zXCx3h8fLUeQUQ",
-          "width": 640
-        }
-      ]
-    },
-    {
-      "id": 220328,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003eوزارت کشور بحرین از به صدا درآمدن آژیر خطر حمله هوایی خبر داد. این در حالی است که ایالات متحده مشغول حمله به مواضع جمهوری اسلامی بوده است.\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
-      "date": "2026-06-11T00:34:43Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2270,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/CpALHu-uCsaqaE4cYY62j6a6SWvjTXpSB05BCmioKjx28dlKxbLbNK-LVleL5HYaKc2hzgc49nf29nJmt5ZCPod1Ur3qofWrH5Wir7igsLPiuIVcGj3t8iHjrcEnU9mFVKz6yVOG0WS6L-QFNPLuI4bvHYpqdQBpfCq8lUydbDsGQifSARUEiCZF5BMbyYX2olUaFHwfId75NHt9Iifd8C9WKxWMmjGy8GQ7MLXf1XghJVLAboQWdcvc_a_JWkaqlpg3H5a1-oVWcBXuVl0-XSj_GRsQkjqfJebIkw3YYIUmLtp5EO9py8cFd5TH5_1HQrer1hnhAYvb7hWcl2hFOw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 220329,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003eگزارش‌‌های مردمی و رسانه‌های حکومتی در ایران از وقوع انفجارهای «شدید» خبر داند. برخی از گزارش‌های مردمی منتشر شده در کانال وحیدآنلاین می‌گویند صدای انفجار از سمت «فرودگاه پیام» شنیده شد.\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
-      "date": "2026-06-11T00:36:14Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2340,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/BeIoxI1ZHLK69-wdsAhoyW_qFpMZTeOVMtg18e_-7y_QsO4VJoYCvrnn27m7hXgLNLNhzrlcOEXEweL6YLDabxqufaLJ7GO-d6eBq2_4yYuvs3H-rnWpolWjZy2D-fLsmdj-QDQnI9jDsVN2OtlUz00RHRuYyno0GdEyCDbB_vRt5Xio5WgsAolYWacxHMfQn3-DxdfYPr-AVak2Vgb8L3cnFLlis8x8T73Vps7Rxa5Y41wnsdnFNnSkNM3s16b0id46nnBZ6HGWdr9KeR1v7-o8cg67zOhnop1KlYacvDKJzk1Isx-zpFC-kPg1o2gLac9Z1tIMZUYQkXZ9P6REDQ.jpg"
-        }
-      ]
-    },
     {
       "id": 220330,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003eویدیوی منتسب به انفجار در اطراف فرودگاه پیام کرج - پنج شنبه ۲۱ خرداد ۱۴۰۵\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
       "date": "2026-06-11T00:42:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2210,
+      "views": 4130,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -232,7 +32,7 @@
       "date": "2026-06-11T00:47:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2180,
+      "views": 4270,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -250,7 +50,7 @@
       "date": "2026-06-11T00:55:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1990,
+      "views": 4410,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -268,7 +68,7 @@
       "date": "2026-06-11T01:03:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1640,
+      "views": 4180,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -287,7 +87,7 @@
       "date": "2026-06-11T01:04:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1720,
+      "views": 4490,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -305,7 +105,7 @@
       "date": "2026-06-11T01:13:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1430,
+      "views": 5190,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -323,7 +123,7 @@
       "date": "2026-06-11T01:22:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 963,
+      "views": 4970,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -342,7 +142,7 @@
       "date": "2026-06-11T01:36:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 555,
+      "views": 5260,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -354,7 +154,7 @@
       "date": "2026-06-11T01:39:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 237,
+      "views": 5380,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -364,6 +164,211 @@
           "type": "video",
           "url": "https://cdn1.telesco.pe/file/t1rZfoMmpG8747z909dGHc9Xy7AAzJp_HUbiQqjMT0FIVde2hrmctMO3V_YuKYYUOMrbuNZEz_xEw4Bb_GsfUG583I6gFlnTgftNP27PmNP4LFojQzoI8Ds3_7VlPKp1pNSBxDQ4xkZM54QNnqwqew3Yj3hvxks6ps5dXhZhbiItQx2VdS59DxJXVS2CUB4HLRTIbytFPcvugcjf4NJU84Fg1Cf0ArWoXI7cw6d-XZjdAJg7glewFCIXFvIrrcjtBV8m107VbYhYi0hC6JBkU3Wly1guZkG1g9kPocAkzPT7lYE9xErAxGI45Rj1YlLfgRDG3LjI26kXyOt6IbfYGQ",
           "width": 640
+        }
+      ]
+    },
+    {
+      "id": 220339,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003eملانیا ترامپ، بانوی اول آمریکا، در کاخ سفید مراسم جوایز اولین چالش هوش‌مصنوعی ریاستی را برگزار کرد. این رویداد نخبگان جوان آمریکا را گرد هم آورد و نشان داد چگونه هوش‌مصنوعی در آموزش، فناوری و حل مسائل جامعه نقش می‌سازد.\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-06-11T01:50:54Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5250,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/fcTykEqkyjR88zMo2RlxRfMY50XJIAyw_cX4SL4XPWffHHC0yxjDSVepOtMmYyeIF5oJdxHF1hgrrzZKxM8HMUCX0sXhN4i_-iBbBCWLjS3qngMCRj-z9pVIKGyEbz73Gq_uKWQnRD2XxQNm22uXt2w70Mz-gnzZQRzWkUa3K1rdgOTWWeE4nNfVUmMcp_mOgXq0IHMBjM8hjTqbS3LP2A0nGGT-wgxc3EwUBpzYG3-Ts-muAaG7adU19AMY6c8RxtVabuvSRQVLSuXVcpyTMszd48TtdoTM2JpxJj_dkwqiLRHPz9bFyp62YO3eLLSj09WNZTcd74LYVKzLd-x3uQ",
+          "width": 640
+        }
+      ]
+    },
+    {
+      "id": 220340,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003eگزار‌ش‌ها از شلیک موشک از چند استان در ایران\u003cbr/\u003eگزارش‌های مردمی از شلیک موشک از زنجان، ارومیه و تبریز حکایت دارد. کانال تلگرامی وحیدآنلاین ویدیویی از شلیک موشک از زنجان را منتشر کرد.\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-06-11T02:06:21Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5070,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/gLF9u2JmxWFsr6LGimVAPknFzRNSqeZt1cuU0cQ1KxuiR8WS-hXS0w1xrDfOgaXCKnMDIZjO_9zGnHWzsrTbHaUvQ55RNC8uDnULJNDp1fnySsz5ONn6XMcyn30WJ_cKF8VAwERPIBe8YAA6WBy5qkazvRF9PSFml18_NST6RIe7uilX0iOnm28_UZRuU0FvbYyBxAd3AI2rzuNyKWUPqWxFvvcH1HGDitFHnupW67jMpkkQFLu0U1_v4MUT2nbUXnSZOCdxZYlkn6D1YohezBVt6DCyfW-5UKWRcii_we5AGfwop9o67ZVn1svydigyEHnwghm_uHY5rcZThvtfmA",
+          "width": 1920
+        }
+      ]
+    },
+    {
+      "id": 220341,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003eارتش کویت دقایقی پیش اعلام کرد سامانه‌های پدافند هوایی آن در حال حاضر مشغول مقابله با اهداف هوایی متخاصم است.\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-06-11T02:21:00Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5020,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/C9znMBRBBpzNxjM7mPnBn0XjybDtO98_WCwBLrZwuYp5xxyLaVZCUZIcKUFzLfRjNky_DhO9QQUW8LSHgkgiD7Hzzz2P1x1vTumIqd0Kwg3SBjUm-wkVrQ7Gv8L7MvoycxrmksJeRCE0MR3er4aOX7jEVlFKwStgzyRp284BdZ-2OFfvCCvbTmFSmeKFuxwpNTG_UM22zI3lDuqvglu7Hcgg63ySNxKhwhBHbugfg7GyPcAmOTQIngbVpfvkUPSyFWt6x7CKHQvryuu5WQmTEtEP9Is9bK8ecb1X9ey_eH7LD0b_AP5TNPW9q0w_vBa8zvKnxOe0JS2e1e2qBazs9A.jpg"
+        }
+      ]
+    },
+    {
+      "id": 220342,
+      "message": "ویدیو منتسب به عبور موشک در آسمان تبریز، ۲۱ خرداد ۱۴۰۵ - (وحیدآنلاین)\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-06-11T02:23:21Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5210,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/Wn97uDcCnTVBs-F9eXzrAfqQ_hSy8OukzNpbpdJeHCP14zuN9tkQYuohI5S2D3UU--SO-HLlpblA4_Ss2GMEzkGpcENAtLLZ55RyCck-Y4V2h4uVVKqXxvdkqTWDf9A0WbAirwxuTiMy8BPzHxUT-fWBe5Zr5emHIZNOQise5PJpu766Dn4VT_Zd-OzA-HXPPOvmSPaavw6ZCqp1q4dh35rP8MZlWDwtmlJIx0cpLXGK7DxVZwIqL6jwgL7LYkPih6TWpaTaSpVjKZgh1MRRErDjjuOY2tcKE9fVdD-jHO5dFKZUf2SgIq8mqWNiVHa2I9ak2lcXGeAh5erGTl3Ldw",
+          "width": 1920
+        }
+      ]
+    },
+    {
+      "id": 220343,
+      "message": "ویدیو منتسب به اثر عبور موشک در آسمان ارومیه، ۲۱ خرداد ۱۴۰۵ - (وحیدآنلاین)\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-06-11T02:36:52Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5230,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/vhLtFrwqAxnR39Njzi0bbf5xBdKxcU3xPcID3pk-NzIEVV2CztEPhW5xQnQQYB9WLKCx4u9koUfHhBAg7GO6lLtLmH5DDdyCGbNem8l6LExdkfcnc0nkGSrKguToVwjKW7VM_bdAe6GQutBc1287SDJWX-ZEfz2f-grNHFK_utmDJSO0vEB_X7nW7vGwS3Smf1enewW-UddgXpFNJ9il56Six-qE1kdvKHcr3t2rA0ysz0DYf5rg4Qnas8S-TB-i1CMwk1qbjeBQs6k_Ah_-S7hgfJTTjeauwfMNbIlo-LKnuJ13UuFBzcVAsO_vpJVS1kxR5x6jOhD25BHHdGnfyA",
+          "width": 1920
+        }
+      ]
+    },
+    {
+      "id": 220344,
+      "message": "آژیر هشدار حمله هوایی در بحرین صبح پنج شنبه برای بار دوم به صدا در آمد. ویدیوهای منتشر شده در شبکه‌های اجتماعی شلیک موشک از چند استان در ایران را نشان می‌دهد.\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-06-11T02:39:40Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5630,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/l-uSjMC6MBBnyhMeA0l_m4ODvggLn3-48ubavOUpukM6Y8bXVG24pOn1kHjcgQHaC4F8A5yURtckoDgNWmhc4Aa29-LHLnlzxQ5Fdxt0LoF3kstmb9H4iDtEO2XZfFUXjxjwyod4YyHVwiUovtJpAX0qtKwTAJ7lLh40qoiw7G6lBY6Qh8y5YumoYpITG1mgtLtKGneOApeS7-WcfypPfBphB9AlPzU98SvXFRldUi7szcJY0mnY8SWJZNtLMZ3hH62o0MrkPYUH_ZlzQyPdYQAD5X1L_3kbyfLso8rOb9P5UHo2dkcJYWrhIHiJv9JipdN2a7Pc7ooqjhz6nql7TA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 220345,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003eسفر راهبردی نخست‌وزیر عراق به واشنگتن شامل چه محورهایی خواهد بود؟\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-06-11T02:43:33Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5750,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/utLGy0uVBTut7Q6O479wRAazc8O1k5iuVbQ5-LfdcnPgnmil9O-kPb5s_UjvP_CYLlpThsiQgGUydtq9QPIck0A-eBQfFIfTTpuCv8-T0v5EFvr0qwOqiy3nY6QGfBacKAJlF5E_pyGKerLVfGaTAXGHUbY8VoOaCoI8NFhPjgDJWoaOPfPw1-kov0GcZdTDWVrcX9iEZerkPflGk3vQHJJmzjcWJLhCH01Q9fzBrOZGrqP6Cv9rAKMQbQfDUbmgNHNlo90C0GfDby6SRxZmv25haaEMkby3CLaVgN5MraFnCZKPeeYw4apBofLyyoB2G9H6g01GcXut5MqX9wBtNQ",
+          "width": 640
+        }
+      ]
+    },
+    {
+      "id": 220346,
+      "message": "ویدیوی منتسب به شلیک موشک  از زنجان - ۲۱ خرداد ۱۴۰۵\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-06-11T02:49:14Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/oBGX7mqmYEXfHsAz92NO6Gy2iAPae-rg7V8GUnO5NYqF3ID6oIjXuHMcLGvfqnxuME4xyfaLncO1dbtLU-bg8zFcGAt2o_gumPzPwsmVPc85f05IC3Jf-1wJsiAAwVvWbQgCFa-z06mOOE5rYtkki7m-nM_AUyzdnE5CrTBER7Qa31iFVzIm0Y47nNb3d9YoUjKvKfrIg1A_Iwye7fpeUrzYObcTFcMxczuxM2Vp_XqFC4TxY0ZUiFUPjiypMQMmwZQjMrjwNqzW-980RuNhHhSJsI_ovSj28GqyNDvKQYC_yhmNXzQgMacyXGTlYiAdborIOGehxOYKeY_bzb8V1Q",
+          "width": 1920
+        }
+      ]
+    },
+    {
+      "id": 220347,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003eچرا جمهوری اسلامی از هشتگ \u003ca href=\"?q=%23%D9%85%D9%88%D8%B4%D8%B9%D9%84%DB%8C\"\u003e#موشعلی\u003c/a\u003e و «عروسک موش» می‌ترسد؟ انتقام از نخبه دانشگاه شریف\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-06-11T02:52:46Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5830,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/VFaXecTmiqPTlBfNgaLSrZoFxEdbajhHdFdW-9omIEFpPJeAbLoFXyDM0l5ZxEP4xXFTXAFaU33Rw5oiN8efHXusRDjBbr9ufFasQcJ0QwqY3oJcnNJprBJT4Nxo6LSKWdxnj71N-VHbYqjZKrrBDn3b_VNMxG0rITM4tdT8Q4hLwcqvymn2-1mj3_1OtxD_efbikS8WRb8IpY1JXpJpaffVOJcfhTHZ0GKpFzEJesh4drpERdzLrwTChLzrCUSs7ZvHrT9fsQ1T99Vp1E7GGjCI8tmLnRyGzkERwRfwUk7BUaZVwuf0Hsun5VAm4g7t8DhZDEmbSqE5AtgismsqbQ",
+          "width": 640
+        }
+      ]
+    },
+    {
+      "id": 220348,
+      "message": "وزارت خارجه آمریکا با صدور اطلاعیه‌ای رسمی به شهروندان خود در اردن و عراق هشدارهای امنیتی ارائه کرد.\u003cbr/\u003e\u003cbr/\u003eدر بیانیه این وزارتخانه با اشاره به گزارش‌های مختلف مبنی بر مشاهده موشک‌ها، پهپادها یا راکت‌ها در حریم هوایی اردن، به شهروندان آمریکایی هشدار داده شده تا در خانه بمانند و به اطلاعیه‌ها و هشدارهای محلی توجه کنند.\u003cbr/\u003e\u003cbr/\u003eسفارت آمریکا در اردن اعلام کرد که به بررسی وضعیت ادامه داده و در صورت نیاز اطلاعات بیشتری ارائه خواهد داد.\u003cbr/\u003e\u003cbr/\u003eوزارت خارجه ایالات متحده همچنین با اعلام سطح هشدار درجه چهار در عراق، به دلیل تحولات منطقه‌ای، به شهروندان آمریکایی توصیه کرد که آمادگی بالای خود را حفظ کرده و نسبت به منابع خبری محلی هوشیار باشند.\u003cbr/\u003e\u003cbr/\u003eاین وزارتخانه یادآور شد که اختلالات سفر و بسته شدن حریم هوایی ممکن است در مدت کوتاهی رخ دهد.\u003cbr/\u003e\u003cbr/\u003eایالات متحده به شهروندان آمریکایی توصیه کرد که به هیچ دلیلی به عراق سفر نکنند و اگر در این کشور حضور دارند، سریعا این عراق را ترک کنند.\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-06-11T04:52:52Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1740,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/UVhhXk2ObWqxoWfwhMRvSPZWLUEYjXmclj_up1cmhFrS_SR-8-iNEf1cQTwpJKW7dIIqO_C5MAsfcZDTzYVetpmJ0ze4psSItYpX5BKZh8DQRzLGRoZtwrROJNTX3OR9oLHBpXSD-OeJJ6IMAcSncjDgDoS5OnGH7v4_-RM_YEGvuAdZq7o-1NabWfW6QUmCIP2R0kn4FiH00mxBSZyYTd6Fkdvgh0Lbxc3GEXx1Jb9azbnmZhbohA68mdqTYpR1ue7rnV7Umm2j4XswvTG6Utl79BPczlFWKc32E8GtB7ipA9wPha_Sgmxbe172wo8FILxVub6wn7hznF7zQG9CaQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 220349,
+      "message": "دبیرکل سازمان ملل متحد نسبت به تشدید بحران در خاورمیانه هشدار داد و خواستار تلاش همه طرف‌ها برای دستیابی به یک راه‌حل دیپلماتیک شد.\u003cbr/\u003e\u003cbr/\u003eآنتونیو گوترش روز پنجشنبه در پیامی در شبکه اجتماعی ایکس نوشت که خاورمیانه «بیش از پیش به سمت بحران کشیده می‌شود» و پیامدهای این وضعیت می‌تواند فراتر از مرزهای منطقه گسترش یابد.\u003cbr/\u003e\u003cbr/\u003eاو با اشاره به تحولات اخیر گفت که طی هفته جاری حملات گسترده‌تر شده و شرایط امنیتی وخیم‌تر شده است؛ به گونه‌ای که آتش‌بس موجود بیش از آنکه یک توقف واقعی در درگیری‌ها باشد، به «کاهش نسبی» شباهت دارد.\u003cbr/\u003e\u003cbr/\u003eدبیرکل سازمان ملل تأکید کرد که خطر تبدیل شدن وضعیت کنونی به یک درگیری گسترده‌تر نباید دست‌کم گرفته شود و از همه طرف‌های درگیر خواست برای دستیابی به یک راه‌حل سیاسی و دیپلماتیک تلاش کنند.\u003cbr/\u003e\u003cbr/\u003eگوترش در پایان پیام خود خواستار توقف حملات شد و نوشت: «دیگر حمله‌ای نباید صورت گیرد. دیگر هیچ بهانه‌ای پذیرفتنی نیست.»\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-06-11T05:05:17Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 668,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/i1j0rgptCdmmmZbhf8Bwx_ZNfaJwbirysumXgGVCEIN4ijTOYLK931C7jnSyc2k1gU5mOql-Dwlv1_Cbbg0k3b99jYLCDjXNxONkYgSjQPD33eOdXBvD9oiC95uMazqtazuW5lj6oa9YFT50zYxzj_EDrUDLenjNam3qOMSQ9iOhSfwoZs0K9ZdzlEA8r3_PS5skhGfmjt0AK-mhA-Z5mgaZaj7vQ-eTMosZgRNvV46hV40VqNkVn7Z-UYOjj_rFY11lyCflTYqi6VF4MeKyGIcSYvYCHi0NnABrlkUfBLHNnxygtMjyc6oCcdsCU5J5y78vcoYAKc3uu3RqTXzGAA.jpg"
         }
       ]
     }
