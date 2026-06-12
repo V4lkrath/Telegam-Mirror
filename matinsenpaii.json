@@ -8,42 +8,12 @@
   },
   "posts": [
     {
-      "id": 3789,
-      "message": "آموزش فعالسازی Fragment توی اپلیکیشن MahsaNG برای رفع مشکل سرعت آپلود و محدودیت اتصال توی برخی نقاط\u003cbr/\u003eروی Auto بذارید فعلا، من در ادامه واستون یه سری تنظیمات پیش‌فرض می‌ذارم که تست کنید روی اینترنتتون\u003cbr/\u003eاگر الان کانفیگ واستون با سرعت خوبی وصله، نیازی به فعال کردن Fragment ندارید. چون سرعت کلی رو پایین میاره",
-      "date": "2026-06-11T10:09:05Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 44500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/pQggdNXWPaVClXNyuiPcV4-2U5QzJJX9dm5EO-9HHJNT_56HR2le24JNHzMGm7dvUaw0Xfqe9_essO2kMzigphmFYc92qa92xcJmOg059mhO0VJR5G0dE7cMJp24LrPhuhAxcRXcgrO3-LQfX11zU-MUf2dvpsuZ1YeaZnKIml8pA_wKxn-MqHqHm00UuVoOGf5NwgsoA5OumAH_AmRT7yqlofhvKpxMbBI0Ycp5MZsaDlfCFGadeaWq6wUQkVjsHYRVq9grvBVqenc4WFODQWbd_oUmFvsVWx0cULUZSiw_kSx85O8qHr5JSP5EsfLWGhC-QLOe0PvjYPr0qJi-Mw.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/PPFGIfD3_D432a2iM7gKQ8zsB3_DpRQaXp7Iol89EjpJDStRfG3zelKFLsV9LhvAsOvwCv2q3aaLhw-__zzsc1TW5BafK9kE1cOORQqQ-z9uGLuJJ7cNaDhzS5CAc8fsbRf1gstnxiaH7XLnf8QQkmvXa5m8T-E-5Uh2i4b0lKgg0B_X_1mT-n8orbLI0h76Y5-FrJ1r_fpLJDmJGFR_rHr-rftjTBylICiZACQt7SD7eSQco67TOmLnOO7kN16XxW_S8xSYFoDgR1vNkWOnh5w29H9vxfmxRhLimksEvXLqc1X1zJ_On5MOz8p4m27Qj6ViJtUjenHYT1lEjo4iOw.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/MGRPB5IR0M_tFyeVo_bXzSt4CkHZOurjxwyApsapxeEdK1a9ervNGTie-T9uU1q2IUB6D7Wtmj6QoRvowrD79fQuLlaiDG5WlXzy0WWx2kA1YZO3sDlW7lW0QDf6np0JRwFnhdWiibtuP0tPP7fQkOxKKhKwTntV7O6qAETDzVlrbDggKJVCry88ss3qa-7-wCFdky8Gp8R7iLckEqwkICa6Nto30yme2p3W74ew-Ntw5egTfCATzFR-qKZdsJdKmzGP9bcMJQNFtEeFaJKF08OkuPk--CU2dk__4sZR0s9kjSi1WP6BvsCdTOQ3PXldICNQrrSd9sDLfxdfzAirZQ.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/LIgBKmBd-Qr7ZjwhuK-z0kNwQmv1w57DhI7rWw8cVvMaHdNU-yvGT_B0vCDPOXyAXlYHGtbo_D72kvNExyDJvceyY8qmSFQKLodKfhXbPTfy34-y8azyfXTmvaFZNzIWd9AUCA9kNL94S6tbHWgpviQW3D-DH0Ye7TvM5uRV7euZTjmGG2BAOyfo7fyX_rsZ9H9qXeSIkf-0Mu4JhTIIdN9i8hBdj9v-XRhNfvE47YS2zmLytilkukwZQJXqNwDGsmBqVwI4qOXiWSdHM_1DZEBoZlfujGPURm8549YCFc39u0DXHV1LSnDt3pKj9jGd7Mf2D3OFH_objQVTZLuWkQ.jpg"
-        }
-      ]
-    },
-    {
       "id": 3793,
       "message": "هرچی کانفیگ مرده بود با این تنظیمات واسم زنده شد.\u003cbr/\u003eتوضیحاتش رو هم میدم خدمتتون که هر کدوم چیه\u003cbr/\u003eو Mux رو خاموش بذارید",
       "date": "2026-06-11T12:18:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 41500,
+      "views": 42600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -61,7 +31,7 @@
       "date": "2026-06-11T12:39:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 42100,
+      "views": 43200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -73,7 +43,7 @@
       "date": "2026-06-11T13:43:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 41800,
+      "views": 43100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -85,7 +55,7 @@
       "date": "2026-06-11T13:44:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 42300,
+      "views": 43700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -97,7 +67,7 @@
       "date": "2026-06-11T13:47:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 41400,
+      "views": 42800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -109,7 +79,7 @@
       "date": "2026-06-11T13:47:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 41000,
+      "views": 42500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -121,7 +91,7 @@
       "date": "2026-06-11T15:00:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 38800,
+      "views": 40400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -133,7 +103,7 @@
       "date": "2026-06-11T16:28:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 35800,
+      "views": 37600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -145,7 +115,7 @@
       "date": "2026-06-11T16:34:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 36300,
+      "views": 38100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -157,7 +127,7 @@
       "date": "2026-06-11T17:04:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 34500,
+      "views": 36200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -175,7 +145,7 @@
       "date": "2026-06-11T18:19:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 38400,
+      "views": 41200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -193,7 +163,7 @@
       "date": "2026-06-11T18:35:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31400,
+      "views": 33900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -205,7 +175,7 @@
       "date": "2026-06-11T19:20:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24200,
+      "views": 27800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -217,7 +187,7 @@
       "date": "2026-06-11T20:22:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27400,
+      "views": 32200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -235,7 +205,7 @@
       "date": "2026-06-11T20:22:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24800,
+      "views": 29300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -247,7 +217,7 @@
       "date": "2026-06-11T20:43:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29200,
+      "views": 35500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -265,7 +235,7 @@
       "date": "2026-06-11T21:44:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22300,
+      "views": 31100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -277,7 +247,7 @@
       "date": "2026-06-12T03:31:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2940,
+      "views": 17400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -288,6 +258,36 @@
           "url": "https://cdn1.telesco.pe/file/brsXq3Ogmx5xy_dSQpjhEuO6ugzS4L20eQ3-n4scYgjtk1zVcKgx1kDfje4rABC-WjhEYB7PTkIoolwZeRFhw2cxbupBXrOf-__iwyUTv2pgV8TCSE18QJFhrxdi7vPcODjToOJnS32IM2LT9rx5Tz6e1Lrpz8GOZfy091sm-mkcmuqNRw8ipKp26C1KIB570iTN2n-5k3ESW839VSNiRAsjEpfJJUV80LyPPldNSB3aCv5A2khNDe1Bl8Z2RkICdUi4DHL2oGtYvrGl8lUxtbgglI2n1dgRhYOo6p63L5fArQipZX8jXLI0b_nYoAhd091-Mv3fFPwyQvBvDrSrrw.jpg"
         }
       ]
+    },
+    {
+      "id": 3814,
+      "message": "‏این روزا اسم Agent Harness رو زیاد میشنویم، ولی بیاید ببینیم واقعا چیه و به چه درد میخوره!\u003cbr/\u003e\u003cbr/\u003eهمونطور که میدونیم context window مدل‌ها محدوده و اگه به صورت کارآمد ازش استفاده نشه، خیلی سریع پر میشه و مدل مجبوره برای ادامه، یک دور summarization انجام بده.\u003cbr/\u003e\u003cbr/\u003eبعد از چند دور summarize کردن، نهایتا بخشی از دیتای مهم از بین میره و تسک به صورت کامل انجام نمیشه! پس اومدیم یک سری تکنیک پیاده کردیم مثل تقسیم کار بین sub-agentها تا از پر شدن سریع کانتکس اصلی جلوگیری کنیم.\u003cbr/\u003e\u003cbr/\u003eبعد این ایده مطرح شد که بیایم هدف نهایی (PRD) رو تعریف کنیم و اون رو به تعداد زیادی sub-task تقسیم کنیم، بعد مدل رو در یک loop بندازیم که با هر بار اجرا، یک context و یک prompt جدید داشته باشه و بعد از هر iteration چک کنیم که تسک به صورت کامل انجام شده، و در غیر اینصورت چرخه رو دوباره تکرار کنیم!\u003cbr/\u003e\u003cbr/\u003eدر واقع به جای اینکه برای اتمام تسک به مدل اعتماد کنیم، ما در یک لایه بالاتر این رو validate میکنیم و اجینتِ تنبل رو harness می‌کنیم :))\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5470060791883374114\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8D.png\u0026#39;)\"\u003e\u003cb\u003e✍️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://x.com/i/status/2065021912728633357\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eAmir\u003c/a\u003e",
+      "date": "2026-06-12T05:37:05Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 12900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/Q7ejXXJ8B5Nucn-NTLazRkXeco3dTkWpz1sQ09fCPbnzvF2YYIIe4rnSTD2UW0ppc3AROpnc8nX5NCKTFjPANSAfhk0TubczFGC8IO9BsuSYvKdnfW7AvBZfoVggkwul-YeJVY-JV5KxjGsvCvSs6g9S_ekHYZ1Z7Ken4AjgcXKr1vYNIaRclHG2E_tewS8wmpPglt_F8MrdL_wOF5QFIJgP92niZfywmZhX9TfAn8KzNLVALjbA3n--19d4LYbzlY29mt75T9Ur8nqrq48avVXIHOYxRvSoumanKrFbyQJtrTIT7yi8xcfn52lPl6e8zl2TkVLhId6I6ngDmXX26A.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3815,
+      "message": "جناب \u003ca href=\"https://x.com/i/status/2063812584893997492\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eMehdi Allahyari\u003c/a\u003e هم دوتا بلاگ حول این موضوع نوشتن:\u003cbr/\u003e1- \u003ca href=\"https://mlnotes.substack.com/p/the-harness-beats-the-model-demystifying\" target=\"_blank\" rel=\"noopener\"\u003ehttps://mlnotes.substack.com/p/the-harness-beats-the-model-demystifying\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e2- \u003ca href=\"https://mlnotes.substack.com/p/inside-the-machine-the-anatomy-of\" target=\"_blank\" rel=\"noopener\"\u003ehttps://mlnotes.substack.com/p/inside-the-machine-the-anatomy-of\u003c/a\u003e",
+      "date": "2026-06-12T06:40:37Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7150,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
     }
   ],
   "last_updated": 0
