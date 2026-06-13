@@ -3,253 +3,17 @@
     "id": 0,
     "title": "Matin SenPai",
     "username": "matinsenpaii",
-    "photo_url": "https://cdn1.telesco.pe/file/kiVMhMaXnZFnhFwaqhaHVZYf9pwrYKLUYmlc0hAo7_Chg1UQbkJXo9-HUyB3xz36IMuSerZFWp6sIGTKmIsUr0UykXpvRUSOooG8nY22wn_rOOi-p4AhJPUbZ6yFP8G69WEG3iUPa3kuFt-au6NYVZ7zAETe5JgbaydMQX0uYnd605tIEQ0mCh2eGkTdiVB0gF5Gh9XNUu8L1b1OItf-CNHtrCEfhiyUV0SCbQJLv6cliIwkbEPGHqtJpb3KtsnDEG95_V2Ww1xCMnSev6-oVgz1tH_ouv0pIz5X3jpL1kRMm419aNb1PIIDkMAaRYkwGTboYurNxAp1AC8SwNCEzg.jpg",
+    "photo_url": "https://cdn1.telesco.pe/file/YKo6AFRoj0aOt4sCbPUdMWOx41gQCgxM3OQdkrEY911FcgXMgL6cO9bsgrcdq8HKr_LZyZAbbm2NReDyBlD3-wosWu6LFcybsO83YAuBqTczPialhkHtUTSwucaX2A2k0HNMjItuq1Vrrww4RCH0gIr1TKk1lt_qQKlnjP6NseHLhKyVh1wf5H0e8J9da0pMdf4e3RSBbbAGKZCLsb-aHrzii0t8z5bGPQo2uhPkzkRp4Vb_vowvDv_64YyqBCWszNKd7MJDDK2dIRG81oq9DGzgcRLPe5DD_4q2WlBp1oxQ1hm2r8s-YPGmZ20kRSH2ZvsYBal0rj3uTbLhOJ1h-Q.jpg",
     "description": "درود! متین هستم و کامپیوتر رو دوست دارم! در حال یادگیری هستم و چیزهایی که یاد میگیرم رو سعی می‌کنم به شما هم یاد بدم اگر به دردتون بخوره =)\n\n•YouTube:\nhttp://www.youtube.com/@Matin_SenPai\n\n•Github:\nhttps://github.com/MatinSenPai"
   },
   "posts": [
-    {
-      "id": 3808,
-      "message": "\u003ca href=\"https://github.com/patterniha/Serverless-for-Iran\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/patterniha/Serverless-for-Iran\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e* دسترسی مستقیم و بدون واسطه و با حداکثر سرعت به تقریبا تمام سرویس‌ها و وبسایت‌ها (به جز تلگرام)\u003cbr/\u003e\u003cbr/\u003e///\u003cbr/\u003e\u003cbr/\u003e* حتما باید از Xray-core \u0026gt;= 26.6.1 استفاده کنید (v2rayNG \u0026gt;= 2.2.3)\u003cbr/\u003e\u003cbr/\u003e* کافی است لینک subscription را وارد برنامه v2rayN/v2rayNG کنید:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://raw.githubusercontent.com/patterniha/Serverless-for-Iran/refs/heads/main/Subscription/Serverless-for-Iran.json\" target=\"_blank\" rel=\"noopener\"\u003ehttps://raw.githubusercontent.com/patterniha/Serverless-for-Iran/refs/heads/main/Subscription/Serverless-for-Iran.json\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e* نکات استفاده رو حتما مطالعه کنید.",
-      "date": "2026-06-11T20:22:49Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 38100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 3809,
-      "message": "نکات استفاده",
-      "date": "2026-06-11T20:43:04Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 46800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/m2fEVmo9hNiZrtXXTjXAr4HEO38ONnttsTQXYDWUq_IB6qbL4Kg1bkbUxZj0o6sg1vcaq-y5E1w1X_9_FB-fSJVOD3fcZbs8b5-1gdHHYC_I39rlC9LdswhxzjAWdZqN1mIbrikl3BGx_unMxn8RJ_p1_04GckNRqvwN4TuiZ0k6JpCzibEB2EYOw4DHPwsoBYJ-tBT26glbb9uXe68Zdtdz70VfGJRpojr4gZpYBJbue5z_s3u_SW76nfrhIiSXnoQBnGvzPg1bi_0Z1CkSRmE8HurBDZM-zrcwsmA1Hj3xLss1argL8cxRcSzV-6P5sNTTcAp9DT1XfXxp17JvaA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 3811,
-      "message": "دوستان، روی اپراتورهای متفاوت این رو تست کنید. منتها من خودم ترجیح میدم با \u003ca href=\"https://youtu.be/2otJfXgNWCM\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eکانفیگ های پنل Edge ام\u003c/a\u003e که با گوشی ساختم وصل بشم. راحتتر، بی‌دردسر، بدون آیپی ایران",
-      "date": "2026-06-11T21:44:50Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 45800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 3813,
-      "message": "بله شما می‌تونید دامنه و سرور خارج رو از سایت‌های ایرانی هم بخرید، اما چندتا نکته وجود داره:\u003cbr/\u003e۱- احراز هویت سایت‌های ایرانی کلا جالب نیست و خب این ریسک رو باید در نظر داشته باشید\u003cbr/\u003e۲- توی شرایط قطعی، فروش دامنه و سرور همه‌ی این سایت‌ها میره روی هوا\u003cbr/\u003e۳- شاید عجیب باشه شما اگر از سایت‌هایی مثل netlen و با کریپتو خرید کنی دامین+سرور رو، شاید ۸۰۰ هزار تومن(با کارمزد و همه‌چیش) پات بیفته. اما همین دوتا رو از سایت ایرانی بخری زیر 1 تومن نیست",
-      "date": "2026-06-12T03:31:20Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 44600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/DxnQgrKsNoVY8xlyCjmldVRWT7mEv8w8I83ErHHFcFvv6sKGtglEw4-lgR0SaPTeFL6Hmx2t4OzkIB8WqKIQIeo6sWh8Qv6jDDuzpEBYOcz5dIYWMa__kRGuhDUVcYt20r8xsehLOU6hVU7V8YTzg3swtOVRZnIcwaq3asgbxAfKMNCE6nAL1DukIYXrE6H0JtaUb-S2I-APLV6UZOtA8hmVVwNiWVVW0hunWd7a8sAWN8XnXO3W5TA3e7RAn9qDW7Qd3OoQmwvhRFg8qe7Co1K2VSQi9kv2Ec-n8G3HprffW6wBdA3NfjX3d5D9UN1PjQjF9N75LGkw3Ko0j_hq7Q.jpg"
-        }
-      ]
-    },
-    {
-      "id": 3814,
-      "message": "‏این روزا اسم Agent Harness رو زیاد میشنویم، ولی بیاید ببینیم واقعا چیه و به چه درد میخوره!\u003cbr/\u003e\u003cbr/\u003eهمونطور که میدونیم context window مدل‌ها محدوده و اگه به صورت کارآمد ازش استفاده نشه، خیلی سریع پر میشه و مدل مجبوره برای ادامه، یک دور summarization انجام بده.\u003cbr/\u003e\u003cbr/\u003eبعد از چند دور summarize کردن، نهایتا بخشی از دیتای مهم از بین میره و تسک به صورت کامل انجام نمیشه! پس اومدیم یک سری تکنیک پیاده کردیم مثل تقسیم کار بین sub-agentها تا از پر شدن سریع کانتکس اصلی جلوگیری کنیم.\u003cbr/\u003e\u003cbr/\u003eبعد این ایده مطرح شد که بیایم هدف نهایی (PRD) رو تعریف کنیم و اون رو به تعداد زیادی sub-task تقسیم کنیم، بعد مدل رو در یک loop بندازیم که با هر بار اجرا، یک context و یک prompt جدید داشته باشه و بعد از هر iteration چک کنیم که تسک به صورت کامل انجام شده، و در غیر اینصورت چرخه رو دوباره تکرار کنیم!\u003cbr/\u003e\u003cbr/\u003eدر واقع به جای اینکه برای اتمام تسک به مدل اعتماد کنیم، ما در یک لایه بالاتر این رو validate میکنیم و اجینتِ تنبل رو harness می‌کنیم :))\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5470060791883374114\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8D.png\u0026#39;)\"\u003e\u003cb\u003e✍️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://x.com/i/status/2065021912728633357\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eAmir\u003c/a\u003e",
-      "date": "2026-06-12T05:37:05Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 45300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/mSLhE1Kudpt4xr_vyw_cqi6JanSUBk7T4GPAtDrZhMJ5xZl9ZZ4m0VttsviO-muthbNzjQkLdWOqxDJ-2Ofk9gSxaIX54x-2x-oWDqKVXJZKLWpBU-GsOECxDDkeGDJHV93UF7oX8FpPB3fNzBi4T7-XmdBpBN8KUQwMSA_nSWZlpUSDObC377_0SR2vM7bLAi59XAONP1MfwGWrmx8EKdLiHuXRw0KoCk00j6TU-CacMlLtaPgHEqPdQNksZ7h6Ra8d5l2wHcUSza09VC7jE41-xHvQk_mRJMrXWkUYx482TsuTcYMOZK7-XHkvUIT98yGnE_WbtTk-9Rl1EPet5g.jpg"
-        }
-      ]
-    },
-    {
-      "id": 3815,
-      "message": "جناب \u003ca href=\"https://x.com/i/status/2063812584893997492\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eMehdi Allahyari\u003c/a\u003e هم دوتا بلاگ حول این موضوع نوشتن:\u003cbr/\u003e1- \u003ca href=\"https://mlnotes.substack.com/p/the-harness-beats-the-model-demystifying\" target=\"_blank\" rel=\"noopener\"\u003ehttps://mlnotes.substack.com/p/the-harness-beats-the-model-demystifying\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e2- \u003ca href=\"https://mlnotes.substack.com/p/inside-the-machine-the-anatomy-of\" target=\"_blank\" rel=\"noopener\"\u003ehttps://mlnotes.substack.com/p/inside-the-machine-the-anatomy-of\u003c/a\u003e",
-      "date": "2026-06-12T06:40:37Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 43300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 3816,
-      "message": "فیگما یه اکستنشن کروم منتشر کرده(فعلا برای کاربرای پلن پرو) که با رفتن توی اکثر وبسایت‌ها، می‌تونید با یه کلیک، تمام اون صفحه‌ی وبسایت رو به شکل فایل قابل ادیت فیگما دریافت کنید.\u003cbr/\u003eبرام جالبه که سر بحث کپی‌رایت و اینا کسی بهش چیزی نگفته هنوز\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9881.png\u0026#39;)\"\u003e\u003cb\u003e😁\u003c/b\u003e\u003c/i\u003e اما خب گویا هنوز با چنگ و دندون قصد دارن نگه دارن اکوسیستم فیگما رو بعد از اون سقوط سنگین سر Claude Design\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-06-12T08:19:03Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 43500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/eD02ThL1x-sEuG7HMVKhL7DPHNkohhkbEVAOhfzZn9MFQrFaKHYscV1MFRs-3S9hhc8nY7IKXQLJQ9oAlyBgujLtjNpN6VkNMnROVOJWRwLZI7UurjatKJ2ihj1Ghw0OfDbDWHgSwwmnfWwyirPpAfI5yszA2WCb6xA1fS41afASwsln5OyHunndEQjlKRnqZ_EIE7hD8KLlqhtCD1Gi5O-3Tpn2rW7mJPJ7WGaFmfb_pbZL0KOLx-GXQGw7C4dtpMUYDRRJEQq_afCAp31U4RI6DMhNB5rUc5oDIphRTnSWUqzYd4nRFPanX4nlZL7d-V887sWJwm6GhVFsnGZJHw",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 3817,
-      "message": "\u003ctg-emoji emoji-id=\"5812037770301938686\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8DB7.png\u0026#39;)\"\u003e\u003cb\u003e🍷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eدرود به همه رفقا\u003cbr/\u003eابزاری که امروز معرفی میکنم...\u003cbr/\u003eداخل این سایت میتونید تمام ip های مربوط و بنا بر نت خودتون چه برای ورکر و کلودفلر یا شیر و خورشید اسکن کنید\u003ctg-emoji emoji-id=\"5379748062124056162\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eویژگی ها:\u003ctg-emoji emoji-id=\"5312536423851630001\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A1.png\u0026#39;)\"\u003e\u003cb\u003e💡\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003eاسکن راحت و سریع و دقیق\u003cbr/\u003eرابطه کاربری خوب برا همه سیستم ها\u003cbr/\u003eداشتن ip بیشتر cdn ها\u003cbr/\u003e\u003c/blockquote\u003eلینک سایت:\u003ctg-emoji emoji-id=\"5978787831164704530\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003ca href=\"https://cdn-scanner-pro.vercel.app/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://cdn-scanner-pro.vercel.app/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/mehdisedighinasab\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eتوسعه دهنده\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/xsfilterrnet\" target=\"_blank\"\u003e@xsfilterrnet\u003c/a\u003e \u003ctg-emoji emoji-id=\"5053169761232356354\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
-      "date": "2026-06-12T08:58:03Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 36600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 3818,
-      "message": "یه ابزار باحال آنلاین پیدا کردم: یه عکس می‌دی بهش، بهت گرادینت میده با کلی تنظیمات.\u003cbr/\u003eبرای وقتایی که دنبال یه بک‌گراند یا پلت رنگی هماهنگ با یه تصویری، عالیه.\u003cbr/\u003e\u003cbr/\u003eتو مرورگر کار می‌کنه و رایگانه \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e \u003ca href=\"http://photogradient.com/\" target=\"_blank\" rel=\"noopener\"\u003ephotogradient.com\u003c/a\u003e‎\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5470060791883374114\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8D.png\u0026#39;)\"\u003e\u003cb\u003e✍️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://x.com/i/status/2065350074960413010\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eReza\u003c/a\u003e",
-      "date": "2026-06-12T10:48:11Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 43700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/KoGsYfD_37YFMty__dTc6lcRYgPhgBaEWUUGifWNtsikEFU-6gxOU18IliockCKoF2UaZEalNMceApRL0MWR4I16sozIwWA64j_8bd4Y4iYM-GZxIHWYUWtFdk3WziU1755Ldhceuuys-cJDcPUamVbzUl6cGFUM2mGer6ECQuBgJFWXpK0fooKU30HReTyThAWpqzqCucjYldL4zBdYvrvjSM3cZrRfS2osXmSy6ibqzZv0VRZ9bYdLSS9XB5AG7-KPIMTWz0Eaqm8amWsorlURzpyF8tQJdhofBnJnI9yJQ2-8ZGcQI5P9B3cxY3va37Gu1di7Wveh9qfZ4lvnoQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 3819,
-      "message": "اگر از ChatGPT بپرسید که\u003cbr/\u003e\u003cblockquote\u003eیه عدد بین ۱ تا ۱۰۰ انتخاب کن\u003c/blockquote\u003e\u003cbr/\u003eبهتون به احتمال زیاد میگه 73! علتش رو هم از خودش پرسیدم:\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eوقتی کسی می‌گوید «یه عدد بین ۱ تا ۱۰۰ انتخاب کن»، من واقعاً عدد تصادفی تولید نمی‌کنم؛ بیشتر یک عدد دلخواه را انتخاب می‌کنم. بعضی عددها مثل ۷۳، ۳۷، ۴۲ یا ۶۹ به خاطر الگوهای آماری و داده‌های آموزشی بیشتر از بقیه به ذهن مدل می‌آیند.\u003cbr/\u003eجالب اینجاست که در آزمایش‌ها، وقتی از انسان‌ها می‌خواهند یک عدد «تصادفی» بین ۱ تا ۱۰۰ بگویند، عدد ۳۷ بیش از حد انتظار انتخاب می‌شود. مغز آدم‌ها از اعداد خیلی گرد (مثل ۵۰) فرار می‌کند و به سمت اعدادی می‌رود که «تصادفی‌تر به نظر می‌رسند». من هم تا حدی همین سوگیری را دارم.\u003cbr/\u003eپس اگر چند نفر قبلاً همین سؤال را پرسیده باشند، کاملاً ممکن است من دوباره ۷۳ را گفته باشم\u003c/blockquote\u003e\u003cbr/\u003eامروز توی توییتر اینو دیده بودم و واسم جالب بود علتش",
-      "date": "2026-06-12T12:05:24Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 43900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/OdEYH3KtvvnEdio4kw49JwcfN5hujKMD3OrX_tl3rIZwHXeresM4HCRrLYdhGp_ckaDAmflrVZU87Ak35zCN2G3k185Y1bEL6NIR2cKoBZ-sC4Nsj7FpG6d2cEiVlA6ITGGiueGUPFzxMonX_8R5BEhBfoFVDKwjlm6d0pWNL6kfqvMt9uAEUpiaVU2Hx9MolbeYiobUUTY3sGnWAvPyUbOukYKSCpEPmQDuoPPLMCPWGzDS3JXiZsYqmXyH5WmY9jvc7pZxXVp68alhTwbOKnAvq1AUkkgKN901FVFLFyu5iO26aDjgm-wSVtLK2WhjnOT_NfW8YrPV6AvEU8oa1w.jpg"
-        }
-      ]
-    },
-    {
-      "id": 3824,
-      "message": "\u003cb\u003eشیائومی از MiMo Code رونمایی کرد\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eتوی این مجله‌های زرد دنیای AI بهش لقب «قاتل Claude Code و OpenCode» رو دادن؛ ولی بذارید واقع‌بین باشیم — یه سری ویژگی‌های جذاب داره، اما قاتل این دو تا عزیز دل نیست \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9881.png\u0026#39;)\"\u003e\u003cb\u003e😁\u003c/b\u003e\u003c/i\u003e (مخصوصاً که خودش \u003cb\u003eفورک OpenCode\u003c/b\u003e هست!).\u003cbr/\u003e\u003cbr/\u003eخلاصه‌ی ماجرا: تیم MiMo شیائومی به‌تازگی، دو روز پیش (۱۰ ژوئن ۲۰۲۶) نسخه‌ی \u003cb\u003ev0.1.0\u003c/b\u003e از یه \u003cb\u003eAI coding agent اوپن‌سورس\u003c/b\u003e با لایسنس MIT منتشر کرده که توی ترمینال کار می‌کنه و برای پروژه‌های پیچیده و \u003cb\u003elong-horizon\u003c/b\u003e (بیش از ۲۰۰ مرحله) ساخته شده. این ابزار فقط کد نمی‌نویسه؛ می‌تونه دستور اجرا کنه، با Git کار کنه و در طول جلسات مختلف، درک عمیقی از پروژه‌ت رو حفظ کنه.\u003cbr/\u003e\u003cbr/\u003eاز اون‌جا که نسخه v0.1.0 هست، طبیعتاً یه پروژه‌ی اولیه و اکتشافیه — ولی معماری‌ش جدی و قابل‌بررسیه.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eویژگی‌های جذابش:\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e۱. حافظه ماندگار (Persistent Memory):\u003c/b\u003e برخلاف ابزارهای فعلی که فقط به context window مدل تکیه می‌کنن، اینجا یه subagent جداگانه (به اسم checkpoint-writer) توی پس‌زمینه کار می‌کنه و تصمیم‌ها و پیشرفت رو لحظه‌به‌لحظه ثبت می‌کنه. حافظه روی \u003cb\u003eSQLite FTS5\u003c/b\u003e (جست‌وجوی full-text) ذخیره می‌شه و توی فایل‌هایی مثل \u003ccode\u003eMEMORY.md\u003c/code\u003e، \u003ccode\u003echeckpoint.md\u003c/code\u003e و \u003ccode\u003etasks/\u0026lt;id\u0026gt;/progress.md\u003c/code\u003e نگه‌داری می‌شه. وقتی context پر می‌شه، خودش از روی آخرین checkpoint بازسازیش می‌کنه؛ یعنی دیگه نیازی نیست پروژه رو از اول یاد بگیره.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e۲. ویژگی Dream و Distill (خودتکاملی):\u003c/b\u003e دستور \u003ccode\u003e/dream\u003c/code\u003e به راحتی جلسات اخیر رو اسکن می‌کنه، دانش مهم رو به حافظه پروژه منتقل می‌کنه و موارد قدیمی رو حذف می‌کنه. دستور \u003ccode\u003e/distill\u003c/code\u003e هم کارهای تکراری رو پیدا می‌کنه و تبدیلشون می‌کنه به skill یا command قابل‌استفاده مجدد. هر چی بیشتر کار کنی، بهتر «پروژه‌ی شما رو می‌شناسه».\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e۳. قابلیت Max Mode (آزمایشی):\u003c/b\u003e چند راه‌حل موازی تولید می‌کنه (best-of-N) و با یه مدل داور بهترین رو انتخاب می‌کنه. که با \u003ccode\u003eexperimental.maxMode\u003c/code\u003e توی فایل کانفیگ می‌تونید فعالش کنید.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e۴. قابلیت Goal Mode:\u003c/b\u003e با دستور \u003ccode\u003e/goal\u003c/code\u003e یه شرط توقف تعیین می‌کنی؛ وقتی agent می‌خواد متوقف بشه، یه \u003cb\u003eمدل داور مستقل\u003c/b\u003e چک می‌کنه که واقعاً شرط برآورده شده یا نه — در نتیجه جلوی توقف زودهنگام و خوش‌بینانه رو می‌گیره.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e۵. ویژگی Compose Mode:\u003c/b\u003e با زدن کلید Tab فعال می‌شه و یه workflow ساختاریافته برای توسعه مبتنی بر spec ارائه می‌ده — با skillهای داخلی برای planning، اجرا، code review، TDD، دیباگ و merge. کل چرخه از spec تا کد نهایی.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e۶. ورودی صوتی، Git و Multimodal:\u003c/b\u003e ورودی صوتی real-time با \u003ccode\u003e/voice\u003c/code\u003e (بر پایه MiMo ASR و TenVAD، مخصوص کاربران لاگین‌شده)؛ مستقیم با Git پروژه‌ت کار می‌کنه و multimodal هم هست.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e۷. سازگار با Claude Code:\u003c/b\u003e authentication، skillها، MCP serverها و دستورهای قبلی رو توی یه مرحله import می‌کنه از پروژه‌ای که داشتید با Claude می‌زدید.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e۸. انعطاف‌پذیری مدل:\u003c/b\u003e MiMo Auto به‌صورت \u003cb\u003eرایگان(1 میلیون توکن اگز اشتباه نکنم) برای مدت محدود\u003c/b\u003e و بدون کانفیگ در دسترسه، ولی خودش هم از هر API سازگار با OpenAI و prov/erهایی مثل Anthropic، DeepSeek، Kimi و GLM هم پشتیبانی می‌کنه — یعنی vendor lock-in نداریم.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eنتیجه؟\u003c/b\u003e طبق ادعای شیائومی، توی بنچمارک‌های SWE-Bench Pro و Terminal Bench 2 (به‌ترتیب ۶۲٪ و ۷۳٪)، با همون مدل پایه حدوداً \u003cb\u003e۵ درصد\u003c/b\u003e از Claude Code جلوتره(که هنوز بعید میدونم. به چینی‌ها اعتماد ندارم). اما می‌گن تفاوت واقعی‌ش جایی خودش رو نشون می‌ده که کار طولانی و چندمرحله‌ای باشه — نه «له کردن»، ولی برتری معناداری توی long-horizon.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eنحوه استفاده (خیلی ساده):\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e۱. نصب یک‌خطی (Mac/Linux):\u003c/b\u003e\u003cbr/\u003e\u003cpre\u003ecurl -fsSL https://mimo.xiaomi.com/install | bash\u003c/pre\u003e\u003cbr/\u003e(بهترین تجربه با iTerm یا ترمینال VSCode)\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eویندوز:\u003c/b\u003e\u003cbr/\u003e\u003cpre\u003enpm install -g @mimo-ai/cli\u003c/pre\u003e\u003cbr/\u003e\u003cb\u003e۲. اولین اجرا:\u003c/b\u003e خودش راهنمایی می‌کنه — MiMo Auto (رایگان) رو انتخاب می‌کنیم، با حساب شیائومی لاگین می‌کنیم، از Claude Code Import می‌کنیم تنظیمات و... رو، یا خودمون می‌سازیم.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e۳.\u003c/b\u003e می‌ریم تو پروژه و کار رو بهش می‌سپریم (با زدن Tab بین agentهای build / plan / compose سوییچ می‌کنیم).\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eلینک‌ها:\u003c/b\u003e\u003cbr/\u003e- گیت‌هاب: \u003ccode\u003egithub.com/XiaomiMiMo/MiMo-Code\u003c/code\u003e\u003cbr/\u003e- سایت: \u003ccode\u003emimo.xiaomi.com/en/mimocode\u003c/code\u003e\u003cbr/\u003e- بلاگ فنی (درباره long-horizon): \u003ccode\u003emimo.xiaomi.com/en/blog/mimo-code-long-horizon\u003c/code\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-06-12T16:03:52Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 40100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/SukYsMasXIOiwVcVwbOdNrEQSRSWzVpEJgrEEI9RYsyrAyPNv9wtcgOAb4BEiB2DRupFk4BuopGKBBtuPFi-4xsdH0rAoihhZto0OKgio3WZUQuGYoSU86l_z0omrgXBlkKjzmy2OMi9R1VIgpCGelzFK0yeXx8oLaSUFX8zsfZ7HSt6nUT98YAobVC-7_jESwz0xTeRPn7s2zv41DsinuF5UGApuq0qcnSikw154iY-rYhRHFEQA5VAWK8oerRSQRSBrPB_8Q3NSXZz1A0b1IJ6Sm5TLSpyR7J3AITsdxd5onU3p1HxzfbdMCxtLbCUzHg_Zy-aZCMWQzgW-t3Z8A.jpg"
-        }
-      ]
-    },
-    {
-      "id": 3825,
-      "message": "اگر مشکل باز نشدن توییتر با پنل BPB دارید، همونطور که توی \u003ca href=\"https://youtu.be/7G9Fjhe_NxM\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eویدئوی تنظیماتش\u003c/a\u003e یاد دادم، NAT64 یا ProxyIP ست کنید. اگر باز هم نشد، صرفا کانفیگتون رو عوض کنید با چندتا کانفیگ تست کنید، درست میشه.\u003cbr/\u003eproxy chain هم صد درصد درستش می‌کنه.",
-      "date": "2026-06-12T17:45:18Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 39700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 3827,
-      "message": "یکی از بچه‌های توییتر، جواب خوبی گرفته بود از MiMo",
-      "date": "2026-06-12T20:36:16Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 34700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/WMsghahcpFADXQYSPt7TcGiNgWKX4JBDqC-_2-_wdKY03d_7GFNEITLJqp2FFOcilZP77GRi9wH9f1VGtxjRO6tvkZIUHeMcetWlqWbUeDuK4VdsL2L1wk4I7QghKhfxT3781Zd2pQ9E8F4ZVcEXpTwguuJ2iItgUwG_nPMG_JR3F3TSUKhKfJeu1aQg2T88zqFFKVf2KRbaa-22Oo6vgiAHa3I7r382NlQhPi9ndpm_b7VBwAiuahyzzVIdHYEvW0lN5jYkTyvFY0xq9CRCJnoeuhPLFM5TX5wEremTlp4JVslrHHbkqb90XM4ciLXWebAK2mIE7k2nNmWUhMd0dw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 3828,
-      "message": "کلا فکر کنم ساعت از ۱۲ میگذره دکمه‌ی بمبارونشون روی سیریک گیر می‌کنه",
-      "date": "2026-06-12T20:42:15Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 34000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 3829,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e \u003cb\u003eسا\u003c/b\u003eخت کانفیگ Amnezia VPN\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e• صبرکنید ای پی ها رو لود کنه\u003cbr/\u003e• بعد یکی انتخاب کنید\u003cbr/\u003e• تیک فعال سازی پارامترهای امنزیا 1.5 حتما بزنید\u003cbr/\u003e• بزنید روی ساخت کانفیگ Amneziawg\u003cbr/\u003e• دانلود کنید وارد کنید داخل Amnezia VPN\u003cbr/\u003e\u003cbr/\u003e• میتونیدم کانفیگو کپی کنید + بزنید بعد insert بزنید کانفیگ اضافه بشه\u003c/blockquote\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9FA1.png\u0026#39;)\"\u003e\u003cb\u003e🟡\u003c/b\u003e\u003c/i\u003e فعلا روی ایرانسل \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92AF.png\u0026#39;)\"\u003e\u003cb\u003e💯\u003c/b\u003e\u003c/i\u003e جوابه(همراه اول ،مخابرات،سامانعلی)\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938D.png\u0026#39;)\"\u003e\u003cb\u003e📍\u003c/b\u003e\u003c/i\u003eای پی جدید هم اضافه می‌کنم\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://darknessshade.github.io/Amnezia-VPN-Config/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://darknessshade.github.io/Amnezia-VPN-Config/\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://t.me/ConfigWireguard\" target=\"_blank\"\u003e@ConfigWireguard\u003c/a\u003e\u003c/blockquote\u003e",
-      "date": "2026-06-12T21:45:33Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/n0EHU-DStOzkyXEqxfEX3GD-LhEWA27KyJ8Ez_SEerXZN_GMXqDcjPVPKfgzhfRh3RgNB4R0WVgVl3OUbRGEIBMQ8zN19akcFLt-4zr7HNo8QurpsHJKAZ20clcya57fM9Uc3od5IiNnXy4563R-npzZcdrYiaTqc-WGI1-517TTsnWeFrE2_QHKnWlG74QOEOtfcsA7IBVHp7LrMnVfNbx8R-8iN3xSYBd2SnfA4tpcaXmvTZOW1B1QGr6cocVt5dfM2afavKZWbFhe-Av1VV75Gx238HEhh97x0oVZ2bYotmKAZLrTKO20IBBUPwIA79N6_4nJ9_PXS2N7JjxB2Q",
-          "width": 720
-        }
-      ]
-    },
     {
       "id": 3830,
       "message": "من شرایط ضبط نداشتم دوستان. یه مشکلی هم برای لپ تاپم پیش اومده که باید بدم تعمیر و ممکنه کلا مادربوردش بسوزه اگه روشن کنم ترجیح میدم ریسک نکنم چون دیگه پول ندارم بخرم\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e تعمیر شد، آموزش‌هایی که قول داده بودم رو ضبط می‌کنم",
       "date": "2026-06-12T22:00:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28500,
+      "views": 33700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -261,7 +25,7 @@
       "date": "2026-06-12T22:25:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27300,
+      "views": 33400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -279,7 +43,7 @@
       "date": "2026-06-12T22:46:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25300,
+      "views": 32299,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -291,7 +55,7 @@
       "date": "2026-06-13T05:42:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11100,
+      "views": 23000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -309,7 +73,133 @@
       "date": "2026-06-13T05:54:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7880,
+      "views": 22400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 3835,
+      "message": "لپ تاپ اوکی شده\u003cbr/\u003eالان اومدم تست کردم MiMo رو و خوشگله\u003cbr/\u003eیه تست پرفورمنسی بریم باهاش روی SenPaiScanner",
+      "date": "2026-06-13T06:49:15Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 15800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/XcZfNruqNJPdVbio2p1NyFqzfvfQRkHa1TzKYRhoNIUae89IFe3dQsQ57lOUFz31GSc6rQ2OQXKEzLM-KTqpywJQ8gep1hH6bMOD27UCbcu_mHQyecC25V5XJIjLxc1T94Rr5_QL-0SDblTrWOFyWttRi5OqF9z2QwSDn6KjTo-j98L3K8XNB-nLqj1nMdiP7rNqC2gUPXa1Fl7W-KOkATwZa5uoPQzhlqQqWL28FifuYLbn7C0QII5sx-LElFgXNp8-V7DAsjFhztI4AItLGjmgmuYtFfLdewwecE7DkAYFU7X4KHg9O4DctFZhs2Kv9Q0p3ecctGwGzxiKZ6XunQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3836,
+      "message": "اومدم Cursor رو باز کردم\u003cbr/\u003eگفت پلن ماهانه‌ات تموم شده، بیا شارژ کن\u003cbr/\u003eمنم خیلی شیک چتش رو بستم\u003cbr/\u003eاز توی ترمینال mimo رو ران کردم\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A3.png\u0026#39;)\"\u003e\u003cb\u003e🤣\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A3.png\u0026#39;)\"\u003e\u003cb\u003e🤣\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eتا اینجا خیلی خوب عمل کرده. هم توی plan، هم توی تشخیص مشکل",
+      "date": "2026-06-13T07:12:46Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/ocOUc_GxG12C5VNjUSHi2wtJB3zUmV7a_BhC5YGSg243ql4Wxk3UDMmrUmvb9SIO6w3jc4wTxH_7EBeHwtnWCKy55FtZksbV0mmn6kARCcKxbSoUOLdDz1WNRQw2BOlW4io1ZXST4rt42L-3-H7uPMHU4fzfdMldAbCFptAxfRZ0xGNKmQXTcvzCQxK0H3AXwsGYBCSsJjENrkG77_X7lj68w4EcxKmAYOTg37asiQ4pdV1z6XgpG6VpEFKJSDKxYqAzrOqibkPJ2rJ4HeJ_noTHuz-iU8qL0g662JAfsds9vQ6y12zMwJUXwCmhQD2aAanRgjMftAqPqpCwmRdBww.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3837,
+      "message": "خب، دوستای من\u003cbr/\u003eهستید یه تست از اسکنر ورژن 0.7.0 بگیرید؟",
+      "date": "2026-06-13T07:20:55Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 11500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 3838,
+      "message": "v0.7.0",
+      "date": "2026-06-13T07:35:40Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9720,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 3845,
+      "message": "روی همراه اول، توی یه منطقه با فیلترینگ شدید جواب خوبی گرفتم خودم ازش",
+      "date": "2026-06-13T07:37:05Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9710,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 3846,
+      "message": "بچه‌ها من منتظر بازخوردتون هستما\u003cbr/\u003eچون برای خودم اوکی کار می‌کنه صرفا نمی‌خوام منتشرش کنم. نظر شما و عملکردش توی منطقه‌ی شما برام مهم‌تره خیلی",
+      "date": "2026-06-13T07:44:43Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7860,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 3847,
+      "message": "یه نکته‌ی خنده‌دار تر بگم این وسط\u003cbr/\u003eهنوز توی سایت‌هایی که api میدن از Fable 5 مثل \u003ca href=\"https://openrouter.ai/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://openrouter.ai/\u003c/a\u003e میتونید از این مدل استفاده کنید\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-06-13T07:48:00Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7220,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 3848,
+      "message": "یکی از دوستان خوب، لطف کرد و هسته‌ی اندروید و تمام چیزی که برای ورژن اندروید نیاز داریم اد کرده، صرفا منتظرم که خود اسکنر عملکردش به بهترین سطح برسه، اون موقع نسخه‌ی اندروید هم بیلد میگیرم",
+      "date": "2026-06-13T07:52:24Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5970,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/kQDgRA5ENPvojGumFw3LzlqbhIO2yDW5r3oVFk_U-AHYUz82ubHSoZM0QVz-dMjnbJTdfx5gz2yLqBpXlk88jnm5tPG3L37MwYr-2A69xP2DU3TZWyOXfNP5kqIn4WuNzXcW9XqUclxpYSz9ZLoLHFQk0hUAT2XgwaHsxxRswqPw0JEiFqBePcEWvR7OTcx6PIxy8-Dwp37m6MvZgavwFUdg8kpQkB7vMRbMnCR7Jol-bRZD57ywIYUPkKDNeJq5POiDOXodror1wRg3TyhasqnFPGe95iZiP8lwoHGLzLYHfy129sJk50mqcEOyu5RkVB3IE9Amvl05fa2Jzm7pjA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3849,
+      "message": "فیچر تست آپلود رو هم اضافه می‌کنم. در نهایت ورژن 0.7.1 منتشر خواهد شد",
+      "date": "2026-06-13T08:03:27Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2830,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
