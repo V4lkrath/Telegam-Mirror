@@ -8,24 +8,12 @@
   },
   "posts": [
     {
-      "id": 3862,
-      "message": "برای اندروید و ترموکس، کسایی که مشکل دارن طبق این آموزش دوستمون برن",
-      "date": "2026-06-13T12:05:04Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 40300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
       "id": 3863,
       "message": "برقا باز شروع کردن به رفتن؟ خیلی دیدم امروز توییتر وسط کد و گیم و ادیت و... برقشون رفته بود",
       "date": "2026-06-13T13:55:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 39100,
+      "views": 39500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -37,7 +25,7 @@
       "date": "2026-06-13T14:26:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 40700,
+      "views": 41200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -49,7 +37,7 @@
       "date": "2026-06-13T16:10:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 38800,
+      "views": 39200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -57,7 +45,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/DIIoKhab-VQVly9LmjObotOnhEgVeV9Ve4nhqlxK2K0LpbOdYrUodmch6gKXvp_hU8K9xzVp3VFq1HyHrr1CcrEnJ9ciOfsqoK42Rajn_Oh4sFC0NDfkGEtWMjgnenfAunaKod-kjT8xm520gnIKq80_wh-eFw2VxlCscMet5r1r21DbOaE9YjIxt7Px69ZSGqFDKCFRyERNY_eKdaKJGP-a__838rz8GBsSshH1pDx1FsvMUW2QX24gBpY2YqM9GyKwM1M1f1fGcZmBTW26KVSKT703Yahg7j06xGTKxanuQ3Z8wf5ag-yxo93NYfN1h9I7Dqrtz8de3V7XiV_nlA.jpg"
+          "url": "https://cdn1.telesco.pe/file/SJ32wbhzWwLpsw5U_apNxCeh1_-EUyn1E0uPiMQiAEb3dRjwaroEuJMTcu92ySVlIZQ1GklXx1UY8d4dobpPA_uS2h43ZsXxieq0wPgDGU-Ua8GFmZp5YcGmZmXPgYw9R7LPeYFu-11mVmgQoKIvZelgnxKNDeUq0TrVEcB-4nIxjilDofhCTkRu6_kVDqJ6kOP-N1rjK0vbmRtVeq52pO4S13aHKQ64WRd7nbHf808OGfQwzxxiQYnegYH08awF4mqZ4kPBOAm5ugS0Q2h7bJdLoAuoKqCXvPSrVTRkrtYrNbr_PgDJL4Syl-s_0Ghv5FoycE4Ik0uaC1s1k1hAAg.jpg"
         }
       ]
     },
@@ -67,7 +55,7 @@
       "date": "2026-06-13T22:08:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27000,
+      "views": 27500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -85,7 +73,7 @@
       "date": "2026-06-14T05:26:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 34200,
+      "views": 35200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -97,7 +85,7 @@
       "date": "2026-06-14T07:19:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31200,
+      "views": 32600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -109,7 +97,7 @@
       "date": "2026-06-14T07:19:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31100,
+      "views": 32500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -121,7 +109,7 @@
       "date": "2026-06-14T07:20:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31300,
+      "views": 32600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -133,7 +121,7 @@
       "date": "2026-06-14T07:21:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32700,
+      "views": 33800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -151,7 +139,7 @@
       "date": "2026-06-14T07:43:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32700,
+      "views": 33900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -173,7 +161,7 @@
       "date": "2026-06-14T08:46:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30900,
+      "views": 32700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -185,7 +173,7 @@
       "date": "2026-06-14T10:03:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27800,
+      "views": 30300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -203,7 +191,7 @@
       "date": "2026-06-14T12:21:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14700,
+      "views": 18300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -215,7 +203,7 @@
       "date": "2026-06-14T12:41:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17700,
+      "views": 23000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -224,6 +212,24 @@
         {
           "type": "photo",
           "url": "https://cdn1.telesco.pe/file/HWRksh3smWzgmmGeKk2ToJ0_Ukfk641lhgUM4aKv2A5ueeCg6v1aJCQY3anX-goIQI0x-7F4owzKFwTDVbQh4K_YFAWEMkXo1E3_SkQfntf16fqHg1KpuGOzm9QRpL1c9NDHtOfY8-dVKmKCPW6dy3S4eHUjWFX-7KdOXk2SxKDIW04KUgzKhLQs7zC_rf38grL2E_Z8t6bWOdEIMtdYcBwPzJopPi9QuMFFVR3MJVWcHkEZ2b50xUmKtV-JG-PY2T_jDGwXaPwragJxNxtnUAF3enUoPSdmmPLNYrgaGHxgEM68Bd-8PmRY_71WRl2Ou5Sv6hz23GOFvBnt8ZdVKg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3882,
+      "message": "اگر این ارور رو برای اسکنر یا هر پروژه‌ی دیگه‌ای می‌گیرید، ترموکس رو از گیتهاب نصب کنید؛ درست میشه\u003cbr/\u003e\u003ca href=\"https://github.com/termux/termux-app/releases\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/termux/termux-app/releases\u003c/a\u003e",
+      "date": "2026-06-14T15:16:17Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 10100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/LV2It6PnjfR3H0q6UB2r1Us-C3JhVrwxAELKkV-mVVk9fqLzqGcWy7EHPpRecKV4-_b7zy2qmgMsfeR-dlUEVvr7OFSYMVK0LMHmlCKapXJZosWtS4tPe66vJgMSQx5sHBLRQRB5oW7naxYhpU-7we85N5h804jurvb-s79-_URHorbNtRFIVz6RU-HOFi1nwlZa0Zpg-MYXcQfSbtAuaslPxZK-vfUE1u5EJ_oJhiMBtdZO6_Asbbz_J3U0H3qsHp3s-du3Yji1ZsLLINZOyUcHQwUiZGqkCfsax_9Jbu-II8_2bt_ZP6xcGvWY2bY5vEWTjN5FRWIEytAV6pIWYg.jpg"
         }
       ]
     }
