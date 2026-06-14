@@ -3,123 +3,17 @@
     "id": 0,
     "title": "Matin SenPai",
     "username": "matinsenpaii",
-    "photo_url": "https://cdn1.telesco.pe/file/YKo6AFRoj0aOt4sCbPUdMWOx41gQCgxM3OQdkrEY911FcgXMgL6cO9bsgrcdq8HKr_LZyZAbbm2NReDyBlD3-wosWu6LFcybsO83YAuBqTczPialhkHtUTSwucaX2A2k0HNMjItuq1Vrrww4RCH0gIr1TKk1lt_qQKlnjP6NseHLhKyVh1wf5H0e8J9da0pMdf4e3RSBbbAGKZCLsb-aHrzii0t8z5bGPQo2uhPkzkRp4Vb_vowvDv_64YyqBCWszNKd7MJDDK2dIRG81oq9DGzgcRLPe5DD_4q2WlBp1oxQ1hm2r8s-YPGmZ20kRSH2ZvsYBal0rj3uTbLhOJ1h-Q.jpg",
+    "photo_url": "https://cdn1.telesco.pe/file/onU4H_vRXl-lpDhDCNIRsdQ-ELrXrwjwqKqBAdvUJHGSaxT9Fx0jwhSQBFW82_fS4U5EuV96RJMef5HL40Y2bSwgLfIXTEdQQ43u5_jHXvEL6Y0HsIO-BxoG80GOfnu8Su0uHsQJCXUmUmtIDM6c10yItGrjykCVwUHceINS93zpJTRtC46MvNF7JNQ80f-rdSGmM0x_-HccEOPVa6y_6fE5IVdk5OSrcclQ-O1PK4Ven2k4mmJ5yDRLUf61e44sQ7wdCAxIAcVMBHhZidXhHZ03KCFS5onR2eoQv_pKWo65wrY_wXElxLdbm7CW1qBnb-ZuszgitMQibqjZ1NHk1g.jpg",
     "description": "درود! متین هستم و کامپیوتر رو دوست دارم! در حال یادگیری هستم و چیزهایی که یاد میگیرم رو سعی می‌کنم به شما هم یاد بدم اگر به دردتون بخوره =)\n\n•YouTube:\nhttp://www.youtube.com/@Matin_SenPai\n\n•Github:\nhttps://github.com/MatinSenPai"
   },
   "posts": [
-    {
-      "id": 3848,
-      "message": "یکی از دوستان خوب، لطف کرد و هسته‌ی اندروید و تمام چیزی که برای ورژن اندروید نیاز داریم اد کرده، صرفا منتظرم که خود اسکنر عملکردش به بهترین سطح برسه، اون موقع نسخه‌ی اندروید هم بیلد میگیرم",
-      "date": "2026-06-13T07:52:24Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/kQDgRA5ENPvojGumFw3LzlqbhIO2yDW5r3oVFk_U-AHYUz82ubHSoZM0QVz-dMjnbJTdfx5gz2yLqBpXlk88jnm5tPG3L37MwYr-2A69xP2DU3TZWyOXfNP5kqIn4WuNzXcW9XqUclxpYSz9ZLoLHFQk0hUAT2XgwaHsxxRswqPw0JEiFqBePcEWvR7OTcx6PIxy8-Dwp37m6MvZgavwFUdg8kpQkB7vMRbMnCR7Jol-bRZD57ywIYUPkKDNeJq5POiDOXodror1wRg3TyhasqnFPGe95iZiP8lwoHGLzLYHfy129sJk50mqcEOyu5RkVB3IE9Amvl05fa2Jzm7pjA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 3849,
-      "message": "فیچر تست آپلود رو هم اضافه می‌کنم. در نهایت ورژن 0.7.1 منتشر خواهد شد",
-      "date": "2026-06-13T08:03:27Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 3850,
-      "message": "بازخوردهای خوبی گرفت این ورژن که باعث خوشحالیه\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-06-13T08:21:06Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/txJXexkfrcW0fkSk-E0ScXGu1RbUPI0I9eVhJHmx-_vmOU-6ApNPckkf_pFjHLsXdlewnAk5pnjqMloaEVTSgR8Q496YEUT-k0lA69_ne0ac3_zo80NicHQUisDubydCd27CuXnHnRXLwIgRoPwadbk9BZNG3n-h_wjIPqdsf0Dyy4kBZ67rLjuVRVMKIv15mz6UqWIAIwIGOgWOwJCGTJIQn1fTtZ9reNeCHRf51M2Oguf0IxszsPS76NNMC7_x4-QezI1a6lWEZ8AL0h1dEKNyaPQnf6xdE8xgVq6PEsD4IuhtucLmFqsetZc-0e-0YMetFspioYiJphV0uCSzgA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 3851,
-      "message": "این هم مشکلی که خیلی از دوستان داشتن سر قطع شدن اسکن",
-      "date": "2026-06-13T08:24:28Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/GPf5KPPSj95SLEAig-7EK_W94Lov-Em4CSc0JfyfWVOZJUflx84OrTtQexbJtxnz7FfhugfaTPVYyeDBEvn9t85CCYr4Etg9r4hRJy6HWrFXUQZJ6xarfeFc63lIBd7jbNcf6t9r7mbWTooS2dqH1jCkzo3MPFXLoQp4hB06NpEekJxzNRfQhVd4JC7ou-ngAWB0dM3Jsg645y7vdvPi2F3cB55sEWwEibO6CpMIa3TgJxt2asPECKlDR_izylMGiW3-RzJh5Kxi_Ypglg6GkzZPN3itBgUUEZLnv4ogTcgGfiwXIJOuKA2_J3L3LotREIGGt3UwoKfybKoh2dN6nQ.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/bJv65Mq3Dh8hd89KLUD94v3I_Iy9rJn7JQvCBoY6JM0vaj11AS4L8vMcKi01Uayp_GmwjrHPFTGnesWQ4AeEDrtsibNRCiUmXtrpyx0Mw9IpQ4QLWZIkKgTFlHiMzxYrH3t2EAvRxFzEPvFIn5sFZxz6BDLMpe91PLx0KMqIWQ3XTQ9-rckIvHYfII_m55RQbAixCCjcbXybK9t2XgdCHuSg7JzX-J4jCEh_dp8pEQwTT_7Fo0ABSo7EBdBSNoC8dIbzS7h-hPOgt1RwUwaWjO1xbHEVDJXjqDnepBDV8OlFAAXW1PPioELpe7S3t1sN9gxetweCMVz3MPWoxoBulw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 3853,
-      "message": "هم پشتیبانی از Trojan و Vmess و Shadowsocks اضافه شده\u003cbr/\u003eهم تشخیص ISP\u003cbr/\u003eهم تست آپلود و شخصی‌سازی تست دانلود\u003cbr/\u003eهم WebSocket(که بهتره On بذارید)\u003cbr/\u003eهم هسته رو به کلی بازنویسی کردم\u003cbr/\u003e\u003cbr/\u003eو این به کوشش دوستان عزیز برنامه‌نویس دیگه هم بودش که اسمشون توی Release note میاد و contributer پروژه هستن. من شاید 20 درصد از این 10 هزار خط کد که اضافه شد توی این ورژن رو نوشته بودم",
-      "date": "2026-06-13T08:33:17Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 3854,
-      "message": "حقیقتا MiMo اگر پلن پولی بده، خودم اولین مشتریش هستم. توی تسک‌های متوسط Backend شاهکار کرد امروز\u003cbr/\u003eهم توی سرعت\u003cbr/\u003eهم توی دقت",
-      "date": "2026-06-13T08:39:22Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 46600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 3855,
-      "message": "دوستان، این شکلی میتونید به من پیام بدید:\u003cbr/\u003e\u003ca href=\"https://t.me/MatinSenPaii?direct\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/MatinSenPaii?direct\u003c/a\u003e\u003cbr/\u003eاما از اونجایی که دایرکت به شدت شلوغه، و من پیامها رو اسکرول می‌کنم پایین، ممکنه گاهی اوقات زده باشه سین شده، اما من نخوندم در واقع",
-      "date": "2026-06-13T08:43:29Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 45900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
     {
       "id": 3856,
       "message": "\u003cb\u003eورژن 0.7.1 از SenPaiScanner منتشر شد\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5474371208176737086\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5319227080955672287\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F988F.png\u0026#39;)\"\u003e\u003cb\u003e😏\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e پروتکل‌های جدید\u003c/b\u003e: پشتیبانی از \u003cb\u003eShadowsocks\u003c/b\u003e و \u003cb\u003eVMess\u003c/b\u003e اضافه شد — هر دو از فاز ۱ اسکن تا فاز ۲ xray کاملا کار می‌کنن.\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5472355270787079946\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA7AE.png\u0026#39;)\"\u003e\u003cb\u003e🧮\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e خروجی چندفرمتی\u003c/b\u003e: با زدن \u003ccode\u003ee\u003c/code\u003e بعد از فاز ۲ می‌تونید نتایج رو به سه فرمت صادر کنید:\u003cbr/\u003e1- لیست Subscription\u003cbr/\u003e2- Sing-Box JSON\u003cbr/\u003e3- Clash YAML\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5472423702501006989\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e تنظیمات سرعت\u003c/b\u003e: فیلتر حداقل سرعت، تست سرعت آپلود، آدرس سرعت‌سنج دلخواه، و سایز sample قابل تنظیم.\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5471981853445463256\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e ذخیره تنظیمات\u003c/b\u003e: تنظیمات اسکن ذخیره می‌شن و گزینه «retry last scan» هم اضافه شد.\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5388953246486269495\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939A.png\u0026#39;)\"\u003e\u003cb\u003e📚\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e پشتیبانی از CIDR\u003c/b\u003e: حالا می‌تونید توی \u003ccode\u003eips.txt\u003c/code\u003e، مستقیم رنج‌های \u003ccode\u003e/13\u003c/code\u003e و... بنویسید.\u003cbr/\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5471960722206366390\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B1.png\u0026#39;)\"\u003e\u003cb\u003e📱\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e \u003c/b\u003eاولین نسخه پیش‌نمایش \u003cb\u003eاپ اندروید\u003c/b\u003e با Kotlin و Jetpack Compose اضافه شد. معماری MVVM، تم‌بندی کامل، و ساخت خودکار APK از طریق CI/CD(هرچند CI/CD باید روش کار بشه هنوز).\u003cbr/\u003e\u003cbr/\u003eلینک دانلود آخرین نسخه: \u003ca href=\"https://github.com/MatinSenPai/SenPaiScanner/releases/tag/v0.7.1\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/MatinSenPai/SenPaiScanner/releases/tag/v0.7.1\u003c/a\u003e",
       "date": "2026-06-13T09:37:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 50100,
+      "views": 52200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -127,15 +21,15 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/WviA-vGSGVf5w_rqP58wb-Pmv9lEwZg9YTMSl9UZ7GIzAWPoEaGs1L4Br89Imldy1K0JhxUJbD0ypEZ_vTX-aHWszaLzvBgyHbaRfgyWfHLLJU2Pvrjc8kAIInwcQ7S7937_C7891MqvijXZSRDuau7AgoFAynFFJatcx6-XDN62ic3qQ0cPcXJ3aVNtZROETK9Uhh6K5-7fZQoLD-qwuSWZFkVo90Mq69MzBp88K1o_rk_1uBe9KR2PCN-KHyFGddgHx1EtiqGThlX7yRiNK5G6TH2IEwTEz1TMd7ModrBn1FRgJRGwNINhyZ1PSjbbQAsbONwwdISkH1VJe4YEbw.jpg"
+          "url": "https://cdn1.telesco.pe/file/ml8C2yGiB3n9Rconl0E-aDJaFQCBwAb8zokNVAeOiM13fGFU1gmlD15oirM4WdgVIfKbybbqfW5TLveH332Izyr7rTTQYtRu6ZPuvkrNyLNw-DP154TgNBavnFZuEoBvOIjPE9koamHTSoDGWR6XM7L4l3rfU4pauO-P9Eh2bGd0Wl871mGQos_Rzwz9enNmzmet0ORbcdwT1mEGiHpfnJGpHH_wkWn1KAkq9DKv8AK5W04hQW6J_aRmWho3o7WyS6z3RZ3Oj-yjZ-JcjKOQFSaYfoMwxvqLpV2yo_szQHkKoxv8chiMQTItHzFtOSCRzAokdXzGsbbFqcpHe9tJBQ.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/Zj58fJSUOfZrbPxY2PHT1JPC3Jk2CoGFXARKW3T3A0jy_EHKoGSGh3aeRR052Wl4WQksj9ySyre_97rD1DePHgqT92BtnY8lh6zjHgI7gby2cZngDC385GYfhVpxgltOr0pqFSbXl2kNGx0d02U2D3ShdaOUgRkPkRdn8aSpvQrPRpMhLcGVmEcK-0_sAfmQ7R3LoqlXIJ2vwx9eVOG1W9xWXekDjfxYDBMLROE-06oNLnGZlPWmGW4surXrdJXOHkKgPQZOfAZKPpRROOqVoolFbzbhEJTL7m2uKYidN0r45g-BCJCJMDdideiN4vgk-OEKh8CvOxEXh-P_qr0zFg.jpg"
+          "url": "https://cdn1.telesco.pe/file/oVm2eyq8-quIY224joUEDLHTXS-0lpub2MlDsC4Pv8732MoC1IIXKojr-4vTzgqsXa5m59QlPi5p-bnxr1Nd4Yghe_vjUWBo9kK7RL5N7yy_Y5ThOvi_azXRy64iVHuXKS7cfs5HYHWabxGrm1RVXyFvUX86vsar1ZemeHfQ1RaciEgT4RlG4-CkcgYX4s_qFmFpUnDA9ne-sjPSZPaK5H5RkhtvurgOegitoAVLETfC7SLRlUFBOvg3omPCaEXaaFlhYN1PDTAfgxTVhMfK7svfELmIuCAk8aF6c-8lbfrFzuGcwVaXBz9vccEmb13T1eXDyKnxeMl6bRZk3v8cKw.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/BfDlcRZdIPF8QLfg4NleJRs18LN0Ha2PysBcYEtAmMCTXGKPy2AXj2O2X2n_EaFmW2rVLpC5bZcizulm_MC4aLrjavdz48ffJMBXfGybM6TJdBhT5UtLXpPaNeTVEyiS3lh_U_Jvhx4-OUN52iRchrorNXOKenStZXhPpZXwyKsNdpA1i9Vscu4kX3WdiD4HnzqLkqDIbRNEebnHqx5E7s-i8aRmpkxy44EhHvooc9ZUnY9SZ5gh9HR1_eolCYhFzPGC6E8NjCD0FsL27nwZ1S766m7APgMD3sQTEqCvyVr8p2uUGSQFUn0VjvlDcxuJAUVQVjfr-QKxhoTOJ8b4aw.jpg"
+          "url": "https://cdn1.telesco.pe/file/OPFIMg8cdeRMzEvL2O0-r19KrS_4FpdFxjA1uDEC-set_dbLn1-4mgeVCnT69WycY1di9UKXIFD7hf6XTmz1lWnrF2XNAn2I98IovuN4sOZ7rERvHstWDztkQejaDAuvFzPFGIUoHhwRh1Vz7ySYL-gYiGHelGyCrfEDQVCp9Wb8Jk9dVjOKRHmoXQ3Tf0myh0jXppZrxzKysjnViV64Vkw0INxmC-NlnVrrn3ufxaU_6lzwpKhOmKg2U-aQE1pOl6GBj56rkFiDe4K2Xo4PulQsBTdcjKdyl_sEkxbzD5opWj61zLSFAx7UJrqtVibnS3wp3sQiSulJIW5CrAIzmw.jpg"
         }
       ]
     },
@@ -145,7 +39,7 @@
       "date": "2026-06-13T10:29:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 55100,
+      "views": 56800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -157,7 +51,7 @@
       "date": "2026-06-13T10:31:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 46900,
+      "views": 48800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -169,7 +63,7 @@
       "date": "2026-06-13T10:33:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 38300,
+      "views": 40100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -181,7 +75,7 @@
       "date": "2026-06-13T12:05:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 35800,
+      "views": 38200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -193,7 +87,7 @@
       "date": "2026-06-13T13:55:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 34300,
+      "views": 36900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -205,7 +99,7 @@
       "date": "2026-06-13T14:26:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 35300,
+      "views": 38400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -217,7 +111,7 @@
       "date": "2026-06-13T16:10:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33000,
+      "views": 36600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -235,7 +129,7 @@
       "date": "2026-06-13T22:08:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17400,
+      "views": 23800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -253,11 +147,117 @@
       "date": "2026-06-14T05:26:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12800,
+      "views": 27700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 3868,
+      "message": "من منتظرم که شرایطم استیبل بشه، حدودا ۶-۷ تا ایده‌ی خوب یادداشت کردم هم راجب AI و برنامه‌نویسی هم واسه اینترنت آزاد که واستون ویدئوش رو بسازم",
+      "date": "2026-06-14T07:19:07Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 22700,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 3869,
+      "message": "اما این وسط باید بگم که Claude Design، عجب UI+Prototype ای واسم زد. متاسفانه واسه‌ی استفاده ازش نیاز به اشتراک پرو دارید، منتها چیزی که ساخته خارق‌العادست",
+      "date": "2026-06-14T07:19:29Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 22800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 3870,
+      "message": "در این حد بگم که رفت فونت پولی ۵۹۹ هزار تومنی رو نمی‌دونم از کجا پیدا کرد و گذاشت توی پروژه\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A3.png\u0026#39;)\"\u003e\u003cb\u003e🤣\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A3.png\u0026#39;)\"\u003e\u003cb\u003e🤣\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A3.png\u0026#39;)\"\u003e\u003cb\u003e🤣\u003c/b\u003e\u003c/i\u003e اصلا یه کار عجیبی کرد",
+      "date": "2026-06-14T07:20:19Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 23100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 3871,
+      "message": "در این حد بگم که رفت فونت پولی ۵۹۹ هزار تومنی رو نمی‌دونم از کجا پیدا کرد و گذاشت توی پروژه\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A3.png\u0026#39;)\"\u003e\u003cb\u003e🤣\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A3.png\u0026#39;)\"\u003e\u003cb\u003e🤣\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A3.png\u0026#39;)\"\u003e\u003cb\u003e🤣\u003c/b\u003e\u003c/i\u003e اصلا یه کار عجیبی کرد",
+      "date": "2026-06-14T07:21:26Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 23900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/oLWK250yxEi7hWCVPGf9eaM4BZ2LdRsZ8mVSDKIP_UydX0at_tk7q3uj6Sv4FmKR0YXc0Ckt7ysw3hB-O8U8NyVvpb-AFpQjLgbP4vU3t7VHxrLDsRZ47UGJCELdWwsw-Z19aDvvBCWQzHSaywo3H7-Cm6OZYk0u512-bRuzTV-dNKbK4c7VwNJLY1Yb2j-om1OTXyM0_y6aXogMGWWB8hznJZs9UNvU1261hNOp_LdavNZRooSKk9qdSxaL75bSyhiYe-Qs1cI8cUViVAbnKPVrh2eY6K14aBzxG34dTGQSza1AFs_kNpY7VBPcgU1po_OPn3tEzFxKsrej_tQ0gg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3872,
+      "message": "فکر کنم کپی‌رایت برای کلاد شوخی‌ای بیش نیست. اون از قابلیت اکستنشنش که کل UI و المنت‌های صفحه وب رو درجا کپی میکرد، اینم از این",
+      "date": "2026-06-14T07:43:46Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 22300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/hioOGdoQaickGs1OD8K_FdnzmlRW-M32C7MTFjwtvACrgxqt76GF_s6R4lqLiS6zyfdCUT9EoM5W_RxEv6PB8TFT4x_WGKs2F8DBbl_IbxwfFNZSi8itaUtBnAfXpjHC04uNnb1_Rz7rfeKEsz8j4Lh8cmN74r_ejWlIlsVmGEC8zMNL9e8Z7y1-nf0ChWJFm-5LZ8RBlCGeG6t9UBOseR95Ww9ppufNoPYdkuao03v0LSPNrKiLZx9560iHyj_2_c26OkR40gisnQdg6o8XJOKY2AKuOOvVnqzc4PfSVu-qur1UU60CkhlwI8WBjXRzdui_P5j2z6EOwjfzwxmu6w.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/NQwRTCwbVP7hGJQSYAc2J4dg-lpB_OFVsScdinu6Y6Ud-PBpn6THBsf5JYER7Bt0rfMddUBt-PaPP0goLwywMVcAnUp5GTzrOf-aBOZRcbRLk_o96ASKnee2oq0vCWPjinalnhymyQYzSP7h4W1QZM8gFWvfgxwJlG-yUbMnEPvY7DLkAAR-5vM2EH2ESBZ_XsJW1vLhW0Ot-XWuLx2EYNEYXHhvQw3yplGBABT5_HWmtLdvaoh5zheZxFyYIfryVkXBNe8HJLMHFwe61Mn6YDXXHJ17lconDiNwoDg1E6vh35ZlJVTjgY26OS5ek0FgRNKBz4FtYDHHL9JO-TxyOg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3874,
+      "message": "خب دوستان به نظر من اشتباه کردم و فونت وزیر متن هستش. مسئله اینجا بود که از من پرسید، گفتش چه ترکیبی بزنم؟ چندتا داشت، یکیش فونت مربع+یکان‌بخ بود. منم زدم همین و بعد دیدم اصلا پولیه. اما الان انگار وزیر متن انتخاب کرده\u003cbr/\u003eنکته اینجاست که چرا اصلا فونت‌های پولی و غیررایگان باید بهشون اشاره کنه یا دروغ بگه\u003ctg-emoji emoji-id=\"5472248119942979457\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA494.png\u0026#39;)\"\u003e\u003cb\u003e🤔\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-06-14T08:46:45Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 17000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 3875,
+      "message": "فکرشو نمی‌کردم یه روزی قالب وردپرس رو هم بگن بیاید اقساطی بخرید",
+      "date": "2026-06-14T10:03:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5520,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/TmWcyj223ZVIg6g7kOOgTF1buHkQmTcUZB1RZg9mpK2APryWCRHjrmlEZdqqlMnR2FMviR8i3n7s1lViJBpe5pUhqfQDkVykXdTgcFiu7fr_29WzGuSSWyc68pse_H-kwM0uldJyI2ovZDGPVb2ISNhVMzsd1QVbFnXQpFqVcXZsnP5s4hI1LOxIaYgwsoMjsMgSNlc1i1o6ZS6PEgQmlm74rFTPDBkikvVw5w-IldVL-RqXbu-z3c4lo-gd3Lj5sP80vGSb0rK-qcnUmKLn_jhyB2zmzKxJchVeqhmmD9lzDD9iNmGEgtAcWqUVxKYnr_8ZHcUSTG90fc4TLrGgFw.jpg"
+        }
+      ]
     }
   ],
   "last_updated": 0
