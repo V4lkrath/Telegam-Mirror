@@ -3,89 +3,17 @@
     "id": 0,
     "title": "Matin SenPai",
     "username": "matinsenpaii",
-    "photo_url": "https://cdn1.telesco.pe/file/onU4H_vRXl-lpDhDCNIRsdQ-ELrXrwjwqKqBAdvUJHGSaxT9Fx0jwhSQBFW82_fS4U5EuV96RJMef5HL40Y2bSwgLfIXTEdQQ43u5_jHXvEL6Y0HsIO-BxoG80GOfnu8Su0uHsQJCXUmUmtIDM6c10yItGrjykCVwUHceINS93zpJTRtC46MvNF7JNQ80f-rdSGmM0x_-HccEOPVa6y_6fE5IVdk5OSrcclQ-O1PK4Ven2k4mmJ5yDRLUf61e44sQ7wdCAxIAcVMBHhZidXhHZ03KCFS5onR2eoQv_pKWo65wrY_wXElxLdbm7CW1qBnb-ZuszgitMQibqjZ1NHk1g.jpg",
+    "photo_url": "https://cdn1.telesco.pe/file/ojJa5YS8WSLLWqV4pRDB0udrcHGElLHofzh_GK7pSG561zOlWdutq8T0nwAzDOCQuF81FAxGo-2tcePdRE1gJA2WyQPzUGfU0G_4QifEI4u_GRlNeP2Q7TpqUl62tYPk6N5vheg1x84jXMRTTRe_o1_GXk4KQUFEdxAqB2HKoYsNXvLFniepmNZH0BMmqE8A-rY-aUHBfXPLuVBIOG1AOBPzpOagQyBZvpdAzHOyqVd75hMfw08lr2-6AI1WyFNhlzVaRdhqlSnKHusMxzB3VobOqQ-DHnkjILLPmEiaYzjSzA-_EePR_rMaNVySV0nlobhELfxtTwheFurkB0uYyw.jpg",
     "description": "درود! متین هستم و کامپیوتر رو دوست دارم! در حال یادگیری هستم و چیزهایی که یاد میگیرم رو سعی می‌کنم به شما هم یاد بدم اگر به دردتون بخوره =)\n\n•YouTube:\nhttp://www.youtube.com/@Matin_SenPai\n\n•Github:\nhttps://github.com/MatinSenPai"
   },
   "posts": [
-    {
-      "id": 3865,
-      "message": "رفقا به هیچ وجه روی کانفیگ Websocket معمولی سرور شخصیتون نباید اسکنر ران کنید. فقط روی Workerهاتون انجام بدید که ارزشی ندارن و ابیوز هم نمی‌خورن",
-      "date": "2026-06-13T16:10:54Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 40400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/SJ32wbhzWwLpsw5U_apNxCeh1_-EUyn1E0uPiMQiAEb3dRjwaroEuJMTcu92ySVlIZQ1GklXx1UY8d4dobpPA_uS2h43ZsXxieq0wPgDGU-Ua8GFmZp5YcGmZmXPgYw9R7LPeYFu-11mVmgQoKIvZelgnxKNDeUq0TrVEcB-4nIxjilDofhCTkRu6_kVDqJ6kOP-N1rjK0vbmRtVeq52pO4S13aHKQ64WRd7nbHf808OGfQwzxxiQYnegYH08awF4mqZ4kPBOAm5ugS0Q2h7bJdLoAuoKqCXvPSrVTRkrtYrNbr_PgDJL4Syl-s_0Ghv5FoycE4Ik0uaC1s1k1hAAg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 3866,
-      "message": "نسخه جدید دفید قراره قابلیت چت با رمزنگاری e2e داشته باشه؛\u003cbr/\u003e باهاش میشه ارتباط امن با خارج و داخل ایران داشت.\u003cbr/\u003e\u003cbr/\u003eکل این قابلیت با ریزالور ها کار‌ میکنه تا توی فیلترینگ و قطعی شدید هم وصل بمونه.\u003cbr/\u003e\u003cbr/\u003eطبق تست های من یک‌ سرور متوسط با ۸ گیگ رم و ۴ کور سی‌پی‌یو میتونه تا ۵ هزار کاربر انلاین رو هندل کنه!\u003cbr/\u003e اینجوری کار میکنه که هر کاربر یک اکانت رندم واسش ساخته میشه که توی سرور های مختلف ادرس اکانتش ثابت هست؛\u003cbr/\u003e ادرس اکانت شامل ۲۰ حرف انگلیسیه که هرکی این رو داشه باشه میتونه بهتون پیام بده.\u003cbr/\u003e\u003cbr/\u003e(سیستم اکانتینگش تقریبا شکل شبکه اتریوم هست، یعنی‌یک seed دارید که با اون یک اکانت ساخته میشه)\u003cbr/\u003e\u003cbr/\u003eکلاینت هر ۱۵ ثانیه به سرور هایی که بهش وصل هست درخواست میده و پیام های جدید رو میگیره و تقریبا برای ارسال یک پیام چند کلمه ای باید حدود ۴‌ کوئری دی ان اس کوچیک‌به سرور بفرسته!\u003cbr/\u003e\u003cbr/\u003eواسه اینکه به سرور ها فشار نیاد محدودیت های سختگیرانه گذاشتم، ولی همه این محدودیت ها توی سرور قابل تنظیم هست و اگر سرور شخصی راه بندازید میتونید محدودیت هارو کمتر کنید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://x.com/i/status/2065531715041239193\" target=\"_blank\" rel=\"noopener\"\u003ehttps://x.com/i/status/2065531715041239193\u003c/a\u003e",
-      "date": "2026-06-13T22:08:55Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/UOfI0HoTxapwcu432cuX3_WzlSo3Aep_vDSS978f9f93PpW9XcENQcWgIE2WeTQ17er8H-12oJU7x63nDBSIAj9WLnQy6e0koAPL2H1CS0LKdvX9S_REf0XT-CvPbsslYnH2LzmuhP077kij9nQz41DKI_Z43heGaYyv5NLIaGWfH6ZRTwLMEnwG8G9aqk_rbUTjklWJp3AIau0-lHpcelqZTSZZTNdktYLpKMWmmRiBRIi-N8fHvqPXmTYA8wx7uRm39d1TUoYgsi_F3RekabBIL_-CZh9RyBFLxD0pcbkNrv5bVxeeWARLYVlAe5kXjQC9ILMQZ_7X7gkoTWc7bA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 3867,
-      "message": "‏\u003cb\u003eبدافزارهایی که با ترساندن هوش مصنوعی پنهان می‌مانند!\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eتصور کنید یک سارق بعد از دزدی، یادداشتی آنقدر وحشتناک جلوی در خانه بگذارد که مامور پلیس بعد از خواندنش، با خود بگوید «بیخیال…» و اصلاً بازرسی را ادامه ندهد! پژوهشگران متوجه شده‌اند در موج تازه‌ای از حملات نرم‌افزاری، هکرها از ترفندی مشابه برای فریب دادن هوش مصنوعی استفاده می‌کنند؛ آن‌ها بدافزارهایی می‌سازند که بخشی از متن‌شان طوری نوشته شده که هوش مصنوعی از بررسی هرچه بیشتر صرف نظر می‌کند!\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote expandable=\"\"\u003eابزارهای هوش مصنوعی کنونی، ترمزهایی از پیش تعریف‌شده دارند. برای مثال اگر از آن‌ها راجع به نحوه‌ی ساخت «بدافزار»، «تسلیحات شیمیایی» یا «تسلیحات اتمی» سوال کنید، فوراً ترمزشان کشیده می‌شود و از پاسخ دادن طفره می‌روند. حالا هکرها متوجه شده‌اند که با افزودن این نوع از متون ممنوعه به بدافزارها یا نرم‌افزارهای معتبری که آلوده شده‌اند، می‌توان فرایند بررسی امنیتی کدها از سوی هوش مصنوعی را هم مختل کرد.\u003cbr/\u003e\u003cbr/\u003eبه زبان ساده، مهاجم سعی دارد کاری کند که ابزار امنیتی وقتی به بدافزار می‌رسد، به‌جای بررسی دقیق کدها با خود بگوید: «من اصلاً اجازه ندارم این را تحلیل کنم» و از آن رد شود.\u003cbr/\u003e\u003c/blockquote\u003e﻿\u003cbr/\u003eاین نوع حمله نشانه‌ای است از ورود به مرحله تازه‌ای در امنیت سایبری؛ مهاجمان دیگر فقط انسان‌ها را فریب نمی‌دهند، بلکه رفتار هوش مصنوعی هم هدف قرار می‌گیرد و ترفندها در گذر زمان فقط پیچیده‌تر و خلاقانه‌تر خواهند شد.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5470060791883374114\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8D.png\u0026#39;)\"\u003e\u003cb\u003e✍️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://x.com/i/status/2065763216446136381\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eNooshDaroo\u003c/a\u003e",
-      "date": "2026-06-14T05:26:18Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 38100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 3868,
-      "message": "من منتظرم که شرایطم استیبل بشه، حدودا ۶-۷ تا ایده‌ی خوب یادداشت کردم هم راجب AI و برنامه‌نویسی هم واسه اینترنت آزاد که واستون ویدئوش رو بسازم",
-      "date": "2026-06-14T07:19:07Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 36300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 3869,
-      "message": "اما این وسط باید بگم که Claude Design، عجب UI+Prototype ای واسم زد. متاسفانه واسه‌ی استفاده ازش نیاز به اشتراک پرو دارید، منتها چیزی که ساخته خارق‌العادست",
-      "date": "2026-06-14T07:19:29Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 36100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
     {
       "id": 3870,
       "message": "در این حد بگم که رفت فونت پولی ۵۹۹ هزار تومنی رو نمی‌دونم از کجا پیدا کرد و گذاشت توی پروژه\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A3.png\u0026#39;)\"\u003e\u003cb\u003e🤣\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A3.png\u0026#39;)\"\u003e\u003cb\u003e🤣\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A3.png\u0026#39;)\"\u003e\u003cb\u003e🤣\u003c/b\u003e\u003c/i\u003e اصلا یه کار عجیبی کرد",
       "date": "2026-06-14T07:20:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 36400,
+      "views": 37800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -97,7 +25,7 @@
       "date": "2026-06-14T07:21:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 37300,
+      "views": 38600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -105,7 +33,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/oLWK250yxEi7hWCVPGf9eaM4BZ2LdRsZ8mVSDKIP_UydX0at_tk7q3uj6Sv4FmKR0YXc0Ckt7ysw3hB-O8U8NyVvpb-AFpQjLgbP4vU3t7VHxrLDsRZ47UGJCELdWwsw-Z19aDvvBCWQzHSaywo3H7-Cm6OZYk0u512-bRuzTV-dNKbK4c7VwNJLY1Yb2j-om1OTXyM0_y6aXogMGWWB8hznJZs9UNvU1261hNOp_LdavNZRooSKk9qdSxaL75bSyhiYe-Qs1cI8cUViVAbnKPVrh2eY6K14aBzxG34dTGQSza1AFs_kNpY7VBPcgU1po_OPn3tEzFxKsrej_tQ0gg.jpg"
+          "url": "https://cdn1.telesco.pe/file/NfUJGj-EXqvvROuhquIYVxMsiaIYSdy5aUVVP5LDfh2nlajewCnmt1TknAmHhKDzlu4cAmHOZqdIXh6HDlEFMxJ1S138NTe3oHjfQYtvu9jopiu7oEFnDiGjyghOFN18Eiu-V3aSY23VbTzz1rFHn3EnIBW2bBUBieYViXQUdkJNMhLWfkPDlvJzzifcbn5RNcNUGRMwggFygPQHOzca1v_2PdTQ0TNKN0K-GsqciOYEhvztSRRS2XjqfB9cdW4pLJGilR3gktzFAhstQidCQuQvSHTv9X09Zm6KC6G2U_p0bRhtO4DpvdZO-hv2mgxuFQtj_nFYiwxih8ZeYxMUpA.jpg"
         }
       ]
     },
@@ -115,7 +43,7 @@
       "date": "2026-06-14T07:43:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 37200,
+      "views": 39200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -137,7 +65,7 @@
       "date": "2026-06-14T08:46:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 36700,
+      "views": 38800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -149,7 +77,7 @@
       "date": "2026-06-14T10:03:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 36000,
+      "views": 38400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -167,7 +95,7 @@
       "date": "2026-06-14T12:21:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26600,
+      "views": 29500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -179,7 +107,7 @@
       "date": "2026-06-14T12:41:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 34500,
+      "views": 39100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -197,7 +125,7 @@
       "date": "2026-06-14T15:16:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30200,
+      "views": 36900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -215,7 +143,7 @@
       "date": "2026-06-14T16:28:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27400,
+      "views": 35200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -227,11 +155,81 @@
       "date": "2026-06-14T18:17:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22200,
+      "views": 32100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 3885,
+      "message": "یه پروژه‌ی جالب دیدم به اسم SurfSense، که بهش می‌گن جایگزین اوپن سورس NotebookLM \u003ctg-emoji emoji-id=\"5472201536727686043\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939E.png\u0026#39;)\"\u003e\u003cb\u003e📞\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003eاگه از NotebookLM میاید، باید بگم که SurfSense همون کارو می‌کنه؛ صرفا با کنترل کامل دست خودتون. خلاصه بخوام بگم، یه agent تحقیقاتی اوپن‌سورس و با تمرکز روی حریم خصوصیه که شبیه به کار NotebookLM رو انجام میده.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5472375242385005771\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F918D.png\u0026#39;)\"\u003e\u003cb\u003e👍\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e مزایا نسبت به NotebookLM:\u003cbr/\u003e• اتصال به ۲۵+ منبع: گوگل درایو، Notion، Slack، YouTube، GitHub و افزونه‌ی مرورگر برای ذخیره‌ی هر صفحه‌ای (حتی پشت لاگین)\u003cbr/\u003e• آزادی انتخاب مدل: ۱۰۰+ مدل از طریق LiteLLM، یا اجرای کاملاً لوکال با Ollama و vLLM \u003cbr/\u003e• بدون محدودیت داده: هیچ سقفی روی تعداد منبع و نوت‌بوک نیست، و دیتا روی سرور(یا سیستم) خودت می‌مونه\u003cbr/\u003e• جستجوی بهتر: RAG دومرحله‌ای در برابر سرچ تک‌مرحله‌ای NotebookLM\u003cbr/\u003e• قابلیت‌های تیمی جالب: به شما رول‌های Owner/Admin/Editor/Viewer میده + چت و کامنت و...\u003cbr/\u003e• تولید پادکستا بدون محدودیته\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5472130601047825721\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F98AD.png\u0026#39;)\"\u003e\u003cb\u003e😭\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e معایب:\u003cbr/\u003e• نصبش هلو برو توی گلو نیست واقعا. رو اعصابه — باید با dependency، API key و فایل‌های Env کلنجار برید\u003cbr/\u003e• هنوز کاملاً production-ready نیست و در حال توسعه‌ی فعاله\u003cbr/\u003e• باید خودت میزبانی و نگهداری کنی؛ طبیعتا که راحتی NotebookLM رو نداره\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5418077986656112171\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/23E283A3.png\u0026#39;)\"\u003e\u003cb\u003e#️⃣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e جمع‌بندی:\u003cbr/\u003eصادقانه بگم، NotebookLM همچنان ساده‌تر و آماده‌تره ولی کاملاً بسته‌ست. SurfSense سخت‌تر راه میفته ولی دیتا و انتخاب مدل کاملاً دست خودته. اگه با self-hosting و سرور هم بخواید پیش برید، به درد بخورترینه.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e ریپوی اصلی: \u003ca href=\"http://github.com/MODSetter/SurfSense\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/MODSetter/SurfSense\u003c/a\u003e\u003cbr/\u003eآدرس خود وبسایتش برای دانلود مستقیم نرم‌افزار: \u003ca href=\"https://www.surfsense.com/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://www.surfsense.com/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
+      "date": "2026-06-15T05:06:17Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 19400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/GdUuMzjB6H5hb1dn3BcUfkfaVgbS3AJux9mmRjoli52c8-g4DuTjUpu92BqcaH0Oi4oze9-5w-GqQE1F0-68-W7fIrrp8WMmmIKlFKez4Ujeftp5xH3Nh6B3lfqHpgHCIjgR7T7IDZ89oc73Yda5rsZI9tirNO-iB20V82dC7R9EsAsKv7dJ7ws9H872cUsjttWSD5Y3JWvvSmBQIuK3MnnINy56KbCtG2hO3soh6uBhXl0IhsTAx1KytBeWdty612ZVLK9H3nizJhmjaPtBzLCMMZlC6AtTbZp9J4RjEmNCIdvP3sEcbp_8MiG1g7WjYtX-NlUXl9nbGSBqLTQGDA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3886,
+      "message": "خب قیمت دلار اومده 165\u003cbr/\u003eانگار جدی جدی توافق(که نه، تفاهم) شده",
+      "date": "2026-06-15T05:46:27Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 16800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 3887,
+      "message": "از این ربات یـ‌بـ‌خـ استفاده کنید برای ست کردن پروکسی ip بر اساس کشور:\u003cbr/\u003e\u003ca href=\"https://t.me/nahanproxyipbot\" target=\"_blank\"\u003e@nahanproxyipbot\u003c/a\u003e",
+      "date": "2026-06-15T06:40:10Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7660,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/V7wJg0SWNnIt82pdDA1puz0a69_HXoAmpUd0dasbs40qlkEPSKcKY5qUT2sX0Vv5moCQq1I-75siURajV8dEcbddS3TQfiCI0Xi8-GCAFtCviUmNGhECK2aHr2rPAYXhRzBJH8aYSMAOxCsoUYKb7Svh38D-mUicxoPJWyrnjS0xXCV18ZNfyqSz3UzK3o2sB7CfQPE7ppOvbpsP1c7tGDrDiyyZIDtZx6oMsU5olxszqAsNeiBEkYVNkW76hYGDbaxw4FUIrJxPRPDEhr_nK_8SZ51beG0GMtxcuStdexslIddQM9hGol3jBCioR5xllUhU0EGaSiltkf8gZzLVcg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3888,
+      "message": "این کار رو الان خودم انجام دادم به طور مثال. آموزشش روی پنل نهان رو هم میدم. هرچند سایت‌های گوگل و مشتقاتش(یوتوب و جمنای و...) باز میفهمن که کلودفلره کانفیگتون و لوکیشن رو آلمان می‌زنن\u003ctg-emoji emoji-id=\"5472255352667904566\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9894.png\u0026#39;)\"\u003e\u003cb\u003e😔\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-06-15T07:05:16Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1840,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/k2jSugTFpL3ccgZXpd6Cz75BFMyp_uCBbBIGIarq5gFFcKoHGUP7g5peZUCG4FN6Qp0zS2AmJRsqdqroGhBD_rgbbyPKi9YvhLCW6k6IcGAW7cpUA2sBkySnCyDLQDOHO65VkzecFbO3t1ZwawtxCmOkxuiqFsBh1IVY1nN8HDq8Xc0TBGqWubQ2TrC8kJxLG6dY4Btragmnn1DJyLN7JLaSqfyBY3AlE1_GJrc4msaCo0j7eFsauP6mY7-L1vg4SHujHpH9DD9H_VP0fDCIK26K-qW1vNMrtd2QG_Ng1jexLlMCngWKdcO1Jk4Npa5PvT62lv6lArjyAsaOYn4VKg.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/Dc1-koR5Gar8lSPFzJXVHj6iw_kzV5U5ZvfNk0unlH9DeHlOXy0Y3CMyhvDeG-6JMbvRXaZmdvhS5C63rntOU7j6Yq9uXaWkXlSjpqvMjgyOaXh1M8wpC27Bp4-f_oMqBO-aabUk7C4kVvY_PPD9pIsKp5qTiSGnR0K8kjwoWLk0-nWFgf4YHNuA7_SNj92s2FsezqfNu-fTTc20Tn73oup6idgaKTWgeBgbAgsoX4KEn-q197La-RvrP77ezANM_DmKfQUqg_wQcWeuauF8uS8QKtpN9cwSR9SmS6IAEhesZxW-Y0Pg-1JmXm_1sueM2UuSECs-SC5qMbnyrTYISg.jpg"
+        }
+      ]
     }
   ],
   "last_updated": 0
