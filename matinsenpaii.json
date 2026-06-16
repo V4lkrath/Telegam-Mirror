@@ -8,120 +8,12 @@
   },
   "posts": [
     {
-      "id": 3881,
-      "message": "من الان خودم با سرعت عالی وصلم روی ایرانسل. ۲۰ ثانیه طول کشید حدودا، منتها ممکنه تا چند دقیقه طول بکشه. ولی وقتی وصل بشه دیگه کانکت می‌مونه و قطعی نداره",
-      "date": "2026-06-14T12:41:07Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 44500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/HOX8d9EC4bz4hY9buHRYSNPIwfb_LtmEaYKhOTnpD4qQDVL_l4DyqLc5ZVEJQi7wjinFcgV2EP3NNbOFn6spdMPWebC3gbSGbKfduvHcv_RQZiZcIILoHNidSKmGV-ACRfYCiTxv-TH0JQnbe2DnQkwGjcXep7dxR1d0JjYWVWZI2pSaH-uvjBZ2LnLogOwkzYJ1T7hOz6kv2rEpXjoeEIFIHuoQtsAKFyWkErbRI5TFVF1_8d4c81E4TR__6gyi-CH6si9WssltwDekiy-xaxlfryCMuSR8bL4Gh5jVoYlLrCfWf5JEYNqmWQukqGSAJFN8wxKkcY3MAmd2rnzh9g.jpg"
-        }
-      ]
-    },
-    {
-      "id": 3882,
-      "message": "اگر این ارور رو برای اسکنر یا هر پروژه‌ی دیگه‌ای می‌گیرید، ترموکس رو از گیتهاب نصب کنید؛ درست میشه\u003cbr/\u003e\u003ca href=\"https://github.com/termux/termux-app/releases\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/termux/termux-app/releases\u003c/a\u003e",
-      "date": "2026-06-14T15:16:17Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 43900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/rYQqU8n3AJ-fKMdXdZFqB6VayA213FyeVn3dRyCnieYVGrB_Iu-c1dQzlcDt-31y8aXLRNfzH-KDcGKx0oS-ctiGgsByhzNFAsrY65wKn6DO6Mxhwtx25q0cwxfXwWgVLp1DjWz7bddyW-h2KvwtDyndBZQe5EmJWWcPGEE2-2Sz8kHvd48nk65VyiaftqHFFVDl83dQE2FeVV0Pj5lKFtYaga1Op3dq-BtHxzxFlW6HlsOT2ASUVJVlXv6FkAIPTT9sOuL96kjaDiPtVFDHilGef-RKa9aAyzA_ULLc3LsMicFtJMkQSKIscAcDgTpkp_cPOsx0IdMAq3YFWQPVqg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 3883,
-      "message": "رفقا من تبلیغ VPN و سرور مجازی و... انجام نمی‌دم. همونطور که توی دوران قطعی و از ابتدای فعالیتم این کار رو نکردم. هرچقدر هم رقم رو بالا ببرید فایده نداره. ممنون میشم واسه‌ی این پیام ندید\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F998F.png\u0026#39;)\"\u003e\u003cb\u003e🙏\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-06-14T16:28:48Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 42900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 3884,
-      "message": "تبلیغات دیگه رو هم، اعصاب وارسی و اینکه ببینم جای مطمئنیه یا بعدا گندش در نیاد ندارم حقیقتا. برای همین فعلا تصمیم ندارم کلا تبلیغی قبول کنم",
-      "date": "2026-06-14T18:17:18Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 41700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 3885,
-      "message": "یه پروژه‌ی جالب دیدم به اسم SurfSense، که بهش می‌گن جایگزین اوپن سورس NotebookLM \u003ctg-emoji emoji-id=\"5472201536727686043\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939E.png\u0026#39;)\"\u003e\u003cb\u003e📞\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003eاگه از NotebookLM میاید، باید بگم که SurfSense همون کارو می‌کنه؛ صرفا با کنترل کامل دست خودتون. خلاصه بخوام بگم، یه agent تحقیقاتی اوپن‌سورس و با تمرکز روی حریم خصوصیه که شبیه به کار NotebookLM رو انجام میده.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5472375242385005771\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F918D.png\u0026#39;)\"\u003e\u003cb\u003e👍\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e مزایا نسبت به NotebookLM:\u003cbr/\u003e• اتصال به ۲۵+ منبع: گوگل درایو، Notion، Slack، YouTube، GitHub و افزونه‌ی مرورگر برای ذخیره‌ی هر صفحه‌ای (حتی پشت لاگین)\u003cbr/\u003e• آزادی انتخاب مدل: ۱۰۰+ مدل از طریق LiteLLM، یا اجرای کاملاً لوکال با Ollama و vLLM \u003cbr/\u003e• بدون محدودیت داده: هیچ سقفی روی تعداد منبع و نوت‌بوک نیست، و دیتا روی سرور(یا سیستم) خودت می‌مونه\u003cbr/\u003e• جستجوی بهتر: RAG دومرحله‌ای در برابر سرچ تک‌مرحله‌ای NotebookLM\u003cbr/\u003e• قابلیت‌های تیمی جالب: به شما رول‌های Owner/Admin/Editor/Viewer میده + چت و کامنت و...\u003cbr/\u003e• تولید پادکستا بدون محدودیته\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5472130601047825721\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F98AD.png\u0026#39;)\"\u003e\u003cb\u003e😭\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e معایب:\u003cbr/\u003e• نصبش هلو برو توی گلو نیست واقعا. رو اعصابه — باید با dependency، API key و فایل‌های Env کلنجار برید\u003cbr/\u003e• هنوز کاملاً production-ready نیست و در حال توسعه‌ی فعاله\u003cbr/\u003e• باید خودت میزبانی و نگهداری کنی؛ طبیعتا که راحتی NotebookLM رو نداره\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5418077986656112171\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/23E283A3.png\u0026#39;)\"\u003e\u003cb\u003e#️⃣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e جمع‌بندی:\u003cbr/\u003eصادقانه بگم، NotebookLM همچنان ساده‌تر و آماده‌تره ولی کاملاً بسته‌ست. SurfSense سخت‌تر راه میفته ولی دیتا و انتخاب مدل کاملاً دست خودته. اگه با self-hosting و سرور هم بخواید پیش برید، به درد بخورترینه.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e ریپوی اصلی: \u003ca href=\"http://github.com/MODSetter/SurfSense\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/MODSetter/SurfSense\u003c/a\u003e\u003cbr/\u003eآدرس خود وبسایتش برای دانلود مستقیم نرم‌افزار: \u003ca href=\"https://www.surfsense.com/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://www.surfsense.com/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-06-15T05:06:17Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 40500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/na8Rk2HzL7AydljcJA5G-kgnxtA8FLtWTsgBShXYlkdfc0qZK3EZciSJUrsxSA4nu8-Zt8BUe73XeJyeOCbzJdZWfOUDCEqixbCNmSx7VtzRJJWRtpTvERyvR_BdSTNgSCsW6yXSKTT3ORoAr430qw7yZrtPm7GGL2VAq5PrriPK7LNnhFf6pmUapvAb0oxE_YpmXHS4dhsCIQB-eAHPOTtO9BOWhvXKiiYGFb0RjFKe-8emuj1o4x5f2Uluz7aD-RdA5K6K7Mr4DFt1FntjeNFBt5aQ0DgWB-UFC02MT2DW8AX0uUXTRoZNIQy7KS3Yh6brJONZo6u0aAPaXGje1Q.jpg"
-        }
-      ]
-    },
-    {
-      "id": 3886,
-      "message": "خب قیمت دلار اومده 165\u003cbr/\u003eانگار جدی جدی توافق(که نه، تفاهم) شده",
-      "date": "2026-06-15T05:46:27Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 36500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 3887,
-      "message": "از این ربات یـ‌بـ‌خـ استفاده کنید برای ست کردن پروکسی ip بر اساس کشور:\u003cbr/\u003e\u003ca href=\"https://t.me/nahanproxyipbot\" target=\"_blank\"\u003e@nahanproxyipbot\u003c/a\u003e",
-      "date": "2026-06-15T06:40:10Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 34600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/YKrHwuKiyliHhiuSmQIZQ4sLLDcbtIkyNmMfYISqFVBNy7ohOACPW8g3CK4Od3fPvEkdjvsAaB1soxs-cSlFgy7GjyGc-cp4TgnSyPqpFHhPiamFPFGiipKwh1OmAcHeDaxAula_GHBqT8u3bwWea2ueuvLtvvzmTcrGMidkEbrpJadyZWWTVPaTDgcCQ8_KnqZs3iK4eWiAn1Uxb1QvTu_iVVC591xNAko1bYBYSClh57ILQXVQJRR3Zb8fvDWT17f9VRRutlzvoz0TipJZwoUTQNnOY3L-iT9V3cGDcnbrkK5CWShCiI_9UAnS6n5ZpQbum60IbKqorzsQvsJiRQ.jpg"
-        }
-      ]
-    },
-    {
       "id": 3888,
       "message": "این کار رو الان خودم انجام دادم به طور مثال. آموزشش روی پنل نهان رو هم میدم. هرچند سایت‌های گوگل و مشتقاتش(یوتوب و جمنای و...) باز میفهمن که کلودفلره کانفیگتون و لوکیشن رو آلمان می‌زنن\u003ctg-emoji emoji-id=\"5472255352667904566\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9894.png\u0026#39;)\"\u003e\u003cb\u003e😔\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
       "date": "2026-06-15T07:05:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 37400,
+      "views": 39200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -143,7 +35,7 @@
       "date": "2026-06-15T07:17:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 38100,
+      "views": 39400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -161,7 +53,7 @@
       "date": "2026-06-15T09:47:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 35400,
+      "views": 37600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -179,7 +71,7 @@
       "date": "2026-06-15T13:05:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 38400,
+      "views": 41200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -191,7 +83,7 @@
       "date": "2026-06-16T06:07:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30100,
+      "views": 36200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -203,7 +95,7 @@
       "date": "2026-06-16T07:33:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27000,
+      "views": 34700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -229,7 +121,7 @@
       "date": "2026-06-16T08:45:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24100,
+      "views": 34000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -255,11 +147,120 @@
       "date": "2026-06-16T12:12:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10000,
+      "views": 28800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 3901,
+      "message": "توی NPV tunnel هیچکدوم از مشکلاتی که داخل MahsaNG داشتم رو ندارم. احتمالا به خاطر dns‌هاش هست اما خود V2rayNG و Mahsa و V2rayN خیلی اذیت کردن این چند وقت سر BPB\u003cbr/\u003eخلاصه یه تست بکنید",
+      "date": "2026-06-16T13:42:25Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 23100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 3902,
+      "message": "همون کانفیگ‌های json Normal BPB رو بدید بهش، خودش ایمپورت می‌کنه",
+      "date": "2026-06-16T13:43:00Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 23000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 3903,
+      "message": "\u003cb\u003eمعرفی نسخه اولیه WhiteDNS BPB\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eنسخه اولیه اپلیکیشن WhiteDNS BPB منتشر شد.\u003cbr/\u003e\u003cbr/\u003eاین برنامه برای کسانی ساخته شده که می‌خواهند پنل BPB خودشان را راحت‌تر روی Cloudflare راه‌اندازی و مدیریت کنند، بدون اینکه لازم باشد همه مراحل را دستی و پیچیده انجام بدهند.\u003cbr/\u003e\u003cbr/\u003eبا این اپ می‌توانید:\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e به حساب Cloudflare خود وصل شوید\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e پنل BPB جدید بسازید\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e پنل‌های ساخته‌شده را داخل خود اپ ببینید و مدیریت کنید\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e پنل BPB را با مرورگر داخلی اپ باز کنید\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e لینک‌های سابسکریپشن مختلف پنل را ببینید\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e سابسکریپشن‌ها را کپی یا مستقیم وارد بخش VPN کنید\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e کانفیگ‌ها را تست کنید\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e از داخل اپ به VPN وصل شوید\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e لاگ‌ها و وضعیت اتصال را بررسی کنید\u003cbr/\u003e\u003cb\u003eدر این نسخه تلاش شده همه چیز ساده و مرحله‌به‌مرحله باشد؛ از اتصال Cloudflare گرفته تا ساخت پنل، گرفتن سابسکریپشن و اتصال VPN.\u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003e\u003cb\u003eاپلیکیشن هنوز در نسخه اولیه است، پس ممکن است در بعضی دستگاه‌ها یا شرایط خاص نیاز به بهبود داشته باشد. اگر مشکلی دیدید یا پیشنهادی داشتید، خوشحال می‌شویم گزارش کنید تا نسخه‌های بعدی بهتر و کامل‌تر شوند.\u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003eWhiteDNS BPB v1.0.0\u003cbr/\u003e\u003ca href=\"https://t.me/WhiteDNS\" target=\"_blank\"\u003e@WhiteDNS\u003c/a\u003e",
+      "date": "2026-06-16T15:47:15Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 12800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 3904,
+      "message": "این، همینیه که اینجا عکسش رو گذاشتم",
+      "date": "2026-06-16T15:47:30Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 18000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 3905,
+      "message": "\u003ctg-emoji emoji-id=\"5447246917744478110\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E298A0.png\u0026#39;)\"\u003e\u003cb\u003e☠️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eساخت VPN شخصی رایگان با پنل نهان + تنظیم لوکیشن دلخواه و آیپی تمیز\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5438571934210082705\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eلینک سایت کلودفلر: \u003ca href=\"https://dash.cloudflare.com/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://dash.cloudflare.com/\u003c/a\u003e\u003cbr/\u003eلینک پروژه‌ی نهان: \u003ca href=\"https://github.com/itsyebekhe/nahan\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/itsyebekhe/nahan\u003c/a\u003e\u003cbr/\u003eلینک اسکنر: \u003ca href=\"https://github.com/MatinSenPai/SenPaiScanner\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/MatinSenPai/SenPaiScanner\u003c/a\u003e\u003cbr/\u003eلینک ربات ProxyIP یـ‌بـ‌خـ: \u003ca href=\"http://t.me/nahanproxyipbot\" target=\"_blank\" rel=\"noopener\"\u003et.me/nahanproxyipbot\u003c/a\u003e\u003cbr/\u003eلینک ویدئوی اندروید: \u003ca href=\"https://youtu.be/2otJfXgNWCM\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/2otJfXgNWCM\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e \u003ctg-emoji emoji-id=\"5447644863644320013\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD90.png\u0026#39;)\"\u003e\u003cb\u003e⭐️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eتوی این ویدئو بهتون اینها رو یاد میدم:\u003cbr/\u003e1- آموزش ساخت پنل نهان\u003cbr/\u003e2- اتصال به ربات تلگرام و api کلودفلر\u003cbr/\u003e3- ساخت کاربر و مدیریتشون\u003cbr/\u003e4- رفع مشکل وارد نشدن ساب در  V2rayNG و ارور 1031 و 1101\u003cbr/\u003e5- اسکن آیپی تمیز با اسکنر SenPaiScanner\u003cbr/\u003e6- پیدا کردن و تنظیم ProxyIP بر اساس کشور یا بر اساس سرعت اتصال(توی ویدئو نشون دادم چقدر سرعتم بالا رفت برای دانلود)\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5447644880824181073\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e پیش‌نیازها و نکات مهم: \u003cbr/\u003e\u003ctg-emoji emoji-id=\"5794182096603847292\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/31E283A3.png\u0026#39;)\"\u003e\u003cb\u003e1️⃣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eاین ویدئو هیچ پیش‌نیاز فنی و نیاز به خرید سرور و... نداره\u003cbr/\u003e\u003cbr/\u003eبا تشکر از \u003ca href=\"https://t.me/yebekhe\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eYeBeKHe\u003c/a\u003e عزیز\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/MatinSenPaii/3905\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eتماشا در تلگرام \u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5071261477743100913\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B9.png\u0026#39;)\"\u003e\u003cb\u003e📹\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://youtu.be/JdNeZnclS-s\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eتماشا در یوتوب\u003c/a\u003e(نسخه باکیفیت‌تر)\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069054607582298852\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B0.png\u0026#39;)\"\u003e\u003cb\u003e💰\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://matinsenpai.pages.dev/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eدونیت\u003c/a\u003e",
+      "date": "2026-06-16T16:08:00Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 18500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/OL-VZ3AnaG_w9q8qOf0zcZYjQiXKaS6MTlDufxtVyF2SgrKV_rkgslQW85fwaHU2JiofPpc63El17gWW8pdqakIlSHG5uo1u9TOVWSy5wjvO02MAJPSnn7WM1zsmI1aoGzbgSO7xEObGbgWcU1pC-_e5BRca_rZAq8hYu29jVeUfHQvqIIfYhD4ea_eh-YsTPVRh4N23kY9Y-qHcNwNTDm83f7dlASkgyWHHZoZ1NyYLgqhPbcHPpGErMZrPwW8KiN09dtiaG03wJ8Ph5m0vCJojt4r8zSrXL3if7is5-NEt5BxyA32u2gMYYWdcBXuxctJSHcL61WxffuiMA3GzLA",
+          "width": 1280
+        }
+      ]
+    },
+    {
+      "id": 3906,
+      "message": "این ویدئو هم با 500 مگابایت حجم توی یوتوب و اینجا با 60 مگابایت با همین متد آپلود شده\u003ctg-emoji emoji-id=\"5388953246486269495\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939A.png\u0026#39;)\"\u003e\u003cb\u003e📚\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-06-16T16:11:33Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 17200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 3907,
+      "message": "متشکرم از بچه‌هایی که دونیت می‌کنن. چه کسایی که استارز می‌زنید، چه کسایی که به ولت‌ها دونیت می‌کنید، همه باارزشه.\u003cbr/\u003eمن دسترسیم به ولتم قطع شده بود و مجددا وصل شد الان، دیدم دوتا از دوستان 3 و 20 دلار بیت‌کوین دونیت کرده بودن. ممنونم ازتون\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-06-16T17:07:43Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 10200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 3908,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F98AD.png\u0026#39;)\"\u003e\u003cb\u003e😭\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-06-16T17:19:48Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7630,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/AhF6hPTrsTwsX8IOZFP6-AVz3hKmIWV2h7EMvhdaWIC4FYAnrciUYUZl-cdTaX0OddWoOAwcOm9vrqquwTDUG4Ag2Wan9dTomIqpTJRMTJ1gvOK1WK0NBMfvcVpn_pEJ4rMvXmROlSfGvyKts4fgTe3DZPkyinJB3IuzSZY7HBNgEX_eHT-dMuJwG8U4A7AIIZDi-5suXZqQtaAnqjXQsPG37Ne-zRzn22uxWUzp_M-8zIZH8joGYjU5MvePsjcKrBZx4Tpy0ii5ZzCrc5g7oszUrF1pivtFUw75hlJhS_w2Kf9HluLW6rnwHzrrXRuI9hSQKL9V0wqapuNPbN-u-Q.jpg"
+        }
+      ]
     }
   ],
   "last_updated": 0
