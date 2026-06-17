@@ -8,54 +8,12 @@
   },
   "posts": [
     {
-      "id": 3913,
-      "message": "کامنت‌های یوتوب رو اکثرا جواب دادم. سوالتون و جوابش شاید اونجا باشه. چک کنید",
-      "date": "2026-06-16T23:37:59Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 35800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 3915,
-      "message": "خیلی از دوستان این مشکل رو داشتن که تلگرام واسشون باز می‌شد، هیچی دیگه باز نمی‌شد.\u003cbr/\u003eیا یوتوب و ... باز نمی‌شد \u003cbr/\u003e\u003cbr/\u003eمشکل احتمالا از کلاینتتونه و dns اش. باید تشریف ببرید توی تنظیمات v2rayng و Domestic DNSرو از چیزی که هست، به \u003ca href=\"http://9.9.9.9/\" target=\"_blank\" rel=\"noopener\"\u003e9.9.9.9\u003c/a\u003e و یا \u003ca href=\"http://9.9.9.12/\" target=\"_blank\" rel=\"noopener\"\u003e9.9.9.12\u003c/a\u003e تغییر بدید.\u003cbr/\u003eهمینطور می‌تونید remote dns رو هم به \u003ca href=\"http://9.9.9.9/\" target=\"_blank\" rel=\"noopener\"\u003e9.9.9.9\u003c/a\u003e و یا \u003ca href=\"http://149.112.112.112/\" target=\"_blank\" rel=\"noopener\"\u003e149.112.112.112\u003c/a\u003e تغییر بدید.\u003cbr/\u003e\u003cbr/\u003eبا تشکر از \u003ca href=\"https://t.me/xsfilterrnet\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eامیرپارسای\u003c/a\u003e عزیز",
-      "date": "2026-06-17T02:08:34Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 38400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/dXLH3Y-q3kf4Cdc1Rd-GItBOPC5dbw6zey8M3TF9WPD37UkqaY299yEkB2EeArF-otMh-NNU5SnGzNkOKWlcALry_9Cr-KoMuThmspUo860EWPMk_0sL4rec2PjRW68cIHWYPc8VOhsMJxfXR3neazCCzO7ZUkmVIjiUCAFalM9KpdAgFZh5EEvE3J3Nrh4lwOS6rfHgw9LzzQ0yA4eO5gjIWz5nW9fo7qi7pDK2mjoSSrtslu_FhS69C6G6i3aprc6AvZhy4knw9UC7876UOw8P8TugzlAnj00-9l-sYJfrUgsQ7SUQ5TnlvAh16WF0-dzzwAhVcQGhGf5o6Ht8YA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 3916,
-      "message": "چندتا از بچه‌ها تفریحشون اینه برن وارد پنلی که من توی هر ویدئو میسازم بشن و پسووردش رو عوض کنن و برای خودشون لینک ساب بسازن استفاده کنن\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-06-17T08:45:46Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
       "id": 3917,
       "message": "پیدات کردم مهدی جان\u003ctg-emoji emoji-id=\"5472069780015946935\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA5B3.png\u0026#39;)\"\u003e\u003cb\u003e🥳\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
       "date": "2026-06-17T10:29:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30300,
+      "views": 31000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -73,7 +31,7 @@
       "date": "2026-06-17T10:30:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30800,
+      "views": 31500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -91,7 +49,7 @@
       "date": "2026-06-17T10:31:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30800,
+      "views": 31600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -109,7 +67,7 @@
       "date": "2026-06-17T10:32:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30400,
+      "views": 31200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -121,7 +79,7 @@
       "date": "2026-06-17T11:54:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27900,
+      "views": 29000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -133,7 +91,7 @@
       "date": "2026-06-17T12:26:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26900,
+      "views": 28200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -159,7 +117,7 @@
       "date": "2026-06-17T13:33:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24500,
+      "views": 26400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -171,7 +129,7 @@
       "date": "2026-06-17T14:40:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12900,
+      "views": 15100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -183,7 +141,7 @@
       "date": "2026-06-17T14:41:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21700,
+      "views": 24700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -195,7 +153,7 @@
       "date": "2026-06-17T16:16:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15900,
+      "views": 20400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -207,11 +165,37 @@
       "date": "2026-06-17T18:25:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6370,
+      "views": 13600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 3934,
+      "message": "یه اپلیکیشن مسخره‌ی اندروید با AI گوگل نوشتم مجانی، توی بیست دقیقه\u003cbr/\u003eویدئوش رو ضبط کردم که به شما هم یاد بدم. اصلا چیز خفنی نیست اما خب بامزست",
+      "date": "2026-06-17T19:30:32Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3820,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/Ed6B9vhHxf7nCzNP2IWKUG3zwyo5JSM_Nn_PeIMPcHSkXC6lIAaffqe1CeNJkJG5G0iCKRtQatAp9I5aoP8W_mDFB7xN7DByL3QcvedVfa2ZlWoqIFaJdzlKzcfiMP_h2RSadOoyWlgRQu1MAmyl4wV9rotVrP1J8LnqXQJsKqQO7WAtC4fv4Tq89m4tyNz46GPCJgWwj5EFHJ38oXqmJ21SwKyqNzegBUUWfKSyICrz3N4_4s1P0E7KWYOc5l-Xtm-JfBxff0puqbOSsRq-BnY-yGWOOUJyW0Ej_RnisL4G4NWqwGbOBrEs_jzPpgej0bYDsIbX56fKoI2HE4yZyw.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/PbBmc16Jw3am9nvgz5BWCupOexGbuRXloRnc3HVBMaH1c7die2jUVPiPRFeUqax9Fss0e-HRlo5RQ7gb-p8_IrjuO2Daa-WLs6P6exK__AP1RkJgiSD3t5VDEdSWbp3IoNNQDrua-IApK-Vehjd3xcW7vnLxpDzBVmHNUbJduu4IeAw1jrI127wN6On8nu-0V-yj_-0oxEB9of8hDwPCQnYUD7g9Du89-bauQ61E5IjLsKqgZpRzdt6joAAEZIV5xGkMrnxe2b9QPKaLSnqpnOku2_axxFp0dISFe8OXq3FhqeZcoiu5IYeAzzhqc_5klqM7-CJTPohENS4nyN1J9Q.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/d3vgb5kvkqNTjIlgGCDg1sYe4b-ul7oN-L5ugCA6H9wQ0XKpaNCyrYd8PT8gNcs1CFvIcZY4puAUrbzllsU3Z68CWkKp5Mn2L1RjdjWG4jduegk9WQ8oHXtKTywPpf7GWvhnU9J67XtvwfJ9aWZmEiUvkDE0O5atZG2d81A1MRviugIs0yJ001jF3cPb5xlFwu6o0IZWPqDdo2gDdkERNkIm1Vtn9DisHJYAWLI-LTLw1lfRLhQRROolWxoVbMnh4hlrMdE3qGcEC63TqvSDCA-ddnIuSjGXSJn3f7BJezWxujnCmCs0aGqbvb2pYDjdrF3oBdXdthX2DzP8seeq5A.jpg"
+        }
+      ]
     }
   ],
   "last_updated": 0
