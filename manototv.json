@@ -13,7 +13,7 @@
       "date": "2026-06-18T13:03:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14800,
+      "views": 15700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -67,7 +67,7 @@
       "date": "2026-06-18T13:03:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19800,
+      "views": 20700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -86,7 +86,7 @@
       "date": "2026-06-18T13:06:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19800,
+      "views": 21000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -105,7 +105,7 @@
       "date": "2026-06-18T16:13:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18400,
+      "views": 20400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -124,7 +124,7 @@
       "date": "2026-06-18T16:13:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20600,
+      "views": 23500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -143,7 +143,7 @@
       "date": "2026-06-19T07:01:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2680,
+      "views": 9660,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -184,6 +184,25 @@
         {
           "type": "video",
           "url": "https://cdn4.telesco.pe/file/azZlQM4JJZFzM_lG3-SDDBXz77LaPIdyNd1tPJ2ukdcLTCE5VZtorUG_YGUp45e0pmidzDTsml56tVyvSLHhtKT7LyUN5FvvUqgXj8YGLgXytxWfLNb-JogfCMGaoZoV5DwdB5xZQv7lVREEy34FwDZkjJC4qtxiv4YY-zP0hAOCe1-cvqk9vAjBWlqRngW47lrit35xV03p0HRwpMoREy_pkXGqcnzyAEIqh3x63py-4vZzjqVrUK9YEMuFHZYmy7pFWpJVzAbDmeNyw7ZoKUeMN_aOWpFW77tRpeMPd-FnWSbzmAlhRj5_h5aydt_f1FUFvfBjuWkm3cMLMprvQw"
+        }
+      ]
+    },
+    {
+      "id": 106173,
+      "message": "برای دهه‌ها، رابطه آمریکا و اسرائیل یکی از باثبات‌ترین اتحادهای سیاسی جهان بود.\u003cbr/\u003e\u003cbr/\u003eاما امروز پرسش جدیدی مطرح شده است: آیا در دوران «اول آمریکا»، حتی نزدیک‌ترین متحدان واشنگتن نیز باید خود را با اولویت‌های آمریکا تطبیق دهند؟\u003cbr/\u003e\u003cbr/\u003eاز انتقادهای اخیر دونالد ترامپ از اسرائیل تا هشدار کم‌سابقه جی‌دی ونس به منتقدان اسرائیلی توافق با ایران، نشانه‌هایی دیده می‌شود که شاید این رابطه وارد مرحله‌ای جدید شده باشد.\u003cbr/\u003e\u003cbr/\u003eدر این قسمت از پادکست منوتو، نگاهی داریم به تاریخ روابط آمریکا و اسرائیل، اختلافات گذشته و این پرسش که آیا آنچه امروز می‌بینیم یک تنش موقت است یا آغاز تغییری بزرگ‌تر.",
+      "date": "2026-06-19T09:06:49Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4310,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/DWHm5eUPBeiSN3aqLoEbTTyFtesGCFxpsx1BauyTZ4ab4Rz4HT9_wTCRVm5dn--WpWowYyrNFpTXP6pHjJztM8i_YqXcU3lADBE_H3LDv-LfxVU0YM1lH__fArsyv3_I1OVdZkzYC50EH40II2Yq-fdOhLaQQv0AeLMLiAOn2yUTEGNmJ5dWdbQ_CR99JZoMNK7FyO0uMDsYq3pDgYnKBRzQP0dyQwTMzMzcmVAfnb3VRpUbb1UjBcdhdwj0Sdmy-J2hCsZ8RTrQ-irnAhCeGMqT5ZuLux1xTfgdSHbI905SmfmEQgx2DROFUUdUoEILDnCzblY233YqYXgC8ItEmA",
+          "width": 406
         }
       ]
     }
