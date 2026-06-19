@@ -8,86 +8,12 @@
   },
   "posts": [
     {
-      "id": 3926,
-      "message": "",
-      "date": "2026-06-17T14:40:08Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 34600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 3931,
-      "message": "ورژن 0.0.3 خیلی بهتر شده رفقا. حدودا بعد از 20 الی 30 ثانیه وصل میشه روی همه‌ی اپراتورها و سرعتش هم عالیه\u003cbr/\u003eمنتها می‌تونید از خود Wizard استفاده کنید و بسازید برای خودتون",
-      "date": "2026-06-17T14:41:10Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 41300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 3932,
-      "message": "این هم آموزش ویزارد",
-      "date": "2026-06-17T16:16:50Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 39600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 3933,
-      "message": "میگن Cursor یه چیزی ساخته که SpaceX اومده 60 میلیارد دلار خریدتش\u003cbr/\u003eنمی‌دونم چقدر حقیقت داره این حرف اما سرمایه‌گذاری خوبی انجام داده. به زودی CLI کدنویسی grok رو شاهد باشیم احتمالا",
-      "date": "2026-06-17T18:25:16Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 39200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 3934,
-      "message": "یه اپلیکیشن مسخره‌ی اندروید با AI گوگل نوشتم مجانی، توی بیست دقیقه\u003cbr/\u003eویدئوش رو ضبط کردم که به شما هم یاد بدم. اصلا چیز خفنی نیست اما خب بامزست",
-      "date": "2026-06-17T19:30:32Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 39000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/J6ufsDENeHaD10C-jgmNCKgzGvaLSYCVGASmIpVJVZEFjno79Rnf8ozzhivmYDQYVeGNjXZAVVZn3EpR8QD8eXJe3GRkRclrsEv4E1-2nzGvIEAsaK_Hac4l-bjNqh1ioIriflJ8xkiPjuaUi4o2r5n1Zh3wAwzj2oNC1V9n3EQW28PmeYBmd3oOlfjcKmhoyy1VbsJdvcub-2m-o5AKAc0g8rgryZLqjPy7GHSAThNRVErB0cdMyaai6DUBycaTsWL1VrqcvrtfpRDkynzD571qGOmYOBL72nk-Ywt-18ygaenSfAyPpYiqEcAhsVXUn_RL_oLhCAd3zv3saOkfKw.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/l8xdAhn-uUJXG2e4ggwVADNMETcTjX-c4BkKu71f5vk7z6YV7VNOvWkrrvGD3TsWbksXHF03S3KTPki_Z7wSHHa59Z1aoWBV9V6YTYo7ogfNqYhM4Oj6v6a0wlzcnCyLUxt4nbiiZ335_eqS0yBAnPkH5lajaOY2qeHvYJXtwwP-ITJJ3ylPjhQzmhciiRIIpTA6pk-2TM5ZixpXGDbz63v7UuFTE3_BnoZ1FMiBUPh5Anwaxyh70RFNMztETZZXXo67TCN-nx0tibvfAoW17njay8f3h7yTnV3RPXF9_q0-cYpPLDGTG2-BUrjNnFNzAomA4G6cun5Db1UZNcz2Mg.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/a_CkLxjN8Jmk_fZbi7xXy4yCptFXMBHDBkMpiKPaCkDNbe4eqnxZtFkZRtt8gqnC1bJb9R8NkXVoI87UhYDphWywEDNh3nvL0uZWR_Vnz3RJC7Q9rY2OBfK212BccocRFmxqqmjbCyYzmg7qa4xPLYp1b4xy1RthGR-DQGaZCketVCT_LVofgXj_9D2S8YEGt_Rt-bpWjcOvcp-ZGYTiZv3IKSFVkuGiHzM5TAr8fVx2AEJfM6qJH0o5D6Agn1PK3RsGZ_3umpuF34hXc_1yFnxYSIX-G8MJlX7jDqmW7RfZdddfcc16V-W3UsI_wldOkEEG6ktVXSNOsKagYcWP1g.jpg"
-        }
-      ]
-    },
-    {
       "id": 3937,
       "message": "ویدئوش آخرای ادیتشه\u003ctg-emoji emoji-id=\"5307843476296053924\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F948B.png\u0026#39;)\"\u003e\u003cb\u003e🔋\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e می‌ذارم تا ظهر",
       "date": "2026-06-18T06:33:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 34800,
+      "views": 35000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -99,7 +25,7 @@
       "date": "2026-06-18T08:24:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 36800,
+      "views": 36900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -117,7 +43,7 @@
       "date": "2026-06-18T13:49:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32000,
+      "views": 32200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -135,7 +61,7 @@
       "date": "2026-06-18T14:43:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32900,
+      "views": 33100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -143,7 +69,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/p1scCm01Gi1tbRfNWw17Q82538al6xvdDIUiBMAxXnFCndfBGPJwuqoihYeXhEfcOROWGjaGgPCZavRXtL3YZ4Los7H0WLsKPOoMn4GozjzT62Kg8_8h-e_zuVobpPy9LkY-mp_GkSu3NxKAFxyKHe5Fpnp0r-3WanjkQxgeqflPmKepYFGNymrSmEGUJu8I2e88pAWSx_KG8Oq6cV-_zRZJPFpc5ZBu4eW-zlyJ8_MPj8XpoCJWJkyoZjZRh667MZ8YKfdFvU4bOagVX_51-qFFSn1-Y1ojl-BwutOUSB66_t8Qb4YeGGUAOyoiWa4SeL2V7WJxnVIiX9zOsopIHw.jpg"
+          "url": "https://cdn4.telesco.pe/file/G1e7OiFXHrdJiBMhljyFZJ6KvEiozY1ed-06SNMQbb6LR-YroYaR5bHepeeV-sPvBsP1AV-av_c7Q7JslOc6B8NUZ95Q4M84fIq_DQzMQsK8sqs8kwJD5ZJo0M8G9rZAH7QQnQitk-dDnw7tWIPiLRwvZ8gFqToIvsrszKPBmD9JKWbRob1hlbG9UkEtnQogWjF-LXDphGvh8VulAYq2c6PC8iBM71wEVN_fAf9tteBtuxvZpMYX5KWCB86E6Ixzw92oTKxtk7PdV91E7pRL8xbkMemwzbKgc80ZVqNXDG9Sin6YEv4k9IEvR8Srk7OWJt0wE9S4KQdu1S2AQ_wIfQ.jpg"
         }
       ]
     },
@@ -153,7 +79,7 @@
       "date": "2026-06-18T14:43:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33500,
+      "views": 33700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -165,7 +91,7 @@
       "date": "2026-06-18T14:44:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 34500,
+      "views": 34700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -177,7 +103,7 @@
       "date": "2026-06-18T20:13:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24500,
+      "views": 24700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -189,7 +115,7 @@
       "date": "2026-06-18T21:18:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32100,
+      "views": 32600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -211,7 +137,7 @@
       "date": "2026-06-19T08:44:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14400,
+      "views": 15200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -223,7 +149,7 @@
       "date": "2026-06-19T10:52:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20300,
+      "views": 22600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -241,7 +167,61 @@
       "date": "2026-06-19T10:52:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20100,
+      "views": 22400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 3949,
+      "message": "\u003ctg-emoji emoji-id=\"5224450179368767019\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C8E.png\u0026#39;)\"\u003e\u003cb\u003e🌎\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eنسخه جدید WhiteDNS VPN V0.0.4\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5197371802136892976\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29B8F.png\u0026#39;)\"\u003e\u003cb\u003e⛏\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e در این نسخه\u003cbr/\u003e\u003c/b\u003e• ظاهر اپلیکیشن تغییر کرده \u003cbr/\u003e• امکان اضافه کردن آی پی تمیز خودتون اضافه شده تا اگر اسکن میکنید با آی پی های خودتون به کانفیگ ها وصل بشید. \u003cbr/\u003e• پرچم کشوری که بهش وصل شدیدرو بهتون نشون میده. \u003cbr/\u003e• با کمک یکی از بچه های گروه، یکسری از مشکلات امنیتی اپلیکین رفع شده.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5303138782004924588\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92AC.png\u0026#39;)\"\u003e\u003cb\u003e💬\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e اگر براتون وصل نمیشه، فقط و فقط مشکل از شبکه شما هستش. آی پی تمیز پیدا کنید و داخل فیلد IP Fronting قرار بدید و براتون کار میوفته.\u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/WhiteDNS\" target=\"_blank\"\u003e@WhiteDNS\u003c/a\u003e",
+      "date": "2026-06-19T14:32:57Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1410,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/slNx6JgRZpHEAKei4DNkSNhpiAC1j4FEymFfJrBgyAf0DYI83MbEZBAnN-NoLpZFMR1CGY0xERG9QgZc2TQNr1k92o8VgolTX_3cj_YJXMz7ijoWunGBCJtaGvCVQGrzMxMqN5R0OkCHDAuaJUNLxEZxYgsr3ZpJnpjDfCmlIQPEg7MJqZ7il7GbzdD7L6XRjgOuwRmMYHFovjIGFN8Kem79gmVlbWNA9g8VulMldhOYs-Tl0atsgdmwLp9RG18oDwRsiRTKNDO5vtwE5qxlkC0qUu6veDcz-mufkm91jnNyywMuPMPRw8bxyB3Vn3B7E9_jE6_Qu3RkuDAvmoiyEA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3950,
+      "message": "",
+      "date": "2026-06-19T14:33:00Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1460,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 3955,
+      "message": "\u003cb\u003e\u003ctg-emoji emoji-id=\"5303138782004924588\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92AC.png\u0026#39;)\"\u003e\u003cb\u003e💬\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e ما براتون حدود ۵۰۰ آی پی تمیز پیدا کردیم و داخل اپ  گذاشتیم. اپ به طور هوشمند سعی میکنه به این آی پی ها وصل بشه. اما با توجه به محدودیتی که روی اپراتور شما اعمال شده امکان داره  باز هم کار نکنن. پس بهتره خودتون اسکن کنید و فقط ۱ آی پی تمیز پیدا کنید. \u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5303138782004924588\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92AC.png\u0026#39;)\"\u003e\u003cb\u003e💬\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e اگر دیر وصل شد، اپ داره همه کانفیگ ها و تنظیمات رو امتحان میکنه. این یعنی روی شبکه شما محدودیت و فیلتر زیادی هستش. مشکل از اپ نیست. اپ فقط داره سعی میکنه شمارو هرطوری هست وصل کنه.\u003c/b\u003e",
+      "date": "2026-06-19T14:33:00Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 3956,
+      "message": "کافیه یه آیپی تمیز بذارید توی بخش Advanced, ip fronting\u003cbr/\u003eزیر ۲ ثانیه کانکت میشه",
+      "date": "2026-06-19T14:33:27Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1430,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
