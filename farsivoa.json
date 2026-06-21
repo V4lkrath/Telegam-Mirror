@@ -8,126 +8,12 @@
   },
   "posts": [
     {
-      "id": 221429,
-      "message": "یکشنبه ۳۱ خرداد، نشست چهارجانبه‌ای میان مقام‌های آمریکا با جمهوری اسلامی، قطر و پاکستان در حال برگزاری است.\u003cbr/\u003e \u003cbr/\u003eجی‌دی ونس، معاون رئیس‌ جمهوری آمریکا، در حاشیه مذاکرات جاری در سوئیس گفت که ایالات متحده آماده است در صورت کنار گذاشتن جاه‌طلبی‌های هسته‌ای و اقدامات بی‌ثبات‌کننده منطقه‌ای رهبران رژیم ایران، روابط خود با این کشور را به‌طور بنیادی تغییر دهد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
-      "date": "2026-06-21T15:16:40Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2720,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/RJ_zKaH3aGChZh8lWGTiJ99cecBZ9nWiXSdEO14U9wHvThNinV1VqE0L5IplR5B22JxlN9wum4o4_ZwJKa8T6v3S5doCwoRsgm8mJvYW92IPEmIwwgzs96vPS7SnG2Zaln-dcyIUsDB1M2ZkFUKFjPp-8gDxdUL7YgCi1biMxbiNjdTLx7h7kOz2kG6uem3QCqHE6FzJyNK2Ru10RWL5tOyho2eTUlwivOyTzF2NXyWyOXKMzax2kON9IGUwQUSVVfTrSM9ptzbhNal92ImJzeVCUKsdocI7G0i5HRGg8K7ASXvoptZfK1myOjoz231dZBUIxL8OK3l5nW9DLwgCSQ.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/JYbEC61l0ESRJgehLLT-mAJGBgUFAzfm2tvY-vTe619KkgMVPEEoMziKwEDEYKwiCyx7AVphNVJ7AllAAryRKsSIiNbVlHJmw26JmP6ZKRpaery9TMm90cn1PVdai37UftuP4c8q3ZaPd5D-htHPg6mg-nNsNpwZM-5raJw5dwOdc6Jxt4HFXuROKQmZVwU-SOoyMuBx8SJlII37fcmcqiSRN_38aP-3XiadJpOuAekqWMNzB31woch3RwHsUrrTDpRl4DRrZNpC7kior6dgGTuhZcfnKaP8-t0shZ_5Klc9_dDmsqgKUR3NdvGOcnwfCtPbwbSxMDl-qdRcQzHhtQ.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/GkVVz7oN03FW5w0StnDHEbgWKJe9Sm_R9WaN6UUTz4o_IdCFl37K4hdk2y3QoTTVsPZNnqHqoPmQpW3Axd36gdsUG9Iba4CNpdLkrimBwu6UnBNgEvXcMZIQNI2j50E84OBQ9OGWHjJELtlRfUuM3FtTp-sLG3MtJgxnLOequgV2mhXLoBGsYtGDmfvoQIpTE9z4ImOOh426iJef8SJ0husHsS_z5FpFmN8LOa-3BOqUzRuqTNBcrJMWt-7XIQppWgOAch4OjJ0txHS7BxXTLW1qvHcg7lAysG8Ukes2IKXofCA2KIP0DrtZ0OKIYCUK8MXE6hv4ne14fd7NZbgF8Q.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/CLMj6HdcafksfPD7gqj8lvcHtsxsYzPm21sq1soHhrK524jzfHks8S53kLqcIJ70I7XaoWxvZcCdHbDDBBRCfrHejujCCY9fJWhOusoDMBY_OuUwUmlHOOoLvJOopH7mGcT4IgzijqSJuIvyTjiYRrAQlEsJXcgV2mxnQwbAeNoO3S47JGnKfrORuXvDlKFUxmL1k3y2JdiVSfOMgxsyN5bQdkmHDVm5mvxGaMNnbVtcQXHEHxQXrMUuSAv5pRifGHTPVyMl-wBB-tMcAIfCRs_5GwuTQ8D-dqAXlaF13hO8BOcgu8IL8fv0RXyD2pJJ0llEHsiqDExg_sf9lgCxaQ.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/jZc5jud9J1R5m7e28lNCpx0yEd6gJY0s5I-dVVCXVgx-EesYiiAuYlCrEtqd1z5UQKI2exG1xqVfTUVXRVz2xSoAajDVnZIvtBrWphda5LiLqcZGe3-RxzrUyQCY_3iAhsfmLsbpFivTZrboxxFsM8iIm1DRCCAb0lc45rVI1NejB_Rcbr2Yu4Gnb4ylzlldgiIuoKnuXMuYFqHn1WAblMVqYvN5SvbSCfSGNaVHeWmeRG2meCjqczWWZ02-sW1lar4FGmDtetZhMd2MXCfaexJ4ZFe7mDleU-7iU7ThWM77IESBGpvzKYJkhx65CgY-WI6ZJvGj0HSXWZEG0VVhiw.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/OnM7Ybz3fW2-1_-Mdz2Pr2XEukdBJ0FZ2DNX5GvhipkNFBhH0xrXWfNYF3g1hDe3kof1rudQB-hvjf0FpaYn4IEMxU-oWsT4ibTWRXi6GowY5v5H_QPZyRVF3RoawKwyrsnuze8egmm7aZmAV35SBOh0dbdTycLn-1GIE_q0zSVvFJ-w2ax-3jJHZ-8zJxeSANQPGrwdb2tWkAlMMSddnw18B4NLHbzT7Po06T4itC5Ataao6RggkYDDacXYY9YWtwT7Ffzan6kyHXz_DOcfJ4RFHKeIfTZy0lUElDuflzjWAwdLoK_GVq82WjR65iUVz-__7mEVFsjkYfLvfiSqHA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 221435,
-      "message": "در گفت‌وگو با حامد آئینه‌وند، روزنامه‌نگار، از ماهیت مذاکرات میان نمایندگان حکومت ایران و آمریکا در سوئیس و شکاف‌هایِ آشکار درون گفتیم. به گفته آئينه‌وند، جمهوری اسلامی به‌نوعی پذیرفته است که باید با پرونده هسته‌ای و غنی‌سازی اورانیوم خداحافظی کند.",
-      "date": "2026-06-21T15:20:40Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2720,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/DLI5gQt4m7zb_SnP6LR_nvqqIeKEvicPu0eZ3l1odlgFnyRSMm8GOrpKl5ZSOGaO7z1ahijIqT-A_qP52BvFjmUjbSWUTHY4OjuRlru-Og9qeO-YloOMoO38oWuS8kvdhEX1D2_caMn7QNCTRjC5OfotZGwf1dxhrfZNOnrroqqmP07fF-PCW-GFCjDcbVGMogHpyV9gU2z9m67nE-cXv0JO15b7hwd49Y_uW8SZkpe-p9TnsroNvZd7g6-0VKWD8UjDBvQdIkorYr5HW1A_eALnHaQDotSXtjwD4eNn8yTX4RRbHbQKA2-uFgIiAhZ-tMF9nvEwuwdGU5C43OTlBQ",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 221436,
-      "message": "در گفت‌وگو با حسن هاشمیان از گزارش رویترز درباره فعال‌سازی هسته‌های جدید سپاه در جنوب عراق و هم‌زمانی آن با مذاکرات سوئیس گفتیم. به گفته حسن هاشمیان، سپاه پاسداران به‌دلیل اختلاف با دولت مرکزی بغداد و گروه‌های شبه‌نظامی، به سمت ایجاد هسته‌های کوچک و مخفی برای ادامه فشار میدانی رفته است.",
-      "date": "2026-06-21T15:23:19Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2810,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/qBkBb8btRgRGGfzK95QH-objg5V4sMDCVZcv9fJrQiU_LdooxU1MtHBcMxsJ07l6jWhpFZHa6yF6r_EmjkiyMrg46hNisj1QJF2d6fY7taWl3GrC1FG_2mA7FYGuK633mR9Zj355JHPD6JbQIBOKbyRZ_lRCIMt7hE-XugAFeQqayZSERQKCIqwMn7nRh6w3yD6-veaMO7Z4NhlmH_A42ih5RLFUWRCngyzGv5Y0fmW2YHw4pFMzuKM2LEVXB8zfWV0iNzdJ6ZhPJX_i6CKpyOoaxzIWHqRrrGHlnRqGnvtqqO4HfJmSmcL5XZXs3oV53FWsfItFVbLnD3TtzjHryA",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 221437,
-      "message": "اعضای تیم فوتبال ایران برای انجام دومین بازی خود در جام‌جهانی ۲۰۲۶  وارد محل اسکان خود در لس‌آنجلس شدند. تیم فوتبال ایران در این مسابقه برابر بلژیک بازی می‌کند. این دیدار روز یکشنبه ۳۱ خرداد برگزار می‌شود.\u003cbr/\u003e\u003cbr/\u003eاین تصاویر اختصاصی توسط آرمیتا آزاد، خبرنگار، برای صدای آمریکا گرفته شده است.\u003cbr/\u003e\u003cbr/\u003eایران در این رقابت‌ها با نیوزیلند، بلژیک و مصر هم‌گروه است.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
-      "date": "2026-06-21T15:27:30Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2930,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/ZXWzPVvM6aPf8ALTidNxnm7ABk5CVD3JUM7I5ZkjQeyOnXR5nfCqt7yn7yf-DuHKYtUzPE0FV0PBYYjlIYKLqkA4oLCd5zKjR0H25xcGx0Lcv9TGpV_k-8DEXMPWZmwXOZQ4e-bo3U-hEcHV2AnF2-mHJfw0SbpOmyBw0F7yjEIP_rPBd_oVRYDHSZnPGjLHDiwyq26L-jNuUoTEmROI-pL5TzNvIl4FepNe4M3lZCA3SOpB5yXBVcjVwjZH84vMMSsd4BzILlxqo8fENnjLVUpXwUKHiUbOq6LL5tfAhxkQC5SyUy_qUPVF3LuxpZnP1nFdV2vsgMj8NFWJuERmPw",
-          "width": 1920
-        }
-      ]
-    },
-    {
-      "id": 221438,
-      "message": "عباس میلانی، تاریخ‌نگار در عمق میدان: سعی می‌کنم تاریخ ایران را بر اساس اسناد بفهمم. واضح است که طرفداران رژیم، آخوند، استالین و سلطنت با من موافق نیستند اما من باید کار خودم را بکنم",
-      "date": "2026-06-21T15:43:43Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2610,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/jKLOxNI8UHuhavMW7saavBaWcRRAPWQVduRMmEejpH0wqUPyAI5upaVUK7g_K-29FEozqISBPAdoT4RWOOVHRtn0kR1u5c2_w4m1ZDtViMfs2PgegXQ4iuduw7XhsQCIuxm14yZ5JsU9e4VmT_zbiOO_FO-w9LXOPgR4docQcEp92nuT5ZIDjr0WyBhtGcutXy2f7Xt8_8BsAq6p3DzDhnUiESULWI-qQCF07KaJczoC9DZPSU1erAy48S5L-inhPldApBEtM77XmoTjmoAzHA3Qk7Hdr1JyIgDfcilnv0LGKEepSsdzcD7rGu7EqnA9kFHDzDzVG0YP3az_2kIrjA",
-          "width": 1280
-        }
-      ]
-    },
-    {
       "id": 221439,
       "message": "فرماندهی مرکزی ایالات متحده، سنتکام، روز یکشنبه ۳۱ خرداد با انتشار این تصاویر اعلام کرد یک ملوان نیروی دریایی آمریکا از برج کنترل ناو هواپیمابر «یواس‌اس آبراهام لینکلن» بر عملیات هوایی نظارت می‌کند.\u003cbr/\u003e \u003cbr/\u003eسنتکام افزود این ناو هواپیمابر همچنان به فعالیت خود در دریای عرب ادامه می‌دهد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
       "date": "2026-06-21T15:58:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2470,
+      "views": 3170,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -153,7 +39,7 @@
       "date": "2026-06-21T16:13:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2120,
+      "views": 2820,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -172,7 +58,7 @@
       "date": "2026-06-21T16:17:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2029,
+      "views": 2750,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -191,7 +77,7 @@
       "date": "2026-06-21T16:20:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2120,
+      "views": 2860,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -203,7 +89,7 @@
       "date": "2026-06-21T16:24:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2240,
+      "views": 3040,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -215,7 +101,7 @@
       "date": "2026-06-21T16:32:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2200,
+      "views": 3160,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -234,7 +120,7 @@
       "date": "2026-06-21T16:38:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2080,
+      "views": 3050,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -253,7 +139,7 @@
       "date": "2026-06-21T16:51:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1600,
+      "views": 3020,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -265,7 +151,7 @@
       "date": "2026-06-21T17:08:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 400,
+      "views": 2290,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -284,7 +170,7 @@
       "date": "2026-06-21T17:12:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4,
+      "views": 2200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -296,6 +182,121 @@
           "width": 1280
         }
       ]
+    },
+    {
+      "id": 221452,
+      "message": "خواهر بهنام لایق‌پور، از کشته‌شدگان اعتراضات ۱۴۰۱، با انتشار این ویدیو از تخریب سنگ آرامگاه برادرش برای بار چندم خبر داد و نوشته است: «این کار شما تنها نمایش بی‌حرمتی و سقوط انسانیتی ا‌ست که دیگر نشانی از آن باقی نمانده. سنگ را دوباره می‌سازند، اما شرم این کار تا همیشه بر پیشانی عاملانش خواهد ماند.»\u003cbr/\u003e\u003cbr/\u003eبهنام لایق‌پور، ۳۷ ساله، در اعتراضات سراسری ۱۴۰۱، شامگاه ۳۰ شهریور به ضرب گلوله ماموران حکومتی کشته شد.",
+      "date": "2026-06-21T17:13:43Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2390,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/H5dKK0GKeWq9jCKPndROJVaCauzg47qcncHiTyatvPyIe0IiNZkGWUH2YB0hZ-j1nr17hBJ4zJbQOqVd7gQ946wThwtHuolIlacotDW_iqrBM7q16sDi6i9t34TBgCHCUwV3VffPFXy2KZumDX_sdWWgWHEhCtf74Den_XlFEKndHM5DbDI2wQQBKlurQBlNj7FspdUkLpYDdK3-sAmd0rC6M0RHmKPvWXLVZIo2LP408r-UkCKwX44GRIT0iN2_iV2ILHUYdx0F1T7faYgJBNky5J34AKgGHSrlbHM8ACStlPaSHkPW0MrELuNudiBlWwegv0nmA-WhZlHB46slAA",
+          "width": 1920
+        }
+      ]
+    },
+    {
+      "id": 221453,
+      "message": "چشم‌انداز دور اول مذاکرات امریکا و جمهوری اسلامی؛ گفت‌و‌گو با ابراهیم روشندل، دیپلمات پیشین",
+      "date": "2026-06-21T17:22:30Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2130,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/R02vO79dcTCotAtNE_tnlUmtRSHelGrS32vM7CIYv3l0fmEucmrb1kB3kz5qrYTw7-kcP635oxxjgtL84uim7drK6_PI9zhhxRcOuQ3RzMsStBzXyu9p_v_JPLpE4RRDKXO0epmDDoVy4p29bbpoB1yWpfwFEbODwEriapQQp7kYXOEpv44aUP6g1R3muZmRQWxDPc_uveOiDIskfMAyVd7ExU1TIqHMNWbIbqht_dJrqdRCSAvfjsDu08o5RETzXJys1ABHR_Xs_0iRZbgUNnqeav0q9ZEOMNmcEqNL5ZCdC6XhbzoT6HJG87AVuGzEmb_PktYdeP1SNpuesaXqEw",
+          "width": 1280
+        }
+      ]
+    },
+    {
+      "id": 221454,
+      "message": "ایوانکا ترامپ، دختر دونالد ترامپ رئیس جمهوری آمریکا، با انتشار این تصاویر روز پدر را به همه پدران تبریک گفت.\u003cbr/\u003e \u003cbr/\u003eاو در پیام کوتاه خود نوشت: «روز پدر بر همه پدران در همه جا مبارک!»\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-06-21T17:23:57Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2110,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/PvhUbYAOPUO2cWinUv9BhhHVq51D11B6hbs4yiH6BTjnIkUEHywmWgGa0hf1fhzl8A-EB8Vm92GMbbtkiDUbQBearmOthX6WN2apvvXwGV2NScD2puugqG7C1qTdumMzuC6etfC1il3wzTooJnSC95YOVeFvFptcoaIYagvUNQT2XYv9A3iDCFIF3ela5sX3UDBaU0UheX6tlADGj_jX_AnWTWMOovGl0xqiCpSfdGY9d-b68l09uPsLQEkcLH09zpNgLBcIlM-DOZ1iUUgF3WGxC3ZKWHbxkAsxN6jyImtXmez4FUulCTJRvpa1arxSqG9NO-Y6ALtGOZ7PeKlWJw.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/ssKYaiPSftTyrgsIrt2zu3f2cdDpj-yJo_9M6F5CTzvYkexUX97ifvcqikf3acX-M8WGiy98YUOfJd1Cp6emFlK8c1f-yODKLQlBPp4wJ_f5_3iLKoV_B-WsWh6m6UKf_CQNvdKnXhsZc3iCRckgQm4w0uTcKGbbXKzi94mimpeLJHKgD41ftx6e8ZPfZRZsVITiSEXtM5V3y_wUlbfiO2Mh3ZMhup1m5Ka54uHsLJAHI0364bqNQoTTofkwqskT5l7Q2L9ZY4HJ86D30B3NY-hYreMmdUG8K2HKiGORdT3y9d1obrYUN3I9kNTZBsORDgo9n99gEP9aMvcQb5JXlw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 221456,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003e انتقال یک معلم بازنشسته به بند محکومان جرائم خشن؛ هشدار درباره سلامت آمنه بیرقداری\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eمنابع حقوق بشری می‌گویند که مقامات قضائی جمهوری اسلامی آمنه بیرقداری، معلم بازنشسته و زندانی سیاسی ۶۱ ساله محبوس در زندان وکیل‌آباد مشهد، را از ۲۸ خرداد، برخلاف اصل تفکیک جرم، به بند محل نگهداری زندانیان متهم یا محکوم به جرایم خشن و سنگین منتقل کرده‌اند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/convicts-ward-women-prison-retired-teacher/8163233.html/?nocach=1\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/convicts-ward-women-prison-retired-teacher/8163233.html/?nocach=1\u003c/a\u003e",
+      "date": "2026-06-21T17:48:18Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 893,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA"
+    },
+    {
+      "id": 221457,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eرئیس ستاد کل ارتش اسرائیل: برای آغاز مجدد اقدامات تهاجمی علیه حزب‌الله آماده‌ایم\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eرئیس ستاد کل ارتش اسرائیل می‌گوید ارتش این کشور برای آغاز مجدد اقدامات تهاجمی علیه حزب‌الله آمادگی دارد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/idf-chief-says-ready-to-assume-offensive-position-in-lebanon/8163214.html\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/idf-chief-says-ready-to-assume-offensive-position-in-lebanon/8163214.html\u003c/a\u003e",
+      "date": "2026-06-21T17:49:50Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 859,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA"
+    },
+    {
+      "id": 221458,
+      "message": "گفت‌و‌گو با سروش مظفر مقدم، نویسنده، درباره ادامه بلاتکلیفی بازداشت‌شدگان اعتراضات دی و افزایش فشار جمهوری اسلامی بر آنها",
+      "date": "2026-06-21T17:56:10Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 287,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/HpTVvFyTkMA5SvLZok1UKfuf8hU9gNQMNOCs-gHowYgwj8PwUENRy6Pdu3fs7TxXDCY8QcAEh-1G8UNyh4sGeRCcgJoDzJhrU22aLTqAyxPm0KHrQy6w-OCnyW1d3zHrqStWHmGfZx5EOLYUsfz0YmjynyVncJnWXvyuX_e98crhi1E_46SB_5QYdPOgPz9Z3lFXJP8oAgNNOKtG8IT2H2jRmDn2yT_SZASxS0WD0rnYi-koQt-XsUUYqw-nfslnbfkeFcj03IaziOKPrwD9NRID-BDrrCAiGlhkTEUdhrBM0lC_1jv9QzAORN7c-il8cLGUtVcIJq3IhJ5Qr_LsWw",
+          "width": 1280
+        }
+      ]
+    },
+    {
+      "id": 221459,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eارتش اسرائیل: منتقل‌کنندگان پول به سازمان تروریستی حماس را کشتیم\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eارتش اسرائیل اعلام کرد تروریست‌هایی که در شبکه انتقال منابع مالی معادل ۱۶۹ میلیون دلار به سازمان تروریستی حماس نقش داشتند را در نوار غزه کشته است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/idf-says-it-killed-hamas-capital-conveyors-in-gaza/8163174.html/?nocach=1\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/idf-says-it-killed-hamas-capital-conveyors-in-gaza/8163174.html/?nocach=1\u003c/a\u003e",
+      "date": "2026-06-21T17:59:42Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA"
     }
   ],
   "last_updated": 0
