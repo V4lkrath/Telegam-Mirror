@@ -13,7 +13,7 @@
       "date": "2026-06-20T13:14:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27000,
+      "views": 27300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -67,7 +67,7 @@
       "date": "2026-06-21T09:45:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18500,
+      "views": 19000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -86,7 +86,7 @@
       "date": "2026-06-21T09:45:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20400,
+      "views": 21100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -132,7 +132,7 @@
       "date": "2026-06-21T12:22:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19700,
+      "views": 20700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -151,7 +151,7 @@
       "date": "2026-06-21T17:30:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14300,
+      "views": 15900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -161,6 +161,25 @@
           "type": "video",
           "url": "https://cdn4.telesco.pe/file/dMwyowIYdFMaF7-a2IJVG72uobdUe77OAaupYNruKRal1FHbxllcco5vqSfhK2p_IPiBblBLtiH4YU_CNucJiLJlLDB_GW7n4DLXKPrHYyt8ut1KHvMaMrkfpKLDqx-_I4CAWY2LuSkZcIfC42h6s_rnbhlQOwhJmPpT8j83agJpbwmnn-iIoCt6hvr5_fc63GI-u_g2IciUn7-BDr9oEF5jvkLFuKCWGMW_GIZH-Rqhe9e5VAWxLpAm9kbC41SG4YcNlNMLfDcY65r9_m_IKgQmeppVcOZTwoDMSt-_bXA8sTlum-cvrnGuoQO_2d1ES2hZls-FIdS7fOBlXs_JwQ",
           "width": 406
+        }
+      ]
+    },
+    {
+      "id": 106196,
+      "message": "در این قسمت از پادکست منوتو، به نبرد پنهانی بر سر آینده جمهوری اسلامی نگاه می‌کنیم؛ جایی که روحانیون دیگر بازیگر اصلی نیستند و قدرت واقعی بیش از همیشه به دست شبکه‌های امنیتی، نظامی و اقتصادی افتاده است.\u003cbr/\u003e\u003cbr/\u003eسؤال اصلی این است: بعد از مرگ نسل اول حاکمان، چه کسی ایران را به ارث می‌برد؟\u003cbr/\u003eفرماندهان؟ شبکه‌های اقتصادی؟ چهره‌های پشت‌پرده؟ یا مردمی که سال‌ها از این بازی قدرت کنار گذاشته شده‌اند؟\u003cbr/\u003e\u003cbr/\u003eاین قسمت درباره فروپاشی ناگهانی نیست؛ درباره چیزی خطرناک‌تر است: نظامی که هنوز سر پا مانده، اما درونش جنگی آرام بر سر میراث قدرت آغاز شده است.",
+      "date": "2026-06-22T06:47:56Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1880,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://t.me/ManotoTV/106196",
+          "width": 320
         }
       ]
     }
