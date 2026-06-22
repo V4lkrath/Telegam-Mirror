@@ -3,93 +3,17 @@
     "id": 0,
     "title": "Farsi VOA",
     "username": "farsivoa",
-    "photo_url": "https://cdn1.telesco.pe/file/n943Jtu8KnxA2LIwsa7JDoZXLI_6xx2mnc99yCgjiguWrtyvEMJIU4aZg2Fuz6tPK5rqw-9dgtE8zFv17YFaMTfF5YQjD3O0RV-cXPY_Tc9UYK3Q3J1IrqXshnjNPhgMnNyCxHL7kzdfXTr-h_J_XCU_pMKZzNrkEQ3I8ST2s7X6nT69SnpKppGGPTcOhwpvW_3XpKtfygL0CbaJqdx1QT2ypKyrZhRIfcY6r7ZoVKR311byYZ3GzS_Z8ZEXz4oiEbAKtkssFcF4HNKH03_vlCw7IdKQGPP6BW_vhNHPjHqmghS6aGIGMzfqYv2qS3rG2tfPDdlYxe5sW2x5_x4GXA.jpg",
+    "photo_url": "https://cdn1.telesco.pe/file/gzFtlHnfQbnovzTvzp-I-yjaG61nIhFGgWCuCz_0jpsrbVBZv-pN6O6hNehrZdbW7QddGx2WwJK8lcgTBcYnfK4jFt3u0_mIDxcq901Y8sVMH_Nx9E6dQyhN_udzj0TbvffXuflOJ3YQAuGDn04o5iVjcqu949EAAcY_KswT2nAaVpbwPh1bHAECss0y3UOz99eC4SHar1_VPlFv0wwPaJ6Rf5JeRGDjDLtAOs3Ypuzr43YXc_VL9B8HxAXkoUSdMPoUwIMdU7UTPVAvt4V5fdJyzYJTa-HLG3-eYvwJ5-7GF0aFPWu_5K5eZ9zgfoFIzORRrMD_tRC-quH8eNR0qA.jpg",
     "description": "تنها کانال رسمی بخش فارسی صدای آمريكا\nعكس، خبر و فيلم هاى خود را براى ما بفرستيد:\n@sendVOA"
   },
   "posts": [
-    {
-      "id": 221468,
-      "message": "مهران براتی: امضای این یادداشت تفاهم به معنای پایان تخاصم بود",
-      "date": "2026-06-21T18:46:51Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4010,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/Y0rHeKOD52xO6sdz19zAFhXnmP8eq-SYZe9NX8ZlIICooXEIZ5uDf4_M6tYz9ZbFyuquRXkvGezz4eep50g6a8o6RyVx6tCkbA95SD375N4_9mpixWqojz9qtpF5MAfsX4M2rLuY9auL_xACwSW1RLa6xKtJtWPQqXyVcfNHphYJByTzpEEGkdDnklDZ5rLm5NJT49vSHnHBR2tcMfJVzjC9u9OAg5oyzdfbKP9TF0cK1ARbrFcukYGTOh0dH5TJVt2nBRPkkhln3oyphl6leFVFjNhsJsVjzGtBpohCcjc-TFSwQsaynbGJ1y5-Ix54TDWIW5QcKBSX5nnJWHoJpw",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 221469,
-      "message": "دامون محمدی در برنامه تفسیر خبر: پرزیدنت ترامپ به دنبال سهم جدی در تنگه هرمز است",
-      "date": "2026-06-21T18:53:21Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3610,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/W0yOyotHuifbaNlaJmcXV5ID1IGuUZZHf9f4DywW837rH1WoqeEtKQjZoBIvkcEu1Ct1MGxQNUZkjD2zC8wRuoUhL5H5w8DwoZEbu9fk7uK1ZTfo8kisEuLxzs-mQtajzJy-MSmCjl89MD8Wpz10lE4vqa_K-xB93zCbFie6k6NK5sOcaRLdaeqf2IIpoxiW_xk8V50n6O04MoRaedcN0Kgsg8tIE2zi9Rvt1URJJWp_JtR1z3cMPtSNNu6Ga2vWj3k9hMnm6sQ_JGbTZHESPfOyELNFnS9LSmfsp9iNNXua0RQ8ZpNRSWUvJ7-aFhd7SZDhfoh7eCoDLmGERK-RAg",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 221470,
-      "message": "سخنگوی ارتش اسرائیل و سخنگوی شاباک در یک بیانیه مشترک اعلام کردند روز جمعه «زکی یوسف محمود ابومصطفی»، تروریستی را که در ربایش «یگیل یعقوب» در ۷ اکتبر نقش داشت، از بین برده‌اند.\u003cbr/\u003e\u003cbr/\u003eبنابر این بیانیه، ابومصطفی، فرمانده نیروهای نخبه در گردان خان‌یونس سازمان تروریستی جهاد اسلامی فلسطین، در جریان کشتار ۷ اکتبر به کیبوتص نیر عوز یورش برد و در ربایش یگیل یعقوب ۱۲ ساله نقش داشت.\u003cbr/\u003e\u003cbr/\u003eسخنگوی ارتش اسرائیل اعلام کرد اخیرا ابومصطفی طرح‌های تروریستی متعددی را علیه نیروهای اسرائیلی پیش برده بود. او تهدیدی فوری برای نیروهای ارتش در منطقه به شمار می‌رفت و در یک حمله دقیق از پا درآمد.\u003cbr/\u003e\u003cbr/\u003eهمچنین در حمله‌ای دیگر، «محمد اوسامه عبدالعزیز سبع العیش»، تروریست نخبه از سازمان تروریستی حماس نیز حذف شد.",
-      "date": "2026-06-21T18:55:35Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3950,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/mWQsL41EeOunz53FqK-VRe-deFGWiSDXUKYYs6JP74oVgtQ53i_vZ60C0kcr9xSgCuRXjF2kH-K4UYtuMOhMT6YB5LJdU3wvbS2w3qihCkM9AlPkUfl5jGqzvLCX7o0Yt1M7BK-ZUPc0AYAmBR5xlLdjA6a0O3LUmseHdQgtO39pOe9__mUBuSuZHemfkfbyq0QlocPLcRWz82KG-VqeRh2qtppMOEbduY2MAsxn5YtynR8t4O91PdG2_YaDhkuWii4rbdXXF4e1Ewv1oCtyiDKFEqtB-wRs5nIeLX7Ye_aQmcYAaTEus7EseKbpZEmzTV6SQWR-FGYU6yUICqbc4g",
-          "width": 1920
-        }
-      ]
-    },
-    {
-      "id": 221471,
-      "message": "همزمان با مذاکرات سوئیس؛ اروپا می‌گوید پرونده حقوق بشر ایران نیز باید در کانون توجه باشد.",
-      "date": "2026-06-21T18:58:21Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3670,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/VySXPRhej2zxYk19uTvmddfpLJwnWzJHjo9lHOPfLVYsinYpTuRhUJ5j7_qgFJsMZN6qLKyri0o7aHYQvWIiHzxUvadrr2Dx_lP3D--jBQ1i8LJu7A0dc39e2UBl6cNpk9MQ1DM6nCfEh4qnl6h12ueS6BbfolCYB0-1KCXKnFgXbXV4bFZk5dGwxQHtQifMK3IcsLpiu-PDBVUig2NXLHXl9ByuEfXeJ5L-85j3FeKzTQTvMG2GsOvAOTAeufB5H462fwq6pVi1nroLOABqjNvlo0jgyRAwXP5EYrD7p6qzYAlOlvlrzIi9ff6_nYADiqAqFNrd_JxD4c73m3T1tA",
-          "width": 1280
-        }
-      ]
-    },
     {
       "id": 221472,
       "message": "در گفت‌وگو با سیامک شجاعی، اقتصاددان، از محدودیت‌های واقعی گشایش اقتصادی پس از تفاهم اولیه با آمریکا و فاصله روایت رسمی با واقعیت نظام مالی ایران گفتیم. به گفته سیامک شجاعی، تا زمانی که جمهوری اسلامی به گروه ویژه اقدام مالی نپیوندد، نمی‌توان انتظار شکوفایی واقعی اقتصاد و بهبود زندگی مردم را داشت.",
       "date": "2026-06-21T18:59:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3770,
+      "views": 3880,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -108,7 +32,7 @@
       "date": "2026-06-21T19:10:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3990,
+      "views": 4130,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -127,7 +51,7 @@
       "date": "2026-06-21T19:15:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4250,
+      "views": 4400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -139,7 +63,7 @@
       "date": "2026-06-21T19:24:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4610,
+      "views": 4760,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -158,7 +82,7 @@
       "date": "2026-06-21T19:40:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5250,
+      "views": 5430,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -170,7 +94,7 @@
       "date": "2026-06-21T20:15:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4580,
+      "views": 4790,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -189,7 +113,7 @@
       "date": "2026-06-21T20:45:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4570,
+      "views": 4830,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -201,7 +125,7 @@
       "date": "2026-06-21T21:06:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4350,
+      "views": 4630,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -219,7 +143,7 @@
       "date": "2026-06-21T22:12:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2090,
+      "views": 2450,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -231,7 +155,7 @@
       "date": "2026-06-21T22:17:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2020,
+      "views": 2380,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -250,7 +174,7 @@
       "date": "2026-06-21T22:19:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1990,
+      "views": 2390,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -269,7 +193,7 @@
       "date": "2026-06-21T22:33:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1600,
+      "views": 2029,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -288,7 +212,7 @@
       "date": "2026-06-21T22:47:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1340,
+      "views": 1880,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -306,7 +230,7 @@
       "date": "2026-06-21T23:01:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 792,
+      "views": 1410,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -325,7 +249,7 @@
       "date": "2026-06-21T23:17:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 350,
+      "views": 1110,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -344,7 +268,75 @@
       "date": "2026-06-21T23:27:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 71,
+      "views": 1090,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA"
+    },
+    {
+      "id": 221488,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003eپیام واشنگتن به بغداد: حشد الشعبی از جمهوری اسلامی جدا شود و ورود فرماندهان سپاه به عراق ممنوع است\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-06-21T23:35:37Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 953,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/CRNZwiXJlDpPP00gu6FoBjnSEkOxFK1tIYBmhUP1XbbRfRcQexehntFByZNhI3gZoUiySgu58l0SxyN8uDMAXpKtQMi1hI9QNcR6BHZ0cuIYgIZMlZiSzyhcURxdbx2Ix-e1BGif7YjG7JY-6nKj4RUhgklwX_SposvjpEIRJJYJcHC0nMgldcFtMm_dM0r6J_X9uxQ-OOFv7IF1y7yCUz_9CY3Dc6aNNIUvxz7lFCYDn3Z0R9_6hiiyCJ8r2p_PNBxZej1IEia-RmjFoCoqPaJuRDh5XAnNnin9v8cSSnljamR_YpmQHAn3qWeL2qVl1Lyu_3k-rdNPgdKz7Evjyw",
+          "width": 640
+        }
+      ]
+    },
+    {
+      "id": 221489,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003eستاد فرماندهی مرکزی آمریکا (سنتکام) با انتشار تصویری از «گشت‌زنی طبق روال» دو هواپیمای تهاجمی ای-۱۰ نیروی هوایی آمریکا بر فراز خاورمیانه، گفت نیروهای آمریکایی همچنان «در آسمان، زمین و دریا» در سراسر منطقه حضور دارند.\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-06-21T23:48:55Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 761,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/k3dbySXY9DjiT7HduyEi1ibD9z5JNRT0LTJOxNIZAT9ubkdsphWS0NSA6K6MNcEnCZQoHVaaiOjeFpiQ80w8YgXLzE66sldfpmfH-ZBYkSIlYCxvaOnOGLW-rqsXmuAitTlPntashGfv4bTxee0fi2jqAJ-5zO3vn4Kzl7u70P6LA_bIjht_mkNDS23cWZj1ibVU3ezNInM3mFTtV7KU03CSh7AbJ0TZvgmSQaUoLHeU47wEqZ9feksfPZA39lKGB8VjsWKoaGV6ui2J5DxUzVN3gkT2CYgZX5H9ZSbtU4JdANhSnCnvVBt-ql9U5w0uCCpB8gkv115h6JHS3iM1XA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 221490,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003eرویای گل اول تیم ایران در یک لحظه دود شد؛ گفت‌وگو با کوشا دلشاد در زمان بازی ایران با بلژیک\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-06-21T23:55:25Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 649,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/kfAV1NBh2W1lSsKenpeWqkJjIcRL1c0Jdqjbx0qq1UBF8Vrl-5JDXpGFlQBkAfFKrXL_x3wIY0Bi6yO25UOWYjxEfMP78WtmQmJrtQFNi6QqHSGCVP8rTHGrlA46hVhAuMYfRSbWDZLGH-1KKG0-82oX6XT_28gWLqr6vgI6-Hpm-mkhJwHVvdPD-0LKfxyETZ5zDYyNtC-_CNqlvO05Pty5NkZGWTlY_k7irEFQYiKnwNPm7hYxNx1WPV1J9Q5uWygIz4GZw_w2ExKfrTg46Wg4i9oegzOMpRdAErlcHB4-tUtu--t9ev0kWItTonv1RQUcy8192TuhKagf1xPQWA",
+          "width": 640
+        }
+      ]
+    },
+    {
+      "id": 221491,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eترامپ: «بزدل‌های فاسد و بی‌اخلاق» نیویورک تایمز باوجود از بین رفتن توان نظامی جمهوری اسلامی و تورم ۲۵۰ درصدی می‌گویند «چیزی تغییر نکرده» است\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eدونالد ترامپ، رئيس جمهوری آمریکا یکشنبه عصر از نیویورک تایمز بابت نوع پوشش اخبار مربوط به عملیات نظامی علیه جمهوری اسلامی انتقاد کرد و گفت که از «گزارش‌های دروغین» این روزنامه نیز شکایت خواهد کرد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/8163282.html\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/8163282.html\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-06-22T00:01:56Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 572,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
