@@ -8,36 +8,12 @@
   },
   "posts": [
     {
-      "id": 4001,
-      "message": "کانفیگای کلودفلر روی ایرانسل واقعا دارن بد کار می‌کنن",
-      "date": "2026-06-24T16:11:33Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 34500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 4002,
-      "message": "توییتر هم دیدم چند نفر گفته بودن اما گویا منطقه‌ایه",
-      "date": "2026-06-24T16:12:13Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 34700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
       "id": 4003,
       "message": "بیلد کامل اندروید SenPai Scanner، با تشکر از \u003ca href=\"https://github.com/Hidden-Node\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eHidden-Node\u003c/a\u003e عزیز",
       "date": "2026-06-24T17:40:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 40900,
+      "views": 41000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -49,7 +25,7 @@
       "date": "2026-06-24T18:37:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32900,
+      "views": 33000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -57,7 +33,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/NjwAmULcexwCZMRbjiZuTDCjV2mo_tRphE8MtwJmuRkLkaF-8N2wD7FslxIUjNT0gyZ5dooQs2CVm9B81RbOyUGwpbAakhh09nV0AEPTz5dAbVZZvbsTUGLSQd1ZQDX8EhC370SskAkJ8M6EpRL4MwWBrXo_N4Pu1lYQV1Lil0BwVB-wAoosJHFi01vQoi_nf-_XrJUDZw9igt70pYvpsmg-L6XUz3geBoJqzPjlOyAX_WUIKwnpuwt6srt8LfgT-IJ7CCCWQs4sCDwxpBgOPFgh6tVO2zfm8MzdRZQZGKg3YMgPzXQvSZ68UqnmW4ow9k_gNP9syYfDwdNHT_Sokg.jpg"
+          "url": "https://cdn1.telesco.pe/file/d4_Fxm3hl7cWNB0tIwt-KMZigLEXjdb4eXL1WUy80dgxRDuekrlMNOJSCU4HIoCm9z0eD0ugFS77vjCIWOKorOUUzPW-KXE2CS7v_KIAvEsiJQOsgsdl7IyrfQyMn8_yYEjw3nY9zBS2VLVegAjChDc9wyocs15lfAJxbTJLaZWLL6iPTo4Qbo-Qx0IvsKOdi_k4tf7v6KfOq6SFWr6L37GoCcvFo5IjeiffhgbLsmWC4pqV1NGg7aa8kFDsyieBs9_V8FyK_MTNi7Io7WKiXetSiX_twcZTSn1kFPT4ki4tfurjbeeePw35SHXejmVt8ilsyaLoOBkJtlH39RNOnQ.jpg"
         }
       ]
     },
@@ -67,7 +43,7 @@
       "date": "2026-06-24T18:38:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31100,
+      "views": 31300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -79,7 +55,7 @@
       "date": "2026-06-24T21:02:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31400,
+      "views": 31500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -101,7 +77,7 @@
       "date": "2026-06-24T21:15:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30400,
+      "views": 30500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -113,7 +89,7 @@
       "date": "2026-06-24T21:17:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30300,
+      "views": 30400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -125,7 +101,7 @@
       "date": "2026-06-24T21:19:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 34500,
+      "views": 34600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -143,7 +119,7 @@
       "date": "2026-06-24T21:21:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 35000,
+      "views": 35100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -155,7 +131,7 @@
       "date": "2026-06-24T23:28:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33700,
+      "views": 33800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -173,7 +149,7 @@
       "date": "2026-06-25T09:21:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28700,
+      "views": 29200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -185,7 +161,7 @@
       "date": "2026-06-25T12:14:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26400,
+      "views": 27100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -203,7 +179,7 @@
       "date": "2026-06-25T12:36:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26800,
+      "views": 27500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -221,7 +197,7 @@
       "date": "2026-06-25T13:23:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23600,
+      "views": 24800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -233,7 +209,7 @@
       "date": "2026-06-25T14:56:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18300,
+      "views": 20100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -245,11 +221,48 @@
       "date": "2026-06-25T16:53:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11300,
+      "views": 14100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 4021,
+      "message": "\u003ctg-emoji emoji-id=\"5447246917744478110\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E298A0.png\u0026#39;)\"\u003e\u003cb\u003e☠️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eآموزش استفاده از هوش مصنوعی MiMo Code + پروژه‌ی ساخت ربات تلگرام با AI\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5438571934210082705\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eلینک‌های استفاده شده توی ویدئو: \u003cbr/\u003e1-فقط گروک استفاده شد. ویدئو رو ببینید متوجه می‌شید: \u003ca href=\"https://grok.com/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://grok.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e \u003ctg-emoji emoji-id=\"5447644863644320013\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD90.png\u0026#39;)\"\u003e\u003cb\u003e⭐️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e توی این ویدئو:\u003cbr/\u003e1- یاد میگیریم که چطوری از هوش مصنوعی استفاده کنیم تا ابزارهای مختلف رو نصب کنیم روی سیستم عاملمون\u003cbr/\u003e2- ابزار MiMo Code رو نصب می‌کنیم\u003cbr/\u003e3- کار باهاش رو یاد میگیریم و مود‌های مختلفش رو بررسی می‌کنیم\u003cbr/\u003e4- یه ربات تلگرام تیک‌تاک دانلودر وایب کد(5 دقیقه) و وایب دی‌باگ(50 دقیقه\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e) می‌کنیم\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5447236223275910637\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA48E.png\u0026#39;)\"\u003e\u003cb\u003e🤎\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e اسپانسر ویدئو:\u003cbr/\u003eشمع‌های دست‌ساز لیرا: \u003ca href=\"https://t.me/liracandles\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/liracandles\u003c/a\u003e \u003ctg-emoji emoji-id=\"5267102644886853973\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5447644880824181073\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e پیش‌نیازها و نکات مهم: \u003cbr/\u003e\u003ctg-emoji emoji-id=\"5794182096603847292\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/31E283A3.png\u0026#39;)\"\u003e\u003cb\u003e1️⃣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eهمه‌ی مراحل رایگانه و نیاز به پیش‌نیاز یا هزینه نداره\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5071261477743100913\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B9.png\u0026#39;)\"\u003e\u003cb\u003e📹\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://youtu.be/7qYPK3dGoK4\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eتماشا در یوتوب\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e پارت 2(بخش پروژه‌ای که می‌سازیم): \u003ca href=\"https://t.me/MatinSenPaii/4022\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/MatinSenPaii/4022\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069054607582298852\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B0.png\u0026#39;)\"\u003e\u003cb\u003e💰\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://matinsenpai.pages.dev/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eدونیت\u003c/a\u003e",
+      "date": "2026-06-25T18:06:55Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5700,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/UPTzXkDhsL1w3qyTYuThwjp4E3vBLgue91SX7O5uFAf7LQxNlUqOM99B6_VPlFHQmg23viofizj2Pkmy7Sd0g0BvaXziICgLkFN-gdBdIXegIBzzvV_X5FxUway5Eo1_sVm_CpINjHwpIZH7E_gfLuD-f3Y-Z_ZaZZAdEDjUteMGNrWOEL04cMFIAfTWwXTOscrffUx3GF72b1l740IZmFXUB5ocfxbpa3v_m7smPufyCEyevuKakNqFkxpcrDaFBQWOzc41JU2jFOnH68q4H_h0GijuE61VKpRkzV-nw6XWUMtX4Ua3e1ounkdWoVNzhMyEjrg1NEDVRCbsrR4DrA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4022,
+      "message": "پارت 2:\u003cbr/\u003e\u003cb\u003eآموزش استفاده از هوش مصنوعی MiMo Code + پروژه‌ی ساخت ربات تلگرام با AI\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eپارت 1: \u003ca href=\"https://t.me/MatinSenPaii/4021\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/MatinSenPaii/4021\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23MiMo\"\u003e#MiMo\u003c/a\u003e",
+      "date": "2026-06-25T18:09:26Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4880,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/XUnxHn03D5oKpEt1iSPPssGoQgCRSB6qCjupSFJVXwcv67P66HIDz7u3UW4DVUo5Y1IYBPPJRh6x0oavjJtPMW6lCMDPrQDuolMuJrck_ZRoQFuK3KhWAKp0BoJnBsWZ-AjZfCs3d5zEIm5hrL7iJZMjD7miHwtAW20aaJtkfBUnxE7KhlVuEMim3JvSZCCDrsNJu-_GBuZqqwqbEFZXsdJobkZmoddLDjM1kgcmX-m2EHRP4dKCFSawrDidN6dAic3qBNuFe4oKoz5we3vbq2_-EWoIaglGjEfm4MN5gEudSeGVBTfsQV21_DExcAniFBTGsPZwBcLHp6_Xi5C2Ag",
+          "width": 1920
+        }
+      ]
     }
   ],
   "last_updated": 0
