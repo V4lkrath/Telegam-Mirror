@@ -8,42 +8,12 @@
   },
   "posts": [
     {
-      "id": 4014,
-      "message": "خیلی بیشتر از اینها از دستش بر میاد، منتها فعلا ازش چیزای ساده می‌پرسم و می‌خوام. مثلا داغ‌ترین اخبار ai هفته‌ی گذشته رو بگرده و لیست کنه\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9881.png\u0026#39;)\"\u003e\u003cb\u003e😁\u003c/b\u003e\u003c/i\u003e که خب چت‌بات عادی هم می‌تونه انجام بده. فرقش رو فردا بهتون می‌گم",
-      "date": "2026-06-24T23:28:08Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 35400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/nz_Pscwo3BgQ-BAUOFO3uXYNiJcq3eek4tCvYvxx_ChlEw5uZsQHVTAxyi70kB-iWoU-ILJVqHxtvMESY2Pxjo1rbWcqivfunVW1uk0P5xc_l6a5r4TNt7c3wBwHlhp2gGeCehLzvdvTDhym2fRteJm7hkSRmjVoua4UVk22MqGxNwDCEOmlgWIQGfKkFfwNjXNpiPQTpDpRy081lr7FxKUH3pmpNrTOfyCJpYzqp7CC_aYn0PJYJRjhR4FxofVcg3SvvDnZZM39sS8OGCFM59DfiCJpklVFbE6o-ZXe2D4ZUts0HtH2w6S6Q34XdD9EprfU6cI1289OSTvv-jZE8Q.jpg"
-        }
-      ]
-    },
-    {
-      "id": 4015,
-      "message": "خب خب، دیروز فرصت نشد؛\u003cbr/\u003eامروز Hermes رو یه معرفی کامل می‌کنم",
-      "date": "2026-06-25T09:21:15Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
       "id": 4016,
       "message": "\u003cb\u003eهرمس — ایجنتی که با خودمون رشد می‌کنه\u003c/b\u003e\u003ctg-emoji emoji-id=\"5274090977584234781\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EA8.png\u0026#39;)\"\u003e\u003cb\u003e🎨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003eاین Hermes Agent که دیروز راجبش صحبت می‌کردم، یه ایجنت(دستیار؟) هوش مصنوعی اوپن سورس هست که اواخر بهمن امسال منتشر شد(که ما هم بعدش نتمون قطع شد و از دنیا عقب موندیم برای همین من تازه کشفش کردم) و توی کمتر از چهار ماه بیش از ۱۸۰ هزار star گیت‌هاب گرفت — یعنی سریع‌ترین رشد یه پروژه متن‌باز ایجنتی توی ۲۰۲۶. مجوزش هم MIT و کاملاً رایگانه.\u003cbr/\u003eتفاوتش با بقیه ایجنت‌ها اینه که نه صرفا یه دستیار کدنویسی تنهاست، نه یه wrapper ساده دور یه API. هرمس روی سرور/کامپیوتر تو زندگی می‌کنه، از هر تجربه‌ای یاد می‌گیره و هر روز کاربلدتر می‌شه.\u003cbr/\u003eمثلا دیشب که من بهش گفتم جدیدترین اخبار فیلم و سریال رو برام پیدا کن.\u003cbr/\u003eرفت که توی گوگل سرچ کنه، اما گوگل بلاکش کرد و نتونست. \u003cbr/\u003eبه جاش از یه راه جایگزین استفاده کرد.\u003cbr/\u003eدفعه‌ی بعد، که اینجا پستش رو گذاشتم: \u003ca href=\"https://t.me/MatinSenPaii/4014\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/MatinSenPaii/4014\u003c/a\u003e\u003cbr/\u003eبهش گفتم که خب جدیدترین اخبار ai رو بیار\u003cbr/\u003eدیگه نرفت سراغ گوگل. چون یاد گرفته بود که گوگل روی آیپی من بلاک می‌کنه، برای همین مستقیم از ابزار جایگزینش استفاده کرد. که ما رو میرسونه به اولین و بهترین ویژگیش:\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5472248119942979457\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA494.png\u0026#39;)\"\u003e\u003cb\u003e🤔\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e حلقه یادگیری بسته — قابلیت اصلی\u003cbr/\u003eاین مهم‌ترین ویژگی هرمسه. بعد از هر اجرای task، هرمس یه لایه ارزیابی اضافه می‌کنه — نتیجه رو بررسی می‌کنه، الگوهای قابل استفاده رو استخراج می‌کنه و به صورت فایل‌های Skill ذخیره می‌کنه. دفعه بعد که مشکل مشابهی داشته باشی، به جای اینکه از صفر استدلال کنه، مستقیم از Skill آماده استفاده می‌کنه.\u003cbr/\u003eادعای عملکردی‌شون هم اینه که ایجنت‌هایی با ۲۰+ Skill خودساخته، task‌های مشابه رو ۴۰٪ سریع‌تر (از نظر مصرف token و زمان) انجام می‌دن — که توسط TokenMix هم تایید شده.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5472386598278536459\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939A.png\u0026#39;)\"\u003e\u003cb\u003e📚\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e همه جا هست، با یه حافظه مشترک\u003cbr/\u003eتلگرام، دیسکورد، اسلک، واتساپ، سیگنال، ایمیل، CLI — یه ایجنت، یه حافظه، همه‌ی پلتفرم‌ها. به علاوه دو ماه پیش هم پشتیبانی از iMessage، WeChat و اندروید (از طریق Termux) اضافه شد.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5425094988260188065\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92AA.png\u0026#39;)\"\u003e\u003cb\u003e💪\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e ابزارهای قدرتمند built-in\u003cbr/\u003eجستجوی وب، اتوماسیون مرورگر، vision، تولید تصویر، text-to-speech و استدلال چندمدله — همه از طریق یه اشتراک Nous Portal یا api ای که شما می‌دید بهش(اگر این قابلیبت‌ها رو داشته باشه مثلا جمنای) قابل دسترسه.\u003cbr/\u003eهمینطور با Nous Portal، OpenRouter (بیش از ۲۰۰ مدل)، NovitaAI، NVIDIA NIM، Xiaomi MiMo، xAI/GLM، Kimi، OpenAI، Hugging Face یا endpoint شخصی خودت کار می‌کنه. با دستور hermes model بین مدل‌ها سوئیچ می‌کنی — بدون تغییر کد، بدون lock-in.\u003cbr/\u003e\u003cbr/\u003e:\u003ctg-emoji emoji-id=\"5472100751025118421\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9386.png\u0026#39;)\"\u003e\u003cb\u003e📆\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e زمان‌بندی طبیعی\u003cbr/\u003eزمان‌بندی با زبان طبیعی برای گزارش‌ها، بک‌آپ‌ها و briefingها — بدون نظارت، از طریق gateway اجرا می‌شه. یعنی می‌تونی بگی «هر صبح ساعت ۸ یه خلاصه از جدیدترین اخبار ai بفرست پیوی تلگرامم» و کار تمومه. مثل n8 n سر آدم کچل نمیشه.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5424767999515040992\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8F86.png\u0026#39;)\"\u003e\u003cb\u003e🏆\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e اپ دسکتاپ (تازه اومده)\u003cbr/\u003eبیست روز پیش، Hermes Desktop به صورت public preview با نصب‌کننده‌ی native برای ویندوز، مک و لینوکس منتشر شد. اپ دسکتاپ از همون core مشترکه — config، API key، session، Skill و حافظه رو با CLI و gateway به اشتراک می‌ذاره. یه fork جدید نیست، فقط یه رابط گرافیکی روی همون ایجنته.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5472279778146918060\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F988E.png\u0026#39;)\"\u003e\u003cb\u003e😎\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e حریم خصوصی و امنیت\u003cbr/\u003eتمام داده‌ها روی ماشین خودت می‌مونن. هیچ telemetry و trackingی نیست. از آپریل ۲۰۲۶ تا الان هیچ CVE عمومی‌ای برای هرمس گزارش نشده، و به صورت پیش‌فرض اسکن prompt injection و فیلتر credential هم داره.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
       "date": "2026-06-25T12:14:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30000,
+      "views": 31600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -61,7 +31,7 @@
       "date": "2026-06-25T12:36:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30300,
+      "views": 31800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -79,7 +49,7 @@
       "date": "2026-06-25T13:23:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28400,
+      "views": 30600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -91,7 +61,7 @@
       "date": "2026-06-25T14:56:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25200,
+      "views": 28000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -103,7 +73,7 @@
       "date": "2026-06-25T16:53:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21500,
+      "views": 25000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -115,7 +85,7 @@
       "date": "2026-06-25T18:06:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18400,
+      "views": 23100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -133,7 +103,7 @@
       "date": "2026-06-25T18:09:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18200,
+      "views": 22600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -152,7 +122,7 @@
       "date": "2026-06-25T18:50:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17500,
+      "views": 22900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -186,7 +156,7 @@
       "date": "2026-06-25T18:53:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16800,
+      "views": 22100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -198,7 +168,7 @@
       "date": "2026-06-25T19:06:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15000,
+      "views": 21000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -210,7 +180,7 @@
       "date": "2026-06-25T20:04:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8840,
+      "views": 18000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -223,24 +193,48 @@
       ]
     },
     {
-      "id": 4031,
-      "message": "فکر کنم حمله‌ی ما ایرانیا رو متوجه شد و کلا بست. دیگه نمیشه ثبت نام کرد با گیتهاب",
-      "date": "2026-06-25T20:05:38Z",
+      "id": 4033,
+      "message": "این رو هم بگم که رایگان و 24/7 میتونید روی Worker کلودفلر ران کنید ربات رو. توی plan نوشتن کد، بگید که می‌خواید اونجا بسازید تا ai راهنماییتون کنه",
+      "date": "2026-06-25T20:20:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8410,
+      "views": 17000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Matin SenPai"
     },
     {
-      "id": 4032,
-      "message": "فکر کنم داستان همین بود. اگر موفق نشدید هم زیاد غصه نخورید",
-      "date": "2026-06-25T20:09:09Z",
+      "id": 4034,
+      "message": "می‌خوام همین رباتی که توی ویدئو نوشتم رو، با GLM-5.2 و همین api رایگان agentrouter که گرفتم بنویسم ببینم چند دلار مصرف می‌کنه. با همون پرامپت و با Cline اکستنشن VsCode",
+      "date": "2026-06-25T20:50:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7260,
+      "views": 13900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 4036,
+      "message": "سرعتش وحشتناک بالاست. همینطور کدش هم خیلی تمیزه. و البته تا الان 3.8 دلار مصرف کرده\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9881.png\u0026#39;)\"\u003e\u003cb\u003e😁\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-06-25T21:06:27Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 11400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 4037,
+      "message": "از GLM 5.2 استفاده کردم برای ساخت همین رباتی که توی این ویدئو ساختم با پرامپت یکسان، و نتیجه حقیقتا غافلگیرم کرد.\u003cbr/\u003e\u003cbr/\u003eعملکرد GLM 5.2 واقعا همونطوری که میگفتن، کاملا نزدیک به Opus 4.8 بود. برتر نبود، ضعیف‌‌تر هم نبود( api رایگان گرفتم 150 دلار اینجا هم گفتم چطوری: \u003ca href=\"https://t.me/MatinSenPaii/4023\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/MatinSenPaii/4023\u003c/a\u003e)\u003cbr/\u003e\u003cbr/\u003eاین ربات تلگرامی که One Shot کرد، کلی چیز داشت که اصلا من بهش نگفته بودم اما چون صرفا فکر کرده بود که \u0026#34;منطقا\u0026#34; باید وجود داشته باشن، خودش نوشت. که خب هم خوبه هم بد.\u003cbr/\u003eو واقعا نتیجه 20 برابر خفن‌تر از باتی بود که با MiMo(که خب بنده خدا مدل رایگان بود) نوشتم توی ویدئو:\u003cbr/\u003e 1- بعد از اینکه ویدئو رو میفرسته، خودش پاک می‌کنه( از روی دیسک )\u003cbr/\u003e2- به لیمیت Bot-API تلگرام اهمیت داد و محدودیت حجم 50 مگابایتی دیفالت(قابل تغییر در صورت ساخت local-tg-api شخصی) گذاشت.\u003cbr/\u003e3- کدها به شدت تمیز و مرتب و با structure درست نوشته شدن\u003cbr/\u003e4- خودش چندین بار همه‌ی فابلیت‌ها رو تست کرد و تا مطمئن نشد که هیچ مشکلی وجود نداره، تسک رو تموم نکرد.\u003cbr/\u003e5- بزرگترین تفاوتش با MiMo این بود که میمو صرفا تف کاری کرد که یه چیزی باشه که جواب بده. یعنی اصلا فکر نکرده بود که این قراره یوزر بیاد روش، روی سرور ران بشه، قابلیت سرچ کاربرا باید چطوری باشه، لیمیت داشته باشه حجم، و... . اما GLM کاملا فکر اینجاها رو کرده بود بدون اینکه بپرسه حتی\u003cbr/\u003e6- مهمتر از همه، یک بار فقط بهش گفتم و همه رو نوشت. نه گیر کرد، نه اشتباهی کرده بود. \u003cbr/\u003e\u003cbr/\u003eحدودا 5 دلار مصرف کرد و حدود 140 کا توکن، که به نظرم ضریب دار حساب کرده خود AgentRouter برای GLM چون اونقدرا زیاد نبود کار، نهایتا 1 دلار باید مصرف میکرد برای همچین تسکی.",
+      "date": "2026-06-25T21:31:43Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 6640,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -248,21 +242,27 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/Ae6r0Dzd-0yxxdSEjUOc1wgY89-zMg8R_6PEweu4EvTO-RaDHX1-3rQ73vL1mq5LT3wLveeuCW1BbMdMKmzJ9jR4sSy_rsAUQl4fFI5rL6LDaR_f7iM4TjhIdTjGHBvc63nMvwN6h04nRRbR1SHBMN5Nquk0OfL41zVYsHw4oOqcbbRHtJ8vBOY_fjW4R72YDj4XoNjxwBDGx-z_LtMEl6aq8NBXosdO6LbXSp70Yj50KuuRbmTP4X4zD7mdssshZijXt8hHziiCxLuG7BTOD7x_blkgG2qstPjdAsbk1fU-GYVNB12pvF6IliWg8vkFZFbP1NapCTgIzEv1hIbd5w.jpg"
+          "url": "https://cdn1.telesco.pe/file/bKXxvX6JD4vQ0f7l0vTJjtCy1pmxmWME62PkhJ1Na0alg6Tiq79NCGqQDWnA2yadDpBTwzopboNcOPX5NNeA1vE8NElGs7cvMw1KN3Ee_faHNLnUx4m55VrjseVsQXeTFHUrROL6eKjtDROmPOQvVjopNP7_94koHo5s30PkJJsEvpPaDypKC46tWIbzIEQoarbRSqTTo3kFrfywWSUBzqBnUthm5wrG8sAlDIITIMpuj1CsLtYmuVg6HmVbREkEA3AmreVPfL5S9F-qVVb9I7j7w8GmQds4Ireh1p0S-0pxXcBp5-QGikxKPoGHTN-L8k7_pSGAdN85OjPDxA_O0Q.jpg"
         }
       ]
     },
     {
-      "id": 4033,
-      "message": "این رو هم بگم که رایگان و 24/7 میتونید روی Worker کلودفلر ران کنید ربات رو. توی plan نوشتن کد، بگید که می‌خواید اونجا بسازید تا ai راهنماییتون کنه",
-      "date": "2026-06-25T20:20:21Z",
+      "id": 4039,
+      "message": "یکی از دوستان هم این رو گفتش",
+      "date": "2026-06-25T22:00:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4130,
+      "views": 938,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
-      "sender_name": "Matin SenPai"
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/R4B76WvTVzd9NPKAbbU_oyhmyeeQJebQiX_YvngmD3oySlo990SHrXY60EsJF6Mzp2cVVZP591yO794j3eq6X0JOhBIkWyp-vcesDSsLvuo66-oTILh55dYPBTGhWw2bYidxjPIjcrFrqz6-g1I6wdiBtvorij8lAL8ZIzAxUySl85cRyX6tUyKUkOJui3DevyacAfF0ha3_KEoEz4NR0SUq4NB3XF0AuuT47rLg6rmMIgGvBU3zCFArF8etjEAMqZ7hpxbltOw7X49Cy6Qw0Pq_A1Dus-mxdpT6dhZRLI_XD5x7UXS3kSUUYTmQ34egURwfM-oFL3XZxf8liy3G9A.jpg"
+        }
+      ]
     }
   ],
   "last_updated": 0
