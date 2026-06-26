@@ -8,96 +8,12 @@
   },
   "posts": [
     {
-      "id": 4037,
-      "message": "از GLM 5.2 استفاده کردم برای ساخت همین رباتی که توی این ویدئو ساختم با پرامپت یکسان، و نتیجه حقیقتا غافلگیرم کرد.\u003cbr/\u003e\u003cbr/\u003eعملکرد GLM 5.2 واقعا همونطوری که میگفتن، کاملا نزدیک به Opus 4.8 بود. برتر نبود، ضعیف‌‌تر هم نبود( api رایگان گرفتم 150 دلار اینجا هم گفتم چطوری: \u003ca href=\"https://t.me/MatinSenPaii/4023\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/MatinSenPaii/4023\u003c/a\u003e)\u003cbr/\u003e\u003cbr/\u003eاین ربات تلگرامی که One Shot کرد، کلی چیز داشت که اصلا من بهش نگفته بودم اما چون صرفا فکر کرده بود که \u0026#34;منطقا\u0026#34; باید وجود داشته باشن، خودش نوشت. که خب هم خوبه هم بد.\u003cbr/\u003eو واقعا نتیجه 20 برابر خفن‌تر از باتی بود که با MiMo(که خب بنده خدا مدل رایگان بود) نوشتم توی ویدئو:\u003cbr/\u003e 1- بعد از اینکه ویدئو رو میفرسته، خودش پاک می‌کنه( از روی دیسک )\u003cbr/\u003e2- به لیمیت Bot-API تلگرام اهمیت داد و محدودیت حجم 50 مگابایتی دیفالت(قابل تغییر در صورت ساخت local-tg-api شخصی) گذاشت.\u003cbr/\u003e3- کدها به شدت تمیز و مرتب و با structure درست نوشته شدن\u003cbr/\u003e4- خودش چندین بار همه‌ی فابلیت‌ها رو تست کرد و تا مطمئن نشد که هیچ مشکلی وجود نداره، تسک رو تموم نکرد.\u003cbr/\u003e5- بزرگترین تفاوتش با MiMo این بود که میمو صرفا تف کاری کرد که یه چیزی باشه که جواب بده. یعنی اصلا فکر نکرده بود که این قراره یوزر بیاد روش، روی سرور ران بشه، قابلیت سرچ کاربرا باید چطوری باشه، لیمیت داشته باشه حجم، و... . اما GLM کاملا فکر اینجاها رو کرده بود بدون اینکه بپرسه حتی\u003cbr/\u003e6- مهمتر از همه، یک بار فقط بهش گفتم و همه رو نوشت. نه گیر کرد، نه اشتباهی کرده بود. \u003cbr/\u003e\u003cbr/\u003eحدودا 5 دلار مصرف کرد و حدود 140 کا توکن، که به نظرم ضریب دار حساب کرده خود AgentRouter برای GLM چون اونقدرا زیاد نبود کار، نهایتا 1 دلار باید مصرف میکرد برای همچین تسکی.",
-      "date": "2026-06-25T21:31:43Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 35000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/Nvbmxx5GzTQhO8iXJAe2jttmjUp9mav64TFJpAG8NQSMg7yOfPlt6WELtRFEiJPsc5ZkarKSpLEuexm9RDgj9SxwtASpbenGMCUBhI83mH428c5ooNl0RJM3lKxcVNoV8FCMiuFOaiMXkd4RXWDenrJsnaOYyTJXmjVoteqmH-BaYkct6RERAFwL1ZgqCC_T4hoyisHUTmZd2cnA3GrEh8mHgu8ehuTC384YgJPboiIx-8-brlX5s2aSNaAdLq9ZR301hT8YzZxz8OejEmRiBpeNWjmKWThX8ja8WY1Emg63t9lZyicWmOqsTZDTm-cs22dyqUbDqt8i3aG1zuyYwQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 4039,
-      "message": "یکی از دوستان هم این رو گفتش",
-      "date": "2026-06-25T22:00:38Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/sdxbIaDW3jxGYy5edhu8qY-Ey_gE8S63Y4IHcd-pYyk8EhTwxBl40t06qpXyy08TJHnnRyj2tpJgUtRRkIF6QciL3NmKLrGmbl1dEA_9A836-MZqdPflunQ3u1xmL5rf0yQHqknyK1e_UinrhAm_aLwq2Vfy_NXIG5sGt6YtA7kpcqTwepy06eSWVeb3YjnskzyXqDu4ZqhUy16vIf6PP6RHIYhEpQ06MUEqI_1mqAiN0PNmk-B0dlHCqCgXstE8A9FMLKkOqvmTCjXcbsBduW_vGqaV0eZYmCz0_aka_CM-wSkhy65YKRp0-wBN6WEUiKgi7-92xrRLUmCmpcClAA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 4040,
-      "message": "پارت 2: آموزش استفاده از هوش مصنوعی MiMo Code + پروژه‌ی ساخت ربات تلگرام با AI  پارت 1: https://t.me/MatinSenPaii/4021  #MiMo",
-      "date": "2026-06-26T04:24:58Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/LIoZMTo5-TCBAz5VlSU4r2txX2Blhwi8XOGN4vdVAOqlRJ5mwkXyXZnE5INGZHyXkxJcURwRPXqXtirlAkPDo6-4qea-pnZHVcWwJHSqLEOdlRTDQh8mqcnL0aprMBXB1U52XALhPNkJrfM7McG-pe5MZvvfN5h0Xw06q_EwgcSruN-tYpHbQwD-46LlRZGW7r9QQZ5kV_JNev84ZmjI5NibJA_hSolFX19KjHPwEOUzknktLr3H5leRJQwzckhRPZnInVwYz8PrXNGJVP0nWWaeHWt7uBKgXagums4xb7vMnuQtrfuEdbbtY_ZMeO-bQZd7BcAkXvAmQWJYKFAk9Q.jpg"
-        }
-      ]
-    },
-    {
-      "id": 4041,
-      "message": "\u003ctg-emoji emoji-id=\"5812037770301938686\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8DB7.png\u0026#39;)\"\u003e\u003cb\u003e🍷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eدرود رفقا پیرو صحبت های (patterniha) میخوام در مورد این موضوع ip ها و فرگمنت bpb صحبت کنم.\u003cbr/\u003e\u003cbr/\u003eطبق حرف های patterniha وجود ip هتی خاکستری در ایرانسل کاملا درسته و بر اساس منطقه و ساعت ip ها اکی میشن اما شما با در آوردن ip های حتی خاکستری میتونید داخل پنل bpb که وارد میکنید از سینگ باکس استفاده کنید و این محدودیت آپلود رو رفع کنید پیشنهاد من نسخه اخر sing box هست.\u003cbr/\u003e\u003cbr/\u003eدر مورد workerless هم همچنین میتونید با مقادیر زیر کانفیگ های فرگمنت رو زنده کنید و استفاده کنید:\u003cbr/\u003e\u003cbr/\u003eMode:Low\u003cbr/\u003e\u003cbr/\u003eLength:100-200\u003cbr/\u003e\u003cbr/\u003eInterval:1-1\u003cbr/\u003e\u003cbr/\u003ePackets:1-1\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5312536423851630001\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A1.png\u0026#39;)\"\u003e\u003cb\u003e💡\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eنکته:همچنین پینشهاد میشه از نسخه اخر v2ray واسه فرگمنت استفاده کنید(حتما نسخه 2.2.3 باشه پنل) و برای بهینه سازی و سرعت بیشتر از dns زیر استفاده کنید:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://8.26.56.26/\" target=\"_blank\" rel=\"noopener\"\u003e8.26.56.26\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://8.20.247.20/\" target=\"_blank\" rel=\"noopener\"\u003e8.20.247.20\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eاز این ip تمیزها هم میتونید استفاده کنید:\u003cbr/\u003e\u003cpre\u003e199.181.197.1\u003cbr/\u003e 103.160.204.34\u003cbr/\u003e185.193.30.94\u003cbr/\u003e 45.8.211.57\u003cbr/\u003e 159.112.235.52\u003cbr/\u003e170.114.45.239\u003cbr/\u003e188.42.88.24\u003cbr/\u003e88.216.67.230\u003cbr/\u003e45.130.125.75\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003eبا سپاس از راهنمایی رفیقم bpb\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FABB0.png\u0026#39;)\"\u003e\u003cb\u003e🫰\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/xsfilterrnet\" target=\"_blank\"\u003e@xsfilterrnet\u003c/a\u003e \u003ctg-emoji emoji-id=\"5053169761232356354\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
-      "date": "2026-06-26T08:58:54Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Fu-sT6demre1SeGIHehuaRMocUJcrjChB_Ehai2sgYXouibOPqpYQxlxWsnESF9m6Ae26Usy7RVIGEeiui5pBcmTicLhR25a84yNk81pk8wmp41uri04gqD6_ghZy8YsFHZ66DduJ-nx3mKsFlvC0ms_NHx0tt-OuTHTs2XEr3ctP3ZE0Eqx5-j-pun6Z_4M-5D75wddiLxThLfS7mh7qqqcYcbnN2Mao3SxR3_4Byhkme6q3OW-cwq8noiZn1HDg2eBDQAYnGuySOVL_U1SfupK0SMJn-Nyp2oNESnk7N7RJYKiIf2LL2aaltTpWNXO3o9xfSVFZ6aINCIQgTXeqw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 4042,
-      "message": "چندتا نکته:\u003cbr/\u003e1- کاربرا توی ردیت گزارش دادن که برای استفاده از مدلهای anthropic زیاد به باگ می‌خورن و علت می‌تونه استفاده سایت از apiهای دزدی باشه. بهترین نتیجه رو با GLM میده\u003cbr/\u003e2- اگر از GLM استفاده می‌کنید هم، یا به ایجنت فول اکسس ندید(که .env) و اینهاتون رو نخونه، یا توی پروژه‌های حساس ازش استفاده نکنید",
-      "date": "2026-06-26T09:18:54Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
       "id": 4043,
       "message": "این سایت هم دقیقا شبیه همینه حتی قالب‌هاشون یکیه\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ca href=\"https://api.bluesminds.com/register?aff=drPB\" target=\"_blank\" rel=\"noopener\"\u003ehttps://api.bluesminds.com/register?aff=drPB\u003c/a\u003e\u003cbr/\u003e ۱۰۰ دلار میده\u003cbr/\u003eباز هم میگم مراقب باشید و توی پروژه‌ی حساس استفاده نکنید",
       "date": "2026-06-26T09:32:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28000,
+      "views": 28300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -109,7 +25,7 @@
       "date": "2026-06-26T09:37:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28600,
+      "views": 29100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -127,7 +43,7 @@
       "date": "2026-06-26T10:04:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28100,
+      "views": 28700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -139,7 +55,7 @@
       "date": "2026-06-26T10:15:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28100,
+      "views": 28500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -151,7 +67,7 @@
       "date": "2026-06-26T10:57:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26400,
+      "views": 26800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -163,7 +79,7 @@
       "date": "2026-06-26T11:01:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26500,
+      "views": 26800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -181,7 +97,7 @@
       "date": "2026-06-26T11:13:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 39400,
+      "views": 40100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -199,7 +115,7 @@
       "date": "2026-06-26T11:41:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30400,
+      "views": 30900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -211,7 +127,7 @@
       "date": "2026-06-26T16:31:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24400,
+      "views": 25400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -223,7 +139,7 @@
       "date": "2026-06-26T18:23:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23300,
+      "views": 24700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -242,7 +158,7 @@
       "date": "2026-06-26T18:24:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22200,
+      "views": 23400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -254,7 +170,7 @@
       "date": "2026-06-26T18:26:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22300,
+      "views": 23600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -266,7 +182,7 @@
       "date": "2026-06-26T20:31:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16600,
+      "views": 18500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -278,7 +194,7 @@
       "date": "2026-06-26T20:40:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15300,
+      "views": 17500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -290,7 +206,7 @@
       "date": "2026-06-26T21:50:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4210,
+      "views": 8350,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -301,6 +217,48 @@
           "url": "https://cdn1.telesco.pe/file/YcL4dyUUVt_QjkIoIRcSIUXEFsjDTcsBV91NWoSGoPsBjCT1a7vfP78UWsZZrNUZQDCZNTjzZ4Q0ulvKyCWrNnPuamf4o3Va-37nnw_v8Hs6bbdSwSp_AG6QSaUHtUixRZGVbBne9HnvKZbG5CFX7iTtF-Qd1KQ-DcsFT6_sU_IVdwVXvbrdVQ_YyGTU1O-3N8jNQ1euJdmPExv4rYFfYehJ49OweFJdUY_Gc4IjKqlQPPy_geXy-MI_iApz-0-HIyvQkrTU86Lyhm_BcpSW57Dyk2TMWtQplzMXdZLuYatpXKdaVJf2nP5ARwNOt4ax6ICeo2hftv99xd4JPs9GcQ.jpg"
         }
       ]
+    },
+    {
+      "id": 4062,
+      "message": "خب، من با کمک Hermes و API رایگان MiMo Pro 2.5 و API رایگان جمنای، تونستم یه ربات باحال بنویسم! \u003cbr/\u003eتوی لپ تاپم کلیک میکنم روی یه اسکریپت .bat ، و رباتی که با mimo نوشتم، فید چندتا سایت اخبار ai که به صلاح‌دید خودش معتبر بودن و زرد نبودن رو، می‌خونه، با Gemini 3.5 flash lite ترجمه‌ی روون می‌کنه به فارسی، و توی ربات تلگرامم می‌فرسته پیوی من. که خب کار ساده‌ایه و بهتون ایده میدم چه شکلی می‌تونید پیچیده‌ترش هم بکنید!\u003cbr/\u003eالان، شروع می‌کنم فرآیندی که این اسکریپت خیلی ساده رو ساختم، بهتون توضیح می‌دم.\u003cbr/\u003e\u003cbr/\u003e1- اولین کار، گرفتن API ها بود. از Nara Router تونستم 7 میلیون توکن رایگان روزانه بگیرم که اینجا گفتم چه شکلی: \u003ca href=\"https://t.me/MatinSenPaii/4061\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/MatinSenPaii/4061\u003c/a\u003e\u003cbr/\u003eو همینطور از \u003ca href=\"https://aistudio.google.com/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://aistudio.google.com\u003c/a\u003e هم یه api رایگان جمنای گرفتم. که مدلهای دیگه‌اش به درد نمیخورن از لحاظ لیمیت، ولی مدل Gemini 3.1 flash lite واقعا توی لیمیت‌ها خداست. 500 تا ریکوئست روزانه و 250 کا توکن که اصلا پر نمیشه. برای ترجمه عالیه. اما برای خود Hermes مناسب نیستش چون که TPM بالایی مصرف می‌کنه و Exceed میشه.\u003cbr/\u003e\u003cbr/\u003e2- توی Hermes، از قسمت مدل‌ها،  Nara رو اضافه کردم. خودش اتوماتیک تشخیص داد و گفت کدوم مدلش رو می‌خوای؟ گفتم mimo pro 2.5(که در حال حاضر رایگانه توی Nara اما خب واقعا توکن مصرفیش هم بد نبود برای تسک من).\u003cbr/\u003e\u003cbr/\u003e3- وارد چت Hermes شدم، و چیزی که می‌خواستم رو بهش گفتم. گفتم که می‌خوام یه ربات تلگرام بنویسی که هر بار رانش می‌کنم، آخرین اخبار ai رو با api جمنای بگیره، و حتما از مدل gemini-3.1-flash-lite استفاده کنه و عینا همین.(اگر نگید دقیقا یهو میره مدل 2.0 رو میذاره بدبخت میشید) و برام بفرسته.\u003cbr/\u003e\u003cbr/\u003e5- سری اول ربات رو ساخت، و بعدش بهش گفتم یه سری قابلیت اضافه کنه. مثلا زمانش رو بگه که چقدر وقت پیش بوده یا فرمت بندی رو درست کنه. همینطور گفتم که برام یه اسکریپت ویندوزی بنویسه که هر بار کلیک کردم روش، این رو ران کنه( این شکلی راحتترم خودم)\u003cbr/\u003e\u003cbr/\u003e6- همونطور که توی تصویر می‌بینید، خیلی تمیز برداشت خبر GPT 5.6 که واقعا هم سه ساعت پیش اومده بود رو پوشش داد، همینطور خبر های دیگه که یکی از نیازهای روزمره‌ی من رو برطرف کرد تا حدی. که یه دید کلی نسبت به اخبار ai روز داشته باشم. سورس کدش رو هم براتون پست می‌کنم که اگر دوست داشتید، تست کنید. هرچند چیز خاصی نیست؛ خودتون می‌تونید بهترش رو بنویسید\u003cbr/\u003e\u003cbr/\u003e7- چطوری می‌تونید بیشتر درگیرش بشید؟\u003cbr/\u003eبیاید با همین \u0026#34;بات جمع‌آوری اخبار مربوط به ai\u0026#34; مثال بزنم.\u003cbr/\u003eشما می‌تونید این رو روی یه سرور لینوکسی ران کنید که 24/7 ران باشه و هر خبر جدیدی اومد، درجا بفرسته واستون. یا حتی ببریدش روی worker کلودفلر. و هر یه ساعت یه بار چک کنه، اگر خبر جدیدی اومده باشه واستون بفرسته\u003cbr/\u003eهمینطور می‌تونید یه سیستم پست‌ساز نیمه خودکار بسازید برای تلگرام و بدید که پست بسازه برای چنلتون(و این وسط توسط خودتون یا یه agent هوش مصنوعی دیگه review بشه!)\u003cbr/\u003eخلاصه که راه برای درگیر شدن باهاش زیاده. کمی تایم بذارید، و کار با این ابزارهای جدید رو یاد بگیرید. من هم خودم اول یادگیری هستم طبیعتا:)\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
+      "date": "2026-06-26T22:30:55Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4470,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/boBM0zmZA8KeFTvY_VbQQoQE80s35Lzn-WmXUYTfvR7JxSG2NSX3J7lwNWVcy1hVb8Ogq-uwGHmBGmTY9D2HkfYIRa1NzHvU8j4rrH0HnHYWWvBUlUTLoEqt6pnFdq4OafZ7xVRKS9sAgnu3Ng2b1iCZe9lG6nhql-pOpEnYlgpAT25xP_rz40SN_DGXNlAvnWJsRm_LY0t6KLF78G0MK1hDOwXz9ImBLB_fsRFmkm8OUhoP9tTvNyA7QnJROy-Yy5cqCsJLYylaogabVKIDEWy-JlAz1g-gVK02M4LoFxDa3KwTMwBNaS61aSaRpYpwsg2p5bL3R2VqMshPVfWV0g.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/XITxbi-NQD4ETx_iXINib1nPnRHe7DLF6Czo0PuTe2Axl-HJmJdMkk-tTgrSL8zX77noj6Pt_TELpVDSk4A9NiuZA8EgMRYimc03yLg131O1YQLq3g7vFYpSPrQxK_GxwcubJIvv5TdCuZVnwq8pKJSLmNEUzuLP5P1alZkTy5h9eeiH1OYebEMrSIdNKl5247nBOxvnm58RuDXmtAP1vY7LuUKqCvpT4eYamNyGa81gTChmkuWeUAruVp8XUrZeXBIoUwHG_8XN0BCZzz8TmykP1-BoV9Wcc5kt9hiFQXIDKuCAvXxQPdfpdULeeJ7WDPoDowDeDAbem2Fn4MaHgQ.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/oVlv2Za80VQ6Q2gN6F3SHGQT-1E-AvpztTWA9NE56tEjnPnscP-Lzi1IAFzUmJpWN-tpuXevOjBvQfaVy_EoN7o14Pf2312wcjySnApkHaDtKnCNu2Tjtu7caeA7xtIzrWJwgrbztthroIaL_r9j9oOlzp2v6LSjy9Z7LL-9FtI340-Gv_sjpyVNmYOqFR1RJvhDqXZQTwfaApj3009zSVrjV7_ruKU-Lafmo6dA2-CWSX_1KuoeDwSi3_SFqbQLdoNxspMH1Fsgxbf6JStDMZacMn-E5HeZhGlndJoeLV1E9v18njLaufjBKi17bB4e1HJsowdSKHvVpp2yI0Sfbw.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/NAk2B17YrqR1SWAhi1Zeo3XvRfxQMJo4IwUP6hXfXAOhkcVV6hLJhR7kAnsSRJxUoawOoCXrVCZySDXDjiWwpysWlMV3y-CLyR09Cw6n6GhzRAi4N7CeyqLeekJeLr4fBCNAvT5P0pKV1-o1FC6S_vd3q5pHjTPnHEVmeRSB6NiNKCK8LBuYuykJomPajz37ouPKK3KNMw3Rk4_KwILqyZ75PFmUGfspex9hMqoIl3tBtLYWTZR_J1SYT-7qCufq9hgC91SCzb9j9kQ7mhvWAfWAxqlBbY-ISFbC0Kty9PCIkSAsM_4U6KUpbtmDcY0FdObqEsm_KOS2aKpr7oQjsw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4066,
+      "message": "1- باید فایل .bat رو ادیت کنید و مسیر پوشه‌ی خودتون رو از فایل پایتون بهش بدید\u003cbr/\u003e2- من با venv و همه چیز گذاشتم که دردسر نصب یا ... نکشید\u003cbr/\u003e3- توی config.json هم باید api جمنای و توکن BotFather و آیدی عددی خودتون رو قرار بدید. توی این ویدئو اینها رو یاد دادم که چه شکلی بگیرید: \u003ca href=\"https://www.youtube.com/watch?v=7qYPK3dGoK4\" target=\"_blank\" rel=\"noopener\"\u003ehttps://www.youtube.com/watch?v=7qYPK3dGoK4\u003c/a\u003e",
+      "date": "2026-06-26T22:40:58Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3030,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
     }
   ],
   "last_updated": 0
