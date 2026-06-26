@@ -8,24 +8,12 @@
   },
   "posts": [
     {
-      "id": 4036,
-      "message": "سرعتش وحشتناک بالاست. همینطور کدش هم خیلی تمیزه. و البته تا الان 3.8 دلار مصرف کرده\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9881.png\u0026#39;)\"\u003e\u003cb\u003e😁\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-06-25T21:06:27Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
       "id": 4037,
       "message": "از GLM 5.2 استفاده کردم برای ساخت همین رباتی که توی این ویدئو ساختم با پرامپت یکسان، و نتیجه حقیقتا غافلگیرم کرد.\u003cbr/\u003e\u003cbr/\u003eعملکرد GLM 5.2 واقعا همونطوری که میگفتن، کاملا نزدیک به Opus 4.8 بود. برتر نبود، ضعیف‌‌تر هم نبود( api رایگان گرفتم 150 دلار اینجا هم گفتم چطوری: \u003ca href=\"https://t.me/MatinSenPaii/4023\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/MatinSenPaii/4023\u003c/a\u003e)\u003cbr/\u003e\u003cbr/\u003eاین ربات تلگرامی که One Shot کرد، کلی چیز داشت که اصلا من بهش نگفته بودم اما چون صرفا فکر کرده بود که \u0026#34;منطقا\u0026#34; باید وجود داشته باشن، خودش نوشت. که خب هم خوبه هم بد.\u003cbr/\u003eو واقعا نتیجه 20 برابر خفن‌تر از باتی بود که با MiMo(که خب بنده خدا مدل رایگان بود) نوشتم توی ویدئو:\u003cbr/\u003e 1- بعد از اینکه ویدئو رو میفرسته، خودش پاک می‌کنه( از روی دیسک )\u003cbr/\u003e2- به لیمیت Bot-API تلگرام اهمیت داد و محدودیت حجم 50 مگابایتی دیفالت(قابل تغییر در صورت ساخت local-tg-api شخصی) گذاشت.\u003cbr/\u003e3- کدها به شدت تمیز و مرتب و با structure درست نوشته شدن\u003cbr/\u003e4- خودش چندین بار همه‌ی فابلیت‌ها رو تست کرد و تا مطمئن نشد که هیچ مشکلی وجود نداره، تسک رو تموم نکرد.\u003cbr/\u003e5- بزرگترین تفاوتش با MiMo این بود که میمو صرفا تف کاری کرد که یه چیزی باشه که جواب بده. یعنی اصلا فکر نکرده بود که این قراره یوزر بیاد روش، روی سرور ران بشه، قابلیت سرچ کاربرا باید چطوری باشه، لیمیت داشته باشه حجم، و... . اما GLM کاملا فکر اینجاها رو کرده بود بدون اینکه بپرسه حتی\u003cbr/\u003e6- مهمتر از همه، یک بار فقط بهش گفتم و همه رو نوشت. نه گیر کرد، نه اشتباهی کرده بود. \u003cbr/\u003e\u003cbr/\u003eحدودا 5 دلار مصرف کرد و حدود 140 کا توکن، که به نظرم ضریب دار حساب کرده خود AgentRouter برای GLM چون اونقدرا زیاد نبود کار، نهایتا 1 دلار باید مصرف میکرد برای همچین تسکی.",
       "date": "2026-06-25T21:31:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 34400,
+      "views": 34900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -33,7 +21,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/bKXxvX6JD4vQ0f7l0vTJjtCy1pmxmWME62PkhJ1Na0alg6Tiq79NCGqQDWnA2yadDpBTwzopboNcOPX5NNeA1vE8NElGs7cvMw1KN3Ee_faHNLnUx4m55VrjseVsQXeTFHUrROL6eKjtDROmPOQvVjopNP7_94koHo5s30PkJJsEvpPaDypKC46tWIbzIEQoarbRSqTTo3kFrfywWSUBzqBnUthm5wrG8sAlDIITIMpuj1CsLtYmuVg6HmVbREkEA3AmreVPfL5S9F-qVVb9I7j7w8GmQds4Ireh1p0S-0pxXcBp5-QGikxKPoGHTN-L8k7_pSGAdN85OjPDxA_O0Q.jpg"
+          "url": "https://cdn1.telesco.pe/file/Nvbmxx5GzTQhO8iXJAe2jttmjUp9mav64TFJpAG8NQSMg7yOfPlt6WELtRFEiJPsc5ZkarKSpLEuexm9RDgj9SxwtASpbenGMCUBhI83mH428c5ooNl0RJM3lKxcVNoV8FCMiuFOaiMXkd4RXWDenrJsnaOYyTJXmjVoteqmH-BaYkct6RERAFwL1ZgqCC_T4hoyisHUTmZd2cnA3GrEh8mHgu8ehuTC384YgJPboiIx-8-brlX5s2aSNaAdLq9ZR301hT8YzZxz8OejEmRiBpeNWjmKWThX8ja8WY1Emg63t9lZyicWmOqsTZDTm-cs22dyqUbDqt8i3aG1zuyYwQ.jpg"
         }
       ]
     },
@@ -43,7 +31,7 @@
       "date": "2026-06-25T22:00:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33400,
+      "views": 33800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -51,7 +39,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/R4B76WvTVzd9NPKAbbU_oyhmyeeQJebQiX_YvngmD3oySlo990SHrXY60EsJF6Mzp2cVVZP591yO794j3eq6X0JOhBIkWyp-vcesDSsLvuo66-oTILh55dYPBTGhWw2bYidxjPIjcrFrqz6-g1I6wdiBtvorij8lAL8ZIzAxUySl85cRyX6tUyKUkOJui3DevyacAfF0ha3_KEoEz4NR0SUq4NB3XF0AuuT47rLg6rmMIgGvBU3zCFArF8etjEAMqZ7hpxbltOw7X49Cy6Qw0Pq_A1Dus-mxdpT6dhZRLI_XD5x7UXS3kSUUYTmQ34egURwfM-oFL3XZxf8liy3G9A.jpg"
+          "url": "https://cdn1.telesco.pe/file/sdxbIaDW3jxGYy5edhu8qY-Ey_gE8S63Y4IHcd-pYyk8EhTwxBl40t06qpXyy08TJHnnRyj2tpJgUtRRkIF6QciL3NmKLrGmbl1dEA_9A836-MZqdPflunQ3u1xmL5rf0yQHqknyK1e_UinrhAm_aLwq2Vfy_NXIG5sGt6YtA7kpcqTwepy06eSWVeb3YjnskzyXqDu4ZqhUy16vIf6PP6RHIYhEpQ06MUEqI_1mqAiN0PNmk-B0dlHCqCgXstE8A9FMLKkOqvmTCjXcbsBduW_vGqaV0eZYmCz0_aka_CM-wSkhy65YKRp0-wBN6WEUiKgi7-92xrRLUmCmpcClAA.jpg"
         }
       ]
     },
@@ -61,7 +49,7 @@
       "date": "2026-06-26T04:24:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29700,
+      "views": 30300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -79,7 +67,7 @@
       "date": "2026-06-26T08:58:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23000,
+      "views": 23700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -97,7 +85,7 @@
       "date": "2026-06-26T09:18:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26900,
+      "views": 27700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -109,7 +97,7 @@
       "date": "2026-06-26T09:32:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27200,
+      "views": 27800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -121,7 +109,7 @@
       "date": "2026-06-26T09:37:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27700,
+      "views": 28400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -139,7 +127,7 @@
       "date": "2026-06-26T10:04:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27000,
+      "views": 27800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -151,7 +139,7 @@
       "date": "2026-06-26T10:15:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27100,
+      "views": 27900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -163,7 +151,7 @@
       "date": "2026-06-26T10:57:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25600,
+      "views": 26200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -175,7 +163,7 @@
       "date": "2026-06-26T11:01:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25500,
+      "views": 26200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -193,7 +181,7 @@
       "date": "2026-06-26T11:13:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 37600,
+      "views": 39100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -211,7 +199,7 @@
       "date": "2026-06-26T11:41:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28600,
+      "views": 30000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -223,7 +211,7 @@
       "date": "2026-06-26T16:31:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21200,
+      "views": 23600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -235,7 +223,7 @@
       "date": "2026-06-26T18:23:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19000,
+      "views": 22300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -254,7 +242,7 @@
       "date": "2026-06-26T18:24:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18200,
+      "views": 21200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -266,7 +254,7 @@
       "date": "2026-06-26T18:26:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18100,
+      "views": 21400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -278,7 +266,7 @@
       "date": "2026-06-26T20:31:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10400,
+      "views": 15300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -290,11 +278,29 @@
       "date": "2026-06-26T20:40:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8189,
+      "views": 13700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 4061,
+      "message": "از سایت Nara Router که ریک معرفی کرد دارم استفاده می‌کنم برای ‌Hermes و چیز خیلی خوبیه!\u003cbr/\u003eیه ربات خیلی کوچولو هم دارم می‌نویسم.\u003cbr/\u003eدارم تمرکز می‌کنم روی این قضیه ببینم چطوری می‌تونم کارهای روزمره رو Automate کنم و چطوری میشه حداکثر بهره‌وری رو داشت از Hermes\u003cbr/\u003e\u003cbr/\u003eخوبی این سایته هم اینه که روزی 7 میلیون توکن رایگان از Mistral و MiMo Pro 2.5 میده و هر روز دوباره شارژ میشه. نوع API هم open-ai compatible هست. اینها رو بعدا توضیح میدم برای دوستانی که متوجه نمی‌شن پس نگران نباشید\u003cbr/\u003eاز این لینک هم می‌تونید ثبت نام کنید داخلش:\u003cbr/\u003e\u003ca href=\"https://router.bynara.id/register?ref=PJ6RZMDB\" target=\"_blank\" rel=\"noopener\"\u003ehttps://router.bynara.id/register?ref=PJ6RZMDB\u003c/a\u003e\u003cbr/\u003eرفرالش هم چیز خاصی نداره فکر کنم، صرفا اگر بعدا خواستید شارژ کنید، وقتی با رفرال وارد شده باشید، توکن رایگان اضافه می‌گیرید",
+      "date": "2026-06-26T21:50:48Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 447,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/YcL4dyUUVt_QjkIoIRcSIUXEFsjDTcsBV91NWoSGoPsBjCT1a7vfP78UWsZZrNUZQDCZNTjzZ4Q0ulvKyCWrNnPuamf4o3Va-37nnw_v8Hs6bbdSwSp_AG6QSaUHtUixRZGVbBne9HnvKZbG5CFX7iTtF-Qd1KQ-DcsFT6_sU_IVdwVXvbrdVQ_YyGTU1O-3N8jNQ1euJdmPExv4rYFfYehJ49OweFJdUY_Gc4IjKqlQPPy_geXy-MI_iApz-0-HIyvQkrTU86Lyhm_BcpSW57Dyk2TMWtQplzMXdZLuYatpXKdaVJf2nP5ARwNOt4ax6ICeo2hftv99xd4JPs9GcQ.jpg"
+        }
+      ]
     }
   ],
   "last_updated": 0
