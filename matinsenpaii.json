@@ -8,50 +8,12 @@
   },
   "posts": [
     {
-      "id": 4080,
-      "message": "الان Zed Code رو به جای Vs Code و Cursor نصب کردم، و اولین چیزی که چشممو گرفت حجم کمش بود. کلا 80 مگابایت بود:)\u003cbr/\u003eستاپ اولیه‌ی بسیار تمیز. می‌تونید اکثر ایجنت‌های معروف رو نصب کنید و تنظیمات رو هم از Cursor یا Vs Code ایمپورت کنید. تمام اسکتنشن‌هاشون رو هم می‌تونید نصب کنید طبیعتا\u003cbr/\u003eمحیط داحلش هم عاری از هر گونه حواس‌پرتی و به شدت سبکه. به سرعت تب Git رو بالا میاره و تا اینجا عالی بوده",
-      "date": "2026-06-27T19:05:05Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 35600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/VRvwXw_k1EvDHr_GFcl5zuZ_CXS1j9xcxnaWTfEek1g0AJJzhdtip4P675vhm5ie7YGRAUsmjYSmFOKWZVpe8a4cLhoRw9cV1t9jjl41TmtkLPW8GOxkmfyTO3dXttcG5PIAgUR_wliH_GJ4_4EGXHS1TptIhBupqrJp1_SzmeUtQcoNObtgYamMKhvGsnd5ecbdIPrVw6Zh-QqsQZIh195JDBl4I8XdkM0QJ480HcIEjHBZqOsysQXG4PYm2jPdUcH_nZu8Dmb7oNUdpPZ6sPyrYfrfFydEmeEjK09mAYInqvMaaIBmIBsnLGEuLCU5gr54sEP19e8C8S-ekdWS_g.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/tTd0q5KpTJ8zrU_viNVeVqbOZnze_hYhew9VgJF9FHcStzxj3BvRAVMGe0g2MIOQPm6DhFIqn3gQfu8vLey2u28P_sKLbE6VN9XsYamX-7CN_gkpvqzMPtg8PpLBokh5KT1M5tTsM7_v-ZpKyEvQJPuRvjJUaoIxSTDeuBjN5xpY-Zz4zqLYYwWwBWWUYBODbrs0NSm6x5i2Df13Eulh5jot9XQ6_SLx1u8FsqsnjuZo0oFJFOLhknxSi-kB1kCGPpdS9M4B3MHcwcuH1I7zzc_VSpul3VPlkn0RGu89cx0dYaVaSxVUGHr2wMwqFRNyEbhwYBUbKjXW7eOflt4iXA.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/foGFeeV7G5RrNshYI1b10REUFA5uDZlENX5yFZLeHj5YlaSx7Rsa0Xlx7nX-Pifm8Pejexm6uEii5gcTYcQ9SukGGAB5jhYCVAjuaHYBkMT2bvsrXZ4FwMOfCxSLeWkDM9ISI6uPpJ7n2EXBNt3oqGbkaaFiI7EoU4IaePo3xU67r7ZV1V56vGnaxas8YNYAxp6XJKmVXESyo7lXyUKgis6mAUYKwDSvpS9gsuqqCo5zCLLYTVChK4g9CwWBsXVRPR_vUo64Ou9BqOk1qxYFxsM6ROUPICH-2u0jxE8kRUjthHcBdEMTC5MEqsSDolkxf14cGSA_x4xEXlFUHpxknA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 4083,
-      "message": "خب متوجه شدم که چرا انقدر سرییییییع و بهینه‌ست\u003cbr/\u003eاین عزیز دلمون با Rust نوشته شده توسط سازنده‌های Atom و Tree-sitter\u003cbr/\u003e\u003cbr/\u003eیه سری قابلیت خفن الان ازش دیدم که دارم تست میکنم بهتون بگم:) اگه این چیزایی که الان ai گفت رو واقعا داشته باشه، عالیه",
-      "date": "2026-06-27T19:45:18Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 35500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
       "id": 4084,
       "message": "باید اعتراف کنم وقتایی که حوصله‌ام نمیشه یه ویدئوی یوتوب رو ببینم یا وقت ندارم، میدم \u003ca href=\"https://aistudio.google.com/prompts/new_chat\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eجمنای\u003c/a\u003e واسم خلاصه‌اش کنه\u003ctg-emoji emoji-id=\"5472192362677541887\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F918C.png\u0026#39;)\"\u003e\u003cb\u003e👌\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003eattention span در حال غرق شدن",
       "date": "2026-06-27T20:21:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 35700,
+      "views": 36100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -59,7 +21,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/PDON3xmYSSTHI2xzm5Wrf2eU2s7_FsIW6Fw-4OiTTYRQpjynxQx-7e9UoP_E0GNaatMrMQzfR_l16ZmLyRSGo9xrDWOhwE-KZcltu_YbvE0e0OuB1cGk1XzDVQeKI3s1xf9j2_m2gehmHZrnjp-gIqjqTh_3JueDBNf5dF8egSYtgk1nUOs4Unrz_YM0PI_-oijZ8sruhjUT3VMz7dM8bZyswb4njdaKNTgtMj1bkicwHVq5xd0_k0O7cZexxLhgWcMhAXLj4YFNOXZC35P5orhAHg42YtN6TzlnohUbcZuL5g6CnhHg81_BOcOeeRy1YXB5EbwbgzFK0511lZiuUg.jpg"
+          "url": "https://cdn1.telesco.pe/file/Y9-sdAR_dTGxi5ynd60ak3Ky7QA1wYtp1j8o2CvQ6zIX_3MgB9Pg2l5fXTTAcQMRfvb_sCbrgTWgIaxJFlaeUVxdoEMbW8-Ud805PWS04H1K4bfEAlZee9qT6IAZ2r9CKNeLM5SjzyJgL-gGS5h60pa9mjIaloaq4zWL3ovgrSihEK-TaM2S8UZ9DK8PCLxLzAKangVz0W4kS-dREJdRpYKLG6NUQJpNitxySZDHwC_XRzcVMIiwR281fePtnebHNRa2ffCpwv06cjOPVbvE0iFcU7Mq2s_cbyLaPSEcAoY-iCbzspOEe3r3GJqpsJhLU1ZoEpGkf5tqR03_vjE1eA.jpg"
         }
       ]
     },
@@ -69,7 +31,7 @@
       "date": "2026-06-27T21:22:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 35000,
+      "views": 35400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -81,7 +43,7 @@
       "date": "2026-06-27T22:09:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 35400,
+      "views": 35900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -93,7 +55,7 @@
       "date": "2026-06-28T07:25:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30900,
+      "views": 31800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -111,7 +73,7 @@
       "date": "2026-06-28T07:38:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30600,
+      "views": 31600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -123,7 +85,7 @@
       "date": "2026-06-28T09:45:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28000,
+      "views": 29300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -141,7 +103,7 @@
       "date": "2026-06-28T10:56:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24200,
+      "views": 25700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -153,7 +115,7 @@
       "date": "2026-06-28T11:27:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22500,
+      "views": 24000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -171,7 +133,7 @@
       "date": "2026-06-28T12:03:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20300,
+      "views": 21800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -193,7 +155,7 @@
       "date": "2026-06-28T12:20:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19700,
+      "views": 21400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -205,7 +167,7 @@
       "date": "2026-06-28T12:44:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20700,
+      "views": 23700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -239,7 +201,7 @@
       "date": "2026-06-28T12:50:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19700,
+      "views": 23000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -251,7 +213,31 @@
       "date": "2026-06-28T15:54:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13000,
+      "views": 18200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 4103,
+      "message": "\u003ctg-emoji emoji-id=\"5224450179368767019\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C8E.png\u0026#39;)\"\u003e\u003cb\u003e🌎\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e سلام به همراه عزیز WhiteDNS \u003cbr/\u003e\u003cbr/\u003eتغییرات جدیدی روی سرویس WhiteDNS VPN اعمال شده که از همین حالا در دسترس هستند:\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e تمام کانکشن‌ها با دقت بالا از نظر DNS Leak بررسی و اعتبارسنجی می‌شوند.\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e قوانین جدید پراکسی اضافه شده تا سایت‌های داخلی ایران به صورت مستقیم باز شوند و دیگر نیازی نباشد برای دسترسی به آن‌ها VPN را قطع کنید.\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e تبلیغات از بسیاری از وب‌سایت‌ها حذف می‌شوند تا تجربه بهتری داشته باشید.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eبرای استفاده از این قابلیت‌ها نیازی به آپدیت اپلیکیشن نیست. کافی است یکی از کارهای زیر را انجام دهید:\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e• یک‌بار دیتای اپ WhiteDNS VPN را پاک کنید.\u003cbr/\u003e• یا اپلیکیشن را مجدداً نصب کنید.\u003cbr/\u003e• یا حداکثر تا ۳ ساعت صبر کنید تا تنظیمات جدید به صورت خودکار از سرور دریافت شوند.\u003cbr/\u003e\u003cbr/\u003eممنون از همگی. \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F998F.png\u0026#39;)\"\u003e\u003cb\u003e🙏\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eتیم \u003ca href=\"https://t.me/WhiteDNS\" target=\"_blank\"\u003e@WhiteDNS\u003c/a\u003e",
+      "date": "2026-06-28T19:03:58Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 8470,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 4104,
+      "message": "کار خفنی که پدرام امروز کرد این بودش که جلوی دی‌ان‌اس لیک رو گرفت کلا توی اپ WhiteDNS\u003cbr/\u003eاگر وصل نمیشید به اپ، حتما از Fronting IP استفاده کنید.\u003cbr/\u003eمن که با سرعت بالا وصلم",
+      "date": "2026-06-28T19:04:47Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 10900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
