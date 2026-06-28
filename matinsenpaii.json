@@ -8,102 +8,12 @@
   },
   "posts": [
     {
-      "id": 4074,
-      "message": "دو ساعت برق رفت، گند خورد وسط کارام و تمرکزم و همه‌چی",
-      "date": "2026-06-27T13:05:26Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 34300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 4075,
-      "message": "",
-      "date": "2026-06-27T13:11:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 35200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 4076,
-      "message": "اگر دانشجو هستید، با ایمیل‌های .ac.ir و .edu می‌تونید اشتراک 120 دلاری سالانه‌ی Zed رو با مدل‌های Calude Sonnet 4.6, GPT 5.5,5.4,5.3, Gemini 3.1 Pro بگیرید به رایگان. 10 دلار هم کردیت از API خودش می‌ده.\u003cbr/\u003eبه شدت هم IDE سبک و خوبیه\u003cbr/\u003eاز اینجا می‌تونید اقدام کنید:\u003cbr/\u003e\u003ca href=\"https://zed.dev/education\" target=\"_blank\" rel=\"noopener\"\u003ehttps://zed.dev/education\u003c/a\u003e",
-      "date": "2026-06-27T14:57:51Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 45200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/NEgD8Rgwf2Vr_PoA9pvz3HEh3ShYELwsFDlWOzjSt65x36wXjlxn9PVGSySoUDzFSWeCNX78Ig9mrGGjcA78LXenPCZ4ASTzTIfD1_9CG8QXDGQCsB0snRhGIw3xunvMCOpn-n5mZy6GPGRB_rKhc9s6XqgqE5MABqMMIucLGwWcF_kj2TwIuu6U23j0vEtHp293ajJsrLzOFXI-RgjKqNGm7u83fwn_UC2Z6_FWcSW1u6Qbcc-dftWd9dcza1L2sl4YvtsipA4T-LsOmxM9jKI5novXOZoRtFprI-95Lb3uZJFVfBUqyxyhSAc5SrxYQM21QiI4E-UIROR229ffhQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 4077,
-      "message": "از شانس من سرور ایمیل دانشگاه به مشکل خورده نمی‌تونم هیچ ایمیلی دریافت کنم. فقط می‌تونم send کنم\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-06-27T15:29:26Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/eqDwaJE0zZ8jbyLUsgdOrYzHZUDxxO0l32mgBqKYr3kqYPDMUCdYzb1SIZrDc0VOYECatCb-Kp4PlAUHHUip3HXEBEa4xJZIBnVls_sSR4_w-PcvCcxC2xZSNljvNXUuP5hHSz_tdL4WyZURORQnEpWHCForFDNOcL2qTWPVbrbspIVCNbW4gszFkgNd8DXkAvPxgroSjXdaD8EC5AYoIzPKFazUkwZWmsuk1EDB5rsnrv6YYR_cXcBQ1R-0wb0UNf2yFW8SAPbFVj9s_uvh_w30mI8S0cgrzxJ3g0OY1D4FUDlHtrQGL1zOcaPvz8Hzp0jPKWYARgRhoc7ea1o7TA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 4078,
-      "message": "یه نفر توی ردیت، مدل GLM 5.2 رو روی سیستم خودش راه انداخته با ۴ تا RTX 3090 و 192 گیگ رم\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eوزن Q2 مدل رو هم ران کرده که توضیح میدم چیه. همینطور با اینکه تقریبا از بیس‌ترینش استفاده کرده، گفته که GLM 5.2 داره کار کدنویسی و پلن و هرچی که نیاز دارم رو عالی انجام میده.\u003cbr/\u003e\u003cbr/\u003eتأکید کرده که مدل توی کد زدن، پروسه‌نویسی و حتی کارهای طولانی و autonomous خیلی قوی عمل می‌کنه. و واقعا حس Frontier Model می‌ده.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote expandable=\"\"\u003eحالا Q2 یعنی چی؟\u003cbr/\u003eحرف Q مخفف Quantization (کوانتایز) هست. یعنی وزن‌های مدل رو از دقت بالا (معمولاً ۱۶ بیت) به دقت خیلی پایین‌تر کاهش دادن تا:\u003cbr/\u003eحجم فایل خیلی کوچک‌تر بشه\u003cbr/\u003eحافظه (VRAM/RAM) خیلی کمتر مصرف کنه\u003cbr/\u003eسریع‌تر اجرا بشه\u003cbr/\u003eQ2 یعنی مدل به ۲ بیت کوانتایز شده.\u003cbr/\u003eاین پایین‌ترین سطح کوانتایز رایج هست (از Q2 تا Q8 و حتی Q1 وجود داره).\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003eهمینطور طبق گفته‌ی خودش برقش هم خورشیدیه و هزینه‌ی برق نمیده\u003ctg-emoji emoji-id=\"5307843476296053924\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F948B.png\u0026#39;)\"\u003e\u003cb\u003e🔋\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003eمشخصات سیستمش هم اینه:\u003cbr/\u003e۴ تا RTX 3090 (هر کدوم ۲۴ گیگ) که میشه ۹۶ گیگ VRAM\u003cbr/\u003eسی‌پی‌یو هم Ryzen 9 9900X\u003cbr/\u003e۱۹۲ گیگ رم DDR5 (Overclock شده روی ۵۶۰۰ مگاهرتز)\u003cbr/\u003eمادربرد MSI 840B (هرچند بهش گفتن برای این ستاپ ایدئال نیست، ولی خودش جواب داده که فعلا داره جواب می‌ده\u003ctg-emoji emoji-id=\"5472363852131736400\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e)\u003cbr/\u003e\u003cbr/\u003eایشالا قسمت ما هم بشه\u003cbr/\u003e\u003cbr/\u003eپست اصلی: \u003ca href=\"https://www.reddit.com/r/ZaiGLM/s/Ew9JHC2XIA\" target=\"_blank\" rel=\"noopener\"\u003ehttps://www.reddit.com/r/ZaiGLM/s/Ew9JHC2XIA\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-06-27T18:13:30Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/ZnNHDYv5vkeqft7uElPEZp41DSwM8xHaqHSXi1HGzbHmnyW--VxpzLrDjhXm-GmGjmuNUfpqVm8y46aCLgceUFJEqXbS_4VKMV_fddB_zA75z07MA9zI9ZaC7RMi5Ajno_dLA8YvDHYGbm5YgsyO40TDh_oEfDwo5u5-d1dIlhcmW28R5P14vw4MHnPTcNWcrVB9RyEFmDfFdSjbJbhJFNGmqCndJ9Y_7YxTxX2-BJtWG1d7_6Ux2IFbV_l39CKYMYFjKIQzjKmuC2Ent1wqUcjkExohPmZkjSLwugIjtzv0XzrG6DfDwpx88eSd0_5WqG-4ze0x6AgbzrByF4N9kg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 4079,
-      "message": "اپل تقریبا ۱۷-۱۸ درصد قیمت محصولاتش رو افزایش داده، اونوقت فروشگاه‌های وطنم نه تنها قیمت رو ۳۵-۴۰ درصد کشیدن بالا، بلکه سفارش در جریان تمام مشتری‌ها رو هم لغو کردن تا مجبور بشن برای قیمت جدید پول بدن. بله ایران درست خواهد شد\u003ctg-emoji emoji-id=\"5474371208176737086\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
-      "date": "2026-06-27T18:26:59Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
       "id": 4080,
       "message": "الان Zed Code رو به جای Vs Code و Cursor نصب کردم، و اولین چیزی که چشممو گرفت حجم کمش بود. کلا 80 مگابایت بود:)\u003cbr/\u003eستاپ اولیه‌ی بسیار تمیز. می‌تونید اکثر ایجنت‌های معروف رو نصب کنید و تنظیمات رو هم از Cursor یا Vs Code ایمپورت کنید. تمام اسکتنشن‌هاشون رو هم می‌تونید نصب کنید طبیعتا\u003cbr/\u003eمحیط داحلش هم عاری از هر گونه حواس‌پرتی و به شدت سبکه. به سرعت تب Git رو بالا میاره و تا اینجا عالی بوده",
       "date": "2026-06-27T19:05:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33300,
+      "views": 33900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -129,7 +39,7 @@
       "date": "2026-06-27T19:45:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33400,
+      "views": 33900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -141,7 +51,7 @@
       "date": "2026-06-27T20:21:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33400,
+      "views": 34000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -159,7 +69,7 @@
       "date": "2026-06-27T21:22:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32500,
+      "views": 33100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -171,7 +81,7 @@
       "date": "2026-06-27T22:09:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32400,
+      "views": 33300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -183,7 +93,7 @@
       "date": "2026-06-28T07:25:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26000,
+      "views": 27500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -201,7 +111,7 @@
       "date": "2026-06-28T07:38:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25300,
+      "views": 27100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -213,7 +123,7 @@
       "date": "2026-06-28T09:45:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20700,
+      "views": 23300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -231,7 +141,7 @@
       "date": "2026-06-28T10:56:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14300,
+      "views": 18200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -243,7 +153,7 @@
       "date": "2026-06-28T11:27:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9970,
+      "views": 15400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -261,7 +171,7 @@
       "date": "2026-06-28T12:03:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3910,
+      "views": 11900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -276,6 +186,64 @@
           "url": "https://cdn1.telesco.pe/file/V9pRKI7U_H42IUSv_FVwWqfTBO4xPj2KNMTzwIZPZTrUPHWlpZvDhOhEgC4b_4EiZOnn8Tn3DwT3N24OUwPyW71hJ7Q0wDAwfanIGew49x7v0y-_xXvTyYCs6bAe58zYfkXVzdaKnCLWh1lSVLD-EUbdBqeE0SjkjwyTrnT-z_6huC2jYrOUDn94oxaWDv-Oj85Z-cIK6QQ9bjD7fsJSHLM0yL5qVexG7ZG_ejb6Nz9cOc9xXBkYYZecLv52rMsx1-HFH-bBaFVcuATdjlL3IxCdKaFx5h9VMmL4xRpNa6DDI5yaW4wgEqEZ4__VZWcVJfuxn0UjEDww8crtqc69Pg.jpg"
         }
       ]
+    },
+    {
+      "id": 4095,
+      "message": "برای اینکه در عمل انجام شده قرار بگیرم یه وبسایت بالا آوردم، فعلا هدفم اینه که API های رایگانی که بچه ها میذارنو با اسم خودشون اینجا رفرنس بدم.   خودم اینقدر بوکمارک و هایلایت چک کردم که کچل شدم  در ادامه میخوام چیزایی که یاد میگیرمو همینجا داکیومنت کنم و…",
+      "date": "2026-06-28T12:20:26Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 4096,
+      "message": "من با ایمیل یکی از دوستام از دانشگاه تهران تونستم بگیرم.  یه سری دانشگاه‌ها توی لیست تحریمشن گویا مثلا شریف.\u003cbr/\u003eیه بار هم شریفی بودن به درد نخورد\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e حیف رتبه کنکور\u003cbr/\u003e\u003cbr/\u003eامکاناتی که در اختیارمون قرار میده، توی نسخه‌ی رایگان هم سخاوتمندانه‌ست. و همینطور می‌تونید BYOK هم استفاده کنید با همین API های رایگانی که می‌ذاریم اینجا و توییتر با بچه‌ها\u003cbr/\u003eاون اعتبار 10 دلاریش زیاد نیست، اما به شما با پلن دانشجویی، Prediction رایگان با مدل‌های قوی خودش رو میده.\u003cbr/\u003eبا اون اعتبار هم می‌تونید از Sonnet 4.6, Gemini 3.5 و Gpt 5.5 استفاده کنید.\u003cbr/\u003eبه شدت محیط باحال و سبکی داره\u003cbr/\u003eهیچ چیز حواس پرت کنی نداره برای کد زدن یا استفاده از ai\u003cbr/\u003eصرفا یه کم متفاوته از VS Code و اینها. به نظرم دگم نباشید و تستش کنید\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9881.png\u0026#39;)\"\u003e\u003cb\u003e😁\u003c/b\u003e\u003c/i\u003e قابلیت‌های Parallel agents اش و Real-time Collaboration اش که می‌تونید با همکاراتون ویس چت داشته باشید و روی یه ترمینال مشترک کار کنید، واقعا باحاله",
+      "date": "2026-06-28T12:44:46Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5950,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/iDSSl-kXranZEbARBxpXs01fB61jYmFG_WcxNOmZwcBB0k3J215ix0uMdD776CKqOJOklosFIpoQMY9I59faM_n7MKFu35KPPHoMYe4jvoVM3g07wKc6f1sziLZgjKNJFxpicYIwEfxC6jIUiyvanrqd1l7Sg95HnphHDPEJV9AZI_fVmn3A5NaXDaxt9ar3lTo3pjnAJNBzk0NemRtY7lFojy1rCbS9ddf8NPhN0r8yUbX_r8s7plK25ZvUZ1ZjmxH3PDna27StfpC21mJA95pXnUa8fXoNvIiM2ZhQZZLs0l0-wIf6uqRny9jLhEsv7DPqpWxj7_Eck_kTLTWqNw.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/a4GiwGoLKktHY4PL2HCIkK-upcxvR8Kup63Gsf9_SEzY8yFHLMaa2mLc259W3_GUVaTZQS_y6pRNE-3ku31Ink_UTwGjGoe0h6rkZ-KfuZgPgjJMJKMhLBEqeWtJbRoxQ99ie1_BsZmoMDrwdrPBH3I3eUQoygWe6QiDkQ6LX5bQrPC_nmoRKVNzfa6BBTjoB-8I1C9DC21gGSJDKw0uGYzLnXRoctT17pTg9cS52AM5U0KNNg93B-RH0FNz1O2ueqofajm96EA7G3yyI8XD_pYb9oRhYGjgf4mJzr6ltZNFtpZphgN50aDMWr67DbacNHw2JFcFKMh0Fxr49jYe8A.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/bckQtYtukglnOiT8RDlEPs1YOG827DO-aoyK1So5S-JR6vVO4Le7XRuZFcPjZgJgjPu8fU9jrO6leHNczB78FgFfgsDhQUW4dI6Y-MKgXpb9iKJV9njwy9WBR-0JLcFyYne2ATW3bjN30ZL-99UP-T3f6LuxKu0NwR6i4s2QzD6gfdzG-hM30ohzt2cpu9GnV-OwffPGEV7QCR9HslEnTdgCG-xOFsIjNx8DOktmov9aItDKJntLhXlZb8NzQsRLQFt2AyC1cF6DNVCLECunGSD6xcCnOI4FF5M30TkyiTcZlQDQCaK926hHpJtkrs_iLPCnMPKBEbnRZdVIZ2DA-Q.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/aa4QmCMkpYGFemYtw0KdVsjJO_wUyMXQm--x23TPdPWD-nV3o0sgGB3rSmZG5Vy1r4ylkborT9mfTYCa7BQFKEc8pz3EMOXSg0SMYdJnBRkRaLAKlv3NwZnBBaQx2vOnPaZzVJ3wRdHM5G-yek6K7QRNuRepbwx99WVBABfR4F1pM9f7SEOZoSCEl-ERE4yDTYfbuSfKq8Dnwd518XxiVvW87PUOZuqdHtI9gV4LmIISgWrkAVpiZjlDPA6wktE1PY0eQQt0f6-_xVX7JiHnCW0m_ACUPPoGHcPcEwdCs9QKAKBHUT48dm-j-kl_3qFt8rm2dd-ujYKLXOloFwaWcQ.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/J1X4S6qNJl5TpajrdZR6OE76fMoEmUN5kPiMVw4BW2AkHspeG-333DyDUjDSpF4qcg8-iHO7fGdeyuehtSrMyepyW5DhhaAJS9gVEYvncgz76tV5XgZ9PBRhDgW8kXRw9RPBLAGNfZYN8jxeNDEgIgOyRaMxi_Y6WgXh4Dlgw7mDZtQq73f7aieZV8oUbhZKhkUKqbcKxXwazsq7QsiNuovgV8GyUJDXC5B_4fdIimVkfvH11hn-fjdgfF6-sSgU6hCCeDqpjrPET-929exLklWW10Qz8ZvvKw7o5qpYlsL2IG0EmXUHW_Eu9g2xHdbn-PcEN_3Zg-xUkfTjDWztnw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4101,
+      "message": "یه گزینه هم داره به اسم disable ai\u003cbr/\u003eهرچی فیچر ai هست رو غیرفعال می‌کنه توی کل برنامه\u003cbr/\u003eاینم برای عزیزان دل مخالف ai\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-06-28T12:50:35Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4090,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
     }
   ],
   "last_updated": 0
