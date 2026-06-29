@@ -8,50 +8,12 @@
   },
   "posts": [
     {
-      "id": 11641,
-      "message": "\u003ctg-emoji emoji-id=\"4990182601252668309\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eملوانان آمریکایی در ناو یواس‌اس «جورج اچ. دبلیو. بوش» (CVN-77) در حال انجام عملیات پروازی در حالی هستند که از دریای عرب عبور می‌کنند.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/mwarmonitor\" target=\"_blank\"\u003e@mwarmonitor\u003c/a\u003e",
-      "date": "2026-06-28T13:49:04Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6270,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "نظامی - سیاسی",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/mLAnSSnMtmg0JCbHrplI4rvYvmmC0KLs7wioaqpMyRXh26jt_RTpREfGSxhko6CNL5GhJ_jtjTkiE3EvEky5iZoK3McTy09PKBmH2F0SwF4L6TEFPWuPoC5UY3NH27Kj0FDzTFgNU9ziE8b5lTRSS9rsi2PCQhcFjobxc-BIyjur9aqDoS-1e7LgViT7mc3LuiDDKtiqhw1ngsVzaeZm0ejelBUEffEckTLicsazmswcK2sPsJEH7Oz7NebJslO-XpVy64Gc8a8oYcWDY0Dyxd8ydZ1EtA4riYX_rTlKge75ov_W0pe-j9PGBhKlQBguOvUNpD82eO5xms85A9MCNg",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 11642,
-      "message": "\u003ctg-emoji emoji-id=\"4990182601252668309\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eهلیکوپترهای نیروهای ضدتروریسم و نیروهای امنیتی کرد در آسمان استان اربیل در شمال عراق در حال پرواز هستند.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/mwarmonitor\" target=\"_blank\"\u003e@mwarmonitor\u003c/a\u003e",
-      "date": "2026-06-28T14:22:06Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6410,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "نظامی - سیاسی",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/n98jBUr2i8aBfSYWmgZGnGPD8TxXjJ69_ShbFSjQJaEH4BicoFlKQ_wf7uLFCIrpj-nleso6uk_hmDdq0o5qbvWQPeeQI9HyOZ82tLgSKND_Szo8TLRiSe68a6fG6nsthc7r-fnvYTOy6uduh6gEzC2kbna68BFwZ8ye37GGMVKfYsKfLn-1kfudsDZcdiMNNlaNpnG4dLCcoqWtD3eo70VAESTszZawwoleKLIhZge0sLa-yqQAMHKHNdo27l4j3mYgph1TUQoJTo0JI1S4MKc75bWrDZ6_YcaGjmCc7G0SCvqH5aLd_vDRqe4JYlec_SELSNle6606IMtc5VGsaw",
-          "width": 616
-        }
-      ]
-    },
-    {
       "id": 11643,
       "message": "\u003ctg-emoji emoji-id=\"5100752793371673725\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A2.png\u0026#39;)\"\u003e\u003cb\u003e💢\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e سفیر آمریکا در سازمان ملل: صبر ترامپ در برابر ایران رو به پایان است.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/mwarmonitor\" target=\"_blank\"\u003e@mwarmonitor\u003c/a\u003e",
       "date": "2026-06-28T15:38:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6220,
+      "views": 6280,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -63,7 +25,7 @@
       "date": "2026-06-28T16:22:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6330,
+      "views": 6390,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -75,7 +37,7 @@
       "date": "2026-06-28T16:27:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6660,
+      "views": 6720,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -94,7 +56,7 @@
       "date": "2026-06-28T17:11:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6560,
+      "views": 6620,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -106,7 +68,7 @@
       "date": "2026-06-28T17:23:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6780,
+      "views": 6870,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -118,7 +80,7 @@
       "date": "2026-06-28T17:33:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6800,
+      "views": 6900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -130,7 +92,7 @@
       "date": "2026-06-28T18:11:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7500,
+      "views": 7600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -142,7 +104,7 @@
       "date": "2026-06-28T18:29:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6610,
+      "views": 6710,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -154,7 +116,7 @@
       "date": "2026-06-28T18:54:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5950,
+      "views": 6040,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -166,7 +128,7 @@
       "date": "2026-06-28T18:55:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6050,
+      "views": 6150,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -178,7 +140,7 @@
       "date": "2026-06-28T19:32:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5930,
+      "views": 6060,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -190,7 +152,7 @@
       "date": "2026-06-28T19:37:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5870,
+      "views": 6030,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -202,7 +164,7 @@
       "date": "2026-06-28T19:46:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5740,
+      "views": 5940,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -214,7 +176,7 @@
       "date": "2026-06-28T20:19:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5340,
+      "views": 5590,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -226,7 +188,7 @@
       "date": "2026-06-29T05:33:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2060,
+      "views": 2740,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -238,7 +200,7 @@
       "date": "2026-06-29T06:00:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1320,
+      "views": 2170,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -250,7 +212,7 @@
       "date": "2026-06-29T06:08:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1050,
+      "views": 1990,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -269,7 +231,7 @@
       "date": "2026-06-29T06:11:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 912,
+      "views": 1950,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -278,6 +240,43 @@
         {
           "type": "photo",
           "url": "https://cdn4.telesco.pe/file/rSV31V9iZR0M1dO8eNEG71EEEOeHmDRWuuvaMmycXrPu387OIUtuiHVRfsANa5nGexhYM8qyM_2D4PPEWiIVB9udz-gW0-iwmaQSP4nvHxWXogoQDpIoUP2BB-eIsEFvNcq-9FZ6IupXGwO4Kjj890yZEM1aDVe1Uc7-HW6TPfc_KYXxVaT8o2e7k3RziCnkM_NRlPJ-mhWra7xi02u0zO9P464VqpOkG-8pZmwsDQh8_JPktFVU0NoWSDfGVXBsy6uLkRLFp3CCUXEvcxwbEcymkzEFvaDDom67WeLhv6aPAglrnEtXy1qebS9SF_lS9GaXoHYWQ_HP_XJ6YBq5MQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 11663,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939D.png\u0026#39;)\"\u003e\u003cb\u003e📝\u003c/b\u003e\u003c/i\u003e تصویری که می‌بینید، برخلاف تصور اولیه، نمایشی از کلکسیون شخصی یا گاوصندوق مخفی پابلو اسکوبار نیست؛ بلکه اینجا خانه‌ی یکی از کلفت‌گردن‌های مجلس عراق است که گویی وسط اتاقش چاه نفتِ شخصی تپیده است! در این طویله‌ی مدرن، میلیاردها دینار در کنار کوه‌هایی از دلار و طلا کشف شده که صاحبان ماله به دستِ آن‌ها از قضا «شیعه سانان رافضی» تشریف دارند و با تعهد کامل به همان شغل شریف و اباواجدادی‌شان یعنی غارت و چپاول مشغول بوده‌اند. واقعاً هر چقدر از عمق وقاحت، لجن‌زار فکری و کثافت بودن این فرقه بگوییم، باز هم در حقِ توصیفشان کم‌فروشی کرده‌ایم. موجوداتی حقیر با یک سبک زیست کاملاً انگلی و مافیایی که تمام سلول‌های خاکستری مغزشان صرفاً برای یک وظیفه‌ی خطیر برنامه‌ریزی شده است: عهده‌داری مفت‌خوری و تأمین مالی جمهوری اسلامی، چه در داخل و چه در خارج از مرزهای عراق. این تپه‌های اسکناسی که در تصویر روی هم دپو شده‌اند، در واقع همان خونِ تغلیظ‌شده و مکیده از رگ‌های یک ملتِ مفلوک است که جای تزریق به رفاه مردم، سهم سگ‌خورِ یک سیستم ایدئولوژیک مخرب و تروریست‌پرور در منطقه می‌شود تا چرخه‌های ترور و جهل یک روز هم بدون سوخت نمانند.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/mwarmonitor\" target=\"_blank\"\u003e@mwarmonitor\u003c/a\u003e",
+      "date": "2026-06-29T06:30:12Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1480,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "نظامی - سیاسی",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/IDhQmif1Xwxn_ksD5Y_ks6CsyVe-u3Ps-nDoj_nzwZj2iY6cfRUETTqbr8TdXEKpnQsutno0D9XGuIOvJdFvsgS5fZgNBbGcEO6YVtsFyfAJ9j8k8slSDokFA8BubvevCZ7u7zXWk6s-6frwpf_xAwWSU3WaSQsL3KgCS-GALjC2zCbmd4FwxJ2BFcYS4nW2aL4zxH5KbFVjHQ7mDeiIUKIYNfiZrS7pgJHY1S1_uiwySlrScTByoURDbUE-mOXTZeskunWFT7Z_0uKinFG_UVKdCPdKi3iDkG2G1AodmntpfxBFzA9JNQU8QzFz0yI7y--i3kE4YgJJ-58FwQVWqg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 11664,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eبه دنبال نقض توافق و آسیب به نیروهای ارتش اسرائیل در منطقه امنیتی: ارتش اسرائیل سه مقر متعلق به سازمان تروریستی حزب‌الله در جنوب لبنان را هدف قرار داد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BB.png\u0026#39;)\"\u003e\u003cb\u003e🔻\u003c/b\u003e\u003c/i\u003eنیروی هوایی شب گذشته (یکشنبه) سه مقر متعلق به سازمان تروریستی حزب‌الله را در مناطق نبطیه و میفدون در جنوب لبنان هدف قرار داد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BB.png\u0026#39;)\"\u003e\u003cb\u003e🔻\u003c/b\u003e\u003c/i\u003eاین حملات در پاسخ به ادامه آسیب‌رسانی به نیروهای ما که در منطقه امنیتی فعالیت می‌کنند توسط سازمان تروریستی حزب‌الله انجام شد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BB.png\u0026#39;)\"\u003e\u003cb\u003e🔻\u003c/b\u003e\u003c/i\u003eدر حمله‌ای دیگر در روز گذشته، نیروهای واحد چندبعدی یک سکو پرتاب متعلق به سازمان تروریستی حزب‌الله را که به تلاش‌های خود برای آسیب رساندن به نیروهای ارتش اسرائیل ادامه می‌داد، هدف قرار دادند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BB.png\u0026#39;)\"\u003e\u003cb\u003e🔻\u003c/b\u003e\u003c/i\u003eارتش اسرائیل به فعالیت خود برای رفع هرگونه تهدید علیه نیروهایش ادامه خواهد داد و اجازه نخواهد داد که سازمان تروریستی حزب‌الله به شهروندان کشور اسرائیل آسیب برساند.",
+      "date": "2026-06-29T06:56:57Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 595,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "نظامی - سیاسی",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/OqIG-Xe99YtKvdInWpViCxwVoUysS8ASRG-x7Oa-GTKazQWnZKf7hCE8GOOqp2Q9s2MJd4l6dTrF4he0EtiYROwVVM5zb0NfINTqiw7sr3Dhk3qpLuoKJv2ObYQR4evWyTghCgqTHZh9v4F51q3zPnXGIQQVaTSVW4zmTbc9b5uDo4EqIYSD1wnQ06_amk0SBNEgj4I4Q4mgeWiD6XvRvbrIqm8HbwVgzDHF8tIMvDrb3njfDlJDgygzKtIDiOoKAaDcEEk35oBJFQh_cHgWZp3pm2fiC8VpV58prK55Vqi7OxlI5x2Y5DvaXkdo7OemUFNS7I_4sLk9HCK18smdgg",
+          "width": 1280
         }
       ]
     }
