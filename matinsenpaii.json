@@ -8,72 +8,12 @@
   },
   "posts": [
     {
-      "id": 4088,
-      "message": "در مورد بن شدن اخیر اکانت‌های کلاد، باید بگم که من ساعت و همه چیم روی ایرانه(Asia/Tehran) و یه کله هم باهاش فارسی حرف میزنم و حتی از چت‌های قبلیمون که شرایط تحریم و اینها رو براش توضیح دادم، توی تصمیماتش قشنگ لحاظ میکنه \u0026#34;توی ایران بودن\u0026#34;ِ من رو. پس فکر می‌کنم علت بن شدن دسته‌ای اکانت‌ها، چیز دیگه‌ای باشه. نه فارسی حرف زدن یا ایران و... .\u003cbr/\u003eبه نظرم مشکل یا کارتی که باهاش پرداخت شده هست(که شاید کارت‌هایی که batch payment داشتن رو تشخیص داده و اکانت‌ها رو بن کرده)\u003cbr/\u003eیا اینکه علت دیگه‌ای داره. چون خود خارجی‌ها هم باهاش درگیرن توی ساب‌ردیت‌ها",
-      "date": "2026-06-28T07:25:41Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/eBEvPd7r9sTRvZtCtl6y1m8p-cl9yCrLbBN7c0gWE70Z92fI68nNXFMgjoQ0C7HqJ8vEnwLbCflrVKscwj38JSWJxcmdEfZrTX59NjRerPEh9vIOUspBLy8DRRwCpUzK9qJtuvkEc6kcR5pwa17U7v1SKN_Ew1PKRYz9uu8x5uZ3XyhceXWrsIoFaeftpRnb5sFKleY0AbGzyEbnLpohknVpjNQKmKf2BXgVdaV7_Eo5RfeWn18W96cKkAOdhBzsryT5vzeFNhP6aZJlYK9Ivrc_3DL4ZuM3Boto-ej-KjljXYPMphccDsVaTBCt2Y8NKd7MyaPmPuWPFRgobJ-_5Q.jpg"
-        }
-      ]
-    },
-    {
-      "id": 4089,
-      "message": "وی پی انم هم همین کانفیگای کلودفلره و 6 ثانیه یه بار آیپی عوض میکنه. جدا مشکل از وی پی ان و... نباید باشه",
-      "date": "2026-06-28T07:38:17Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 4090,
-      "message": "یه سایت بامزه پیدا کردم تمام اخبار جهان رو با ai رصد میکنه. اوپن سورس هم هستش\u003cbr/\u003eخبرای ایران و آمریکا رو هم می‌زنه درجا وقتی موشک میزنن و اینها\u003cbr/\u003eاین پروژه‌اش: \u003ca href=\"https://github.com/koala73/worldmonitor\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/koala73/worldmonitor\u003c/a\u003e\u003cbr/\u003eاینم سایتش: \u003ca href=\"https://worldmonitor.app/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://worldmonitor.app/\u003c/a\u003e",
-      "date": "2026-06-28T09:45:30Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/FsTCds8gJd-knBQCdrzbv_cK_f4KRvCckB1NMuPdi4A2iioXQLdi6EXfZ9kssZZkR9wfuxl6Xx2naa4_HigDbqHBONdm-z8KSbz9lFUw-oNT9ACeliihGx5_9EwZuwgZyHenGm4PU7cZZmwetLYRvl7bVnAtuMuOeRaPXqOzSx8Cmdz5BMf27ZID32zTSsecUTDdaMndmj3hs3-M7f1LYRBIeO_yvbOx_t9i0F60xfP9f6xdV1rPzOfHasqGved1VyfwICUoEeiSBot3onEQBj7h6N3OwREu6bBSiDcuQgsoZj87yjyBB08iL8ItP-t17JdWcov4jeRecNv_hN_6vQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 4091,
-      "message": "به قول یکی از بچه‌ها انقدر api رایگان پیدا کردیم که حالا نمیدونیم باهاش چیکار کنیم\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eچندتا نکته:\u003cbr/\u003e1- اصلا از api های رایگان روی پروژه‌های خصوصی یا حساستون استفاده نکنید\u003cbr/\u003e2- هیچ اطلاعات حساسی بهش ندید\u003cbr/\u003e3- توی env پروژه‌تون، api key یا... نذارید مخصوصا api پولی کلاد یا gpt یا چیزی\u003cbr/\u003e4- حواستون باشه که به جز شرکت‌های معتبر(مثل خود شیائومی که mimo رو رایگان میده یه مدت)، به هیچکدوم از بقیه‌ی سایت‌هایی که api رایگان میدن اعتبار و اعتمادی نیست",
-      "date": "2026-06-28T10:56:00Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
       "id": 4092,
       "message": "برای اینکه در عمل انجام شده قرار بگیرم یه وبسایت بالا آوردم، فعلا هدفم اینه که API های رایگانی که بچه ها میذارنو با اسم خودشون اینجا رفرنس بدم. \u003cbr/\u003e\u003cbr/\u003eخودم اینقدر بوکمارک و هایلایت چک کردم که کچل شدم\u003cbr/\u003e\u003cbr/\u003eدر ادامه میخوام چیزایی که یاد میگیرمو همینجا داکیومنت کنم و یه رفرنس خوبی درست بشه\u003cbr/\u003e\u003cbr/\u003eاین لینکش، big pickle هم برام درستش کرد دستش درد نکنه:\u003cbr/\u003e\u003ca href=\"https://ez-ai-access.yazdan.me/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ez-ai-access.yazdan.me/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5470060791883374114\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8D.png\u0026#39;)\"\u003e\u003cb\u003e✍️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://x.com/yazdanctx/status/2071128140252938698?s=20\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eYazdan Fathali\u003c/a\u003e",
       "date": "2026-06-28T11:27:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26100,
+      "views": 26600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -91,7 +31,7 @@
       "date": "2026-06-28T12:03:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23700,
+      "views": 24300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -113,7 +53,7 @@
       "date": "2026-06-28T12:20:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23600,
+      "views": 24100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -125,7 +65,7 @@
       "date": "2026-06-28T12:44:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27000,
+      "views": 27600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -159,7 +99,7 @@
       "date": "2026-06-28T12:50:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26600,
+      "views": 27200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -171,7 +111,7 @@
       "date": "2026-06-28T15:54:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23100,
+      "views": 24000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -183,7 +123,7 @@
       "date": "2026-06-28T19:03:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15100,
+      "views": 16200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -195,7 +135,7 @@
       "date": "2026-06-28T19:04:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19300,
+      "views": 20600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -207,7 +147,7 @@
       "date": "2026-06-28T22:01:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8130,
+      "views": 10400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -219,7 +159,7 @@
       "date": "2026-06-28T23:33:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2040,
+      "views": 5480,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -231,11 +171,55 @@
       "date": "2026-06-28T23:42:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 919,
+      "views": 4940,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 4108,
+      "message": "اگر حواستون به توکن‌های Hermes و ستاپ درستش نباشه، اتفاقای خوبی نمیفته:))\u003cbr/\u003eهمه‌ی اینا برای یه تسک ساده.\u003cbr/\u003eبهش گفتم برو نقدهای منفی راجب Berserk رو بخون و بهم بگو\u003cbr/\u003e10 دقیقه طول کشید و کلی توکن سوزوند با gemini-flash . اما در نهایت، نتیجه خلاصه و عالی و دقیق بود(حاوی اسپویل طبیعتا)",
+      "date": "2026-06-29T00:31:30Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2980,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/C9xDSSiE5ALsWabPDTC5gAzKYSJ_dmS5Erb-dQQ6CMmStje2iVsZYU-Y4EFMMhiyUtIgVfw-x3WJKY8QP_G9fUBACEv3Nbqy3q17FcsNpoyrGPO9fz-7fwKROOSBnBG6t0nPTbe2ur0REHF5TAkAJn7bga06rrMOIcNnfM5eoiUX02TNQ8WZjyucQLT_RtoOLrYN2cSCDSfbR4Er8mLi-hN_Jo5QBYCJbiUK4YZ2apLZemQSeHONT0e1Iovdi0qyENusRG9qWTbP228izlNpo_POxn2soNiYYCfuGka2SfxnsV9S_JSCN0G4-sC6sBjB7QaESnHuN2QRjwn0zv2imQ.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/WpMus6mfrLVaTJKQ_6pkcwb4JqVVEW2FKlq-79Qq4P9uqwRaTfOAvOeI-o1yEmvhprCFeqpz4XnhwLAcsRP2ihuKBmF1TTK0NKtJgb02U0akRrhCo4uWT9xgV966aGcfLh9tl1fCo9KMlPv7wokPUthTGGXPSTslMYfcnGQBn40MDErSh7ydS_w985KktZrpY6taCR2HyW7ui7x32a6tnk8VyZm85EA1JKurKWx_LUc8SRN0_vqEU9oKaz_DTB23mRjlfvibKxgdDn9p91UrzUYcFv2yXMWzE1InAnyMbi5FNQS7Pzh-0__FhmX_6_d-xs8ctQ2_9CqoafWsO7SF4g.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4110,
+      "message": "به همین سادگی، یاد گرفت =) و چون بهش گفتم، دفعه‌ی بعدی اشتباهش رو تکرار نکرد؛ توی یه سشن کاملا متفاوت. و اونم انیمه، نه مانگا. به جای 30 تا سایت، 4 تا رو تلاش کرد بررسی کنه و نتیجه رو کشید بیرون",
+      "date": "2026-06-29T00:37:54Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2820,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/doz4p1z4rjok_wei3F5KZ0-fN_0L10mDvp-TAQ5YDjgDYy0uxP9weJbILRSN77scqeJtTpL57vSrsdb4ZEG7AyDZGYVA8AylXNXvSiqsNRydyLqHIzTIt1qG6047gEpQ6WUkYYPxpH8bvJnjFM5gTXqLk1sTDaTcXBrQbu0iZt5lmP_kx3qjSAtl74drBy87Q8c-u-eRPAw8i3dF0XMZCveWDtbjnXxnXC-Dxg16OEt1Esf8fgBFbS5-u0KUq5cPx8Gu78cjRep4kulAmOC-vtV6rl1mW9CKAhz8ZgqBNMktIuXEDWuFSh6SlOS9WgEFZPMFavwJPpcx7kQ9LayvVQ.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/DKq1XrHvUWsUug9C_Nw_rYhREFhzZOdaalhmna9LecpyIafikj2tjTwCt85-4AclO-XQVmUrYD_L9UCkVr3wAyCFAzdOCJBup0GApxwKIJYMijI1rsHltA8dB1pllrAZzUtiPkXv0ZjoJCCqJ1nTdz8oa0NxfbnLQcK3LoEW58aghYTVnIW-zZKdB8U1WRbGAXQjL8iAbkkfVHVkpYVCfW7RNbt7Mn2RUZA3A08x9slw4o6Ok_bnq70Py7UfWQsTAsJ_eYuyvdt-FKTs5C2_q8266Hc6OsgjCUBWyGgevCUtKdSgEvE6UCAXtUg_ueRWY9bf0JJbj4wL4KmCan8rFw.jpg"
+        }
+      ]
     }
   ],
   "last_updated": 0
