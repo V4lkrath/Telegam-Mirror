@@ -8,46 +8,12 @@
   },
   "posts": [
     {
-      "id": 4107,
-      "message": "سعی می‌کنم پایه‌ها رو صرفا بهتون یاد بدم\u003cbr/\u003eاینکه من بشینم یه سیستم پیچیده بنویسم توی ویدئو شاید حوصله سر بر باشه الان که خیلیا شاید بلد نباشن. ولی وقتی تعداد خوبی از شما، کار با این ابزارها رو یاد گرفتید، می‌تونیم بریم سراغ ساخت چیزهای پیچیده تر",
-      "date": "2026-06-28T23:42:58Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 4108,
-      "message": "اگر حواستون به توکن‌های Hermes و ستاپ درستش نباشه، اتفاقای خوبی نمیفته:))\u003cbr/\u003eهمه‌ی اینا برای یه تسک ساده.\u003cbr/\u003eبهش گفتم برو نقدهای منفی راجب Berserk رو بخون و بهم بگو\u003cbr/\u003e10 دقیقه طول کشید و کلی توکن سوزوند با gemini-flash . اما در نهایت، نتیجه خلاصه و عالی و دقیق بود(حاوی اسپویل طبیعتا)",
-      "date": "2026-06-29T00:31:30Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/C9xDSSiE5ALsWabPDTC5gAzKYSJ_dmS5Erb-dQQ6CMmStje2iVsZYU-Y4EFMMhiyUtIgVfw-x3WJKY8QP_G9fUBACEv3Nbqy3q17FcsNpoyrGPO9fz-7fwKROOSBnBG6t0nPTbe2ur0REHF5TAkAJn7bga06rrMOIcNnfM5eoiUX02TNQ8WZjyucQLT_RtoOLrYN2cSCDSfbR4Er8mLi-hN_Jo5QBYCJbiUK4YZ2apLZemQSeHONT0e1Iovdi0qyENusRG9qWTbP228izlNpo_POxn2soNiYYCfuGka2SfxnsV9S_JSCN0G4-sC6sBjB7QaESnHuN2QRjwn0zv2imQ.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/WpMus6mfrLVaTJKQ_6pkcwb4JqVVEW2FKlq-79Qq4P9uqwRaTfOAvOeI-o1yEmvhprCFeqpz4XnhwLAcsRP2ihuKBmF1TTK0NKtJgb02U0akRrhCo4uWT9xgV966aGcfLh9tl1fCo9KMlPv7wokPUthTGGXPSTslMYfcnGQBn40MDErSh7ydS_w985KktZrpY6taCR2HyW7ui7x32a6tnk8VyZm85EA1JKurKWx_LUc8SRN0_vqEU9oKaz_DTB23mRjlfvibKxgdDn9p91UrzUYcFv2yXMWzE1InAnyMbi5FNQS7Pzh-0__FhmX_6_d-xs8ctQ2_9CqoafWsO7SF4g.jpg"
-        }
-      ]
-    },
-    {
       "id": 4110,
       "message": "به همین سادگی، یاد گرفت =) و چون بهش گفتم، دفعه‌ی بعدی اشتباهش رو تکرار نکرد؛ توی یه سشن کاملا متفاوت. و اونم انیمه، نه مانگا. به جای 30 تا سایت، 4 تا رو تلاش کرد بررسی کنه و نتیجه رو کشید بیرون",
       "date": "2026-06-29T00:37:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28700,
+      "views": 28900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -55,11 +21,11 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/doz4p1z4rjok_wei3F5KZ0-fN_0L10mDvp-TAQ5YDjgDYy0uxP9weJbILRSN77scqeJtTpL57vSrsdb4ZEG7AyDZGYVA8AylXNXvSiqsNRydyLqHIzTIt1qG6047gEpQ6WUkYYPxpH8bvJnjFM5gTXqLk1sTDaTcXBrQbu0iZt5lmP_kx3qjSAtl74drBy87Q8c-u-eRPAw8i3dF0XMZCveWDtbjnXxnXC-Dxg16OEt1Esf8fgBFbS5-u0KUq5cPx8Gu78cjRep4kulAmOC-vtV6rl1mW9CKAhz8ZgqBNMktIuXEDWuFSh6SlOS9WgEFZPMFavwJPpcx7kQ9LayvVQ.jpg"
+          "url": "https://cdn1.telesco.pe/file/Owxp9xZw1xx8EBv-4k5-Bh7LljMrptSm85FuSbOuSWS3MBNpY2VLlSJexLCuC7SDbaf6tSGSjYg5ilfoqoREPcV933sFhFtEvzarNCbPlTnow7nPuniZKHFRFj2WPxWPsa2xcWqi5iJQB0FVkWcrhfpmKDFOEtwGRdT47XZTLRbU_GiEpJlB7BxdSvaFZjlSfmfsQoFBHfvQn2zVzi_uWyeLtaSCoEwv6P9MPxMa5PIcQBDC-qYSnIACRh93XzVrR9sdV0EIJ9tsqKyahsebHuRj8Z4TN-ev314ayGfehlm6MtJkqbIDNGlsuAvCiRYuy81iLRfr2-bLFmMcAa91RQ.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/DKq1XrHvUWsUug9C_Nw_rYhREFhzZOdaalhmna9LecpyIafikj2tjTwCt85-4AclO-XQVmUrYD_L9UCkVr3wAyCFAzdOCJBup0GApxwKIJYMijI1rsHltA8dB1pllrAZzUtiPkXv0ZjoJCCqJ1nTdz8oa0NxfbnLQcK3LoEW58aghYTVnIW-zZKdB8U1WRbGAXQjL8iAbkkfVHVkpYVCfW7RNbt7Mn2RUZA3A08x9slw4o6Ok_bnq70Py7UfWQsTAsJ_eYuyvdt-FKTs5C2_q8266Hc6OsgjCUBWyGgevCUtKdSgEvE6UCAXtUg_ueRWY9bf0JJbj4wL4KmCan8rFw.jpg"
+          "url": "https://cdn1.telesco.pe/file/T6Z_zJZKODWcaryN9MkkkTgxjlb9-SpxX3hJYyqFhQX9UrceWnAkS86S8dJ7LRxC1dMQRxepkfia6ObkIF69XVEifTPOnbF-5IBmWFgMdAKxHXAys61C_dZ9PmU9NvX6fuCUihCYDUnsKudaSHbn-Qd_hC_5Vg6MAOmW8e_6qsZ9SWhkFRYuGc22NRagxcB3ic-3gNAo37Y32k3Fg0qMJSahuTGa03WyE5i3lFeNc81VEhIdNqEFf0vrt-eizsmABZU-orJKMRbO2f_IJKI-mMneMy1Ns71Myzz1nxfEzH-m336Zsj9OjaAwFcj9HxY1mwOVUqVXUHSMD4dxVWqbgw.jpg"
         }
       ]
     },
@@ -69,7 +35,7 @@
       "date": "2026-06-29T05:25:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28600,
+      "views": 29100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -95,7 +61,7 @@
       "date": "2026-06-29T07:48:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26100,
+      "views": 26700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -113,7 +79,7 @@
       "date": "2026-06-29T08:06:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26000,
+      "views": 26500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -125,7 +91,7 @@
       "date": "2026-06-29T08:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26100,
+      "views": 26600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -137,7 +103,7 @@
       "date": "2026-06-29T14:31:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20700,
+      "views": 21500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -149,7 +115,7 @@
       "date": "2026-06-29T14:45:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19800,
+      "views": 20700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -161,7 +127,7 @@
       "date": "2026-06-29T14:48:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16700,
+      "views": 17600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -173,7 +139,7 @@
       "date": "2026-06-29T18:04:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17000,
+      "views": 18400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -185,7 +151,49 @@
       "date": "2026-06-29T21:58:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7510,
+      "views": 9640,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 4127,
+      "message": "\u003ctg-emoji emoji-id=\"5447246917744478110\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E298A0.png\u0026#39;)\"\u003e\u003cb\u003e☠️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eاین شکلی از هر API ای استفاده کن برای هوش مصنوعی🫪\u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5438571934210082705\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eلینک سایت 9router: \u003ca href=\"https://9router.com/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://9router.com/\u003c/a\u003e \u003cbr/\u003e\u003cbr/\u003e \u003ctg-emoji emoji-id=\"5447644863644320013\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD90.png\u0026#39;)\"\u003e\u003cb\u003e⭐️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e توی این ویدئو:\u003cbr/\u003e1- یاد میگیریم که چطوری از اینهمه API Key رایگان استفاده کنیم\u003cbr/\u003e2- ابزار 9Router رو نصب کنیم و این API ها رو اونجا جمع کنیم\u003cbr/\u003e3- کلی API رایگان وصل می‌کنیم بهش\u003cbr/\u003e3.5- اگر تیک آبی توییتر داریم، به راحتی از گروک 4 و اگر جمنای پرو داریم، از AntiGravity استفاده می‌کنیم\u003cbr/\u003e4- از امکانات 9Router مثل Combo استفاده می‌کنیم و چندین هوش مصنوعی رو توی یه مدل فرضی کنار هم میاریم\u003cbr/\u003e5- به ChatBox و افزونه Cline وصلش می‌کنیم که هم بتونیم عادی چت کنیم، هم بتونیم کد بزنیم باهاش\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5447644880824181073\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e پیش‌نیازها و نکات مهم: \u003cbr/\u003e\u003ctg-emoji emoji-id=\"5794182096603847292\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/31E283A3.png\u0026#39;)\"\u003e\u003cb\u003e1️⃣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eهمه‌ی مراحل رایگان و ساده‌ست و نیاز به پیش‌نیاز یا هزینه نداره\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5071261477743100913\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B9.png\u0026#39;)\"\u003e\u003cb\u003e📹\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://youtu.be/GyX-DLvePW8\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eتماشا در یوتوب\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069054607582298852\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B0.png\u0026#39;)\"\u003e\u003cb\u003e💰\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://matinsenpai.pages.dev/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eدونیت\u003c/a\u003e",
+      "date": "2026-06-30T00:03:55Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3910,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/evIWP05AkkMdg__Beotz54UMkLEVqyUv1Dn6ZFwX4OiU2SIG0eNeTnhUyKk9-jodIff0caTTKGMG4lj-ePHgw8YLW5o33QmcHVQ2C-hrw_GNopZbeo_RA2fCVEzIxrhTNYxFcOqz-W2niPP9dG6_jEa9LKmmYASM3ZEgS9PgZLjTFBRHcgaaBwCvcY-Zn8ga8vKq9QF_yb6j1uDzjAvzdyx8DsJ4GGrxT8m12wTzqu5BaaaDmP07cPD-uEj2RLKaLkhfq5mvpH7cE-5LUnFIAVnzkdcc3uKwHc2JTWkPE7Y3lfNxZ8oB4FcnwPgaXaqbwy2rWtPanpHWo0B0n1lSZA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4128,
+      "message": "لینک درست شد",
+      "date": "2026-06-30T00:14:31Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3310,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 4129,
+      "message": "",
+      "date": "2026-06-30T01:09:48Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1150,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
