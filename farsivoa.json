@@ -3,74 +3,17 @@
     "id": 0,
     "title": "Farsi VOA",
     "username": "farsivoa",
-    "photo_url": "https://cdn1.telesco.pe/file/sLrszMc5HuVbZvZO3BqoIsjahte3u_IJTEnwq2gPemzcwe_TJstGBWQPm2ObXUg3bbjvCOOCRhOC2kyX8sFWNVf0lIH1hViY6VTTiAdLJMRQxqppFUOAajAq3gn69H9buW_vXnRD5APi_yyMC_NHXPHS6VJWAK1xl9pmwwY4OaxIZnX7E4owqTh3OHsXMSYfILb_1Yj7wfXfcb0_l8a-mqweuHQKoH0ChCVY15t7tjCodMfPJJPN8qFJ52boE4raLveIWHPuZNnDYQi8U-hrKiXhnUSElonrmpaiERZmp5CRo8m7DNG2ez6D0M-Xjs4KZpmMfZ23jPM-Y3xXidZY_A.jpg",
+    "photo_url": "https://cdn1.telesco.pe/file/FYqfmf2D-JxEziu4y9W_qHoOqZX8oboPaIDt1I2CkuPXzDM1vO73-4M-PrOpntGEteChwTwWiTbJPtedCG67V-dFJrBPr6hWh1mAJWbpAVpe1ybFf-JaVo4qnLREr-mbRUI7_Z7-L7udHcdaVUb11-gGQvfUrkNzWcsl_vPMofQ92pYwM2PJiaMH7DXB5je_L1CyAjuGWMgfJmLbcflYTyp6-rv4cBw7Djet8ufgtzzB7aLrYU2b2y2dHlelPBpJNriz6mfFAJhpf5SG1HJKaofbt1GC1UBpL8LQAs373dIHKcIxuy_N3ysByhEunoylHHun5g1JvB5-DwX8pGPJ_w.jpg",
     "description": "تنها کانال رسمی بخش فارسی صدای آمريكا\nعكس، خبر و فيلم هاى خود را براى ما بفرستيد:\n@sendVOA"
   },
   "posts": [
-    {
-      "id": 222321,
-      "message": "دولت بریتانیا لایحه جدید مهاجرت و پناهندگی را به پارلمان ارائه کرده که در صورت تصویب، روند اخراج افرادی که درخواست پناهندگی‌شان رد شده سریع‌تر می‌کند و از برخی پناهندگانی که بعد از دریافت اقامت شاغل می‌شوند، می‌خواهد بخشی از هزینه‌های اسکان و حمایت دولتی را تا سقف ۱۰ هزار پوند بازپرداخت کنند.",
-      "date": "2026-06-30T17:21:24Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3920,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/ZiRJtgAKdUG3rsTNcw9Cv8fa2MbhPKaEhdOfR_JPRzlg7CxT2BNhp_G7cHytivYS5MjYxi-l6Pbsm4fu-NjuIhTMqH3Ff5ONFtsZYOcKdy7xzYUdyakpR_lPEZfSgPXuKgJr9zTjFhEzFa1hxERAicdRG6KQ_zT1NN8-wMgew4JNpPbV9qsuRWCiDYkKaEgj7IjM5CUUzxzZHwlCdfQPvyarGE_JfW-ykCbtzrdr0LBRLxLxstzxoUyGYNulqtZHMhUYb5yzX1d1gIDKFfYvBUezEitezMtZe_255GoNMJWSJCs0cyBQSj8o_fPQVpWBAtB0mQPvehDHZr4Xw5bwew",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 222322,
-      "message": "وزیر امنیت داخلی آمریکا: نیمی از اعضای تیم ملی ایران مستقیم با سپاه پاسداران در ارتباط بودند",
-      "date": "2026-06-30T17:33:49Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3750,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/rtqfa2G_901YQdFnMpZBM81PRQtUdPgi0ykSXHaLUXzY2Q27eFroIJN69Od-odUS91SbZUUvTQf_RWqCi2kH7shznoooOpYVK9bEQje7nZD6ofCMqk2D2gjLXnSPAOmfKNFXyRXg1QQw5SgfJHBwJzDEZyyrLBzF22WaQZIMNb4odRHmBHg3zW4DVXiGpft8wy93r-X29CoKohwxGoLzvafEzNQEEZL4IvtOjRWZZjOi3Zaap9Bup1MxtV_PtD8BIX94KpOPWBL_4x-fjilrMINLazgpHgyaV9x647fYai__6eI6oDtiQq-4G_8IA8f3uirfXXdX-pNraqR1ADOsiA",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 222323,
-      "message": "قطر: مقامات بلند پایه ایرانی و آمریکا با هم دیداری در دوحه ندارند، اما تفاهمنامه در حال پیگیری است",
-      "date": "2026-06-30T17:39:06Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/GyJ0pwT2z2au7zaeB65war1D19LVSjeCetnRn-lBVNaN9SD045moLKzS6PZ0ZpMlAIVH81ryq1ITqlfvkaIfWoWwa5Eq-vsi5YcWlli9O6uHw9665fRfBVYP3bLncGLhsS5OxGqW-SF2XktlheuSXB80TI6YxcawaWq3RhK6MxBFyJqVe2h-b5k35Y9h7aEEpCDulptFIAIF0SUY896Fs4TQBBIN4riLplSxgz-UImuTKi3Nu8PrtNG2naJ49oGhNzEIzXKMFawy2mjKJUdEpMyXTQI-4WX_f9UyBeyRGlwCYBIMmtORlHn3aK6LcOtdVL2suqic2PMDaSeEc9dpig",
-          "width": 1280
-        }
-      ]
-    },
     {
       "id": 222324,
       "message": "ویدیوی منتشر شده در شبکه‌های اجتماعی یک مداح حکومتی را نشان می‌دهد که در واکنش به توافق اسرائیل و لبنان، نگرانی خود را نسبت به پیشروی اسرائیل در جنوب لبنان بیان کرده و می‌گوید: «چرا نمی‌زنید زیر میز؟... جنوب لبنان سقوط کرده یعنی کار حزب‌الله تمام است.»",
       "date": "2026-06-30T18:00:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3420,
+      "views": 3690,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -89,7 +32,7 @@
       "date": "2026-06-30T18:00:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3400,
+      "views": 3630,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -108,7 +51,7 @@
       "date": "2026-06-30T18:06:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3550,
+      "views": 3850,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +63,7 @@
       "date": "2026-06-30T18:14:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3350,
+      "views": 3620,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -139,7 +82,7 @@
       "date": "2026-06-30T18:23:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3530,
+      "views": 3870,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -151,7 +94,7 @@
       "date": "2026-06-30T18:28:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3380,
+      "views": 3750,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -170,7 +113,7 @@
       "date": "2026-06-30T18:35:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3270,
+      "views": 3640,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -189,7 +132,7 @@
       "date": "2026-06-30T18:56:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2930,
+      "views": 3330,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -208,7 +151,7 @@
       "date": "2026-06-30T18:59:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3150,
+      "views": 3560,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -220,7 +163,7 @@
       "date": "2026-06-30T19:15:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3020,
+      "views": 3490,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -232,7 +175,7 @@
       "date": "2026-06-30T19:16:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3120,
+      "views": 3610,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -251,7 +194,7 @@
       "date": "2026-06-30T19:36:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2900,
+      "views": 3530,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -263,7 +206,7 @@
       "date": "2026-06-30T19:41:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2770,
+      "views": 3410,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -282,7 +225,7 @@
       "date": "2026-06-30T20:16:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2100,
+      "views": 2850,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -301,7 +244,7 @@
       "date": "2026-06-30T20:20:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2230,
+      "views": 3220,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -313,7 +256,7 @@
       "date": "2026-06-30T20:46:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1260,
+      "views": 2530,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -332,7 +275,7 @@
       "date": "2026-06-30T21:16:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 223,
+      "views": 1850,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -341,6 +284,63 @@
         {
           "type": "video",
           "url": "https://cdn1.telesco.pe/file/vmG-8yK6CnNHn-6NIsFXG-9KSKl83qn6Y3dhUW0AtVPc6aYsyGC-bzbj_83oAvhV8coYifOhbxjjVyLU-KiwqKV63dOhAqiwRK4l52N_hlkmYSziwnfvChMy9yR9JqtDHlER7XzI3ZnKsvVW8lNzBOpbt_XYwv_pCSBPVhMLUH-ZX74PqmTSBf6IegaxCBAYvjO-dTcsJilgR6Ij6QBZcQs3EViFGJqSXpnmP_DePTj8S9wTs_bKtR82Wia35pGueDeiTVLF3clpl68zuCf1u4LBoI1tWtS0l8N-LEXwFOnERHqDYnpTrGcuG_neMSjlMBr7SYhFs-gYNIiCTYspUA",
+          "width": 640
+        }
+      ]
+    },
+    {
+      "id": 222341,
+      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/b\u003eرضوانه احمدخان‌بیگی به همراه دختر دوساله‌اش راهی زندان اوین شد\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-06-30T21:46:26Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1290,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/eOFrQJKWYzWqGJvQTFj3b7OAby0Qe-TI9poWAn1wgKHjshzqkuMH51MPzOnHIzhHqZmixPPmhqqi4fHXv1vU9xKG0Xga00ut5LmbiXEvZRI4qjQRbCqotKD-mE0SyLxDTsyCWBQKnrkmxzOBEr-wjUx_DLFQGso9HDfhhPNPplUr4ddcs2zTf-BIHmyMDla_ob0DZ5AnN9nDsotxjjAqNsoVrWo2XnMTqDxBjqf_6f5l-8oa9GE7Us_xUIZGnRALn4rPr2yhgIKl4XUVRtQmbw9xA6vnBPRDJriukwONVzqBQnynUDvstBpvSWMQVrvePL48BxrrpMMPgmiQ2BF1hQ",
+          "width": 640
+        }
+      ]
+    },
+    {
+      "id": 222342,
+      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/b\u003eسام خسروی فرد در برنامه تفسیر خبر: چیزی به اسم آخوند خوب، سپاهی خوب نداریم\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-06-30T22:16:15Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 633,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/WenTwbdWl2XGL3oDbESjUloqNfuq9FEWfjw3n65IEmYzHfOrFV0h9MxbjVpaKYT1IXemcB9XpZWCUsu712zl_gZrVVEbrWSGfKs4SMA67Yvd6kIwO8syuTnAawnUlCU1yP-WphpIK9DNAhSrmxGMKvwGJbRtz1cwyfh0_pLMEdAYYyG6Kwyj-G-SNoPx0PAmYeh3rV6gwQTTAeLILwr7FuRgdCOsWdECiviYCCCgorSesBQInfrbX1olQDqHDfRIYbBWKQBGZAAT5rf5xy7vTHHty0XS92ECp3rVCIx5iNXPwWhWFjhWq0mrm88vjOKRkgSoe07K7MRoa8g7XDqUNg",
+          "width": 640
+        }
+      ]
+    },
+    {
+      "id": 222343,
+      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/b\u003eتب جام جهانی در لس آنجلس\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-06-30T22:30:00Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 307,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/JvFcnByx_t4UsTzAru0BQ0jHTlitfoypTV1TqDtwVjhQEsdtyOXaOzX27aUMadVDUKyd7HOYArbDdST-8MGtZet-Z1a1chnsUnbVkrx2cqas2TSqVxgg8bsniw8beNy9cXY3zDszhxNUlwBn9fM2XtW8fViqKa7WOmR8SQ2p5jzIL1--cTANEqIRaQsMsMa5ylrg0nstiG1kbExKNd6Ifc232jdY11SBnKVyoixX7Iz87zn0zfCxb-ONcGJtKaa_Sg2Q-SnX9cmE9FaoE89ksuCOXWtyr7YflQhgxMyMOEpNmLDXVDGLUvF--oNdb17I31aMTRxO6gpBwlfm5OqQEg",
           "width": 640
         }
       ]
