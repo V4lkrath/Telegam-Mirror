@@ -8,54 +8,12 @@
   },
   "posts": [
     {
-      "id": 4115,
-      "message": "اکثر این سایت‌هایی که api رایگان میدادن رو وقتی تست می‌کنید واقعا، می‌بینید از همون api دوبله سوبله هم فقط به مدل‌های الکی دسترسی دادن بهتون و مثلا اینجا خبری از GPT 5-5 و اینها نیست. مدل وجود داره، اما هر بار ریکوئست میزنید ارور 404 یا 500 برمیگردونه و عملا قابل استفاده نیست.\u003cbr/\u003eبهترین سایتایی که تا الان واقعا api رایگان دادن، یکیش aistudio بوده و اون یکی هم Nara: \u003ca href=\"https://t.me/MatinSenPaii/4061\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/MatinSenPaii/4061\u003c/a\u003e",
-      "date": "2026-06-29T07:48:34Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/KLGljtQmXNP8bxG4VEVpGQsi1mK9-6PeulYnXB12zsSWfKdSoQcQQc5F3vfAASBrq6uzX3NlaCU6BXYP0iQ07yZRFzJum-qmTLiTBrvoAB3x2nDg3pm6NiNjHKFBTVHE7RCA0Sc1HjZNofh1R_obG7X7PWrtJNnTLqQ9yypTggfM-Jhh_Hke5vWiHyY2caa0EqWXynbDCnorCDRUx-BTH7-somHMuRe7uv2PleQbEox2ANP-tcslZkucbTYXxXh2P0agyUjdIOXCCls3c97YfKsdlWPkYyZ6W5qz577unDRsSp3gaqWNLjIueMjrVgFEUgYwwpEFQ7ZdynfUlk2nyw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 4116,
-      "message": "تمام سعیم رو می‌کنم که سری ویدئوهای AI، برای همه‌ی مردم مناسب باشه. تنها خواهشی که ازتون دارم اینه که نترسید، وقت بذارید، و ویدئوها رو ببینید و کار با این ابزارهای جدید رو یاد بگیرید\u003ctg-emoji emoji-id=\"5472069780015946935\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA5B3.png\u0026#39;)\"\u003e\u003cb\u003e🥳\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003eخیلیا که کمی از این فضا دور بودن، فکر  ما داریم راجب چه چیز خفنی حرف می‌زنیم و ...\u003cbr/\u003eدر صورتی که شاید تفاوت درک و دانش ما از این زمینه با شما، صرفا دو سه روز کلنجار رفتن با ابزارهای مختلف باشه! همین.\u003cbr/\u003eبه محض اینکه کم‌خوابی ۳۰-۴۰ ساعته‌م جبران شد ویدئو رو واستون ضبط می‌کنم\u003ctg-emoji emoji-id=\"5471895949804575096\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4B2.png\u0026#39;)\"\u003e\u003cb\u003e🤲\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
-      "date": "2026-06-29T08:06:46Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 4117,
-      "message": "همین ویدئو رو می‌تونم شرط ببندم خیلیییا صرفا ترسیدن که ببینن و فکر کردن اوه من از پسش بر نمیام\u003cbr/\u003eحتی بازش هم نکردن. صرفا به خاطر ترس از اینکه نکنه نفهمم یا...\u003cbr/\u003e\u003cbr/\u003eهدف من صرفا آشنایی با ابزارهای جدیده و استفاده توی زندگی روزمره. نه تبدیل شدن به متخصص ai و یا یه برنامه‌نویس خفن",
-      "date": "2026-06-29T08:29:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
       "id": 4118,
       "message": "ولی GLM 5.2 واقعا عجیبه. قیمتش روی api تقریبا ۴-۵ برابر از Opus 4.8 کمتره\u003cbr/\u003eاین چینیا چیکار کردن با آنتروپیک، خدا میدونه",
       "date": "2026-06-29T14:31:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25000,
+      "views": 25900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -67,7 +25,7 @@
       "date": "2026-06-29T14:45:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24200,
+      "views": 25100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -79,7 +37,7 @@
       "date": "2026-06-29T14:48:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21000,
+      "views": 21900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -91,7 +49,7 @@
       "date": "2026-06-29T18:04:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24000,
+      "views": 25000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -103,7 +61,7 @@
       "date": "2026-06-29T21:58:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20500,
+      "views": 22200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -115,7 +73,7 @@
       "date": "2026-06-30T00:03:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18100,
+      "views": 20500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -133,7 +91,7 @@
       "date": "2026-06-30T00:14:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17000,
+      "views": 18900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -145,7 +103,7 @@
       "date": "2026-06-30T01:09:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15900,
+      "views": 18100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -157,7 +115,7 @@
       "date": "2026-06-30T05:12:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10400,
+      "views": 13700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -175,7 +133,7 @@
       "date": "2026-06-30T05:12:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12200,
+      "views": 15900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -187,7 +145,7 @@
       "date": "2026-06-30T09:40:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6190,
+      "views": 14000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -206,6 +164,48 @@
           "url": "https://cdn1.telesco.pe/file/FRBkAfH9aU4TXJmKup4pfFALVMKXue_weVHr23nV8pcXa-bfUXyaUgaTHgfFo0Gul56dk63SHUiQp_nVdMXDBIZbdqhgMMi6sZYuouUXX9kRSwDPiRFC9rf69OWs1LsA-9tZoklAMucLISy63yqaI1oznxmbvyi01bQfnQHvsVlFkhN4HmNo6beF6ohbyuZTcYkWsyp_p4TTeuL0MhOMLAmH_hsrwkBgdshcqrKWSeDmtuj8HGtUepFWeX1aIw1WTxg5VYcr2AjntrP3K2EzAYJsVJEN3TeYrIdS2_0PEJNp-8z9l2e--H7A02jPfjxaDX9H1MhvxXgquGdYObBinw.jpg"
         }
       ]
+    },
+    {
+      "id": 4135,
+      "message": "\u003ca class=\"tgme_widget_message_author_name\" href=\"https://t.me/MatinSenPaii\"\u003e\u003cspan dir=\"auto\"\u003eMatin SenPai\u003c/span\u003e\u003c/a\u003e pinned a photo",
+      "date": "2026-06-30T11:14:15Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 0,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 4136,
+      "message": "در مورد نسخه‌ی موبایل Hermes، من توی ساب‌ردیتش دیدم که یکی واسش نسخه اندروید ساخته و Pull Request زده روی گیتهاب(که کدش ادغام بشه) منتها هنوز، رسمی منتشر نشده",
+      "date": "2026-06-30T11:17:45Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5550,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/Tba6Y4hu4lyGct0aPzWKQKDM38H04Z6JaQhHDasZa0J-JRzM7HRfo1fNbRMWVAwR9MRzhyEsuR8d9Ctg0mCgvjiBZME2qCGPAaCP6ydq-1vsJ9XTGWA-g_zFXXiImY8g6U7RLTXJhnWkDf8lcq8doTOJYtiudE91JIte9cL0cOFDfCRrrV7E2mCFybZcJyPE4YJvUPy_gLB0e0vxSTd2WvunZup5Ow9DAX8h9nJnxofK-YjLFIz8JsamPc1pROsf6qMT55r_maf37zedZ9hKJJIuC2K5pbLj3f7HfD852NvpU6VzeAD0RvzcD6GQAWgXMAzJWEC00E9tv3nOxmGQVQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4137,
+      "message": "بیشترین درخواست توی یوتوب و توییتر ازم این بود که آروم تر صحبت کنم\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9881.png\u0026#39;)\"\u003e\u003cb\u003e😁\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eمن فقط نمی‌خوام حوصله‌تون سر بره یا وقتتونو الکی بگیرم\u003cbr/\u003eاما از ویدئو بعدی سعی می‌کنم شمرده شمرده تر صحبت کنم",
+      "date": "2026-06-30T11:21:41Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4910,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
     }
   ],
   "last_updated": 0
