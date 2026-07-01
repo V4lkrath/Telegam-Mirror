@@ -8,138 +8,12 @@
   },
   "posts": [
     {
-      "id": 222408,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B7.png\u0026#39;)\"\u003e\u003cb\u003e📷\u003c/b\u003e\u003c/i\u003eژنرال فرانسیس داناون، فرمانده ستاد فرماندهی جنوبی ارتش ایالات متحده «سنتکام جنوبی»، اعلام کرد ارتش آمریکا برای پشتیبانی از عملیات امدادرسانی پس از زمین‌لرزه‌های ویرانگر ونزوئلا، بیش از ۹۰۰ نیروی نظامی را در این کشور و حدود ۸۰۰ نیروی دیگر را در پایگاه‌های پشتیبانی در پورتوریکو و کوراسائو مستقر کرده است.\u003cbr/\u003e\u003cbr/\u003eژنرال داناون روز سه‌شنبه ۹ تیر در گفت‌وگو با خبرگزاری رویترز گفت نیروهای آمریکایی در عملیات جست‌وجو و نجات، بازگشایی فرودگاه، و انتقال تجهیزات و کمک‌های بشردوستانه از طریق هوا و دریا مشارکت داشته‌اند.\u003cbr/\u003e\u003cbr/\u003eزمین‌لرزه‌هایی به بزرگی ۷.۲ و ۷.۵ درجه هفته گذشته در ونزوئلا ساختمان‌های بسیاری را ویران کرد و هزاران نفر را زیر آوار گرفتار ساخت. به گفته مقام‌های ونزوئلا، تا روز ششم عملیات امداد، تنها یک کودک سه ساله زنده از زیر آوار نجات یافته بود.",
-      "date": "2026-07-01T15:35:23Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3160,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/njDcWHvcacduFIHt2XjBf76lfUWzwk-BYFlAY59IA-s1jldWQb1QX8TbUZMOKWoUuEorfKuU8aZOIw1OvfvibIbxzH5wgW0oHY60fp-f1DrFHbrhbcp-weIDZEFTZhHkwNrQDh28JFDY_hL8MDEgIpBtDyiPw3Tc2ET-XtfHFLLfEoVP0_f6vhai-0H9gcsBD2Qd68lUOd5b_tJ_xYHvRGfjHQUxCWwTnHUJQgrzlmpGF_9lJEhar035RPxiuRw_yhGsQvcXpYSb70_KoppPrSS9brNbcukXII21N5a84KQesWEPPwdMUUm30_gSjm_xVrkjTlC3DRUGY9nPEi4iEA.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/s5ZAXzjJV79zIZ-iCqUGJbRpFFDTFNLv1pHEA0K2eayDi1-JpRP9kdZ5S8xVJdqTZ56unu9dqeR5nil5YyQuwfXBO86YXs2_FkP0WBvn86uVXq-MP8_WQ8kjkQqeu2co4wtdO2F_ZTFTm38rhDTGJ4NS5t9gbGI0g9C_9lTBr5G0J9Z8YWDipCWsw46N_GFWxsqX-C3jIiejG9m1yB6FYhiJ2HfHhWR1qIYdAS9sHBmvyTKnZ4goQ2mU2F4O924a2gGnDLIOOlRGlyZgvBqbHZPtIiK4f_Y_Kg_Y3948MvgB5nRWGZtZ7ucRbUxoDJvLzpJmrOrhpRjNmsQpqUGvAQ.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/ded4CaM8PPEHGWrM3QyyAYWcnPCqH2YDqpyjD8s9WYeLaB3o4s-K8q7vEsllrdEKR096eHMqKUste6Qt68CovRLSrJYldKf2lijTDON-IhKdkCoxSN_eZZ7i4iRPLQaAWwp8K4BDd_dSeAXMRIMqcKaKPoheADcE-V3LNziecF_Cgeuh1lx95QOmO0-LMPkENKXC_LMVNMwyZF1bNAsYBSqSAUIweUpMEnxTqtCeTYwv8URW085y4gKtGjnRHyMfZw0Og_1jlgA0WtXTZjnC6pesDtS7zU89rbeTeVxD8LmkoyIP1BPnWm6k6FyTdu3AGvuBj97ISyhtLLqoiLwYdw.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Zz-zitgecxIO8hUhd0tXYxlWW9bFp_WptYyAxBcIOvBTacAYbyvV6VGPJlfuRqrTGJlRNCOkyQfjLEdc415m36FZrKel4xzgjCCr3e-dwMhuJ86bDbw2Id5e2LuxFi46LRzYBuny5pzt5e9iRzTcxWSoJyn8kpxKxEVn1iuiMHb6rayALwpOddKun9EjbB4H2mCEfxsYVmcEAFN9pnmnFTjUoEpok-yJblyRXryvWtQZVNLIjB9rKN8GNETzKMqhw1VEgrocSZUVFq-4shJNfwEvw_2U9FudmcP_3_EgjIjvStc9ZzljctgiOLI0ltpJe--OwO-dWsiJ4CGENnmJwA.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/ME6kiRwi235E9wyLjMqQNPjAmpNY0Vg8Naq7W3Rjlz1wYxOIgW6eL3K-_ycyDTeVnSGdMMaAIjbb5oL1T_2-zOWZsnN0D6P02Nd71QOwgb_O-bZzdBA79Zha21szePC5c6XoAInAWuvZIVbmYT5_GfQhYdEBEXuWMC_rXG3W61PGJCs03T9k3PsstNQQckJBy_zd1ZpJ8vLeoL_az-XGUp31xHCaFgW_WDKDc7iNBRZ_ig5mxdrEKXRY2WjJ1_kXFAvQxcrtgs430qojY5HfyASkR8Ql1ViR5Dhxu9E2Z8bejFQaSLdkWCDwyvgDR8YlDV9ej3Ien1Mwl-9fO0U1aQ.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Aor6qrdgtLi9RI42T_iLDudpbFr65XzODRYVuYE1OI455w8ibUPczMCeJIlX8INtgS6wSGuM3FjiHf5puVHQuOMe6vNricBcI3qO06c1Sq83FkQkZ2ZjEFpsQex14NlTC-rcy9j3O_X05PPapLZ9wHpGmuJ9PxOd--QubooBIHGLgZOWCrVVBcXNJknhPvVAyz4hAPSDLv55PiTzzqZ0elx_siADT-6aBfm8rUHwcw-AfMYc805g3bcUFittx_a80Ex_1Bf7-oS2NnJOcqb4pJ_VhprjMYIVTsJUsgOlCg93bYBKkNODpWv95q8GkolQledL16ffl7J_wfNWkiaY8w.jpg"
-        }
-      ]
-    },
-    {
-      "id": 222414,
-      "message": "عملیات ضدفساد عراق وارد خطرناک‌ترین مرحله شد؛ شبکه‌های اقتصادی گروه‌های مسلح در تیررس دولت الزیدی",
-      "date": "2026-07-01T16:10:39Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2670,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/vvfVT6J86wa6b_eNfW1ii0oZ4AarhilNiUyUbT8enLCT6tKP5s67ulMw2zJQOKxwaYFhdQ-vWRxQYU5U1CmKVHWKJvebQDLurK7oguXGsBQomIv4BHW5SlG94TjV4K4sJG2NeseQMKqv_qQNUH8IjwErPFVvBQZ3HdP-2lyjaBsCSKd5tKcuOCT8t9TEGTaKGeOp7GZAO7zzKi19nSYBFgkcgrWGiDPPn6XnQn68p12J79prCVWDjfpX-rsWVYyaBGIpFa8JEC7bpisInve8_k-EB8qIy6fVB2MeCY_vTfkq6m2imU06J1zihzewVr1_TkUKOYKInBt9S28pR3Z1Tg",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 222415,
-      "message": "تیم ایران که از صعود به مرحله یک‌شانزدهم نهایی جام جهانی ۲۰۲۶ بازماند پس از ترک مکزیک، روز چهارشنبه دهم تیر به فرودگاه مهرآباد تهران رسید.\u003cbr/\u003e\u003cbr/\u003eامیر قلعه‌نویی در بخشی از مصاحبه با رسانه جمهوری اسلامی بخشی از حرف‌های پیشین خود را تصحیح کرد و گفت: «به جای کلمه فوتبال از خدا استفاده کردم.» \u003cbr/\u003e\u003cbr/\u003eقلعه‌نویی پیشتر پس از تساوی با مصر گفته بود: «خدا هم با ما سر ناسازگاری دارد. می‌توانستیم برنده باشیم، شانس‌های زیادی داشتیم، بدشانسی آوردیم.»",
-      "date": "2026-07-01T16:22:06Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2570,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/Tkwia8Q7MDx2oOmhedQvUCQ5GwFXU1Q-4DKTXVY-J9Az3XaGBMAXEtgFOX9SiNqi-X4EXblJR_7F6v0Z8Q3PI-pCqiBIPydRs__yEoh2Eu_VGi3cehRuzlt9KDmKsE2a0-tY-9HYmmL8y2ycNKoH63dQfvjLUVswL9av4Qv0gKEbjzr-UW7LflZ7rLMnDWSEXPyMp2xW77tSCpfa9t3Wn2P1Y34p5FaaXsS5SR1K4lj2VfYRIy2o2JoLwNCANAVU-lSAPx-zqcZbXfw8NxKve96bcFunqt3YV65Qs1JsiByUwrMlDzUO1jurobNB-PsRmoEhh8cndM2_uJfMU0p1jQ",
-          "width": 1920
-        }
-      ]
-    },
-    {
-      "id": 222416,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eاختراعات و نوآوری‌های آمریکایی که جهان و زندگی مردم را تغییر داد\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eآمریکایی‌ها با تکیه بر حقوق خود برای «زندگی، آزادی و جست‌وجوی خوشبختی»، همواره مرزهای امکان را گسترش داده‌اند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/american-inventions-that-changed-life/8165235.html/?nocach=1\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/american-inventions-that-changed-life/8165235.html/?nocach=1\u003c/a\u003e",
-      "date": "2026-07-01T16:53:16Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2040,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA"
-    },
-    {
-      "id": 222417,
-      "message": "وزارت خارجه ایالات متحده ویدیویی از مشارکت نیروهای آمریکایی در امدادرسانی زلزله ونزوئلا منتشر کرده است.\u003cbr/\u003e\u003cbr/\u003eپیشتر فرمانده ستاد فرماندهی جنوبی ارتش ایالات متحده اعلام کرد ارتش آمریکا برای پشتیبانی از عملیات امدادرسانی پس از زمین‌لرزه‌های ویرانگر ونزوئلا، بیش از ۹۰۰ نیروی نظامی را در این کشور و حدود ۸۰۰ نیروی دیگر را در پایگاه‌های پشتیبانی در پورتوریکو و کوراسائو مستقر کرده است.\u003cbr/\u003e\u003cbr/\u003eزمین‌لرزه‌هایی به بزرگی ۷.۲ و ۷.۵ درجه، هفته گذشته در ونزوئلا ساختمان‌های بسیاری را ویران کرد و هزاران نفر را زیر آوار گرفتار ساخت.",
-      "date": "2026-07-01T16:57:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/Py420ojbl1IzFYu97WEsw_wOsM2uTldKpNcTDiRvEQIJscQTxHKSMBzfJ40OljDYYMM6oRzk0_dn2IekQ7iajSXAwQRVdrp6H61e5u7-3Fg_znVWpysC-EsmawZmwzWHlwKdPBAbGsteUze11IUpo8z_wHr8nXZri_OG-JXYGyS9O7AywAWPA2fWyfMkN4b_2C7PYxKnebEochjdByag1-Wz-A940QckTc0pJJlveWuYltRhMw3qmPtLf1gjBpK0VHuMKPVSdKEU2sx2AA0E3CK_cXZKpqFEkm5dxnqE6M5oHjffpcMcCRfGIsuKbmdJH5mMuNTlvza0Jzv1eZB0RQ",
-          "width": 1920
-        }
-      ]
-    },
-    {
-      "id": 222418,
-      "message": "میدان: اگرچه سوشا مکانی، ورزشکار پادشاهی‌خواه، خود زمانی دروازه‌بان تیم ملی فوتبال ایران بوده است اما معتقد است تیم فوتبال یک تیم تروریستی است",
-      "date": "2026-07-01T17:01:10Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2140,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/eiwVdy56kUMzd5GIqxxUx8ODrl6B2yuDkGovzRmMXMVzLoPlJLe7fbKFHNIUx_0A2-3L07NPSfkb-_hlHZAJtUW0NNlpvWOrBCQuLRO2lkVT2uOgv34c0SSUh3ua7PdGzH2c17AP3YloWwhexMqh1_92wXGwd08ek5qmWGBoYgBsj4nxDhOwjtFe9_xFKt4rqsZ-dPtu293QaStXTps1SMKwrmAWJUeAsn2iJdee_ARumamTZ19QBYrbHxC3xqXUpkksRKqd5_9S3XevRZ8f76n2ViqdS_2A7WnfOhjBBwNNQTiXvurXPyOki6qnWG7Lmo54bY2NeGSEBnM8P_RGZg",
-          "width": 1280
-        }
-      ]
-    },
-    {
       "id": 222419,
       "message": "یکی از مخاطبان صدای آمریکا با ارسال این ویدیو درباره تصمیم حکومتی برای تعطیل کردن دانشگاه‌ها در روزهای مراسم تشییع علی خامنه‌ای نوشته است: «رژیم از ما دانشجوها می‌ترسد و حق هم دارد که بترسد. خامنه‌ای قاتل دوستان و هم‌وطنان ما است. تقاص خون عزیزانمان را از آنها می‌گیریم و این رژیم را به درک می‌فرستیم.»",
       "date": "2026-07-01T17:27:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1460,
+      "views": 2450,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -158,7 +32,7 @@
       "date": "2026-07-01T17:32:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1300,
+      "views": 2260,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -177,7 +51,7 @@
       "date": "2026-07-01T17:34:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1330,
+      "views": 2380,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -189,7 +63,7 @@
       "date": "2026-07-01T17:40:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1190,
+      "views": 2160,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -208,7 +82,7 @@
       "date": "2026-07-01T17:45:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1070,
+      "views": 2160,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -220,7 +94,7 @@
       "date": "2026-07-01T17:49:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1040,
+      "views": 2280,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -232,7 +106,7 @@
       "date": "2026-07-01T17:55:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 837,
+      "views": 2180,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -251,7 +125,7 @@
       "date": "2026-07-01T17:55:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 900,
+      "views": 2240,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -270,7 +144,7 @@
       "date": "2026-07-01T18:00:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 738,
+      "views": 2520,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -282,7 +156,7 @@
       "date": "2026-07-01T18:09:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 381,
+      "views": 2430,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -294,6 +168,175 @@
           "width": 1280
         }
       ]
+    },
+    {
+      "id": 222429,
+      "message": "مذاکرات دوحه؛ توافق میان دولت آمریکا و حکومت ایران قابل دستیابی است؟ گفت‌وگو با محمد قائدی",
+      "date": "2026-07-01T18:14:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2360,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/Y6vgxci7i9ZrSJ15nDDJO04vdjfRQfgRbU1fpLYASsBqKMCFfudYN8aHp0oVNTbppuOLMh-q2pJ1IAXJS3Lls4xWgHzPIS8cT7207qQRfVKtp_FaIG5Su69C2eYl90xkmzvAfVXD3hdA6VKMgOQ469ILLLXG0thC5gKvWFzfLXrVVTNJsAl5LDDDR1AIQXsIPSgEooCjlPXahhK5KjZT8hNR5F16ReG_qA4V3UWX_B_Ne3uJCgw-n9IpggFFBpDaKxP91tjQZsLnGTjNxlrNKXfu9jLnA3ymHaeXWlEEQS_fdKHB2xTc9Ureu4ON8TyA9Fp4mw_ZYsJosg6WSzOK-Q",
+          "width": 1280
+        }
+      ]
+    },
+    {
+      "id": 222430,
+      "message": "پیش‌بینی‌های غیرمنتظره مجری صدای آمریکا در جام‌جهانی",
+      "date": "2026-07-01T18:19:19Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2340,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/dygYA6-i_JO_WtxXCTdQZSrVTlbhjquCJFSYyAXpagMzWtLPTwtG6MEW0K3oUenzYc-XE-UpAdQWkPKF2I_qYOk9aAlOuWYxwUa3f35h6-LjHHJml9GrB5hnc0CPNFN-uBmSEO7oNo-Bmp5n3QMUwL-3oK5XKeSfvsGQhmQL0_YPeBSQB5-dVQd5l-HalGBTz15neqgylneb7OVEr90AFqWKzmY6xHNMGTDpuEzR9uMtZM_YvJ5O7vvLx_FAXZeD7Z5rx3mR75i54RTWXftBbdcj5vWKMl9n716wOK9oruzf7XSBpN_XZXhwXVREYEFgTQ1mnpA4-uh_xCcgyDre9w",
+          "width": 1280
+        }
+      ]
+    },
+    {
+      "id": 222431,
+      "message": "لیلا آفرین، زندانی سیاسی محبوس در اوین، به تومور مغزی مبتلاست، اما مقام‌های زندان با آزاد شدنش یا مرخصی دادن به او موافقت نمی‌کنند",
+      "date": "2026-07-01T18:26:18Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2080,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/lAONDWPRcBIMK536aK4THM579EaIBfSz8I03WwBWvSDEkgggbtEUSGAWrJ0yLX45m7zckMx4n_Pah4CXj51TiC8auINJojDpuoGg3xhbtp-ccv1IJUpsX7nOPIOqPv5Drp3NXtLJjR3koKa2LLpb6xLiMcH4dt_C63BOrJulHCIxi2zjkWA2tpUUg8-PltciCLnUIJA37uLHGuzNM5EQbLGp6Tw_ela8noof0Ap69pwGhhVwhsNZb54-zGjZEfUvoNkr5oLYFzBYZDBA_Mj4uNw42iYRzj3pElxEZHDNSCldRj85I3RJezGzMj9q5YusI4HeETdw0W257iT_Jbs5DQ",
+          "width": 1280
+        }
+      ]
+    },
+    {
+      "id": 222432,
+      "message": "بحث مهمانان میدان، سوشا مکانی و آرش سرکوهی درباره کارزارها علیه تیم فوتبال ایران در جام جهانی ۲۰۲۶",
+      "date": "2026-07-01T18:29:12Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1980,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/AxX5xXIUkgljGiIRhwcANNXjQxz0tkxZXOvbUlGcRcvLKWrSHbJCivnUjZw0IxltNWkJZN9jTyxQDLv0NAMdvNehuJswowh34x-QwUE9SrX37Buktl8SU8oUhG0j4ry9fIhxr-AgGOADCI-d0iUvJqGHaVS6dEHeKrVxiBxSzvPA2hpTFgPxoTdWT5Ss4e7gzP0gZOlWdK31aqbkSx76ghdUEYELs69-AmtJC5OQgLks2VuZe3ZC_n-wzgKTxYlkmy_7RT01uSQogftafUuR_Hd4rnNMdZED_ZLoj5G7-Ed1GhK2M27hZP8MahjmFY3IOJ00mz2xLReVYF8I_kkpSw",
+          "width": 1280
+        }
+      ]
+    },
+    {
+      "id": 222433,
+      "message": "بحث آرش سرکوهی و سوشا مکانی در میدان: کارزارهای حمله و فحاشی سلطنت‌طلبان به تماشاگران و طرفداران فوتبال ایران در جام جهانی چه نتیجه‌ای داشت؟",
+      "date": "2026-07-01T18:35:53Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1980,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/gyorKz1K0KhdvDzh1xQjdoN3BQ88hafeBOkfQc-4DOq5mKa7JK-Tgw6zGwe3rfmviqEjflMkP--h9WBQuKDk-EbWMhv88ulhHI_hnaeRcf1ioS5dslhkReA5vzO6YVSzjRTm3BFQ-htx4RGTcUYPkA8IisjhfxjYBfhi6FehA5cG8QAsAyKiSJjQ8FgmOMOlXLkp9FUCOy2an_eMwz6qoXXkZoatpNpvj_Ct6-0ysVzkQaUaQV77PkWU7l_AGZ7Ua8JizcNMNOGSJZxAdISyqrId_r2ARVdH84DCFWuYmW5qol4znnfnOTZCYmOFn53fVyaWkKPKoYZhhoTNU_LOqg",
+          "width": 1280
+        }
+      ]
+    },
+    {
+      "id": 222434,
+      "message": "حشمت‌الله طبرزدی، فعال سیاسی زندانی، در پیامی صوتی از زندان دستگرد اصفهان، به مناسبت بیست‌وهفتمین سالگرد جنبش دانشجویی ۱۸ تیر ۱۳۷۸، خواستار عبور از منطق خشونت و حرکت به سوی گفت‌وگو، صلح، دموکراسی و آزادی شد.\u003cbr/\u003e\u003cbr/\u003eاو با مرور چهار دهه گذشته، منطق «حذف طرف مقابل» را یکی از عوامل اصلی تحمیل هزینه‌های سنگین بر مردم ایران دانست، از شعارهای انقلاب ۵۷ و جنگ ایران و عراق گرفته تا سرکوب مخالفان، اعدام‌های سال ۶۷، سیاست‌های منطقه‌ای جمهوری اسلامی و درگیری‌های اخیر.\u003cbr/\u003e\u003cbr/\u003eاو خطاب به حاکمان جمهوری اسلامی، اظهار کرد: «اگر واقعاً راه گفت‌وگو و صلح را انتخاب کرده‌اند، باید با مردم ایران، خانواده‌های داغدار، مخالفان و زندانیان سیاسی روبه‌رو شوند، زندانیان سیاسی را آزاد کنند و جلوی اعدام‌ها را بگیرند.»",
+      "date": "2026-07-01T18:35:57Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2240,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/TbToESz40sr4s5WCMIe4skd747q_SerV6OnSnl_CTbIzpu6lgPeoMdFK1vyoaTQ_TYQlEvjzzQIKAdMGHQfF8QPAL9hx4u7--guDKQAG9u5YNsKlYYEGvuhmk9VWMAEOimsDJOT5vHVlIHHgJZFVJ3WojEVyn0VVBF1Qxo1szPbdH7MxPJJQ6veIEHYSkySkI3JMemPEZoOewBsmYMKSffNG5AIYC3yf8dZIuhM9mr27m_7vDXNLf_lS0J6c7ikHTNiPgOT_6vODSl5DzCaDdcTpBuqH-tUGmsjj8m1W7nef2wlT8io2QYFnKLpNJ5oHnUXeWrzLmBFttXEH3-2FjQ",
+          "width": 1920
+        }
+      ]
+    },
+    {
+      "id": 222435,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eسنتکام با حضور ۱۲ کشور منطقه‌ای در بحرین گفت‌وگوی امنیتی با تمرکز بر تنگه هرمز برگزار کرد\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eفرماندهی مرکزی ایالات متحده «سنتکام» روز چهارشنبه ۱۰ تیر در شبکه اجتماعی ایکس اعلام کرد «گفت‌وگوی امنیت منطقه‌ای» با حضور مقام‌های ارشد نظامی ۱۲ کشور را به میزبانی نیروی دفاعی بحرین در منامه برگزار کرده است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/centcom-leads-regional-security-dialogue-in-bahrain/8166875.html\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/centcom-leads-regional-security-dialogue-in-bahrain/8166875.html\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-07-01T19:12:30Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 986,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA"
+    },
+    {
+      "id": 222436,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eنخستین گام برای احداث ساختمان سفارت آمریکا در اورشلیم؛ مقامات دو کشور توافق‌نامه امضا کردند\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eمایک هاکبی، سفیر ایالات متحده در اسرائیل، و گیدئون سعار، وزیر امور خارجه اسرائیل، روز چهارشنبه ۱۰ تیر توافقنامه تخصیص زمین برای ساخت مجتمع سفارت دائمی ایالات متحده در اورشلیم را امضا کردند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/us-israel-agreement-for-permanent-jerusalem-american-embassy/8166885.html\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/us-israel-agreement-for-permanent-jerusalem-american-embassy/8166885.html\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-07-01T19:17:42Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 796,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA"
+    },
+    {
+      "id": 222437,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003eدونالد ترامپ: ما و ایران در مذاکرات تاکنون به خوبی کنار آمدیم و دیدار اخیر در قطر به خوبی پیش رفته است\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-07-01T19:23:31Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 476,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/afu2hAhZfz6xFgnAXmeuc-3l1AHis3b5pfYv5kwn9ppB8B39jdJcIrepIfnBeFqcNAxMm4Qk01_MNZooM7HFY_0r_dU4CHrhxmtDCQdxSQuOZrOxEqoPwfEbY60ZMg4IrCJtshg-c4EQ0NA6CQczpI2S9yzC0f93gu5TvwjMmRRfTCxGDNVygRlQwv60KzFsMNX7t_sPx69EnLGkrMXq9Mbw3JPDM81d794Ow5v1AqudDqLF9KiB9yQ5wnhPhwOvaTKekdz-6M-KCULjPKG7woiyg13pcsZ1yXxbvjzMdJh7n3KBkdjpic4NtjAZdZZHn9byC4ji1tyeSAcVuOS8jA",
+          "width": 640
+        }
+      ]
+    },
+    {
+      "id": 222438,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eآموزش مخفیانه نیروهای نظامی روسیه در چین برای جنگ با اوکراین؛ اروپا ابراز نگرانی کرد\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eخبرگزاری رویترز چهارشنبه ۱۰ تیر، در گزارشی اعلام کرد: «به یک سند طبقه‌بندی شده دست یافته است که نشان می‌دهد گروهی از نیروهای مسلح روسیه برای جنگ با اوکراین در پایگاه‌های ارتش چین آموزش دیده‌اند.»\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/war-china-russia-ukraine-russian-military-forces/8166852.html\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/war-china-russia-ukraine-russian-military-forces/8166852.html\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-07-01T19:28:33Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 33,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA"
     }
   ],
   "last_updated": 0
