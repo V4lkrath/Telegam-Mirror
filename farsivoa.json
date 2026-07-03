@@ -3,77 +3,17 @@
     "id": 0,
     "title": "Farsi VOA",
     "username": "farsivoa",
-    "photo_url": "https://cdn1.telesco.pe/file/I6SGorzt2rVyeb3o3JK6HUMXGwi5MxnNXpT98fqI8pLn5CH9Zw9mXdo0w48EUcip1aovboRAM_S1kOBRLfb7Q2CJP5tO-Ewp5Y9vd89_H8c87BOqENKrXKRHhBuBb0uyiIf0BSbjXdpUUl9ZgKosrAuYpDsRgHnRTwmm6Rwld5tMOs1DiI0e0c_yo3FVYEtphwrKDSXTtEfDflCMOaU9MtefZibWeeL5SJDSXzXxYGaoRYqXlNQBghe3lo7a_9La_BPO84Zh7NBice8oXPQxThoJ5T91Cm92RGG1dCJdERyk2mvImiN1JW9H8bi73tU8E7fMLqBtiEhyftWNeqsa4g.jpg",
+    "photo_url": "https://cdn1.telesco.pe/file/OJQGT5BcPpDDyYSmbS7qfrfBy6BdEVHExQAC09NRTjyLAxuSVfNGJi8tzH73veT2NqHYIBpTYS0CS20cqOhjuzPn0FO5rK3p1VLHhBgeD34nVqIrMY4RpgwtGD60E4GAofx5I-BOffrPg4HVY0Tv1YtqcfNq7LAUq5TO1Dwy2hHSF-IbMNwGGBTWPka4wtaIkc1XXQNr3Y_wFwLoxqlf8lqkYbTs6apsnsrlKyJfMclmR1X832SR927MlqIkxE7WoCDPqRYu1lyWzCfcmPDJX1QmZSZEal9rhPU9uP5VIHhIw2mQ2uX1aB3WJsrtlKCyU1m0VESho4Gczg_--gEyiw.jpg",
     "description": "تنها کانال رسمی بخش فارسی صدای آمريكا\nعكس، خبر و فيلم هاى خود را براى ما بفرستيد:\n@sendVOA"
   },
   "posts": [
-    {
-      "id": 222613,
-      "message": "بازداشت دست‌کم ۲۵۶ مسیحی در ایران طی سال گذشته و افزایش فشارها بر اقلیت‌های مذهبی؛ گفت‌وگو با منصور برجی",
-      "date": "2026-07-03T16:47:34Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4080,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/U2qgZYUlgA0hCLcF9D_vGz5W_xBx-kWv-gFwujcDKhhCC_VcSvOq6ySrGR8xO9AKH3y_4z_kKfT3UuUWYX4NPpZsx7lbl62sl5jlezkn2xal2uyB24L_H_IWAJP6agOy4l7BdcajA6PnOFE1oX5uI3-bzAdhjqSHpkGA0qezGCjIFvDcL6zLwDLr07mnc1mip5m4sgE7pXwsieB-M5_0Eauhd001sY0jnZK6Oz5XEX7nRASGoGI-f0btGHXac-FLrD3oMezQlR5kyqtByHcLl40TCHxtyFn-jBPqVqmplsstK-sAM-HnXbHzh0iB93bEwdn-RZvIgi4dZVhKrQQs7Q",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 222614,
-      "message": "نشست ناتو در آنکارا؛ تلاش اردوغان برای کسب مشروعیت بین‌المللی با برگ برنده ترامپ",
-      "date": "2026-07-03T17:11:45Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3610,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/MteDi2qATNHcivk35DID1qqXMTSXudwDYYLCcx5lEEEJ41CQtczFUhJrOLfbQP_boCxmp1kb19jqTewrN93NjtFdjDNqHJ2R067KQkQf2YVMV9ZfQJHvxZUvPQBuzwoScruqWDGlx1w2D2RC5zsn1RbpvlKzMEJFS1fkPAASp-Aa0tg3xVdlkF38KL7gifsifU6_xH-2XsyKCwHm8YNElglHBaTIUjRwFzKcNKP4VALbySMaNCwugVVOvHcPWLWCmpoF0Yoh0IcvC3e4RifRa7Ve-CT-A9gvpeUa8ubTFUORVS4f2jBWxR_FXZ0kcfjl6sD1PCUG0DdqjaRUFybOuA",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 222615,
-      "message": "داگ برگم، وزیر کشور آمریکا، تصاویری از جشن‌های میهن‌دوستانه در کتابخانه ریاست‌جمهوری تئودور روزولت منتشر کرد.\u003cbr/\u003e\u003cbr/\u003eاو در توضیح این تصاویر نوشت: «تئودور روزولت به ما یادآوری می‌کند که چرا به آمریکایی بودن خود افتخار می‌کنیم و مایه افتخار بوده که همزمان با جشن‌های دویست‌وپنجاهمین سالگرد تاسیس آمریکا، میراث او را گرامی بداریم.»\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23America250\"\u003e#America250\u003c/a\u003e",
-      "date": "2026-07-03T17:37:27Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/SQRlMoS38bmcJI5QjS68-2Dc6nfqfWVJ8ddv5KsqrIAdc2n1a3dNPXg9-m7pRj3jXTsX_jaBgyDtvaryEKtey59muQ4olb0X31N8Fir0H7Hqwxi_VhHgcWUfh6iM_OzkdNaYnkTjpY-Xt_hwctKBFIrpT71YX2ECqpnM3V1nLwNCyrPEMXArlg77GuGtjPZIq7fN1sEhBFlC5MS3_o036Yw6A-sl2AvHMXmshCrhcfYaclnMGbm9GJbHrGXD2SyhfLWEism6-uf9_Hu48l5I984Bm4AjWuVvqfvfeTlZ5udA5ktoFlV6dbJwsLUFQrMuE2X_ixWnFLp5KeP5FBBdPQ.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/aR3TLV3I9ouBOILcEhgp1KO7XR88lNRs41QkAIyVCsVMOFpv3sN8wRYC503BxPf1obdRlpTQFTtfGylYnpGNYudRr_Me-ntg8JFa-LV0X8F9vQhRcl2SlqKH76bKxb8xCXiSOT3ZdOjiVz3CFPV3Eb7xcpfRFoBULjQiA95NJwp29xwdM7JMGTdIla8POpGgZwvLV405-LDkPeCUbLRche0QjOPbI-TOLzUSi011OhxYcMUqbF9bXFObH3FBZ-jPnfvyYM0vmhWoDzAnOzdclA_Hsi5Du_fLW-yrPNxrlGBE3pvUrh163Ii5b1hMDHsS_K3qCzXu8XypZwjArORXBg.jpg"
-        }
-      ]
-    },
     {
       "id": 222617,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eجزئیات بازداشت گسترده مقام‌های عراقی متهم به فساد: بدون اطلاع جمهوری اسلامی و در یک عملیات کاملا سری\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eگزارش‌ها حاکی از آن است که عملیات بازداشت ده‌ها مقام عالی‌رتبه عراقی به اتهام فساد دو هفته قبل از اجرا به شکل محرمانه و به دور از عوامل جمهوری اسلامی، و بدون اطلاع تشکل «چارچوب هماهنگی»، در جلسات محرمانه میان نخست‌وزیر و تعداد محدودی از افسران بلندپایه عراق، مورد بررسی دقیق قرار گرفته بود.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/iraq-iran-proxy-terrorism-corruption/8167701.html\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/iraq-iran-proxy-terrorism-corruption/8167701.html\u003c/a\u003e",
       "date": "2026-07-03T17:43:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3210,
+      "views": 3690,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -85,7 +25,7 @@
       "date": "2026-07-03T17:44:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3260,
+      "views": 3700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -97,7 +37,7 @@
       "date": "2026-07-03T18:08:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3000,
+      "views": 3610,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -109,7 +49,7 @@
       "date": "2026-07-03T18:08:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3010,
+      "views": 3610,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -128,7 +68,7 @@
       "date": "2026-07-03T18:16:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3150,
+      "views": 3790,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -158,7 +98,7 @@
       "date": "2026-07-03T18:37:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2850,
+      "views": 3620,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -170,7 +110,7 @@
       "date": "2026-07-03T18:49:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2600,
+      "views": 3400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -189,7 +129,7 @@
       "date": "2026-07-03T18:53:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2890,
+      "views": 3780,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -201,7 +141,7 @@
       "date": "2026-07-03T19:05:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2250,
+      "views": 3240,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -220,7 +160,7 @@
       "date": "2026-07-03T19:16:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2110,
+      "views": 3320,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -232,7 +172,7 @@
       "date": "2026-07-03T19:21:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1930,
+      "views": 3180,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -251,7 +191,7 @@
       "date": "2026-07-03T20:02:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 557,
+      "views": 2420,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -270,11 +210,80 @@
       "date": "2026-07-03T20:11:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 68,
+      "views": 2380,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Farsi VOA"
+    },
+    {
+      "id": 222634,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eکشتی شرکت فرانسوی که با موشک در تنگه هرمز هدف قرار گرفت ممکن است اوراق شود\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eمدیرعامل شرکت کشتیرانی فرانسوی «سی‌ام‌ای سی‌جی‌ام» روز جمعه اعلام کرد یک کشتی باری این شرکت که اوایل ماه مه در تنگه هرمز هدف حمله موشکی قرار گرفت، چنان آسیب دیده که این شرکت در حال بررسی اسقاط آن است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/8167764.html\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/8167764.html\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-07-03T20:30:46Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1810,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA"
+    },
+    {
+      "id": 222635,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003eلری شوایکارت، تاریخ‌دان و استاد دانشگاه دیتون در ایالت اوهایو، در گفت‌و‌گو با بخش فارسی صدای آمریکا مهمترین مولفه‌های موثر در ماندگاری انقلاب آمریکا را برشمرد.\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-07-03T20:35:00Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1680,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/fqTj9NMCf-cSzYXZNWAyhNPggfFfGz0mw2CY-6m8P02ojv35VoQFF--YzN-bf_0spd3GtzWsnuo8zApUEcdJzv4_5dMHwFVQm7FrABSp44QBDhrEnbQoPA-_lQYSu6I1uS46afc-abYhMZoCJK-zBbZpZYwS2SG6dO8DoQKFcp2ku9hHs7q2Zi8gvS0nqdPo1lzTOwdN8EmSly4W-Tf9CvxS5UauW1iKrMFyawQCqytb2tN4KG-nhg2rCHvggEKPcHoccgLbYRlSjaPwSXJHFUiNmifFt4bcXpDYxJhow0jtWyzqdTwCEivxWv-ERPEJt3-YVh7JnX9KJj55vUovUA",
+          "width": 640
+        }
+      ]
+    },
+    {
+      "id": 222636,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003eسارینا اسماعیل‌زاده و تاریخ مقاومت زنان علیه حجاب اجباری\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-07-03T21:04:47Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 692,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/SsoNBO-brBji6vooVDH5ugYW7M952PG-33Uxo8NvuSCzYaNqpGyt4Is4TYToEwcnsxkHWJz3N7z8kD4Kdi-qkjhwzhmzvK46BcBrsm7DDZTiUrHcAqLUOS7uurqyFk75uhvM7gkKT8M5ivAbHnSMA7gPvuGVk-heZPH-FelYmiwJdyyv3YvA8rQzZsTzrU34hZFO70LwAVk0PkD_sdZMxt9FN1ZaC2coj-lib6sEspidkGlCdxD8TAKQ-PEVGU0nfhwyDlwYxqSJK6Vb_vYbcewLQ8QJdNUyUGbB1ptcigV7593Q4FiqxtLL2hmWrdLdJe5DMzNAi-m7P-4ZwjlSpQ",
+          "width": 640
+        }
+      ]
+    },
+    {
+      "id": 222637,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003eجام‌ جهانی؛ سه بازی سه ماجرا؛ طوفان اسپانیا، اعتراض کرواسی و صعود سوئیس\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-07-03T21:15:12Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 160,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/FNg5SfXe5zTGgaCOWnqQ3KgLjk_LX-fdl9ki6ofiuOhsU00uXKiUekWXbyTBLVZLhwJmGTauLCcqV28VZ_Ze4JzQkffv4Qzek6qpy-2ClK39poelEkc9_DYGi6aQyu8CpkShCJXnDmEfPr4xf5Cd1lnoIkjH5ldOaJAP1DDDt_KBWCS82dMsemM8-jbMqi5I4dQasuE9Xe7hykY_-x5WHLbk40xj9eQ6s0mZ9W7ORIDoDKyGQno-rqiqhaFeH38l826JeD_85OSpKVJVqkPnptA9Yz_1pGzmkycJfys3XcNK-UIG499MBfEtx5yf2PyjaoW6HknVMFIOolbreubAtg",
+          "width": 640
+        }
+      ]
     }
   ],
   "last_updated": 0
