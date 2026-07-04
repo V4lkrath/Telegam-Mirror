@@ -8,98 +8,12 @@
   },
   "posts": [
     {
-      "id": 4200,
-      "message": "چیز بامزه‌ای نوشت اما پر باگ. دیشب GLM 5.2 برام دومی رو نوشته بود که کار می‌کرد\u003cbr/\u003eهمینو الان با sonnet-5 هم تست میکنم",
-      "date": "2026-07-03T13:22:11Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/QPPZU0VeOrMLEA00Ir_5d1nZ-nehTC_aMJv6sH0CPtpF-QQAYeD9JwMH50LklsoWyRAfo_IntInEjboyajhC-Y-FjCnBBVlenUF7Lx_GMCUdd9lYlZgKXsSbna0hBTNcNi2yV5ncKtcfU1Z_-M9YkecAkoXmAGHgy1EFLUMtoor5whjc7I8cH9P-_VXnHDMyCNj8z02_Vy8dim9afBZ5EEgJRfqYNd4K4bbmA02d8s96tUwIZQ8I7ar3UGJ-FBesDcu3vsi4wwNv_L_gsYTq-LB7dD_bH-uEadtjdGeofKUctI5ZpTE686NaWxgHnlGH4DTjfAJLx0DD6tttj3rzBQ.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/dKDjZnZCkJRGBlnqQD5Khkyv_h-0TBqu0ht2uoffVxai65ZiKWxzkETqP084sAbjNtldDVAnQF8p_2K9EoAZf6jOy585tXx1GMTiMjMZ_fhX7gF9xLO2nSMoHxilnFyI9PuE81bS0kgum0SYsWkgbLA-eNo3K3bNJCoJRP83Zuipwesnkh548BngEkIO0jHxxioNryIB0s8fncNJjoxm4CYh0bK262XNAT1iYz8hajb_PS0tuJEgWoW44eWDPtEafjmIawFhRSTXfJLJAp8yl931qUZv-dj0RPSpVMGzDS8NN7cR4eehpT6nhsx-XkuQuVL05618GnMq8SZYQ9JVTQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 4202,
-      "message": "نتیجه‌ی Sonnet-5 با effort high خیلی خوب بود. هم انیمیشن‌ها هم جهت باد و... همه چیزش کامل بود\u003cbr/\u003eحدودا 1 درصد از مصرف هفتگیم رو گرفت و 50K توکن مصرف کرد(پلن 20 دلاری)",
-      "date": "2026-07-03T13:35:48Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/Q-v0AtcsiX4nUXSNlFCzuW4Cq4A-9CdNr5vnRCeubXxedP8l2i_UcyAc1yPe0P6RMTeev7gzwQNDnYvucQmlAYgALOWXUqcEvfyha9EgDNm_Uwam0bRj82XrdjueoSiwzL7gN39F2JQzISGcG6xzLmIkGrp3qD5lLC0I-3rkl5FlIDP3I15tGJQ6ThqMjZqXf_jqJWrwi9xa045b4JcowiH9QEUQChCinC5Ke70RK8eVqvaTcsmc0ZVSXQHysoloKCl9L9GHa3lsvckBDZhmd5Kb24BDe2k8zTpMrSeWK2wXmAz__jzccLPypwBmuvKyPG6sxrKIx3bZHcDHK2_GCQ.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/NHFy2zkUp_5J-v6N6Eddks8cJEshWihWUof924_vHBJnZttmF3oSnKH-ljMMBgyJdFkLtJlY_bM0Adap4A2ToyGrIEL9W3hlEozOSYWeLoBP8bcfjauMtVMqIbsU3aI-3rwfOrxMiCoGqJk6o5tQ43ltCGhF8PPOgbdnFaE4zmbfqtpX_1G8nqfeZXM6RefC7WyUnuyrkU_Is0U1CWGnJU_iRoAFVS6T_YF4epa_8o1z3m66p4vTA8eZiO-3QRjnenXX015j6HFS0_8VqXCxYzSK77MoR-JInKvQHxZay3awMHFWR_bpiC-e82jjNv6h9vCA0HdXikBNakjcg64RrQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 4204,
-      "message": "خب دوستان GLM 5.2 اومد روی Nvidia\u003cbr/\u003eوقت استفاده‌ست\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F918B.png\u0026#39;)\"\u003e\u003cb\u003e👋\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-07-03T13:39:37Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/NjSZ_C7I8LY0tNGsUk69ArN-7wXLRBv3qmdajLmGGdAIhvc82Au86JJIeUqF7K4lb_4nOU1Wi2dzgx6b7NBMh8kchX2lhwosXq9fw4C5qAq1QAV7ZsnyN3HPz2od94knB7TqYE9YBALmMyFpic6dMSX-91LCOIelXDDO7hMmOT5g7rRamQOHNJt2rRMUn1UTvRNPqremXs-urf5o40G2gMMlDoDHzXuj0Xibux7lyJf20d20UQWvSuJ6L-E2Cz33EuxUlMPMNE6M3z2e99CgutFDiQuD8AVwzmTaLGg8_L6JCj4UQ-QDiRp4ARg-qw4RGPHzy9-4hB1vb9NsvunpDg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 4205,
-      "message": "یک ساعتی استفاده کردم و زیاد خوب نبود حقیقتش.\u003cbr/\u003eهم کوانتایز شده(\u003ca href=\"https://t.me/MatinSenPaii/4078\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eاینجا توضیح دادم\u003c/a\u003e) و هم صفش به شدت طولانیه و هی یهو خوابش می‌بره.\u003cbr/\u003eبرمی‌گردم روی همون جمنای برای هرمس",
-      "date": "2026-07-03T15:41:08Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 4206,
-      "message": "بی نهایت آدرس ایمیل با یک دامنه روی کلودفلر:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://youtu.be/Z069VNFAgAc\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/Z069VNFAgAc\u003c/a\u003e",
-      "date": "2026-07-03T16:14:31Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
       "id": 4207,
       "message": "توی Hermes اگر از دستور Compress استفاده کنید، به صورت دستی زمینه گفتگو رو فشرده می‌کنه و چیزهای به درد نخور رو حذف می‌کنه. هرچند خودش وقتی توی هر Session به 50 درصد ظرفیت برسه این کار رو انجام میده، ولی تأثیرش روی توکن مصرفی خیلی زیاده! همونطور که توی عکس دوم می‌بینید\u003ctg-emoji emoji-id=\"5472113631632038780\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92AA.png\u0026#39;)\"\u003e\u003cb\u003e💪\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003cb\u003e/compress\u003c/b\u003e —\u0026gt; فشرده‌سازی معمولی کل تاریخچه.\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003cb\u003e/compress here \u003c/b\u003e[N] —\u0026gt; فقط تا قبل از N پیام اخیر رو فشرده می‌کنه (N پیش‌فرض ۲). پیام‌های اخیر کاملاً دست‌نخورده می‌مونن (وقتی می‌خواید مرز فشرده‌سازی رو خودتون کنترل کنید).\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003cb\u003e/compress [موضوع خاص]\u003c/b\u003e —\u0026gt; مثلاً /compress database schema — خلاصه‌کننده اولویت رو می‌ده به موضوع خاص (مثل schema دیتابیس) و بقیه چیزها رو یه خورده شدیدتر خلاصه می‌کنه. و محوریت حافظه‌ی Session حول همون موضوعی که گفتید می‌چرخه.\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003eحالا شاید سؤال پیش بیاد، که متین آیا این قضیه، کاری به اون حافظه‌ی بلند مدت و حلقه‌ی یادگیری خود هرمس نداره؟\u003ctg-emoji emoji-id=\"5474371208176737086\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003eباید بگم که اتفاقا چرا. هرمس قبل از فشرده‌سازی، memory flush انجام می‌ده تا اطلاعات مهم از دست نره و توی حافظه‌ی بلند مدتش ذخیره می‌کنه. و این شکلیه که چیزی از قلم نمیفته!",
       "date": "2026-07-03T21:33:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31400,
+      "views": 31700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -125,7 +39,7 @@
       "date": "2026-07-03T22:09:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32900,
+      "views": 33200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -143,7 +57,7 @@
       "date": "2026-07-04T09:20:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24000,
+      "views": 24700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -155,7 +69,7 @@
       "date": "2026-07-04T09:20:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24300,
+      "views": 25000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -167,7 +81,7 @@
       "date": "2026-07-04T12:32:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19500,
+      "views": 20500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -179,7 +93,7 @@
       "date": "2026-07-04T12:34:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19500,
+      "views": 20500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -191,7 +105,7 @@
       "date": "2026-07-04T14:06:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16500,
+      "views": 17900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -209,7 +123,7 @@
       "date": "2026-07-04T14:58:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12300,
+      "views": 14100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -227,7 +141,7 @@
       "date": "2026-07-04T15:27:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9120,
+      "views": 11600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -239,7 +153,7 @@
       "date": "2026-07-04T15:46:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6820,
+      "views": 9640,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -251,7 +165,7 @@
       "date": "2026-07-04T16:17:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1700,
+      "views": 6750,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -262,6 +176,56 @@
           "url": "https://cdn1.telesco.pe/file/DSjlURaa5CLJN4TRI2s3fr31pUvfI9sQV6lPgaD9PKX3mu234wCB_PBErtB10Hv44qocpfXe8Bo6mf_WtY8TdoZWZVlYqHD6djj9OfP6BRDODyCvcegsBqpbgbsvcRxKKtLglmsiFjcoSsCVTiPlskRf2W3MIOm1KIyH_t0yL6MRS-pZXbqJwzn4GK2wssSyiqS9SJ9NexnMyzwPHNFjE6NZpnYARlOSLpri5cV7pU8kt6osghI1qs0x-GFypCoNInPE-bjz8m2jf9MqnnD-P5qKXxmuiAwdG2oHsJFeus9DkEp2MD454Hg8TIrOO9D4-s_osjzjMLLMDlGjCqbuRg.jpg"
         }
       ]
+    },
+    {
+      "id": 4220,
+      "message": "همشون همینن. ده ثانیه اول رو با کلاد ادیت کردن، ده دقیقه‌ی بعدی رو ادیتورشون\u003cbr/\u003eواکنش ادیتور در حال کات زدن حرف یوتوبر که میگه \u0026#34;خیلی راحت کل ویدئوتون رو با کلاد ادیت کنید\u0026#34;: \u003cbr/\u003e⁦╮⁠(⁠.⁠ ⁠❛⁠ ⁠ᴗ⁠ ⁠❛⁠.⁠)⁠╭⁩",
+      "date": "2026-07-04T16:32:15Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4390,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/orIWqIMWiVmP1_ywP863xKIvbPOQRlCutRQ2XTbGgVYGqoG5Z_wYpYTKf9ZF6BUw-UG_wiL0dGvwIBUR98AkSauFW0pk_Cu7sNx9uTpDtwufdQTMLU0wuiw6CqvgQr9xqV-CD1FuwWw1KMpiXaRzKkzfN-oO-Fx2gsDpwzX3oXNd9IayJb5InBQhZlF6bs76mZFNDr3yBm_9RpNxdBlyD-1UjobY1jvr6C0eZlL5PtHqmRZokG27bcRv2WHahn-tqgjg6tfuvFKrb9IcCQ9VU661KLal8ndmCVVnPm4NwZwqxjKP2r0AAnqFdU7oi-4QDb3p_eRxFOOzfyt4KB16Wg.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/TzhguowwV4y4hc9M_ywXbVWeOfRS6rtG4UUKLbYicxOeJmlQCvaVDWvj1Rd79ItGYXzmBjYiCRfLEaaGAdYjXhF0rcRXNeIHSXQU7U782Gji9kYtKPo1CIgjjIMyWj0PrsYX8WintBq2K46U0meYqelKO_Pu2bF3Oi2sakMznw2VMz3LdrqYDKbwlHGMkznqMTjlwJ00Pv9MX6UChVD8kUwh1zM9wxhpqsRT07sZ4HtZ0OScU63zPSRfjufLbmqtC5JPwaYOiB7StHtqThjQiWWkdw09oJN2dS3-hS6sUAx2sxBFk2mepP0I9vPOPxpL9elTWLAazISxKbNwIW4vDQ.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/aWbNDsJ9fiyx4Cc_y--ZZG5FXpJMc4zoJqYcyFpFZYcDFQdNcS6_H-YY8SC1QRy5FC1Ybd15ixrB9_1-AleW43LZG-3NNCeloMlqUY5lUkvdrLWnJufM1gGtnaIMRmmhBrXvyOCfgUUBN2ea3lsWqQFjqw1x8_yGGoIZ93tGhSSpgXnf0m3nyRNrjiaC5cA9bjbQ85Xxo8B5KtZwRcBJcisY7GkvVglR-aHQ6lp0BwyBj-5qutxEsVc_-ZBIktQDi86vkIgz5qovR216Dcem4O1xiNL2V074q7CUl42cEKRPFgjjlJC1wMwJdOp_V5_v5P4PdcgG1lY7kFaMTHZK8w.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/Q1o8BjXYEXXbEs-5dhRrGBTIfujSkNJo9gjEwVmKWOA20CgkxaXxNc2Ys2kPh4QvjdYMjyxrjN3PX9kPuJX4rzS_dSS3K_lNkSVDSm5y4CKYgI1HmQUwimWkCqkkSNmcWa8XLSY4k6H_boIWfsZnlpr16-KzBWnfav8kxFBZrA0UwHMho1OzYAMoFUQQfUYzH9J3LhjvSrnEo6fZbn2HFHChHkzx6e0i4NPL4SAKspmwhr8TRH5XfKidwTqR6Y3lWeOXhho6SqyakjVAOjxjK7K7WzKRf6qxCvcGn8qz2CIW2DjIooe0FXHOZi2EjevHiAvwWOY4FuH-4POZx8sJFg.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/fRDWT9gytCbonO_ru8R8pjSmjYMGH560f-la2VCTLfndpREBAdmon35fFYP-BuqopcTo6QJEdaCG-cjHp3DRmsiak8sjdeV1fE7vFsRwe9346hUCh-1Fd-O5gSffYLiIQTGzcR8vJS7Q5wtM0eCnP4x_QYaA0T8ZcD-9cZTJM5qR6002qFtErmrQOfGJ9aeQeTmSEBVWv15l0w9QA1vH-Fc4gKdSI6wGjmifCofRy9_WK0UyqIt1i5hNHHhvcUy7iHRT3gKu7tRzYKkaAbAfqgRnfsQgS0kLgl86bHHhez-1cSFVPMtu-yL-BrzPwRxysS6JAZG4HziCAmE9AmV7qg.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/ihsa68s682InKES1crNTEucDqb60BSNM4eO7vwGdzXU-nSGtvpPyEhY-9cxra9xWs5Tqpikx8TAKdpmShyRQV_d50DplW3hcBSkXgkMAfhc244fg3T1InuO6i_KX3yE1HM9tTwjywBE77tbQNqTiY-sq7RPJlXziDWKvuYGtII71MCPejdwfn89Z3iSW9Djm7O6hkyvZNPwnLBx7LpaJZox7VYTyHC9OOzJYrsaIs37jlq-i_4-QoiVRWcD1TLkpBJu5PmeOLZJHsx9-IV_7PJSuBZX1Odl4ggRT9M1Jw61sEVI4ARpmCHRCa5A5Myx-IfLweY-_Az4Oa1I-HS8HiQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4226,
+      "message": "\u003cb\u003e\u003ctg-emoji emoji-id=\"5197288647275071607\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA1.png\u0026#39;)\"\u003e\u003cb\u003e🛡\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e آموزش کامل نصب و راه‌اندازی سرویس MTProto با ابزار MTProxy\u003c/b\u003e\u003cbr/\u003e\u003cb\u003e فیلترشکن قوی و پرسرعت برای تلگرام\u003c/b\u003e \u003cb\u003e \u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003e\u003ca href=\"https://www.youtube.com/watch?v=pyvB6VSPhwg\" target=\"_blank\" rel=\"noopener\"\u003ehttps://www.youtube.com/watch?v=pyvB6VSPhwg\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/WhiteDNS\" target=\"_blank\"\u003e@WhiteDNS\u003c/a\u003e",
+      "date": "2026-07-04T16:45:22Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 636,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
     }
   ],
   "last_updated": 0
