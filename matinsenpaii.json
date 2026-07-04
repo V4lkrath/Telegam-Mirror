@@ -8,48 +8,12 @@
   },
   "posts": [
     {
-      "id": 4193,
-      "message": "اگر ZCode رو نصب کنید(با Zed Code فرق میکنه) می‌تونید روزانه 3 میلیون توکن رایگان GLM-5.2 و دو میلیون توکن GLM-5 Turbo بگیرید با یه محیط کدنویسی تمیز شبیه به Codex\u003cbr/\u003eبا هر ایمیل هم می‌تونید یه اکانت بسازید و...\u003cbr/\u003eبله خلاصه\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA5B0.png\u0026#39;)\"\u003e\u003cb\u003e🥰\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eاینم لینک نصبش: \u003ca href=\"https://zcode.z.ai/en/docs/install\" target=\"_blank\" rel=\"noopener\"\u003ehttps://zcode.z.ai/en/docs/install\u003c/a\u003e",
-      "date": "2026-07-02T20:26:14Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/hJXwzwZ2tppCO8-rV9lULH33DvAAzy60e2ZIIR8BP_R-m7en7LCwF6vFDJwhPDIgXUqVhZzej1RIwxDiNUQJywkqOInzpf_N2z9B7qJFERKT8MJ-s_I3H8CbgzFk_WGZC5GJSt7NTqmiINZ2ukS5zNWZ16oPfB6ys9UcEu1gd5p0bKMbk93yCYMyWWyTZEbykbDKthDBBZJhiLvFLzKXNLBviKcY9SGLVFmySfOluUSDwyNEmUmbymDYK7e8l4FwGZ0o0lm8Uor65dQ6jVDV9PogmgnU5mYGXupdlU-DDPqflhyDLAmgViAbRTwmjt0K_Kty0IQFFWL8LY9V7d1RMg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 4194,
-      "message": "این رو هم بگم که علاوه بر تمام قابلیت‌های Agent هاش و mcp و پلاگین و...\u003cbr/\u003eمی‌تونید به راحتی گوشی یا حتی یه ربات تلگرام رو بهش وصل کنید و لپ تاپ وقتی روشنه و میرید بیرون، با گوشی کنترلش کنید و کد بزنید اینور اونور که هستید",
-      "date": "2026-07-02T20:30:55Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/GqZzb0lgV1R4oLIysxE6ouVK4WCYKEbT1FYpw3c63qrtWqE5pg8xwN8eJMAaEmg8Dtr1WV1bP8H4vz6ilyQrJFI8fIUZfptvrItHuLSntFbs4i_LCDVTVhj5CVZwrFdl2et8X8_itfwTGHfyAoRcflz4HC_6FjFJbp7Vgjj5D-w1LRa4PVP3iZjqZhw3b4xGBRjmI5dqn7H_6Hd6Et_0h79uDZUKxQXnLKZqYLdi-pb8wqrTxC0AzzQA92bvwdpbrI_fAUKQctwYPShEdLw5YHWzN8uW3QuMC0HxtpL5nseUIl7p7rsE9zMenIMl2O-Mmp3yarPR28ZM6n-EZ6TMqw.jpg"
-        }
-      ]
-    },
-    {
       "id": 4195,
       "message": "چندتا نکته\u003cbr/\u003e۱- این Zcode پلنش محدوده و حدودا یه هفته‌ست\u003cbr/\u003e۲- به شدت کندی داره و وسطش قطع میشد برای من با اینکه با همون وی‌پی‌ان، کلاد داشت راحت کار میکرد\u003cbr/\u003e۳- به نظرم با این اوضاع، یا با همون api Nvidia که توی ویدئوی هرمس گفتم، یا کدکس با شماره مجازی پلن رایگانش، یا Mimo Code بهترین گزینه‌هان برای رایگان کد زدن",
       "date": "2026-07-03T10:11:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29700,
+      "views": 29800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -73,7 +37,7 @@
       "date": "2026-07-03T12:40:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26700,
+      "views": 26800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -85,7 +49,7 @@
       "date": "2026-07-03T13:06:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27700,
+      "views": 27900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -93,7 +57,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/ZHGJdFjS2lmyIPT8Fd-havPO3RpZJdFGK4IkWFyVCCegWdHKc-2h5uWxpl6ImLHb7m2YOQEPFxyO9uaJNYLAN74BNydW9nQp6Jo4HRcdMCRQhEAGoM_esHH8ssS51N3Zb55aaY5Fh2mY90qliYx1bXJd-_MeELERYQ_3KmCYjrvgb8mvB6fIgyjDC4gFlqOvYNrPIz7WvaFLJiKuvClCk06k3z9cnDuXPlj4X6MDIxAyfLWCYlk6Wy19J7mOruMYyrqFq5AcQ_YnBygevx9N3mrf_d6OUfhFigVoxA-f3dsGA8j3mvoeQqsFFWer4_Rv0l8b05WT0fobIB_2X79vFg.jpg"
+          "url": "https://cdn1.telesco.pe/file/KlLpdKan4muDLcqfcJbDi4wBSoi_AnsZV6fs2e0rjDyO9DD8Bwx2JCqYwxZE2XeylkltA1_ycJtBlHlzGmCjIWGbf6cBdKvPJG0-6JCYfUFrg187MPl7GKLZFizJq2tLOtLri2VrrQcIxAWo7lMzw8li7OKcWqs94Uq9hIzB-AZTVO-yBxHZlNXo2SNVg7b1dqr306Rybx-tlzYTQey325veRevs1Uoz-WPMxOmvnpDMTBF-_7Y9a_vwfDfHoIuT6JEMymYaJODOaOcT8jsbHgix-nzN0v-3a3SucLs9m4RZrbqDAlhBEq8hiYihDQt2RJsj_9aQ8hINHZq-KNLI_g.jpg"
         }
       ]
     },
@@ -103,7 +67,7 @@
       "date": "2026-07-03T13:09:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26600,
+      "views": 26700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -121,7 +85,7 @@
       "date": "2026-07-03T13:22:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25300,
+      "views": 25400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -143,7 +107,7 @@
       "date": "2026-07-03T13:35:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26900,
+      "views": 27100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -165,7 +129,7 @@
       "date": "2026-07-03T13:39:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28200,
+      "views": 28300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -183,7 +147,7 @@
       "date": "2026-07-03T15:41:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26200,
+      "views": 26400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -195,7 +159,7 @@
       "date": "2026-07-03T16:14:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28400,
+      "views": 28600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -207,7 +171,7 @@
       "date": "2026-07-03T21:33:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27900,
+      "views": 28500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -233,7 +197,7 @@
       "date": "2026-07-03T22:09:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28300,
+      "views": 29000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -251,7 +215,7 @@
       "date": "2026-07-04T09:20:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13900,
+      "views": 15800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -263,7 +227,31 @@
       "date": "2026-07-04T09:20:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13900,
+      "views": 15800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 4213,
+      "message": "هرمس قشنگ یه کارمند تمام وقته. ویدئویی که تا آخر شب می‌ذارم رو حتما ببینید، تا بتونید از تمام پتانسیلش استفاده کنید",
+      "date": "2026-07-04T12:32:36Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 4214,
+      "message": "برای مثال کیوریتور (Curator) که توی ویدئو توضیحش میدم، یه جورایی کتابدار هرمسه که تو پس‌زمینه سیستم بی‌سروصدا کار می‌کنه. \u003cbr/\u003eو Skill هایی که خیلی وقته استفاده نکردید رو پیدا می‌کنه و آرشیو می‌کنه تا سیستم سنگین نشه.\u003cbr/\u003eویدئو پره از اینجور دستورات و همه رو هم تک به تک انجام میدم و تست میکنم و صرفا روخوانی نیست",
+      "date": "2026-07-04T12:34:07Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3940,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
