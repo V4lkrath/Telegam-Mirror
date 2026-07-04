@@ -13,7 +13,7 @@
       "date": "2026-07-04T08:34:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30100,
+      "views": 32299,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -55,7 +55,7 @@
       "date": "2026-07-04T09:02:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27100,
+      "views": 29300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -74,7 +74,7 @@
       "date": "2026-07-04T09:20:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25600,
+      "views": 28900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -124,7 +124,7 @@
       "date": "2026-07-04T09:41:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23700,
+      "views": 28000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -136,7 +136,7 @@
       "date": "2026-07-04T10:23:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17600,
+      "views": 21900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -148,11 +148,30 @@
       "date": "2026-07-04T11:06:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4040,
+      "views": 10500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "BBCPersian"
+    },
+    {
+      "id": 285688,
+      "message": "۱۳ تیر در ایران روز ملی دماوند است.\u003cbr/\u003eحسین پوراکبریان این تصاویر را طی سه سال از دماوند گرفته و به مناسبت روز ملی دماوند در صفحه اینستاگرامش به اشتراک گذاشته است.\u003cbr/\u003e\u003cbr/\u003eاو در صفحه اینستاگرامش نوشت: «دماوند تنها بلندترین قله ایران نیست؛ کوهی است که هزاران سال در شعر، اسطوره و حافظه تاریخی ایرانیان حضوری ماندگار داشته و همچنان چون نگهبانی استوار، بر فراز البرز ایستاده است؛ نمادی از پایداری، آزادگی و سربلندی ایران.»\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/BBCPersian\" target=\"_blank\"\u003e@BBCPersian\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://bbc.in/3SyKHT7\" target=\"_blank\" rel=\"noopener\"\u003ehttps://bbc.in/3SyKHT7\u003c/a\u003e",
+      "date": "2026-07-04T11:30:38Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1080,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "BBCPersian",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/MBnve8F65wtUWl6AM3VGtWxaO9GB8SMrMW9Rj-2feuLe4dE4oVHJmujFAzloqMkuOWYKNLM6ZojbpmC_Od4jigdgt4PvnZk-Qwr49sfR8pViCz72aWj5tKBOsAcEDPCGwPauvDk7DozOBbP1XPBTPwkuayXXnupcFMSucYQN8-g1Nqm-X5gKVKPwT93RC-AhUr89jrBOz5qjyokBX_SoimTxpxOTykLpKtxIL4xemBGPdpK1Dysx_tAbeI2hy8rjsteBcbLz9wd0umBTJdncmimF8xuEgoQeG_Dmx9LJqW7OLmfFvCaKBoCqNkAGTPY2Xk3V0_fszANU4iO_nwUNZA",
+          "width": 256
+        }
+      ]
     }
   ],
   "last_updated": 0
