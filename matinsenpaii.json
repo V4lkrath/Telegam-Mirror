@@ -8,64 +8,12 @@
   },
   "posts": [
     {
-      "id": 4236,
-      "message": "دستورات استفاده شده توی ویدئو، با توضیحات کامل\u003cbr/\u003e\u003cbr/\u003eسایت ConEmu برای ترمینال: \u003ca href=\"https://github.com/ConEmu/ConEmu\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/ConEmu/ConEmu\u003c/a\u003e\u003cbr/\u003eسایت Nara برای API رایگان: \u003ca href=\"https://router.bynara.id/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://router.bynara.id\u003c/a\u003e",
-      "date": "2026-07-05T01:27:50Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 4237,
-      "message": "یه سری از دوستان کامنت گذاشته بودنکه این api nara که پولیه و کردیت می‌خواد و فلان.\u003cbr/\u003e\u003cbr/\u003eسایت Nara چندین تا مدل mimo داره\u003cbr/\u003eکه همین الان یه اکانت جدید ساختم و مجدد تونستم با api key اش به mimo 2.5 وصل بشم\u003cbr/\u003eشما صد درصد از چیزی غیر از mimo 2.5 (mimo hermes , ...) استفاده کردید",
-      "date": "2026-07-05T11:31:42Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/QjOc-sfGVIh3A5_PSqTAS4FJgB-Qc6rNcO88nFO9NHKip9h_pJ2Wn8SXBUXJVhW4b6R4aB0WXsGcu3uvD3_Nr32JefCeoNW7Wb_neM3NyJSy1MJiXQXgJRtEiUcR_paiSCujhryQg6z_mhJde2F1TC99OVHMdwl-oVk-51GqbRxa7gtgmm7lrvrl0XLxUSAFhKOZb73iufLvK0PgIIlJADkLBQAByHd_ri9zyDsXBCb64k1qM-cmHHt0BU94Q0PdmMS0Y9FvyVzxAf_gXcbX0YdBrjzg56FQ_-DEZQZ_qiGrzoPQACBDMjiG3p3wKq1xAij8UI8d50N_P2DwdliNvA.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/ulYQjpulIYc8SXjQg8W6vAFcqUkSjdJUw4obumk0673CEzxqYnPJWCkAP0C4n_LcCRHUqdbCOR5KJt2gEyJyUzo2oanz5f_gjBAOXymzElrL0f9v9qXjpDHP1RIL-oE_Ari2P2CxuiJ6etVmxACW9NkuY5l22ptAauZUQLsxsL446OnV5UB0sZ1FCqtm1GADChSbD-jOj8pEDULAkwc8Eo-p3Q8vNhVBGUm9JoCWOv1EvmGh45gJQjBM4rQzCjdweGkr4sBCCo9u5WRQElDJs9rf8jXpOUBpLpcDU3gkP0LE5s8afjyUo3l1eQ95n_jG778V8AznKZD4Or8dQQruHA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 4239,
-      "message": "امروز Hacker News رو چک کردم، یه سورس تو گیت‌هاب ترند شده که پرامپت‌ها و ساختار دقیقی که برای Design System با مدل Claude استفاده می‌شه رو افشا کرده. برای کسایی که می‌خوان از AI برای ساخت سریع UI کامپوننت‌های یکپارچه و سیستم‌دیزاین استفاده کنن، این ریپازیتوری عالیه. با دستور /learn بدیدش به هرمس و تمام.\u003cbr/\u003e\u003cbr/\u003eگیتهاب پروژه: \u003ca href=\"https://github.com/Trystan-SA/claude-design-system-prompt\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/Trystan-SA/claude-design-system-prompt\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-07-05T14:19:09Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/vk_CkLElxwmVP5zCJIaqZEiFdL_61cGpyM6UTrDSwNtgj7_OCB7ZQVZVmBfztWVKzMrRWtgKOSUnO9N3ksSu83urZsKUxTrVnEKt7loK3cb0f_GiKg3eXaofEgdb_qcchOa1h092_xfNr1zq9Z4x-cre0lF37oiFZxblz30Jh8JHBDz6QkUtXO8oc35GfKFOP5k656gBpbic3XcGkilH5yCAUOsPF6_WMJieCIPPRYOyG-UpArixpGBHOQgLMroowLSj66DtuMkc9Vtdr5Eh0opG-q4NKYOoPb4vXZgMsF3Kz6aNzLgCnEeWAJoh_2dtUw7GEZ5WphevnAtvORGuiQ.jpg"
-        }
-      ]
-    },
-    {
       "id": 4240,
       "message": "بالاخره کار مقدمات و آموزشا تمومه\u003cbr/\u003eکم کم توی ویدئوها میریم سمت ساختن پروژه‌های واقعی",
       "date": "2026-07-05T14:35:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18800,
+      "views": 20300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -77,7 +25,7 @@
       "date": "2026-07-05T16:18:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15800,
+      "views": 17400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -89,7 +37,7 @@
       "date": "2026-07-05T16:42:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14000,
+      "views": 16200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -101,7 +49,7 @@
       "date": "2026-07-05T17:04:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13700,
+      "views": 16000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -139,7 +87,7 @@
       "date": "2026-07-05T17:15:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11900,
+      "views": 14300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -151,7 +99,7 @@
       "date": "2026-07-05T17:31:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9140,
+      "views": 11800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -163,7 +111,7 @@
       "date": "2026-07-05T18:05:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9270,
+      "views": 12900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -185,7 +133,7 @@
       "date": "2026-07-05T18:15:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8150,
+      "views": 13000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -197,7 +145,53 @@
       "date": "2026-07-05T18:34:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5340,
+      "views": 11500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 4258,
+      "message": "یه ابزار رایگان رو دارم تست میکنم ببینم هایپی که دور و برش هست اصلا واقعیه یا نه و اون عملکردی که می‌خوام ازش رو با مدل پولی مقایسه می‌کنم، اگه خوب بود بهتون یاد میدم",
+      "date": "2026-07-05T19:06:10Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 8560,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 4259,
+      "message": "رفقا این هم فراموش کرده بودم بهتون بگم\u003cbr/\u003eیه راه دیگه‌ی رایگان برای استفاده‌ی بدون هزینه از MiMo، نصب opencode هست که تمام این مدلها رو رایگان داره درونشون. با 9router هم میتونید از مدلهای opencode برای هرمس استفاده کنید. همونطور که توی ویدئوی 9router نشون دادم.\u003cbr/\u003e\u003cbr/\u003eبرای نصبش هم از این دستور استفاده کنید:\u003cbr/\u003e\u003cpre\u003enpm i -g opencode-ai\u003c/pre\u003e\u003cbr/\u003eروی سرور اوبونتو هم از\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003esudo apt update\u003cbr/\u003esudo apt install snapd -y\u003cbr/\u003esudo snap install opencode --classic\u003c/pre\u003e",
+      "date": "2026-07-05T19:24:36Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 6670,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/QRfwajIljXtAcLJ1bO7a-qKEdLPMQBu5CGqEGrUxKE0ALppGRlKYVcotbAWU--S_t68_j-97_fiFZqNXd-gz1Ma2VZLyeqi0GA59_RBWUShI8wHJOOAKdX3MIYA1QmJvGV_rNLW3qjvLyk7TmIcaRcK3ba6Xh7bwopOZxQjg6cgBhI1kLohSR2DOJfCaC8cKtt02oBMLzaI6V7SG50AHlEz7GyKoUfwRmPAJnazZgpber8_ioJJZqSAxu_5V7lhjrCkIZCHkfxSWyXn0z5RNiQzTjLuDVrZFUxKCQ92sE0mbEY0-96IlibMB0-kYu1S2n91pgH5paIfDQ7v5BjJE1A.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/M3j7CzTxPhQihw5St4HWrjO05rorYIZU5PaOjCT_sjH16CdVM06kIdJLEqwL84U9BEJsizGhQJsPVOynBxfkdzDXwdnH6YDUm5FaaPhq0psZ0rAPQny2WpFNKRzBrww8gu2sFgrcOuO2N0enhTGncjtCeWAgfmeYYHSlpPLCt6059ZZEo_ZBRQUApGMepOJWo5LoXyr3rwBUHzuPOgkS0T09ASu6t1Q_KuPqNr2Xc7DRb4eVQqlvU-fRx2ysnnRJsTaD6WbnaZKbC6zvhRx5o6_d87cKreeJJGcgNvDHjKiMtcWWGnscqamy1gpC58Z3WErNW0a1UPGxy9IqdGzAdw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4261,
+      "message": "اگر خواستید 9router رو روی سرور آپدیت کنید:\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003edocker pull decolua/9router:latest\u003cbr/\u003e\u003cbr/\u003edocker rm -f 9router\u003cbr/\u003e\u003cbr/\u003edocker run -d \\\u003cbr/\u003e  --name 9router \\\u003cbr/\u003e  -p 20128:20128 \\\u003cbr/\u003e  -v \u0026#34;$HOME/.9router:/app/data\u0026#34; \\\u003cbr/\u003e  -e DATA_DIR=/app/data \\\u003cbr/\u003e  -e JWT_SECRET=\u0026#34;change-this-to-a-long-random-secret\u0026#34; \\\u003cbr/\u003e  -e INITIAL_PASSWORD=\u0026#34;your-strong-dashboard-password\u0026#34; \\\u003cbr/\u003e  decolua/9router:latest\u003c/pre\u003e\u003cbr/\u003eداده‌هاتون حفظ میشه. نگران نباشید. صرفا کانتینر رو ریست می‌کنید، نه volume رو",
+      "date": "2026-07-05T19:40:24Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4150,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
