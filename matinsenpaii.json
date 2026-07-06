@@ -8,62 +8,12 @@
   },
   "posts": [
     {
-      "id": 4243,
-      "message": "تیم مهسا توی آپدیت جدید، یه صفای حسابی به UI دادن\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9881.png\u0026#39;)\"\u003e\u003cb\u003e😁\u003c/b\u003e\u003c/i\u003e اما UI کوچیکترین بخش اپ هست که عالی شده.\u003cbr/\u003e۱- هسته‌ی سایفون برای ایران بهینه شده و به راحتی تمام، وصل میشه(الان با همون پیام میدم)\u003cbr/\u003e۲- اسکنر قدرتمند اضافه شده برای اسکن آیپی cdn_fronting\u003cbr/\u003e۳- الان میتونید از سایفون+آیپی تمیزتون، کانفیگ بسازید. مثلا من اینو ساختم با لوکیشن آمریکا:\u003cbr/\u003e\u003cblockquote expandable=\"\"\u003epsiphon://?region=US\u0026amp;protocol=cdn_fronting\u0026amp;aggressive=ON\u0026amp;cdn_type=any\u0026amp;cdn_ips=\u003ca href=\"http://104.16.73.68/\" target=\"_blank\" rel=\"noopener\"\u003e104.16.73.68\u003c/a\u003e%2C104.18.180.6\u0026amp;cdn_sni=\u003ca href=\"http://pypi.org/\" target=\"_blank\" rel=\"noopener\"\u003epypi.org\u003c/a\u003e\u0026amp;no_sni=false\u0026amp;skip_cert=true\u0026amp;proto_tls=true\u0026amp;proto_http=true\u0026amp;proto_quic=true\u0026amp;builtin=true#psiphon+2026-07-05+20%3A26%3A39\u003c/blockquote\u003e\u003cbr/\u003e۴- یه منو کامل برای Chain کردن دوتا کانفیگ V2ray(مثلا یه کانفیگ آمریکا دارید که کار نمیکنه، یه کلودفلر دارید که کار میکنه. با کلودفلره وصل میشید به آمریکا و آمریکا VPN نهاییتون میشه)",
-      "date": "2026-07-05T17:04:18Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/BVDkHO_gTEwD7K-bX1R9rNhogVyIQRDnh4lHCzYHpS8jg5WxRnYMaF3Kw0b1MV4Z9mkH58NwsWYC4hxSX8clwrFO9H8oWiyOi9q_uRY3yt9GYx7InJT8TCsEkHDPOBWaeMtyifE-V6zP2vr0H_h9PG91OIAoay88YxSAXE1pszJEp6LeOHBSZEZVZILeFPFYb5Q7QYnfmIVYjTKBno4JtYtuIN-7fU0Nn5h7rtvoTrkvbaKlIDVX392nPVos5C6XaASsSu1ifSKu2AY5fH1qtM3FuE1JazrTkhcy2CymIJhg6tvwaC59aUopmvJHVbRqY6yV6yaAAcTkbQ4JSswjow.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/IgtKoMGq-IdrW2h4keKS8H5JUl-perj2B6DCi6tBEwOu7DUKSiw9GFGmiDK1nBkbnbjQ1PJcdHIhS1G--2Z-_en91rOX1rTI8JQJUbmX6pu4gU_Yqfnjl4hxvFcjtuhhtH80Wgu8o7VffTHzIcx3ekcLxschyxJe6DOxiCgF05c6dliaMOuGrF0wjjmGQrUe6LMnibAIMA45xn3XFzjCzrrEXRSnC8dnVCe3T33PE0z1aW3a7p2XMkPkhrl6jb1-oT1QOamjvTgpuJQzmqBl3Jx6r8iccs2rlb1jMrF8M7MQVQfQO1UsD9fbSWRAZoeSZq30XH5P_GtlrJw2NGO8Xw.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/RRCuSZ8S_uVdlqVuOYF5BLaETKN2xAwaC0iGf-mDqsRH7GQDoFOIlEnonZ9399CAz0SSkFLs0T3JhzfZ5LFNbYX67anHY64TvghZOYwJR4QUgc4ntlVSXPo2qFQSK4rm8QzdH6iDqaSTWieEMEr4pjwpRiM1EDcLKapebxYujFL8cqF5ZkPIgMXgDriuaxKX5m_05XlW5aiw5nXRK54UjWq9jvsdudwxO6Upn_j73CfhUW-SgiGS-hsGEVAUKZJNWMFwOlmGeubQWARjHp4Bqzpu0M6PAYlMSYQ0RLqE0fPMmrUtXxAnhx_gEx7-a-QtfSdISdTHRu_97uRSBylD0A.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/HIt0KUPKG0yrBjN9S8tkHdKtZsrCQqa80UqCs19-4eckSJYyEkxIn6izNPmBSNKlKAQwCQmct7Y2oVQ0fdH_1zZxvgbTMdS64gYDGeeOrgwPurxioNL-MlXcT49KfF4MWKwRm8ZezS9G2w3nRJHtlsOhHGg3C4XLl8ooGSpbymZaBwtEBxG065LzJ5vRoGJKCgc116OclIgttSJ65rFnWYrArDNWA0UbyAtTsufHmHWnLX7lfIG5gibm9NOMpmCncS6Gpo8q-ZekY5buz97g6LQBC6YXH6e_Mta15UxTj7-QW9e3iezhTBwwB1NgiEJbI6sN4ysf57UcnOimLDhBKg.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/RmmbEWzLJxZCxjgT_Z8tSM5Vus9Fko_z68Lu9I4WV0SilnpAcXkBIkfQupl81uDJw8pvoCzAoOvCR3Qg7MKrpVdBipRLDuHCdc1dVgaqaUl14eGPNST0WoJfz9OIikm3_4lHt9rUmvlLLIWaDwpusfSWUn5215Urn1dLSMJpLfjBoQ_vuMph2y_bcucsp0v1mHZxzJAm3GfcM_o_Bbpuhy3oTXJXxht_VaJcaENxpKwvQzCeKoFu15cmVNlKf_tJW_RPEX_eCqWzsTwpBSTLEI35_K4Gne1XK_te9LJYt-c1h7xWDcMv_tbTnrfPS4RJrJaL96tEHOUVj1tmM4xxQg.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/LtOFf4sZZ3aQyjzskvK-fm4bJrvZC9zGBmqGLq50B-zHr3ARcTctGNGwJPniDUrvdWP3QMWDsje6RWp2-7CDAbsmfI-_-e2jnr_NBAYAw3e4Y5xOChyB42kb-qFrqrAJPy3GcA9EOqZ4X5_aWzHp8o3VlTPXmiRojVJLaCt1IOI_gTPIoIAZgWCdXxxUcPqMhx3aL4pmrjODbft6meACU3XiRpDuWQvuFVIXIn1h81ahDMl5tmFcTzU0B0h6Lpsmnw-uLIs3WoO1aO4TM0exzDwxs6CbLk8YjF3Ey8F-rUt1NhcHbky9Xu6Fpt-gI-6mU5LD5rJ_FlhmHGygMbu7Vg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 4249,
-      "message": "من نصف امتحانام رو با این روشی که امروز به تینا یاد دادم پاس شدم. درس رو خیلی بهتر متوجه می‌شم این شکلی\u003ctg-emoji emoji-id=\"5388953246486269495\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939A.png\u0026#39;)\"\u003e\u003cb\u003e📚\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
-      "date": "2026-07-05T17:15:38Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
       "id": 4250,
       "message": "\u003cb\u003eپروفایلر پروکسی WhiteDNS نسخه ۱.۰.۷\u003c/b\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA0.png\u0026#39;)\"\u003e\u003cb\u003e🛠\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eپروفایلر پروکسی WhiteDNS یک ابزار تشخیصی برای ویندوز و اندروید است که بهترین ترکیب‌های پروتکل پروکسی/VPN را در یک شبکه پیدا می‌کند. این ابزار می‌تواند هم بررسی‌های محلی بدون VPS و هم تأییدات عمیق‌تر مبتنی بر VPS را اجرا کند. \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cb\u003eویژگی‌های اصلی\u003c/b\u003e\u003cbr/\u003e\u003cb\u003eاسکن شبکه محلی:\u003c/b\u003e آزمایش سریع بدون نیاز به اعتبارنامه‌های VPS. \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8FA0.png\u0026#39;)\"\u003e\u003cb\u003e🏠\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cb\u003eاسکن VPS:\u003c/b\u003e تأیید از راه دور عمیق‌تر با استفاده از اعتبارنامه‌های VPS شما. \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F96A5.png\u0026#39;)\"\u003e\u003cb\u003e🖥\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eتست پروتکل‌های VLESS، VMess، Trojan، Shadowsocks، WireGuard، Hysteria و HTTP. \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eپشتیبانی از انتقال‌های TCP/RAW، WebSocket، gRPC، XHTTP، HTTPUpgrade و mKCP. \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9484.png\u0026#39;)\"\u003e\u003cb\u003e🔄\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eپشتیبانی از ترکیب‌های TLS، REALITY و بدون امنیت (در صورت معتبر بودن). \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9492.png\u0026#39;)\"\u003e\u003cb\u003e🔒\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eتشخیص دسترسی‌پذیری، فیلترینگ، پورت‌های مسدود شده، مشکلات SNI/TLS و رفتارهای شبیه DPI. \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F948D.png\u0026#39;)\"\u003e\u003cb\u003e🔍\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eنمایش نتایج تشخیصی دقیق و اطمینان از شواهد محلی. \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938A.png\u0026#39;)\"\u003e\u003cb\u003e📊\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eکمک به شناسایی ترکیب‌های ایمن‌تر پروتکل، پورت، انتقال و امنیت. \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA1.png\u0026#39;)\"\u003e\u003cb\u003e🛡\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cb\u003eنحوه استفاده\u003c/b\u003e\u003cbr/\u003eبرای یک آزمایش سریع بدون VPS، گزینه \u003cb\u003eاسکن شبکه محلی\u003c/b\u003e را انتخاب کنید. \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eاز \u003cb\u003eتنظیمات پیشرفته\u003c/b\u003e برای تست پروتکل‌ها، پورت‌ها، مقادیر SNI، انتقال‌ها و انواع امنیتی بیشتر استفاده کنید. \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29A99.png\u0026#39;)\"\u003e\u003cb\u003e⚙️\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eوقتی به شواهد قوی‌تر سمت سرور نیاز دارید، گزینه \u003cb\u003eاسکن VPS\u003c/b\u003e را انتخاب کنید. \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C8D.png\u0026#39;)\"\u003e\u003cb\u003e🌍\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eآی‌پی VPS، پورت SSH، نام کاربری و رمز عبور یا کلید SSH خود را وارد کنید. \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9491.png\u0026#39;)\"\u003e\u003cb\u003e🔑\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eاسکن را شروع کنید و پروفایل پیشنهادی کارآمد یا نتایج تشخیصی را بررسی کنید. \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cb\u003eنکته مهم\u003c/b\u003e\u003cbr/\u003eاسکن محلی نشان می‌دهد که شبکه فعلی شما به چه مواردی دسترسی دارد. اسکن VPS شواهد قوی‌تری ارائه می‌دهد زیرا هم سمت کلاینت و هم آنچه واقعاً به VPS می‌رسد را بررسی می‌کند. \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA790.png\u0026#39;)\"\u003e\u003cb\u003e🧐\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eنسخه: \u003cb\u003e۱.۰.۷\u003c/b\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8FB7.png\u0026#39;)\"\u003e\u003cb\u003e🏷\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/WhiteDNS\" target=\"_blank\"\u003e@WhiteDNS\u003c/a\u003e",
       "date": "2026-07-05T17:31:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18100,
+      "views": 18300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -75,7 +25,7 @@
       "date": "2026-07-05T18:05:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20800,
+      "views": 21000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -97,7 +47,7 @@
       "date": "2026-07-05T18:15:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22600,
+      "views": 23300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -109,7 +59,7 @@
       "date": "2026-07-05T18:34:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21100,
+      "views": 21900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -121,7 +71,7 @@
       "date": "2026-07-05T19:06:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20000,
+      "views": 20600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -133,7 +83,7 @@
       "date": "2026-07-05T19:24:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21800,
+      "views": 22300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -155,7 +105,7 @@
       "date": "2026-07-05T19:40:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23200,
+      "views": 23900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -179,7 +129,7 @@
       "date": "2026-07-05T20:41:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23200,
+      "views": 24200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -191,7 +141,7 @@
       "date": "2026-07-05T20:42:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23600,
+      "views": 24700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -203,7 +153,7 @@
       "date": "2026-07-05T21:22:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22600,
+      "views": 24300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -215,7 +165,7 @@
       "date": "2026-07-05T21:57:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23100,
+      "views": 25200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -234,7 +184,7 @@
       "date": "2026-07-06T04:09:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20800,
+      "views": 23900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -246,7 +196,7 @@
       "date": "2026-07-06T12:35:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13100,
+      "views": 17600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -264,7 +214,7 @@
       "date": "2026-07-06T16:08:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1,
+      "views": 9630,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -273,6 +223,60 @@
         {
           "type": "photo",
           "url": "https://cdn1.telesco.pe/file/GXAcxdJc6f6efVAK1r2LyiNABWRIaQpzKVF-QqWzlnUQnnyxLY41mv5puB2AMGRS0Ro1InNG1co2zbcTnCTozxugijrvRUI899Z1XIM8FqdYBynkvy315a3BWkQdHYHwek42TREuVms7bhQnK4I5EQ7U3GU_GYipClhcKmOlqqi0TywXRGerD7YcvqNJlEtJY9pa6VuK-vwp2BGXgQhYdIduMs2ggXZkxlJmtrkSxffuaobwVKPgK4qzjhp-DsMg1RnkMEAEUm5izhzo2Y1O80vu05OqPHRVeg9TKDxt_N-fcG5gGpX1RZTYYBxJeQKydWnjYj4Y__nCMXtCQvjcTw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4270,
+      "message": "خب، 24 تا agent گذاشتم همزمان ران بشن و یکی یکی دارن اضافه میشن. همه هم روی opencode-mimo رایگان\u003cbr/\u003eخیلی خفن داره میسازه همه رو و پیش میره و یه ریسرچ کامل از کل نت برای من جمع‌آوری می‌کنه واسه کاری که دارم انجام میدم",
+      "date": "2026-07-06T16:16:43Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 8480,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/NKdC-BFaw8oxOkN-2-nVyCnWve0epuTuUmXKpR_KO52VEpRfCr_BSstJF8ZmT5DbpMlehGzlUGoxkVVsJky5_z0uSZCRiJC9Df8gRz5_TxSKQdI15Unu38bBR5q5kGsPQOWJ4PkB-r_YM-gdVrVgWUo-7v9QbBBmvo5YBLn3bxRTdlNyJTTRvozB8hayZw_ZwvAajol8v-4LS2BsMy4c_CkctQontvdL9LTsU2xnpCw1vbfjU59MncB42MoMfhRdnQ8y8unCUc_WzPkTQ1l9zgzKRWG1noP2cEy08RV5J2TwjdgcVK4_EtiHHu7BgzSc9ynIoU_UGJtAzkmYcaFD7w.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4271,
+      "message": "یه جوری داره توکن می‌خوره که واقعا توصیه میکنم همچین کارهایی رو با api پولی و اشتراکای محدود مثل claude pro انجام ندین\u003cbr/\u003eدرود بر چین\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-07-06T16:18:53Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 8010,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/IAO54C-yQ278Uwc8CkgT5J9XyNKIdC9NtWPziziRdxCt83F_xgONtG7v6XTTOfuiEa5Z3bn22j60myHAw51WneNX71MKbU8ddNrk3yG_lt3xgoeL3Z88PHSPjwXUXxVqg0Yn66ArNC8t2rBqxAUPnueomo1l7RcnvSK_bHD6pLH0m7glYYov7qe2ncla-3qbXg90wK9M2F5lIkP0wobmsYympI6iDtC2qD4ze7LIrQfimN9i56LPciPN6Oyq2r1RoawmRhfIvB-_6E_fh6-zCXAebWzHXOtLC9W5Aa2qlnts0WH9qFWg7Kpe5MEBWgOu6uolxJNV7XzikTzqrZPPtg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4272,
+      "message": "توی همین 5 دقیقه شد دو میلیون",
+      "date": "2026-07-06T16:23:22Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7240,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/SQGTluMGxkYSbpqPCsFabXHK4Vgd7a7pbx_-n4YuNyMuvrYFiyZJx8BQr7WGWc5F-F5TqE8LhVHznXQf3RC7zMnXnl7jOXZRpK46wgqZBVFVPKWTB7IS_-Qmc50CoWhnz9lAhRNAC6L27tmvJexm7Xl4JlpP5x_bV_vqtojy9R0gNxd-V7wdraSLjOz_10qdAkZ2F_rd8Ud4NnLlFl_QfNkfznzfZ9gC_w23RL-pH4TaKRx0FXXtW30POSaZcYyJYSZTR5G-kI1qea9TnmdniNlvyyaAH2WivNn4FoxUqogi_UB8XKWenvlrVBwget8lMxlYGI_uvZGviHoZqx5U9w.jpg"
         }
       ]
     }
