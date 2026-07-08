@@ -13,7 +13,7 @@
       "date": "2026-07-08T04:35:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 38800,
+      "views": 45300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -67,7 +67,7 @@
       "date": "2026-07-08T04:44:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 37800,
+      "views": 44300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -79,7 +79,7 @@
       "date": "2026-07-08T05:31:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20500,
+      "views": 30200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -129,7 +129,7 @@
       "date": "2026-07-08T05:33:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20500,
+      "views": 31200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -141,7 +141,7 @@
       "date": "2026-07-08T05:36:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21600,
+      "views": 33400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -159,11 +159,29 @@
       "date": "2026-07-08T05:48:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17200,
+      "views": 31200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "BBCPersian"
+    },
+    {
+      "id": 286023,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BB.png\u0026#39;)\"\u003e\u003cb\u003e🔻\u003c/b\u003e\u003c/i\u003eارتش ایران اعلام کرد مواضع آمریکا درپایگاه شیخ عیسی در بحرین را هدف قرار داده است.\u003cbr/\u003e\u003cbr/\u003eروابط عمومی ارتش می‌گوید این حملات در واکنش به « تهاجم خصمانه دشمن آمریکایی به مناطق نظامی و غیر نظامی در جنوب کشور و نقض مفاد ۱۴ بندی تفاهمنامه» بوده است.\u003cbr/\u003e\u003cbr/\u003eدر بیانیه ارتش آمده است که در این حملات با «پهپادهای هجومی»، «مراکز تجمع نیروهای متخاصم آمریکا» درپایگاه شیخ عیسی هدف قرار گرفته است.\u003cbr/\u003e\u003cbr/\u003eارتش ایران ضمن هشدار درباره «عواقب نقض آتش‌بس» نوشته است «تمام پایگاه‌های آمریکا در منطقه هدف مشروع پهپادهای ارتش» خواهد بود.\u003cbr/\u003e\u003cbr/\u003eحملات ارتش ایران پس از آن انجام شد که ساعتی پیش سپاه پاسداران اعلام کرده بود در واکنش به تهاجم آمریکا به ده‌ها هدف در جنوب ایران به ۸۵ هدف نظامی مرتبط با ایالات متحده در بحرین و کویت حمله کرده است.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/BBCPersian\" target=\"_blank\"\u003e@BBCPersian\u003c/a\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B7.png\u0026#39;)\"\u003e\u003cb\u003e📷\u003c/b\u003e\u003c/i\u003e Iranian Army/Handout/Anadolu Agency via Getty Images",
+      "date": "2026-07-08T06:42:49Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 12900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "BBCPersian",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/q8VHJXyQqBj995Tf13GW0Cb3NTlCEsI7XrOhOZoYpmXmnsIyqWSkFMCXFleCFYJjnBPOr7FywxDfJTJE84z4qSW4QJLPI6vXBBGATLPoXG2Ma1xBVxOGQC7Q5VHbLphe0gi6LiI7ZeMI-WDGzoahlo2VZsE36Dgs3wrDBKnemasRUMQVI2Gv66q_yQZKnYt9uxXNWAHe5It5y0D-1LJO2SfSDfcdWI2L23rP-R0PMrw1cp4rsCU9rlNr2VL57s0ChgSWto_PV1lm6eHGpXqG2-ebwDbHKtvR46R5M_4wKOJxI1Ac4ROaVb1zdy24XWUbMUW-0j5WYCm5bpgRv81I4A.jpg"
+        }
+      ]
     }
   ],
   "last_updated": 0
