@@ -8,254 +8,143 @@
   },
   "posts": [
     {
-      "id": 4280,
-      "message": "اگر روی هرمس برای اتصال به api به مشکل VPN برمی‌خورید، از تکنیک رایگان وصل کردن پروکسی کلودفلر که توی این ویدئو توضیح و انجام دادم استفاده کنید:\u003cbr/\u003e\u003ca href=\"https://youtu.be/Ae8oyaIHi9o\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/Ae8oyaIHi9o\u003c/a\u003e",
-      "date": "2026-07-07T08:08:44Z",
+      "id": 4303,
+      "message": "\u003ctg-emoji emoji-id=\"6008107257907122096\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F90A7.png\u0026#39;)\"\u003e\u003cb\u003e🐧\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e نسخه لینوکس",
+      "date": "2026-07-08T07:59:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24700,
+      "views": 8200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Matin SenPai"
     },
     {
-      "id": 4281,
-      "message": "پیرو ایمیل یکی از بچه‌ها، تست کردم، با موفقیت بدون شماره مجازی و با atomicmail فیک تونستم api key رایگان Nvidia بگیرم:\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eسلام متین خوبی داداش\u003cbr/\u003eمتین به خدا شوخی نمیکنم\u003cbr/\u003eهمه میگن سایت انویدیا برای اینکه Api بده باید شماره مجازی بدی و از این کارا\u003cbr/\u003eمن تو گوگل سرج کردم و هنوز هم شماره مجازی نخریده بودم \u003cbr/\u003e\u003ca href=\"https://build.nvidia.com/settings/api-keys\" target=\"_blank\" rel=\"noopener\"\u003ehttps://build.nvidia.com/settings/api-keys\u003c/a\u003e\u003cbr/\u003eببین دقیقا ادرس هم برات گزاشتم\u003cbr/\u003eتو گوگل سرچ کردم Nvidia Get ApiKey\u003cbr/\u003eبعد سایت اومد بالا ازم ایمیل خواست \u003cbr/\u003eتازه atomicmail وارد کردم ایمیل گوگل هم ندادم\u003cbr/\u003eبعد که وارد کردم منو برد تو یک صفحه ای یک کپچا داشت تایید کردم و رمز عبور خواست اونم اوکی کردم \u003cbr/\u003eبعد گفت نام کاربری رو وارد کن اونم وارد کردم \u003cbr/\u003eمنو مستقیم برد تو صفحه apikey ها و استفاده هم کردم \u003c/blockquote\u003e\u003cbr/\u003eبا تشکر از محمد عزیز. نمیدونم انویدیا وریفای رو برای ایمیل‌های شخصی برداشته یا اینکه کلا برداشته",
-      "date": "2026-07-07T08:17:17Z",
+      "id": 4311,
+      "message": "آخرین نسخه‌های مک-ویندوز-لینوکس",
+      "date": "2026-07-08T07:59:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26500,
+      "views": 8060,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 4312,
+      "message": "",
+      "date": "2026-07-08T08:00:25Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 8109,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 4318,
+      "message": "\u003ctg-emoji emoji-id=\"5303138782004924588\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92AC.png\u0026#39;)\"\u003e\u003cb\u003e💬\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eآموزش قدم به قدم استفاده از اپ CoreForge\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://youtu.be/filwdiPKN90\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/filwdiPKN90\u003c/a\u003e",
+      "date": "2026-07-08T08:06:58Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7130,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 4319,
+      "message": "این هم نسخه‌ی IOS",
+      "date": "2026-07-08T08:07:36Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 8710,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 4320,
+      "message": "نسخه‌های اندروید(اگر نمیدونید کدومه برای پردازندتون، Universal رو دانلود کنید)",
+      "date": "2026-07-08T08:07:55Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 8740,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 4321,
+      "message": "روی اینترنتای خود من به شدت اختلال هست\u003cbr/\u003eهمراه اول که به زور چیزی باز میکنه\u003cbr/\u003eایرانسل 4g+ اما هیچی به هیچی. آپلود 0\u003cbr/\u003eفیبر مخابرات هم از صبح 2 دقیقه وصله 20 دقیقه قطعه",
+      "date": "2026-07-08T08:29:43Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7170,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 4322,
+      "message": "مشکلی در وجودشان وجود دارد. آنها دیوانه هستند.",
+      "date": "2026-07-08T08:33:59Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 6330,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 4323,
+      "message": "",
+      "date": "2026-07-08T08:34:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 6350,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 4324,
+      "message": "The Return of \u003ci\u003eقدرت مذاکره\u003c/i\u003e",
+      "date": "2026-07-08T08:35:37Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5870,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Matin SenPai",
       "media": [
         {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/GaM937gzOlMixdOTm-9aypNdNi9sARbhRAxbCGTUcbIh9OxYzSK2_DNz8Pdwpj6U1Jjrz26_B8aSAsEUpU4q9fnedckozhJtjW1udNc2KPUTXL8qpJIpU5ofwO2pe5KMRfCJLzZ6SH2VBzyfJVTNnuGqRoC2sjco5LIl5fBdoOs6FF9_llxLcLRBYKpbPp8aBqmmmNow1-DkMLTsN9iTkDkBI0A1FmHfNqLvbeH3DOkGIyLfsyiahW6m5gka3pzCJnZGP2qQN1k47WVxiXNIE5emokdp4tsgVp7vWwaA9XrAU-UDjv9gmHlBeGw3eytLuPnyTt4eLTEFAQZpu1U2Fg.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/cLNmMuOycOp1NNs3bu_HZ6jtMSVsYeYHcuVEIWf0BepR1ZPXRPN8XiOoTJyOHuv0zb2ClNPCtWIbuqcuQ9jH9j0C8khBFVugXHvxwogR50l1Ko_TuWMywVGVfyKp1ATuRkCVobQxXhTK7BWdR5jCiF0C0y72lW33VDLpTfFPvFUFtPIV3QmTjQqdlsCnPD7ZLI4xailaGrB4XeE4dZbNRvf3E__vC6sRCl4goSu7Pb7Pk_JqW1MtUzPQrU0V8zMGIsnAIC289j0hlIDjFtdSOc0sM-D2zBxBwyaKNeambk1ez9G9PxjVBBsA3QUamS7OpjmNq7e8VMDZd2gWrDgpuw.jpg"
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/v_JJaeToHMSsn5zplKl7t9l4ylpdoVABb_zzVELrzc4YkV0ajKmkqUTVy1D9xwQ6m-SdUOksvYtabZSDl5VqBvGTqKaUk5EPP88_VWfRyMqRr1poP_HrUwaIHQhL0OMXQpOPK-vv8XeD9OLWKHNIRf8wVUs8ASK3JXCGO6iB5IG4URugPKmxJ3Q20L9P33JLcmWJNx71eXVuOBxTpp34QzTcK5pQJXu5y4EJJKMXM0g6t3vyTS1_Iep1EMpM_0bUeYa6HVJ6Oc-Tpx7iUpWEX9NWv3ha1Fn9faujRG_n3ScKD93vcV1hMkTiLqcyDo9tp41CS11qWZAJZbj_nDHjgA",
+          "width": 640
         }
       ]
     },
     {
-      "id": 4283,
-      "message": "با \u003ca href=\"http://atomicmail.io/\" target=\"_blank\" rel=\"noopener\"\u003eatomicmail.io\u003c/a\u003e برید حتما. یکی از بچه‌ها با ایمیل شخصی خودش رفت باز وریفای خواست",
-      "date": "2026-07-07T08:31:51Z",
+      "id": 4325,
+      "message": "\u003ca class=\"tgme_widget_message_author_name\" href=\"https://t.me/MatinSenPaii\"\u003e\u003cspan dir=\"auto\"\u003eMatin SenPai\u003c/span\u003e\u003c/a\u003e pinned a photo",
+      "date": "2026-07-08T08:35:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23500,
+      "views": 0,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 4284,
-      "message": "توی این ویدئو همینطور استفاده از api nvidia رو توی هرمس و دیگر کلاینت‌ها یاد میدم",
-      "date": "2026-07-07T09:34:56Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 4285,
-      "message": "اگه با docker کار می‌کنید، احتمالاً درگیر زدن پشت‌سرهمِ دستوراتی مثل \u003ccode\u003edocker ps\u003c/code\u003e و \u003ccode\u003edocker logs --tail 50\u003c/code\u003e هستید تا چندتا کانتینر رو همزمان مدیریت کنید. این کار هم خسته‌کننده‌ست و هم ترمینال رو به هم می‌ریزه.\u003cbr/\u003e\u003cbr/\u003eابزار \u003cb\u003eLazydocker\u003c/b\u003e دقیقاً برای حل همین مشکل ساخته شده؛ یه TUI برای داکر و داکر کامپوز که تمام کارها رو با شورت‌کات‌های کیبورد براتون انجام می‌ده.\u003cbr/\u003e\u003cbr/\u003e- \u003cb\u003eبدون switch کردن:\u003c/b\u003e همه چیز از مصرف منابع (RAMو CPU) تا لاگ کانتینرها به صورت زنده توی یه داشبورد یکپارچه نشون داده می‌شه.\u003cbr/\u003e- \u003cb\u003eسرعت بالا با کیبورد:\u003c/b\u003e لاگ دیدن، ری‌استارت کردن یا پاک کردن کانتینرها فقط با زدن یک دکمه کیبورد انجام میشه (بدون نیاز به موس).\u003cbr/\u003e- \u003cb\u003eپشتیبانی کامل از Compose:\u003c/b\u003e سرویس‌های داکر کامپوز رو هم به خوبی می‌شناسه و مدیریت می‌کنه.\u003cbr/\u003e- \u003cb\u003eبدون کانفیگ:\u003c/b\u003e با زبان Go نوشته شده و فقط یه فایل اجرایی باینریه؛ نیازی به نصب سرور یا دیپندنسی اضافه نداره.\u003cbr/\u003e\u003cbr/\u003eو خلاصه این ابزار سرعت کارتون رو چند برابر می‌کنه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/jesseduffield/lazydocker\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eگیتهاب Lazydocker  + آموزش نصبش\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e \u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-07-07T10:53:19Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/OB9a3abgJ1XByMPCWnv8H-PcBFTdLvCpS4_XvVCi-Pz-oF37I8TrOczwigDpXlDYw7EoRFMmZ95G7ibGEKSuu3Mc3oxfEIwQJKuVDCZ6D5VPbu8aiKXxf7QnHx6ECuUaBfkkr6z6i0fpfY0qVjMxKQ5S6seGiVmERe2FM4Pwk74PFmmzbVmUTV6Nt-nTy3bn6VVumrSf_H8tHQg2dkPZkHcpn9iOU6ItBrcoxlYL4_2XcSHPivrSS1n56qRfTekNsePFwkYZCJ5JwEFRMRWy_8CHC-UIoePYOd6cyhYwlwWQueH8knuVpz9xvaFytX3K9rFsCDXQXlYZeaGi5zw3Og.jpg"
-        }
-      ]
-    },
-    {
-      "id": 4286,
-      "message": "هرمس نتونست لینک مقاله‌ای که بهش دادم رو باز کنه به خاطر firewall امنیتی توییتر،\u003cbr/\u003eخیلی راحت با قابلیت Browser که اینجا: \u003ca href=\"https://youtu.be/_30_ng3Hyfs\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/_30_ng3Hyfs\u003c/a\u003e یاد دادم، روی دسکتاپ برام هم عکس‌هاش رو دانلود کرد هم مقاله رو کامل ترجمه کرد:)",
-      "date": "2026-07-07T11:08:52Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/rH-PJqWq_2BodoCNiI8_yXiNnJxvQteUTuaJ5HAC2kwX74V80vM4qIhRjNAJFV0Ms8CQb0g8NG9CzZfIWH-ykSjkhyM7To3oRoeIWQ8G5zyoDBZ2ukrL_GGMP5CoN4B49DdQ-oIv_CLdmbZJsYB0r6G0W1Kor-926DPGdGfyt-cfNny-F9qRTaFbCsMQ7qTG1-t4Eotbx-985oJ-sPQQWkrb1tLLI5BBqNeRMdzlI987MzRWaj6-NYiZBtHaeHI8LQxwpr9eEJZgZ-cxuZNn5TDPiK81rfpuolFsARuxjLQ3TlACXey9vVBfrxemZTGfT53s072mrPi0xuQbuKsQVQ.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/vJv2b_4YQs6xUfyEGTRMv6D0Q9toxRaZ8gDNzGNOjEmWGGAM-LvrgS0zSwGBakU-8zr6TaFbeFT8HNUQOt_c8LVhbmANLi2-Uw58FIOv8RbC9Vzp5YVfsnMgdMB2Z-qvVOXA0zVNbPUQBOshonsppQktmyaCmW1BBiuqJia6DKdXFy90QHxjCPWgojvbiOdYXHgPfVHKMht-SYVM2gXL0LGYqUcHjVODHsvCEYV-rTXUz47rhOs519LSiEqjaJM8eGDP73_qURNQ4yS1yf6YtNiYVIs2yQ-cFKyQbRxwyPpP_LDh_jnYSHtZfuYQTrlMyMDNxC5q2eKuOUdDurN_WQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 4288,
-      "message": "نتیجه‌ی زیبا:",
-      "date": "2026-07-07T11:17:06Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/cIpELbjZ4s03UhcYQQ2i45-Mefcy-2Cler2JhXsB7bdJ7GBze1AUb8TaBvbIWYZkxtDuD615H3JOmvISG_jAr1cTvKfFlRJnJgyt8ladI6SPkLSAdKqTmWef5zA6nLuS7ELJc7R1hCY1hKRX8KL55GHGFmxc02XCBTTm1TktKQEdp4uRgLY6CPMC2adBCDZw6sbaR42J5jACiz71lfRWhK2kagp__Fwoe-bw_dpe5gFOm5UYQfLFkNvh9xTR9YpNAKn8XOVrxxVLejKI09sjFFUQnddpjTZyT70NUiEwsW3dgLX9tJaB2hVxJWClc4aJN2L4hP9Xez9KA_qkUPk8Kw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 4289,
-      "message": "آخرش یا atomic mail ایرانو بن میکنه یا ما atomic mail رو از کل جهان ابیوز میزنیم\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-07-07T11:42:15Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 4290,
-      "message": "چرا هزاران پست سیو می‌کنیم ولی هیچ‌وقت نمی‌خونیمشون؟ \u003ctg-emoji emoji-id=\"5472248119942979457\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA494.png\u0026#39;)\"\u003e\u003cb\u003e🤔\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003eاسم علمی این رفتار \u003cb\u003eDigital Hoarding\u003c/b\u003e (ذخیره‌سازی وسواسی دیجیتال) یا \u0026#34;\u003cb\u003eپارادوکسِ بعدا می‌خونم\u003c/b\u003e\u0026#34; هست.\u003cbr/\u003eاین اصطلاح رو اولین بار \u003cb\u003eVan Bennekom و همکارانش توی سال ۲۰۱۵\u003c/b\u003e و داخل یه مقاله توی مجله‌ی \u003cb\u003eBMJ Case Reports\u003c/b\u003e مطرح کردن؛ اونجا یه مورد بالینی رو توصیف کردن که یه مرد ۴۷ ساله هر روز حدود ۱۰۰۰ عکس روی کامپیوترش ذخیره می‌کرده بدون این‌که هیچ‌وقت سراغشون بره.\u003cbr/\u003eاز اون موقع، این پدیده به یه حوزه تحقیقاتی جدی تبدیل شده. تحقیقات جدیدتر (مثل مطالعه‌ای که سال ۲۰۲۳ توی مجله \u003ci\u003eJournal of Obsessive-Compulsive and Related Disorders\u003c/i\u003e منتشر شد) نشون می‌ده Digital Hoarding با الگوهای شناختی و هیجانی شبیه به اختلال وسواسی-جبری (OCD) و وابستگی هیجانی به اشیاء مرتبطه؛ یعنی حذف‌کردن یه فایل یا پست، همون حس ناراحتی رو ایجاد می‌کنه که دور انداختن یه وسیله فیزیکی.\u003cbr/\u003e\u003cbr/\u003eچرا این اتفاق می‌افته؟\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5472029501812644406\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F91A9.png\u0026#39;)\"\u003e\u003cb\u003e👩\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e هر بار که پست مفیدی رو سیو می‌کنیم، مغز دوپامین آزاد می‌کنه؛ حس «پیشرفت» بدون این‌که واقعاً کاری انجام داده باشیم.\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5417876320761696693\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C88.png\u0026#39;)\"\u003e\u003cb\u003e✈\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e ترکیبی از \u003cb\u003eFOMO\u003c/b\u003e (ترس از دست دادن اطلاعات) باعث می‌شه به‌جای مصرف محتوا، فقط جمعش کنیم.\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5472247900899646367\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A4.png\u0026#39;)\"\u003e\u003cb\u003e💤\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e نتیجه؟ انبار دیجیتالی از Save‌ها و بوکمارک‌ها که عملاً هیچ‌وقت سراغشون نمی‌ریم.\u003cbr/\u003e\u003cbr/\u003eچندتا راهکار عملی:\u003cbr/\u003e\u003cb\u003eقانون 5 دقیقه\u003c/b\u003e: اگه محتوا کمتر از 5 دقیقه وقتتونو می‌گیره، همون لحظه بخونید؛ وگرنه رهاش کنید.\u003cbr/\u003e\u003cb\u003eسقف هفتگی\u003c/b\u003e: حداکثر ۵ تا ۱۰ آیتم توی یه هفته سیو کنید تا تلنبار نشن.\u003cbr/\u003e\u003cb\u003eدسته‌بندی و پاک‌سازی دوره‌ای\u003c/b\u003e: هر چند وقت یه‌بار Saved items رو مرور و پاک‌سازی کنید.\u003cbr/\u003eاگه واقعاً مهمه، به‌جای سیو کردن، همون لحظه یادداشت بردارید یا اجراش کنید.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-07-07T12:46:54Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/ghTuKw8pNkg3LkSsFxcPGm5aKmNK5SZKevFEvatxgMZ7irfKliPEkg8ai6bfezUOxnoVWUaA_6wZ6bIcT64BcgezLt0b5sGMZGOchpsSdAFE-XnB3zFS32ceABXL2nliRXZX94ASF0XtF9CP_qoUUJjw9gaIunGJvAIgKwMtNGEAfOJ5-gK4MlzhU-Q202XrYQXXmtk_Jpmd-Mer0-KxSY23TsylOcJoH8JgrN2LtsBSg7XddwRIyTANvs-7-TZfzT7O_EMO89Bg6ztf2iCORrST--Fe8ObMKhiPRbZfUsuRz0VpY05dh4QtfSdeN7g0WgeZiZIp0em5KvhKNZs2Fw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 4291,
-      "message": "دیروز و پریروز می‌خواستم ویدئو بذارم، اما با اینکه موضوعات زیادی دارم برای ویدئو ساختن، حس کردم که کمی عجولانه‌ست و تایم گذاشتم که هم خودم کمی بیشتر با ابزارها کار کنم، هم وقت داشته باشم برای مطالعه‌ی شخصی که محتوای باکیفیت‌تری ارائه بدم. برای همین تا وقتی حس نکنم کافیه، ویدئوی جدیدی منتشر نمی‌کنم\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-07-07T13:08:07Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 4292,
-      "message": "این قضیه‌ی اتمیک میل هم جالبه. من برای اولین ویدئوی BPB که بهمن ماه ساختم، حدود یک روز وقت گذاشتم و تحقیق کردم ببینم الان که می‌خوام ویدئو بدم، چه سرویس ایمیلی هست که نه کلودفلر بهش گیر بده، نه محدودیت داشته باشه؟\u003cbr/\u003eکلی سایت بررسی کردم، از پروتون میل و سایت‌های رسمی بگیر، تا سایت‌های درب و داغون و temp mail و...\u003cbr/\u003eو هر کدومشون یه اشکالی داشتن. یکی محدودیت داشت، یکی شماره تلفن خارجی میخواست، یکی پولی بود، یکیو کلودفلر قبول نمیکرد.\u003cbr/\u003eتا آخرش که ناامید شده بودم، توی Reddit دیدم یه نفر Atomic mail رو منشن کرده\u003cbr/\u003eو رفتم دیدم همینیه که می‌خوام\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9881.png\u0026#39;)\"\u003e\u003cb\u003e😁\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-07-07T13:22:51Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 4293,
-      "message": "\u003cb\u003eزبان برنامه‌نویسی Cyrus(کوروش) چیست؟\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eسایروس یک زبان برنامه‌نویسی متن‌باز و جدید است که برای ساخت نرم‌افزارهای زیرساختی و سیستمی طراحی شده؛ یعنی همون نوع نرم‌افزارهایی که نزدیک به سخت‌افزار کار می‌کنن و به سرعت و کنترل دقیق نیاز دارن (مثل سیستم‌عامل، درایور، یا ابزارهای زیرساختی).\u003cbr/\u003eفلسفه اصلی سایروس این است: هیچ اتفاقی پشت پرده و بدون اطلاع برنامه‌نویس نیفتد. یعنی کد باید همیشه روشن و قابل پیش‌بینی باشد و برنامه‌نویس دقیقاً بداند هر خط کد چه کاری انجام می‌دهد، بدون رفتارهای پنهان یا پیچیدگی‌های اضافه.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eچند ویژگی مهم سایروس:\u003c/b\u003e\u003cbr/\u003e\u003cb\u003eبدون گاربیج کالکتور\u003c/b\u003e: بر خلاف خیلی از زبان‌های مدرن (مثل پایتون یا جاوا) که حافظه رو خودکار مدیریت می‌کنن، سایروس این کار رو به خود برنامه‌نویس می‌سپارد. این یعنی کنترل کامل و دقیق‌تر روی مصرف حافظه، که برای نرم‌افزارهای سریع و حساس خیلی مهمه.\u003cbr/\u003e\u003cb\u003eکامپایل مستقیم به کد ماشین\u003c/b\u003e: سایروس از فناوری معروف و قدرتمند LLVM استفاده می‌کند تا کد رو قبل از اجرا به‌طور کامل به زبان ماشین تبدیل کند؛ نتیجه‌اش برنامه‌ای سریع و بدون واسطه است.\u003cbr/\u003e\u003cb\u003eسازگاری استاندارد با سیستم‌عامل‌ها\u003c/b\u003e: طوری طراحی شده که به‌راحتی با نحوه‌ی کار سیستم‌عامل‌های رایج هماهنگ باشد.\u003cbr/\u003e\u003cb\u003eسینتکس ساده و مینیمال\u003c/b\u003e: تلاش شده که نوشتن و خواندن کد تا حد امکان ساده و بدون ابهام باشد.\u003cbr/\u003e\u003cb\u003eقابلیت‌های پیشرفته بدون هزینه اضافه\u003c/b\u003e: مثل ژنریک‌ها (نوشتن کد قابل استفاده مجدد برای انواع مختلف داده) و چندریختی (Polymorphism)، بدون این‌که سرعت اجرای برنامه رو کند کنند.\u003cbr/\u003e\u003cb\u003eساخت افزایشی (Incremental Build)\u003c/b\u003e: یعنی موقع تغییر کد، فقط بخش‌های تغییر‌کرده دوباره کامپایل می‌شوند، نه کل پروژه؛ این باعث سریع‌تر شدن فرآیند توسعه می‌شود.\u003cbr/\u003e\u003cbr/\u003eهدف کلی سایروس این است که زبانی باشد نزدیک به سخت‌افزار و ماشین، اما بدون این‌که خوانایی و سادگی کد قربانی شود.\u003cbr/\u003e\u003cbr/\u003eاین پروژه هنوز در حال توسعه است و به‌تازگی نسخه بتا (Beta) آن منتشر شده. اگر دوست دارید بیشتر بدانید، امتحانش کنید، یا در توسعه‌اش مشارکت کنید:\u003cbr/\u003eمستندات: \u003ca href=\"https://cyrus-lang.ir/en\" target=\"_blank\" rel=\"noopener\"\u003ehttps://cyrus-lang.ir/en\u003c/a\u003e\u003cbr/\u003eگیت‌هاب: \u003ca href=\"https://github.com/cyrus-lang/Cyrus\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/cyrus-lang/Cyrus\u003c/a\u003e\u003cbr/\u003eکامیونیتی: \u003ca href=\"https://t.me/cyrus_lang\" target=\"_blank\"\u003e@cyrus_lang\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-07-07T15:05:58Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/DxxDcRKgv1oSd2d92WQbVewur_aEEceH_VbwgMdpCpcDitZI61lN2_Tm0IJ7CKSOwSmmG0audjwoRxuOL0P2aAZ9beKeHupQg01xfvkKMUOJxz0WuVScmpTHxfFWt9WCyH3EQrghMxyW80_JaBRezVpD7qDfvKv5lLI7JnMfp1VNqNH7OgeirDNRE0OtzigWBRFA1v6lOYCn5cyLpV8xBlxASayJR5vbWFW-NPk-3cNHvLgLWsnw59oX1K8jipddUbwLkRUEGSHSyDAizohn94vxPaxna1WYycN8_nbIDKoOyEcAgVbxv-e_kACbysGAXUmML2ulh9mzRQLCuOllFA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 4294,
-      "message": "اگر میمو روی اوپن کد بهتون ارور ۴۲۹ داد که به لیمیت رایگان رسیدید، نترسید. یه continue بگید دوباره میره ادامه:)",
-      "date": "2026-07-07T17:20:30Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 4295,
-      "message": "نکته‌ی بعدی:\u003cbr/\u003eبدون vpn + proxifier به خیلیا این ارور رو میده\u003cbr/\u003eکه توی ویدئوی whitedns آموزش خود پروکسیفایر و کرک کردنش و استفاده ازش رو دادم",
-      "date": "2026-07-07T18:00:53Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 4296,
-      "message": "یه مقاله از نیویورک تایمز(با اینکه ازشون خوشم نمیاد) دیدم که توی هکرنیوز بحث‌برانگیز شده. داستان در مورد اینه که با پیشرفت سریع مدل‌های زبانی، مهارت‌های کسایی که فلسفه خوندن، چطور توی بحث‌های اخلاقی هوش مصنوعی و Alignment مدل‌ها داره به شدت کاربردی می‌شه. و انگار یه بازار کار جدید داره برای این رشته شکل می‌گیره =)\u003cbr/\u003eلینک مقاله: \u003ca href=\"https://www.nytimes.com/2026/07/05/business/philosophy-majors-ai-jobs.html\" target=\"_blank\" rel=\"noopener\"\u003ehttps://www.nytimes.com/2026/07/05/business/philosophy-majors-ai-jobs.html\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-07-07T19:50:59Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 4297,
-      "message": "\u003cb\u003eوقتی هزینه‌ی هوش مصنوعی از حقوق مهندس هم بیشتر می‌شه\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eخلاصه:\u003cbr/\u003e\u003cblockquote\u003eشرکت «آنتروپیک» (Anthropic) حدود ۲.۳ برابرِ پولی که بابت حقوق و دستمزد می‌ده، خرج زیرساخت و پردازش (Compute) می‌کنه! یعنی با حساب حقوق سالانه ۲۲۴ هزار دلاری (با احتساب تمام مزایا)، سالی ۵۱۵ هزار دلار به ازای هر مهندس خرج پردازش می‌کنه. در حالی که ۱ درصد از برترین شرکت‌های نرم‌افزاری فقط ۸۹ هزار دلار و شرکت‌های میانه بازار (میانه آماری)، کلاً ۱۳۷ دلار خرج می‌کنن. حالا ۳ تا سناریو برای سال ۲۰۲۹ داریم که نشون می‌ده این شکاف عمیق چطوری ممکنه پر بشه. \u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003eهمونطور که اشاره شد، آنتروپیک ۲.۳ برابر حقوق پرسنلش، در حال حاضر داره خرج زیرساخت و پردازش می‌کنه. با حدود ۵,۰۰۰ تا کارمند و تقریباً ۱۰ میلیارد دلار هزینه‌ای که توی سال ۲۰۲۶ برای آموزش مدل و استنتاج (Inference) می‌کنه، سهم هر کارمند سالی حدود \u003cb\u003e۲ میلیون دلار\u003c/b\u003e هزینه پردازشی می‌شه؛ اونم در مقابل حقوق و مزایای کلانی که برای هر نفر احتمالاً بالای ۵۰۰ هزار دلاره!\u003cbr/\u003eبقیه بازار نرم‌افزار خیلی از این رقم‌ها عقب‌ترن. ۱ درصد از برترین شرکت‌ها سالی ۸۹ هزار دلار به ازای هر مهندس روی هوش مصنوعی خرج می‌کنن؛ یعنی ۴۰ درصد از یک حقوق ۲۲۴ هزار دلاری برای یک مهندس ارشد. این رقم برای شرکت‌های میانه بازار فقط ۱۳۷ دلاره! اختلاف فاحش اینجاست:\u003cbr/\u003e\u003cb\u003e۲.۳ برابر حقوق\u003c/b\u003e در لبه‌ی تکنولوژی\u003cbr/\u003e\u003cb\u003e۰.۴ برابر حقوق\u003c/b\u003e در صدر بازار\u003cbr/\u003e\u003cb\u003eنزدیک به صفر\u003c/b\u003e برای شرکت‌های معمولی بازار\u003cbr/\u003e\u003cbr/\u003eحالا بقیه‌ی بازار چقدر می‌تونن خودشون رو به این سطح برسونن؟ جواب این سوال توی ۳ تا سناریو خلاصه می‌شه.\u003cbr/\u003e\u003cbr/\u003e\u003ci\u003e(توضیح نمودار خطی(عکس سوم): نمایش سه سناریو برای هزینه‌های هوش مصنوعی به عنوان درصدی از حقوق مهندسان تا سال ۲۰۲۹؛ در سناریوی خوش‌بینانه، این رقم به رکورد ۲۳۰ درصدی آنتروپیک می‌رسه)\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eسناریوی بدبینانه (کاهش قیمت توکن‌ها برنده می‌شه)، سناریوی پایه (رشد ۱ درصد برتر بازار کند می‌شه)، سناریوی خوش‌بینانه (بقیه بازار تا سال ۲۰۲۹ به نسبتِ هزینه آنتروپیک می‌رسن). هر کدوم از این سناریوها، هزینه سالانه هوش مصنوعی به ازای هر مهندس رو نشون می‌دن(عکس دوم)\u003cbr/\u003e\u003cbr/\u003eتوی سناریوی خوش‌بینانه، فقط هزینه هوش مصنوعی به ازای هر مهندس، با کل درآمدی که یه کارمند توی شرکت‌های معمولی SaaS تولید می‌کنه برابری می‌کنه! همین الانش هم شرکت‌های آنتروپیک و اوپن‌ای‌آی به ترتیب ۱۴ میلیون دلار و ۶.۵ میلیون دلار به ازای هر کارمند درآمد دارن، که بالاترین رقم توی لیست ۲۰۰۰ شرکت برتر فوربز (Forbes Global 2000) به حساب میاد.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eساختار هزینه‌ها، دقیقاً جا پای ساختار درآمدها می‌ذاره.\u003c/b\u003e\u003cbr/\u003e\u003cb\u003eموتورهای محرک توی سناریوی خوش‌بینانه:\u003c/b\u003e قیمت مدل‌های پیشرفته ثابت می‌مونه، چون هزینه‌های آموزش به ثبات می‌رسه و تقاضا از عرضه جلو می‌زنه. فرآیندهای کاری مبتنی بر ایجنت (Agentic Workflows) نسبت به چت‌های معمولی، چند سر و گردن توکن بیشتری مصرف می‌کنن؛ طوری که «گلدمن ساکس» پیش‌بینی می‌کنه مصرف توکن تا سال ۲۰۳۰ حدود ۲۴ برابر بشه. تازه، اگه شرکت رقیب قابلیت‌های جدید رو سریع‌تر عرضه کنه، دیگه پرداخت صورت‌حساب هوش مصنوعی یه انتخاب نیست، بلکه یه اجبار حیاتیه.\u003cbr/\u003e\u003cb\u003eترمزها در سناریوی بدبینانه\u003c/b\u003e: قیمت توکن‌ها توی سه سال گذشته، هر سال ۱۰ برابر کاهش پیدا کرده. مدل‌های متن‌باز (Open-weight) دارن با کسری از هزینه‌ها، شکاف کیفی رو پر می‌کنن. از طرفی شرکت‌هایی که مصرف هوش مصنوعی رو بر اساس نقش یا حجم کاری کارمندان سهمیه‌بندی می‌کنن، می‌تونن شیب این نمودار هزینه رو خم کنن و کاهش بدن.\u003cbr/\u003e\u003cbr/\u003eنظر شخصی: اصلا نمیشه پیش‌بینی کرد:) با اومدن ایجنت‌ها، سناریوی توکن داره مطرح میشه. از اون طرف، چین غوغا کرده و با رایگان عرضه کردن مدل‌هایی مثل MIMO و GLM-5.2، واقعا نمی‌تونم نظر بدم.\u003cbr/\u003e\u003cbr/\u003eمنبع مقاله: \u003ca href=\"https://tomtunguz.com/ai-spend-breakeven-2029/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://tomtunguz.com/ai-spend-breakeven-2029/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-07-07T20:36:42Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/r8IbrQSI_mPeHO7U-tlXHFaKsZqIIIpkyM5KkPkD6MgLnhTpH5F-UNyMfBELHp2GykwAosoeHyvUQCSdJ7CtpY4Uv8kCLS-rECYXdD58MJgRfWDqKqYUq0sIZ3vvGLqbqH8xzRizGXXQY8ZdZWMhzZJsflhLIjkTsoM2UgCu-cbnrbDC7Xi32PbaOx8Rs5E4ATW1TLu7soQnNZ6F30zVkpDtYIfqCvVta1vDgmt5IGC57GD560LlvvefhKR16xIhWLLPVcp641FkRDyh25ThwSg_cASk4k813Pr5Fow5eqCQ1MNc60KkEnGX5cwOgeMuEf3qP59c31Vsqwu8YMjhRg.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/AsOTT195xrjIF0ruuGjivrbTkln0sW5YYVunV2WQwgBzrOwJBZdt5y1uMByuJtZ6Q-KZMwn8oTup8fiAKHlvBK3_RQ5Of3GxDFk7xUw304rJc_N0tdM6hcich_63ppal7jVSNT20mDF9Y1NBsqzO-tW8eUZ3K_uLE52zB9Aecvuw76YZW2b9daKbi1gOK_xVchm9tDohY4VTLgITj7KiAm3KHVi6diw2c3qpFUBARja4WTuRsxdsxgcPvMkkx_k284uleGQbM9YertBnr6g0KMM81qBotUfz7Gs3W28i_gMnKr3Bf2jld40uzK5olkMTBWPaJ2Rko2l3Z1yobJOiFw.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/pbh5UdrLIvgmJdeZabN1UDIryEC9ZhugIWzony4bEHecQj42k2HYxgQyRUxwUAlJ7hRv2yqlppRPbBQbcZJ4ZteOHhr4BcXLUEAsmVprxSzw5AVqBdIn_QXFlruhdZtPo3NiGDOpuWYHqJj4P6svAu38VoO2VGLi3O0K2JsLnteeiairnW60QNV0kwxOw_ORqTIWkf4xMGMk5d3HcxSyvc4NzM-Ul0v7uqThN8N44iTh81Agt6M2AF5hav071jV7Oj9N_Pb0Ed9FJ88q4TuHaYzqN2gXdwEhzT8KQGgOkXVR3W_mvZfHgcrxEopu3_llIibAmEYel_nlWSTn1_ZaIg.jpg"
-        }
-      ]
     }
   ],
   "last_updated": 0
