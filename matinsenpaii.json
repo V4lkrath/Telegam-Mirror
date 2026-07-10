@@ -8,34 +8,12 @@
   },
   "posts": [
     {
-      "id": 4338,
-      "message": "این پایین روی بخش api key بزنید، بهتون کلید رو میده.\u003cbr/\u003ebase url :هم که\u003cbr/\u003e\u003ca href=\"https://inference.dahl.global/v1\" target=\"_blank\" rel=\"noopener\"\u003ehttps://inference.dahl.global/v1\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eببینید kimi 2.6 و minimax 2.7 اونقدرا مدلای خفنی نیستن، اما برای تسک‌های روزانه و هرمس و... مناسبن\u003cbr/\u003eگویا qwen هم می‌خواد اضافه کنه",
-      "date": "2026-07-09T09:56:56Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/vnOfXfpyt2hQmRa62UeN_6b4AmD2D1hB648ve1n8qixjbU0Latx0GHuOqc8A5EyWguqvZ5IsIAZmdQIPrF91TbP3vKft3vWIXWDUtTMdHxn1c3NcmRN81cBAz0HhRmPLjnzJdJCtj0TXvMm1HaTkJ0hafAcHZ7pQ_aDxajEOm_tvcIcrRyJGuuaeLmNceQfQ-gwFFJT5t8H46htKj4l11XLNQRP0h9Ev7heVdbvKirxONgZMu1fjaVn2wNrD_bGdRwHCqDmFsnH3KjKmGP-yTWZF340g2vb7kNMGHbdNNOvYuK9rwSN89h_9wnDnQ5jvImttRdCkFu24YDuCM9GbEw.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/SOoHO_wtBxg99VfBCREQwxyFoYwqcLAbiOV0kY5nqKrbmIRgXCd5SmT1GSYBpr-iHtcIOW_NbA1gKi9iSyeSU0Ga-FtJehfiG-zuSD3Eg_1_vXu4ldWylxGYCbKAK89GONEmddVNhUrXTv-2xhv5vvfngcVI8QAsfjkpWIZ10JC8IYsNOfesBZ_0n6s4kUHUce9R1tJVzdUigTAxqEtsoFp4bnJGK6prGs6vW38KsJF8v1gmdN94vqr7QHgWkJHzRukqTZJ7lUM85dsjw3zWAsWnywX5DIteYoiQcr1uGqsqn93RoglnL5rvwjt2S4ELHMkFtYx-JEp30F_2_nRyvw.jpg"
-        }
-      ]
-    },
-    {
       "id": 4340,
       "message": "\u003ca href=\"https://www.alecscollon.com/blog/llm-burnout/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eاحتمالاً من دچار \u0026#34;فرسودگی LLM\u0026#34; (LLM Burnout) شدم!\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eنویسنده‌ی این مقاله (الک سکولن) یه توسعه‌دهنده‌ست که می‌گه مصرفش از هوش مصنوعی در حد استانداردهای الان کاملا معمولیه، اما اخیراً یه حس خیلی عجیبی بهش دست داده: \u003cb\u003eخستگی مفرط از خوندن متن‌های تولید شده توسط هوش مصنوعی!\u003c/b\u003e \u003ca href=\"https://www.alecscollon.com/blog/llm-burnout/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cbr/\u003e\u003cbr/\u003e\u003c/a\u003e\u003cblockquote expandable=\"\"\u003eروند کارش این‌طوری شده که دیگه خودش از صفر کد نمی‌نویسه؛ طراحی می‌کنه، طراحیش رو به Claude یا Codex می‌ده، کدهای اونا رو می‌خونه و ریویو می‌کنه. علاوه بر این، روی پروژه‌ای کار می‌کنه که کدهای تولید شده توسط Qwen رو باید مداوم بررسی کنه. یعنی عملاً کل روزش با خوندن خروجی‌های AI می‌گذره. حتی برای سرچ‌های روزمره‌ش هم از ChatGPT و Gemini استفاده می‌کنه.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eحالا مشکل کجاست؟\u003c/b\u003e\u003cbr/\u003eاعتراف می‌کنه که با این ابزارها خیلی بهره‌ورتر شده و قصد نداره کنارشون بذاره، اما تو چند ماه اخیر، یه بخش کوچیکی از وجودش از دیدن خروجیِ مدل‌ها وحشت داره! چرا؟ چون دقیقاً می‌دونه قراره چی ببینه:\u003cbr/\u003eفرضیات غلط، توهمات (Hallucinations)، جملات بریده‌بریده‌ی اغراق‌آمیز، و \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29CA8.png\u0026#39;)\"\u003e\u003cb\u003e✨\u003c/b\u003e\u003c/i\u003e استفاده‌ی بیش‌از‌حد از ایموجی‌ها \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e. \u003cbr/\u003e\u003cbr/\u003eنکته‌ی جالب اینجاست که می‌گه انسان‌ها هم اشتباه می‌کنن و می‌تونن رو اعصاب باشن، اما مشکلِ اصلی با هوش مصنوعی \u003cb\u003eتکراری بودنشه\u003c/b\u003e. مدل‌های زبانی دقیقاً با یک لحنِ واحد می‌نویسن و دقیقاً یک‌جور اشتباه می‌کنن. سر و کله زدن با یک سبکِ کاملا یکسان و اشتباهات تکراری، اونم به صورت هر روزه، کلا فرسوده‌ش کرده.\u003cbr/\u003e\u003cbr/\u003eاین دقیقاً نشون می‌ده که با وجود تمام شخصی‌سازی‌ها (Personalization) و پرامپت‌ها، هنوز هم اون امضای پنهان و سبک خاصِ هوش مصنوعی از زیر دستمون در میره و وقتی تو طولانی‌مدت باهاش درگیر بشید، می‌تونه حسابی روی مختون بره!  \u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
       "date": "2026-07-09T11:23:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32100,
+      "views": 32200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -47,7 +25,7 @@
       "date": "2026-07-09T11:52:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32299,
+      "views": 32500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -55,7 +33,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/nYMk5ADsiEdTCtsFgaC3fPQXdr_slosakQZunDBCxzzxPLx_TQxIJodngaKoAYQLIdffSAZJJk-rbVlbyjPKtSDEy0zK-nVUAXyvQuZjaeMEduB_z1tQWk1uexNX4U4Uv_aeroXjNzoGElkMteCHfuShtcV3-v95ogwEYNtrMxY1vP_qX-07eZQ8G6-b93xQ7L_nneecLgUIHE1ycf2w9Wyx_qTIL7UzvzmgIJqawCdgd9w5dnzVmveCSV5LcC6nkg67lovlHpqkMLVJcWIrOH4msKllTun1REg8rOr_U2p8l6gCbLx75u865LpGilE03G3auDIykeQO9EA3A9Njyg.jpg"
+          "url": "https://cdn1.telesco.pe/file/poquuoy_SvTSqG2U-m8W_OyR3YXPV32hgn0cOnmQgLHZr1k1Gh8OUh7-wWygWwCNwOFgvdw6LZ8ykWR-KygcVM5Z7o_glmfZAa9mFeHIsjV_S6zOgErS2I1FBaEv2mmrlLPG7pBAnUwqcghZfkNcbJlbRvDTScxgR_4g4SKlpa7CWMCt783RZ1FNl14p93RxbIoL6_YKF0t85ISGxJfkGLJykMPfYmzggKmg8bfbTrWR6Yk2h-gnBxl5z_gGqTWRA6yQFwKyO4sBbyQyv7x-yVcHIfqe2jIoxJ2LBSnVCbXk3dSmWSVf5OdNb6A734EGA8BfyDV7aVSwpEyPkidk9w.jpg"
         }
       ]
     },
@@ -65,7 +43,7 @@
       "date": "2026-07-09T12:53:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32400,
+      "views": 32700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -84,7 +62,7 @@
       "date": "2026-07-09T13:04:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29700,
+      "views": 30000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -96,7 +74,7 @@
       "date": "2026-07-09T17:26:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22400,
+      "views": 22800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -114,7 +92,7 @@
       "date": "2026-07-09T18:04:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27500,
+      "views": 27900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -126,7 +104,7 @@
       "date": "2026-07-09T18:12:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27300,
+      "views": 27700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -138,7 +116,7 @@
       "date": "2026-07-09T18:30:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27000,
+      "views": 27400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -150,7 +128,7 @@
       "date": "2026-07-09T18:30:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29100,
+      "views": 29600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -168,7 +146,7 @@
       "date": "2026-07-09T19:49:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27500,
+      "views": 28000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -180,7 +158,7 @@
       "date": "2026-07-09T20:54:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25800,
+      "views": 26400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -192,7 +170,7 @@
       "date": "2026-07-09T20:58:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25400,
+      "views": 26100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -204,7 +182,7 @@
       "date": "2026-07-09T21:19:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23900,
+      "views": 24700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -216,7 +194,7 @@
       "date": "2026-07-09T21:31:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21300,
+      "views": 22200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -235,7 +213,7 @@
       "date": "2026-07-10T02:27:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20300,
+      "views": 21900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -247,7 +225,7 @@
       "date": "2026-07-10T03:21:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20000,
+      "views": 21700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -266,7 +244,7 @@
       "date": "2026-07-10T07:03:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14700,
+      "views": 17000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -284,7 +262,7 @@
       "date": "2026-07-10T09:28:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9010,
+      "views": 12700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -302,11 +280,29 @@
       "date": "2026-07-10T09:29:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9230,
+      "views": 13000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 4359,
+      "message": "اگه با ایجنت‌های کدنویسی کار کرده باشید، می‌دونید که بزرگ‌ترین مشکلشون Over-engineering کردنه. یعنی مثلاً برای یه تقویم ساده که با یه تگ HTML حل می‌شه، میرن یه کامپوننت ۴۰۰ خطی با نصب کلی پکیج اضافه می‌نویسن\u003ctg-emoji emoji-id=\"5472113318099427332\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F98B3.png\u0026#39;)\"\u003e\u003cb\u003e😳\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003eابزار \u003cb\u003ePonytail\u003c/b\u003e (که الان به شدت تو کامیونیتی وایرال شده) دقیقاً یه پلاگین برای حل همین مشکله. این ابزار باعث می‌شه ایجنتتون مثل همون برنامه‌نویس‌های سینیورِ تنبل شرکت که حوصله‌ی کدِ اضافه نوشتن ندارن، رفتار کنه\u003ctg-emoji emoji-id=\"5472435535135907118\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9984.png\u0026#39;)\"\u003e\u003cb\u003e🙄\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003eشعار این ابزار اینه:\u003cbr/\u003e«هیچی نمی‌گه. فقط یه خط کد می‌نویسه. همونم کار می‌کنه.»\u003cbr/\u003e\u003cbr/\u003eچطور کار می‌کنه؟\u003cbr/\u003eقبل از اینکه ایجنت حتی یک خط کد بنویسه، مجبورش می‌کنه این نردبان رو تو ذهنش طی کنه:\u003cbr/\u003e- اصلاً این فیچر نیازه؟ (قانون YAGNI) اگه نه، بی‌خیالش شو.\u003cbr/\u003e- آیا توی کدهای فعلی پروژه قبلاً نوشته شده؟ اگه آره، همون رو ری‌یوز کن.\u003cbr/\u003e- کتابخونه‌های استاندارد خود زبان می‌تونن حلش کنن؟\u003cbr/\u003e- آیا مرورگر یا سیستم‌عامل خودش اینو داره؟ (مثل استفاده از \u003ccode\u003e\u0026lt;input type=\u0026#34;date\u0026#34;\u0026gt;\u003c/code\u003e به جای نصب پکیج).\u003cbr/\u003e- آیا پکیجی که از قبل تو پروژه نصبه این کارو می‌کنه؟\u003cbr/\u003e- می‌شه توی یه خط نوشتش؟\u003cbr/\u003e- فقط در نهایت: حداقل کد ممکن رو بنویس.\u003cbr/\u003e\u003cbr/\u003eطبق بنچمارک‌ها، این ابزار حجم کدها رو ۵۴ تا ۹۴ درصد و مصرف توکن‌ها رو ۲۷٪ کاهش می‌ده. البته اینم بگم که تو مباحث امنیتی و Validate کردن اصلاً تنبلی نمی‌کنه و امنیتش ۱۰۰ درصده\u003ctg-emoji emoji-id=\"5382355635553739365\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D8C.png\u0026#39;)\"\u003e\u003cb\u003e❌\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003eآموزش نصب روی ابزارهای مختلف:\u003cbr/\u003e\u003cblockquote expandable=\"\"\u003e\u003cb\u003eتوی Claude Code\u003c/b\u003e\u003cbr/\u003eکافیه دو تا دستور زیر رو جداگانه توی پرامپت بنویسید:\u003cbr/\u003e/plugin marketplace add DietrichGebert/ponytail\u003cbr/\u003e/plugin install ponytail@ponytail\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eتوی هرمس (Hermes Agent)\u003c/b\u003e\u003cbr/\u003ehermes plugins install DietrichGebert/ponytail --enable\u003cbr/\u003eبعد از نصب می‌تونید با دستوراتی مثل /ponytail یا /ponytail-review کنترلش کنید.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eتوی Cursor، Cline و دیگر\u003c/b\u003e ide ها\u003cbr/\u003eنیازی به پلاگین نیست. کافیه فایل رول‌ها (مثل .cursor/rules/\u003ca href=\"http://ponytail.md/\" target=\"_blank\" rel=\"noopener\"\u003eponytail.md\u003c/a\u003e) رو از گیت‌هابش دانلود کنید و بندازید توی پوشه‌ی پروژه‌تون.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eتوی GitHub Copilot CLI\u003c/b\u003e\u003cbr/\u003e/plugin marketplace add DietrichGebert/ponytail\u003cbr/\u003e/plugin install ponytail@ponytail\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eتوی Gemini CLI (Antigravity)\u003c/b\u003e\u003cbr/\u003eagy plugin install \u003ca href=\"https://github.com/DietrichGebert/ponytail\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/DietrichGebert/ponytail\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003eلینک ابزار: \u003ca href=\"https://ponytail.dev/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ponytail.dev/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
+      "date": "2026-07-10T11:03:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 6720,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/AWy8_ig4PFTx7ENI_NEAn2bR5nD2DAxMNwc7Iex-2MPKjeRyc0tmsSV5scKbtpQK5LXo3-o_kRd5JxlKBA6G4gYZVbFWm5uoLdCWGNfghTAta-QgYlr3fGQmMmyH4soad70IqfWHp1NkSqlzuVghSrR5arFLYC6dkeXjEEzw-jTGokUB8o4hYOGaPSaaVFlSFJmVPsOzClmtpea7Vd9kqmTiSh-eCjk8YAUI9jO7J8nyINYh6fBiTmzJWssFcfdoOEOVsthzFhdjdtnmsq9pD0JL0h8Lir7mdOIKHukZJDazfEqEg_i4-H96QPLh-q3EzUcS1klZM21K1Z7zI8lMPA.jpg"
+        }
+      ]
     }
   ],
   "last_updated": 0
