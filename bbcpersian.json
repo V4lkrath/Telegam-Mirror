@@ -13,7 +13,7 @@
       "date": "2026-07-10T06:15:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 62700,
+      "views": 64099,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -67,7 +67,7 @@
       "date": "2026-07-10T07:10:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 60200,
+      "views": 62300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -79,7 +79,7 @@
       "date": "2026-07-10T07:22:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 64500,
+      "views": 66900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -91,7 +91,7 @@
       "date": "2026-07-10T09:00:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 55500,
+      "views": 58200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -103,7 +103,7 @@
       "date": "2026-07-10T10:30:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 38300,
+      "views": 42600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -115,7 +115,7 @@
       "date": "2026-07-10T10:39:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 38300,
+      "views": 42200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -133,7 +133,7 @@
       "date": "2026-07-10T11:28:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26600,
+      "views": 32500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -179,7 +179,7 @@
       "date": "2026-07-10T11:31:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28800,
+      "views": 36000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -198,7 +198,7 @@
       "date": "2026-07-10T11:49:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25000,
+      "views": 33200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -207,6 +207,25 @@
         {
           "type": "photo",
           "url": "https://cdn4.telesco.pe/file/P07xue3RBdGg3S7gDX5HQ7SrJX7LRk7AuxQyZxuOEGc5K12oyk1qyjmP4DvBoj-YQHLY3DgMa9ADJ65B7WODLAznW8W73XhYv8PrvK_2uvMy-EJh6ZM-rqYUPBc4lJlebbZ_qkIEJ_xoUSzbATGJR9ZsaweD8tpV2nk66gOT8EnxmmlrN3Jox3FKJ0j-JRIkRPVUKonVraHBhtXCYxlfKyjK5v6y1o2Rhc9kxKERTJ4Ve0XbAt20scVN6C3jPgP10HOtN135hynxu7BnippMxaZIpFYKMc4f9R4A50khFdMvrWbiuj_k-Vy_rwM8ixce0eMFYuo57H6OdUpPIE2yjg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 286258,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BB.png\u0026#39;)\"\u003e\u003cb\u003e🔻\u003c/b\u003e\u003c/i\u003eسرخط خبرهای جمعه ۱۹ تیر ۱۴۰۵\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/BBCPersian\" target=\"_blank\"\u003e@BBCPersian\u003c/a\u003e",
+      "date": "2026-07-10T13:38:08Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "BBCPersian",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/TKib2sI1Hg9SbPMXNNRy1fXCq_x4I8XZSQkJ8rI1PlhPpH3Yl2PiFBUYwrG_bqXDTSakszOiKRHppIDCg_vTYBN3vFqwDeqnnUImzANXTjFbWJ9W3Vb2YsF-bEkDBxyauZq9Vx46GpPIU_2UOC5gF4zvtepV0NphjCgV1wJD1bTxSI-Xtpf1GivHjtTiNc5928hZjF8nHaq8HahgNOwgD5VX6oJrpSvpE9S2aiAWjy5pHXjApaMFyFSMzKQrxQLe9bPPg-UxfxRFX17XYTfQ0ulB5L9S9i8siP_j7JLKF0lFX9sWSo_noLB6pwI4p0GcgGyx2K9qzBcGCqZ5-mV0qg",
+          "width": 1280
         }
       ]
     }
