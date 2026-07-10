@@ -8,31 +8,12 @@
   },
   "posts": [
     {
-      "id": 4337,
-      "message": "صحبت های جالب Amir Hormati مهندس ارشد و پرینسیپال در گوگل در حوزه AI در مورد کدنویسی و Hard Skill ها، اینکه آینده از دید خودش چیه، چه اتفاقی بر سر کدنویسی میاد و به عنوان مهندس نرم افزار روی چه مسائلی تمرکز کنیم، جالب اینکه خود امیر از رول مدیریت به نرم افزار برگشته به خاطر همین!\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5470060791883374114\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8D.png\u0026#39;)\"\u003e\u003cb\u003e✍️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://x.com/i/status/2074822324285587672\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eMax Shahdoost\u003c/a\u003e",
-      "date": "2026-07-09T09:49:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/GT794Zc-gCtytPdguLE9oiF9QYmILXPs6EIYhDciT8hZ_H6mCt0rK85QgL0jNt8g_KWS1dGUnennCKbDJZaCQ2tuYu4VaxgQmxARGYWRqrbFJEJ5dCeTs4R8AcH3V7Xfl9G5tMJfV-vulHEFCwk29fijX1kEiPxexBXOVo927SqES6meqVxr2ivcb9TyU2HtF_ylXnpWWxGceww0fm3ChnC5guJ9Mk9IG3c8iyWITVATnfT2joCBuQfcKB0X9tCIqx1XVix1qr8D5b7dpXEjyCPvW8oUdJgvcnu_UApNaP7OMFwQBuITd7fcu2JIivPlgHMGEk8hg3cfxCJuDf7Wbw",
-          "width": 1366
-        }
-      ]
-    },
-    {
       "id": 4338,
       "message": "این پایین روی بخش api key بزنید، بهتون کلید رو میده.\u003cbr/\u003ebase url :هم که\u003cbr/\u003e\u003ca href=\"https://inference.dahl.global/v1\" target=\"_blank\" rel=\"noopener\"\u003ehttps://inference.dahl.global/v1\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eببینید kimi 2.6 و minimax 2.7 اونقدرا مدلای خفنی نیستن، اما برای تسک‌های روزانه و هرمس و... مناسبن\u003cbr/\u003eگویا qwen هم می‌خواد اضافه کنه",
       "date": "2026-07-09T09:56:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31200,
+      "views": 31500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -40,11 +21,11 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/bqb7DCuWJRuSRdy12a050ctUykki0cb8eN68qaYABeSaD-wxGf6nPOkgObyWzFAmV_aQTPPZ__5YxzI4U0dN1cZZyIWpY5O3wC_6Iq5X6-YeyFE5Gi39g8mEZyFI7wpopnfeevuCoCOtLvbqQUMq1F1bUJ4hcebyfdd0tqrnqYMVswD3tjMtXOWiAfF0bppYNYzC62G3VkefwEOQ5IIXLP_rPoRvENZ9x3z0eWKN0KeC_wwi5RMDH00yhEakt-XuT-fJ8YL1laujG8V7bXSVAyS9dZSHo45LjA0nTfHMACwePmG3NyrkxwH3aPVqGr2n1M2noKPtxkQwQttZ_1j2EA.jpg"
+          "url": "https://cdn1.telesco.pe/file/vnOfXfpyt2hQmRa62UeN_6b4AmD2D1hB648ve1n8qixjbU0Latx0GHuOqc8A5EyWguqvZ5IsIAZmdQIPrF91TbP3vKft3vWIXWDUtTMdHxn1c3NcmRN81cBAz0HhRmPLjnzJdJCtj0TXvMm1HaTkJ0hafAcHZ7pQ_aDxajEOm_tvcIcrRyJGuuaeLmNceQfQ-gwFFJT5t8H46htKj4l11XLNQRP0h9Ev7heVdbvKirxONgZMu1fjaVn2wNrD_bGdRwHCqDmFsnH3KjKmGP-yTWZF340g2vb7kNMGHbdNNOvYuK9rwSN89h_9wnDnQ5jvImttRdCkFu24YDuCM9GbEw.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/r_t-IKasbSwoDRcvW9pKQAVcLKZ3WPYT7xCWzw0OVXwnrt2POlvV3-y-Bk6ibqDoUsfjBabn8Ia8kLNopW_bSBgc6551vsKbZM-KUbRvnNPRGf4Pal9ZE8wUeEJEtioua30DiW-0_0zHknZinTiNCCi6kCFG3sVMslfvVzfoU4wWpTBUxuHhS_wknDNR1iTI7se2T1291BJoz8mxRR0Tu-FROvaAPGMwF6aecLA0Z-Yofs83d7eUApZwpVe6RBwgJI-qH3--ZKmT6TYMx7InyDPnHGp27d0lfynm9uhEO7HqOspNngGmTXXcF2vRIjl98RpPr6J4PnM-2BcYxOYbuw.jpg"
+          "url": "https://cdn1.telesco.pe/file/SOoHO_wtBxg99VfBCREQwxyFoYwqcLAbiOV0kY5nqKrbmIRgXCd5SmT1GSYBpr-iHtcIOW_NbA1gKi9iSyeSU0Ga-FtJehfiG-zuSD3Eg_1_vXu4ldWylxGYCbKAK89GONEmddVNhUrXTv-2xhv5vvfngcVI8QAsfjkpWIZ10JC8IYsNOfesBZ_0n6s4kUHUce9R1tJVzdUigTAxqEtsoFp4bnJGK6prGs6vW38KsJF8v1gmdN94vqr7QHgWkJHzRukqTZJ7lUM85dsjw3zWAsWnywX5DIteYoiQcr1uGqsqn93RoglnL5rvwjt2S4ELHMkFtYx-JEp30F_2_nRyvw.jpg"
         }
       ]
     },
@@ -54,7 +35,7 @@
       "date": "2026-07-09T11:23:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31800,
+      "views": 32100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +47,7 @@
       "date": "2026-07-09T11:52:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31900,
+      "views": 32299,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -84,7 +65,7 @@
       "date": "2026-07-09T12:53:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31900,
+      "views": 32400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -103,7 +84,7 @@
       "date": "2026-07-09T13:04:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29300,
+      "views": 29700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -115,7 +96,7 @@
       "date": "2026-07-09T17:26:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21700,
+      "views": 22400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -133,7 +114,7 @@
       "date": "2026-07-09T18:04:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26700,
+      "views": 27500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -145,7 +126,7 @@
       "date": "2026-07-09T18:12:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26600,
+      "views": 27300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -157,7 +138,7 @@
       "date": "2026-07-09T18:30:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26300,
+      "views": 27000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -169,7 +150,7 @@
       "date": "2026-07-09T18:30:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28300,
+      "views": 29100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -187,7 +168,7 @@
       "date": "2026-07-09T19:49:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26400,
+      "views": 27500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -199,7 +180,7 @@
       "date": "2026-07-09T20:54:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24400,
+      "views": 25800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -211,7 +192,7 @@
       "date": "2026-07-09T20:58:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24000,
+      "views": 25400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -223,7 +204,7 @@
       "date": "2026-07-09T21:19:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22300,
+      "views": 23900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -235,7 +216,7 @@
       "date": "2026-07-09T21:31:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19600,
+      "views": 21300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -254,7 +235,7 @@
       "date": "2026-07-10T02:27:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16800,
+      "views": 20300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -266,7 +247,7 @@
       "date": "2026-07-10T03:21:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16100,
+      "views": 20000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -285,7 +266,7 @@
       "date": "2026-07-10T07:03:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8750,
+      "views": 14700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -296,6 +277,36 @@
           "url": "https://cdn1.telesco.pe/file/OvkULflqH7YDugCvw6hdKiCxf0XSkSnzbraPjVStoVwaNFsHjBdcAv4Ume_BdJb7zLvecPSC-cmOR5M5S1fH_31zMbJYeH5x4HntWK8RXkskr0cczFMGRj8bX4aRxQaESj8KFj7U9DFT_JPEqV-pagS0rqFsahXfhFxx8deZmGovZxwPoGwS8EEmw_k30rSWX5kH2l8VZxTn08BKn5WeSuxS6uSy_dXrupJ2iCa1f86IBvr-dpmARBmVC3tHqrRzaScR8NM6djbOSR7zup63q5EJnJBug7jevUn-ruDKbMW2gyn3zF5-fnRcBlJScxolSCaOu9vVxrCw0Jp948yY_A.jpg"
         }
       ]
+    },
+    {
+      "id": 4357,
+      "message": "هوش مصنوعی به جای یک فایل، کل درایو C رو پاک کرد! \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9890.png\u0026#39;)\"\u003e\u003cb\u003e😐\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eچند روز پیش توی گروه جامعه وایب کدینگ ایران، افشین یه تجربه عجیب رو منتشر کرد.\u003cbr/\u003e\u003cbr/\u003eداستان از این قرار بود که با \u003ca href=\"http://Z.ai/\" target=\"_blank\" rel=\"noopener\"\u003eZ.ai\u003c/a\u003e و مدل GLM 5.1 یا GLM 5.2 از AI خواسته فقط یه فایل رو حذف کنه، اما ظاهرا به جای اون، کل درایو C ویندوز پاک شده!\u003cbr/\u003e\u003cbr/\u003eاین اتفاق یه یادآوری مهمه.\u003cbr/\u003e\u003cbr/\u003eهرچقدر هم Agentهای هوش مصنوعی باحال و قدرتمند باشن، وقتی به ترمینال، فایل های سیستم یا دیتابیس دسترسی کامل داشته باشن، یه اشتباه کوچیک می تونه به یه فاجعه تبدیل بشه.\u003cbr/\u003e\u003cbr/\u003eاتفاقا متین سنپای هم امروز ابزار Kastra رو معرفی کرده که دقیقا برای همین سناریو ساخته شده. این ابزار بین Agent و سیستم قرار می گیره و برای کارهای حساس مثل حذف فایل یا تغییر دیتابیس، اول از خودت تایید می گیره تا AI نتونه هر کاری خواست انجام بده.\u003cbr/\u003e\u003cbr/\u003eبه نظرم تا چند وقت دیگه استفاده از ابزارهایی مثل Kastra دیگه یه قابلیت اضافه نیست، بلکه برای هر کسی که با Agentهای کدنویسی کار می کنه، واجبه.\u003cbr/\u003e\u003cbr/\u003eتا حالا Agentها چه خرابکاری هایی براتون انجام دادن؟ \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9885.png\u0026#39;)\"\u003e\u003cb\u003e😅\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-07-10T09:28:57Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9010,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/ZsApiGD54k35XLtFWJkpyT0vxuLzYiUcVwyXTxykcwWAeLPnLA0vn3t253Y2xWhfTMY6FRognk8iC340sy4pbPfkqcoqoAeQ9jXrIXR7RyEXE4y99GOsgYN4m5h4EoEAi_RZQLl4oYTNKWPPzdDzFPyiMNkY0rl76qLY132AJP1hnS_jnERkdvAmg38luNvKawK76ApIU9h1T3P1wCY5sxSbbJ4n-xeIBQgO3uFuEEPxJWQX8rgJEgITHan1V-0cbBrbfcGATLG2yTklFBPR3AQa64LTX2skJ9JRGsTB_-MiYM1mppmLvmDN5ueV2UsQijhFvmnYZ0v78R9baLqXyw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4358,
+      "message": "این، دلیلیه که می‌گم YOLO و Full Access خطرناکه :)\u003cbr/\u003eمخصوصا مدلهای چینی که هنوز بالغ نیستن",
+      "date": "2026-07-10T09:29:25Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9230,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
     }
   ],
   "last_updated": 0
