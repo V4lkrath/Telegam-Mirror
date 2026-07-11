@@ -8,60 +8,6 @@
   },
   "posts": [
     {
-      "id": 4347,
-      "message": "یکی گروک مدل grok 4.5 رو داده بیرون،\u003cbr/\u003eیکی هم متا مدل جدید داده بیرون به اسم Muse Spark 1.1\u003cbr/\u003eهر دو هم ادعا کردن که هم سطح Opus 4.8 هستن با هزینه کمتر، ولی به نظرم متا دروغ میگه\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-07-09T18:30:21Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 4348,
-      "message": "اگر درست باشه فوق‌العادست\u003cbr/\u003eبچه‌های توییتر تست کردن Grok چهار و نیم رو، همه تعریف تمجید کردن",
-      "date": "2026-07-09T18:30:54Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/ciImU41KHOWz_43RLFtRX_GFgXVV6scl7vBrQ8eqmqrZiGf5S4KlA5UDJ6LWW0kDCeH1nR7C7cBHrbKGs1YExkL1t6f0X5_38sDx8uYthR4X9_K5lWZviSgBTk6tTn0snMOk9p5kU6QfAl1Ke_C-MDbNytqmniha5rJj43DxprEB94hkhIIUOnOnlDPt3eTpxo0eXZO0VIgH5FLsH8tIqNAmfiDbOM8LCO9vSBdskBCJM9Ii4jAeqgIOzyt1FzyY-V0kxvE1ViuTzjKu97_4SxkeH2fOTmelI9Cw5Mr3uyyMSgHIJi1LbmMRejY7gZN7sScZBiWBUigF2XSLGnwOpA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 4349,
-      "message": "و GPT-5.6 Sol هم ریلیز شده و اون دیگه ادعاش در حد Opus نیست، در حد Fable هست\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9881.png\u0026#39;)\"\u003e\u003cb\u003e😁\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eاگه نتمونو قطع نکنن، هفته‌ی جذابی پیشِ رو داریم",
-      "date": "2026-07-09T19:49:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 4350,
-      "message": "به شخصه پلن کلادمو ReSubscribe نمیکنم؛ تا ببینم وضعیت قطعی نت چی میشه\u003cbr/\u003eبه شما هم توصیه می‌کنم اگر تموم شده و کارتون زیاد لنگ نیست، نخرید فعلا..",
-      "date": "2026-07-09T20:54:44Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
       "id": 4351,
       "message": "",
       "date": "2026-07-09T20:58:14Z",
@@ -91,7 +37,7 @@
       "date": "2026-07-09T21:31:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26100,
+      "views": 26200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -249,7 +195,7 @@
       "date": "2026-07-10T16:00:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23700,
+      "views": 23800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -261,7 +207,7 @@
       "date": "2026-07-10T16:28:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22700,
+      "views": 22800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -273,7 +219,7 @@
       "date": "2026-07-10T20:06:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18200,
+      "views": 18400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -292,11 +238,41 @@
       "date": "2026-07-11T01:31:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4500,
+      "views": 4840,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 4367,
+      "message": "لینک زیر رو به هرمس بدید و بگید:\u003cbr/\u003eاینو نصب کن، فعال کن و بذار تو استارتاپ سیستم تا با روشن شدن سیستم اجرا بشه.\u003cbr/\u003e\u003cbr/\u003eبعد از نصب یه محیط بسیار زیبا تحت وب در آدرس لوکال زیر برای شما فعال میکنه:\u003cbr/\u003ehttp://localhost:8787\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/nesquena/hermes-webui\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/nesquena/hermes-webui\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5470060791883374114\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8D.png\u0026#39;)\"\u003e\u003cb\u003e✍️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://x.com/i/status/2075622988418830365\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eبوکانت\u003c/a\u003e",
+      "date": "2026-07-11T03:54:31Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/kS2MZyoCopgSSKGFejEtGmjH6E2OykWmHzaZbya8skmaTJWTvD-sRb05zx4RaE2OIwr28pOvzVw2_8QPxlR-QmkZeSRbrMAjgnQbgJV5ZcPUY5K0ErXBs-mDMSAFlXhSZK-uXYpf6z-wYG1AVgNQYKpKWTcwk2fEpu4i-_8n5EMrKwUsGFtDnuvUohoGsvzeVEs36tM_lTECtU92hsI-TxUV_f-miGqBTAJVB1-I2sltvWxneH3QlEqdJKlYh3gntfqsQoFUd5YXEDE-3zBoqU28jIAp4-OIhDWjCGiFUdhpnXJIZXQGDKaKY9SCgR70bQPH_5cHC-AmXDKasInMyg.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/F-WlV_UH1mUE3IbsH7OeURWTmju61fJ9eZPi9CV77zdIcModVG_cxUoTMWmbSDeNXkWGpTLwUbtZ8NO9Jyf8J-LIhBpOKxDKqlTTd2yU0AA4oLdHfcaC0w4IVBSNcBAErVa8wV62PlMlre23MZVSxb1jtYbaT4feSUxbPUB4rDn6NBFHgZ1Da19oL0OuSp4vcwZ78AOpl9ZaEbsk8IqiwC7Ya7tjkOaiTMSKcDdNScdDi_k1ZgnqP81VRlSewm2BJV_cVnxrr6Nt9Jsg8R0oqh4E4qz1lvVLh0YN4L4dnDK0dNGzxHJd7G86NCMJsXDu42oT8IEL6dPZzWDfT7zgEg.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/a406hjtUggNg6RIEwmXfFTrtG0439ai1wxehzjt7hNFbhO97vdypQ2EED_MRQhwFCnzbyyjuDDjGt6xhW1eASAnZtEY_2gMQe2QDws_SprNMeOH0MVxTznwniVgAABwH4n51sn18wXJfSXb56UQrjRWzsDCk62apDqTNYJPgeWlBQ9zn_7Qcvx5hqIHD6XM7NgllQecoi5l1J_93yIQmhIj8aJxmcwnipg2XvnQvu-GbVYCHTHhyHQBKRk7pHfCTWEd5VBox1D9D9hMtgWFr0CQc4r_3Tob8tW311Qm9Rg48z-pjyvNvSdLz3niqir_JU_hE3KDCzUYTWiiHYJtkNQ.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/vvOq9wlwqERVVIU49s68IjMBzo8MPXZ_qmsKA3QDsB2jtlGv6O4g_WsaGHOqC9vSoZngcUbcqJcMFmpK3HIQuBy2msZabnEIKBBs9WZ3C4QLisGaXzIXXp3CBVUBpPe2RSID-sHRVuw5lQwK0IwWz955EeXnu0QylyIQG1jXa93lllVSVRNoOnnIUaR-KbqNJLQbpwRzYYnEfS7K-5lf2EoGrZXiKKDhfAs2X3yJ8h3-YVbcns5tSieLjt_n-u9FjoPucuLLYvh53aqAkXDMUiwnyz-mzVY3FCgV8y9PzfZwlvJZtAWQXRs_4gtSa17LEAwBezXHUBS3uD6pnOXDGA.jpg"
+        }
+      ]
     }
   ],
   "last_updated": 0
