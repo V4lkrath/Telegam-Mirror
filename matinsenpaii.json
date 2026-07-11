@@ -8,109 +8,12 @@
   },
   "posts": [
     {
-      "id": 4355,
-      "message": "این هم تیزریه که ازش دادن",
-      "date": "2026-07-10T03:21:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/FIKsFfwFJRmigbTk0NLPwccG-FS-08sSToQFHqYM3IvmLjJl0XiSastaO4af_mMceWnfF0AGUvO6wFWy7CHGv0OQ_OQUEjRc3HXsSBkapUsUI_oPnYDa7khgcWYk41u-KGVUAU-kRQCV-ZrpVUoUN1Rxbbgrk_qJTsP45fpfetMeFcxX7otzmsdrXGG3KNpMTXxHl2um6mpYiLdO2l7873sdGfXFFNO0jZPdh-oRvxW82iyoQHQBFqP-_OvPooO3HEe-rysDcQyosyIfihs8J8Povb7S5Zn9Wvu91jqoL8nFI5KGJ5AitED1c56eXylubMQze78_auy7jHywOMnruQ",
-          "width": 852
-        }
-      ]
-    },
-    {
-      "id": 4356,
-      "message": "ابزار Kastra برای کنترل ایجنت‌های کدنویسی\u003cbr/\u003e\u003cbr/\u003eاگه با ایجنت‌هایی مثل کلاد یا هرمس(روی Yolo) و یا هر ایجنت دیگه‌ای روی کدهای حساس کار می‌کنید، استفاده از سیستم‌های نظارتی دیگه یه آپشن نیست صرفا به نظرم، بلکه واجبه! \u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eتوی Hacker News یه ابزار خیلی خفن و کاربردی به اسم Kastra معرفی شده که کارش اینه که به عنوان یه «لایه‌ی دسترسی و تایید» (Authorization Layer) برای هوش مصنوعی عمل می‌کنه. یعنی دقیقا روی فراخوانی toolها توسط ایجنت‌هایی مثل Cursor و Claude Code نظارت می‌کنه تا اونا سر خود کاری نکنن.\u003c/blockquote\u003e\u003cbr/\u003eچرا اصلاً به Kastra نیاز داریم؟\u003cbr/\u003eایده‌ی ساخت این ابزار زمانی به ذهن تیم سازنده‌ش رسید که ایجنت خودشون نزدیک بود یه دیتابیس پروداکشن رو به کل پاک کنه! وقتی به مدل‌ها دسترسی کامل (مثل کار با ترمینال یا دیتابیس) می‌دید، هر لحظه ممکنه توهم (Hallucination) بزنن یا اشتباه کنن. Kastra اینجاست تا جلوی فاجعه رو بگیره.\u003cbr/\u003e\u003cbr/\u003eویژگی‌های اصلی:\u003cbr/\u003e\u003cblockquote expandable=\"\"\u003e- پشتیبانی کامل با mcp: تو کمتر از ۲ دقیقه می‌تونید با Cursor، Claude Code و پروتکل‌های MCP وصلش کنید.\u003cbr/\u003e- گاردریل‌های امنیتی: می‌تونید براش قانون بذارید که ایجنت برای کارهای خطرناک (مثل پاک کردن یا تغییر دیتابیس) اول از شما اجازه بگیره.\u003cbr/\u003e- مدیریت دسترسی: مشخص می‌کنید که ایجنت شما دقیقا به چه ابزارها و چه بخش‌هایی از سیستم دسترسی داشته باشه.\u003c/blockquote\u003e\u003cbr/\u003eلینک ابزار: \u003ca href=\"https://kastra.ai/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://kastra.ai/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-07-10T07:03:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/aubye9f-fCUKfN8WIM7KPYTsA0ibmfwjNpZEQR2YyIqTAPC5YgBE0QS3TP2P3MEJcR0EYdEIcFE0RiOFnM-Ug-Oxe-BpuqGTTutAHi1vz4ctnHZHWOThY161jBXn5t22kWowWcYCMYBtHxXCZMlNJPpROg8NDWdXOoe5CaV4U9mQA7L6H9FKohrp2__zJ4e0h2QnlDBqYsmBhxOlFxZFmUvmA3h1luVByX9QeVDRjxwLRo0RQ_FP4mnrcmGjchgbC0BRLF8GhA5Sd1eYshdCgG6U2H23nDUax6cX5OEYr2YARkpfexwYIZcQR-YIBs9DW0yEXhkEXxLlOMq-UQXrQA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 4357,
-      "message": "هوش مصنوعی به جای یک فایل، کل درایو C رو پاک کرد! \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9890.png\u0026#39;)\"\u003e\u003cb\u003e😐\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eچند روز پیش توی گروه جامعه وایب کدینگ ایران، افشین یه تجربه عجیب رو منتشر کرد.\u003cbr/\u003e\u003cbr/\u003eداستان از این قرار بود که با \u003ca href=\"http://Z.ai/\" target=\"_blank\" rel=\"noopener\"\u003eZ.ai\u003c/a\u003e و مدل GLM 5.1 یا GLM 5.2 از AI خواسته فقط یه فایل رو حذف کنه، اما ظاهرا به جای اون، کل درایو C ویندوز پاک شده!\u003cbr/\u003e\u003cbr/\u003eاین اتفاق یه یادآوری مهمه.\u003cbr/\u003e\u003cbr/\u003eهرچقدر هم Agentهای هوش مصنوعی باحال و قدرتمند باشن، وقتی به ترمینال، فایل های سیستم یا دیتابیس دسترسی کامل داشته باشن، یه اشتباه کوچیک می تونه به یه فاجعه تبدیل بشه.\u003cbr/\u003e\u003cbr/\u003eاتفاقا متین سنپای هم امروز ابزار Kastra رو معرفی کرده که دقیقا برای همین سناریو ساخته شده. این ابزار بین Agent و سیستم قرار می گیره و برای کارهای حساس مثل حذف فایل یا تغییر دیتابیس، اول از خودت تایید می گیره تا AI نتونه هر کاری خواست انجام بده.\u003cbr/\u003e\u003cbr/\u003eبه نظرم تا چند وقت دیگه استفاده از ابزارهایی مثل Kastra دیگه یه قابلیت اضافه نیست، بلکه برای هر کسی که با Agentهای کدنویسی کار می کنه، واجبه.\u003cbr/\u003e\u003cbr/\u003eتا حالا Agentها چه خرابکاری هایی براتون انجام دادن؟ \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9885.png\u0026#39;)\"\u003e\u003cb\u003e😅\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-07-10T09:28:57Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/PNYMunLhDweQbsBh3U_zM1D3h_NXw4UBuP4_z6i7V9fniD4vrhFbiZYkMWru4zqESEGaQqDFao4GdsD06SAAM_sz0IsXxaoFSG_y774jn-zkp5rw1K_bLGrtCMMwV9HT0p_zp45-AlX8g8siK1--24s9MvlChU10ZJPzY_jd0AcxnfyH-1AjtfvOEBK6HdU1tW2E9DLHUJJNiSMsnCQXulOitQyTkbFI9BVi1kM0Y2PU6fHmrnP-hIWhOhSy-G1YOC3NgLaHfyNe9DIUQbRU6iUn6nxEruk1vo-YFYs9VuHwVkZNvLR2fgRGnv41nu_SatHmQ-ZYMdmXQx5z7-AApA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 4358,
-      "message": "این، دلیلیه که می‌گم YOLO و Full Access خطرناکه :)\u003cbr/\u003eمخصوصا مدلهای چینی که هنوز بالغ نیستن",
-      "date": "2026-07-10T09:29:25Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 4359,
-      "message": "اگه با ایجنت‌های کدنویسی کار کرده باشید، می‌دونید که بزرگ‌ترین مشکلشون Over-engineering کردنه. یعنی مثلاً برای یه تقویم ساده که با یه تگ HTML حل می‌شه، میرن یه کامپوننت ۴۰۰ خطی با نصب کلی پکیج اضافه می‌نویسن\u003ctg-emoji emoji-id=\"5472113318099427332\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F98B3.png\u0026#39;)\"\u003e\u003cb\u003e😳\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003eابزار \u003cb\u003ePonytail\u003c/b\u003e (که الان به شدت تو کامیونیتی وایرال شده) دقیقاً یه پلاگین برای حل همین مشکله. این ابزار باعث می‌شه ایجنتتون مثل همون برنامه‌نویس‌های سینیورِ تنبل شرکت که حوصله‌ی کدِ اضافه نوشتن ندارن، رفتار کنه\u003ctg-emoji emoji-id=\"5472435535135907118\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9984.png\u0026#39;)\"\u003e\u003cb\u003e🙄\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003eشعار این ابزار اینه:\u003cbr/\u003e«هیچی نمی‌گه. فقط یه خط کد می‌نویسه. همونم کار می‌کنه.»\u003cbr/\u003e\u003cbr/\u003eچطور کار می‌کنه؟\u003cbr/\u003eقبل از اینکه ایجنت حتی یک خط کد بنویسه، مجبورش می‌کنه این نردبان رو تو ذهنش طی کنه:\u003cbr/\u003e- اصلاً این فیچر نیازه؟ (قانون YAGNI) اگه نه، بی‌خیالش شو.\u003cbr/\u003e- آیا توی کدهای فعلی پروژه قبلاً نوشته شده؟ اگه آره، همون رو ری‌یوز کن.\u003cbr/\u003e- کتابخونه‌های استاندارد خود زبان می‌تونن حلش کنن؟\u003cbr/\u003e- آیا مرورگر یا سیستم‌عامل خودش اینو داره؟ (مثل استفاده از \u003ccode\u003e\u0026lt;input type=\u0026#34;date\u0026#34;\u0026gt;\u003c/code\u003e به جای نصب پکیج).\u003cbr/\u003e- آیا پکیجی که از قبل تو پروژه نصبه این کارو می‌کنه؟\u003cbr/\u003e- می‌شه توی یه خط نوشتش؟\u003cbr/\u003e- فقط در نهایت: حداقل کد ممکن رو بنویس.\u003cbr/\u003e\u003cbr/\u003eطبق بنچمارک‌ها، این ابزار حجم کدها رو ۵۴ تا ۹۴ درصد و مصرف توکن‌ها رو ۲۷٪ کاهش می‌ده. البته اینم بگم که تو مباحث امنیتی و Validate کردن اصلاً تنبلی نمی‌کنه و امنیتش ۱۰۰ درصده\u003ctg-emoji emoji-id=\"5382355635553739365\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D8C.png\u0026#39;)\"\u003e\u003cb\u003e❌\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003eآموزش نصب روی ابزارهای مختلف:\u003cbr/\u003e\u003cblockquote expandable=\"\"\u003e\u003cb\u003eتوی Claude Code\u003c/b\u003e\u003cbr/\u003eکافیه دو تا دستور زیر رو جداگانه توی پرامپت بنویسید:\u003cbr/\u003e/plugin marketplace add DietrichGebert/ponytail\u003cbr/\u003e/plugin install ponytail@ponytail\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eتوی هرمس (Hermes Agent)\u003c/b\u003e\u003cbr/\u003ehermes plugins install DietrichGebert/ponytail --enable\u003cbr/\u003eبعد از نصب می‌تونید با دستوراتی مثل /ponytail یا /ponytail-review کنترلش کنید.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eتوی Cursor، Cline و دیگر\u003c/b\u003e ide ها\u003cbr/\u003eنیازی به پلاگین نیست. کافیه فایل رول‌ها (مثل .cursor/rules/\u003ca href=\"http://ponytail.md/\" target=\"_blank\" rel=\"noopener\"\u003eponytail.md\u003c/a\u003e) رو از گیت‌هابش دانلود کنید و بندازید توی پوشه‌ی پروژه‌تون.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eتوی GitHub Copilot CLI\u003c/b\u003e\u003cbr/\u003e/plugin marketplace add DietrichGebert/ponytail\u003cbr/\u003e/plugin install ponytail@ponytail\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eتوی Gemini CLI (Antigravity)\u003c/b\u003e\u003cbr/\u003eagy plugin install \u003ca href=\"https://github.com/DietrichGebert/ponytail\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/DietrichGebert/ponytail\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003eلینک ابزار: \u003ca href=\"https://ponytail.dev/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ponytail.dev/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-07-10T11:03:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/bSPGtd0wnuWIWjpYSRjKf0VO1ZxOK9b_eG7QsogrV8i_Vr5X-7ZBLDXEPV0URVYWKEbwex1I7fQ8wfqofKZhVo3xnMgX9HVY0332Rbm1rtdoKFo9pIJ_Lz7bTRp57t6bh6Nns9LB57dMCVC14iDq5_ogaPySQWl3Xbeg1Rrs2sflKH0Y2j1Nv2O9VcKXPmbgErcTn-ftUj4ZxglV9OJKf3dtsz6pBcdcz2Osjv0UuopPucfn58mO0WNj_3kkQ2sgJxGcdd7_i_Qc5Ubfbf7IkZKnaNv3CsZunL_uY954wmTYINxWCbURaxduuYNd_qUIjOOI1bjzVgP1vD7peBQQRQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 4360,
-      "message": "من خودم بعد از اینکه \u003ca href=\"https://x.com/iampedii\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپدی\u003c/a\u003e دوستم بهم معرفی کرد، به عنوان پلاگین توی کلاد کد استفاده کردم و خیلی راضیم. توی 9router هم بخش CLI Tools می‌تونید نصبش کنید مستقیم، اما پیشنهاد می‌کنم از داخل خود ایجنت (مثلا هرمس) استفاده بشه",
-      "date": "2026-07-10T12:00:28Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
       "id": 4361,
       "message": "به نظرم اگر می‌خواید برنامه‌نویسی یاد بگیرید، بهتره که یک زبان، و از اون زبان یک حوزه رو در نظر بگیرید و شروع کنید به یادگیری.\u003cbr/\u003eبرای مثال اگر بخواید پایتون یاد بگیرید و همزمان توی حوزه‌های AI و Back-End باهاش کار کنید، آخر سر به خودتون میاید می‌بینید هیچ کدومش رو درست و حسابی یاد نگرفتید.\u003cbr/\u003eو همیشه در همین حین، سه تا سؤال از خودتون بپرسید.\u003cbr/\u003e\u003cbr/\u003e1- چی دارم یاد میگیرم؟(روشن شدن مسیر)\u003cbr/\u003e2- برای چی دارم یاد میگیرم؟(روشن شدن هدف)\u003cbr/\u003e3- قراره باهاش چی بسازم؟(تبدیل به انگیزه میشه و دل‌زده نمی‌شید)\u003cbr/\u003e\u003cbr/\u003eاین پروسه‌ایه که من خودم طی میکنم برای هر زبان-فیلد جدیدی که می‌خوام یاد بگیرم. کاملا هم نظر شخصیه و چیز ثابت شده یا علمی‌ای پشتش نیست لزوما",
       "date": "2026-07-10T12:34:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29700,
+      "views": 30300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -122,7 +25,7 @@
       "date": "2026-07-10T14:26:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28200,
+      "views": 29200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -130,7 +33,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/hS3mOc8YlXhZIJxvhpOR7Tzx-fIYjPXR-e-4g7ZYCHRJqthbyUXWJhe5x2Dc5m3WVUfxVnAbmsCk8kaNpWUosHyJH7LyVOAHrczIIzYJpnDuCi991pmjadCNNrmxayx6Pb8-p21DpoKEFulrEGGogHYt613bnWzuy5CT2JnhlngLJO2PdnaMT9AK94ajW1_a5pMH2FOA7G8xxsKNxgT5JgImUKUyJA_FgNLNbFZ07iHH66wBLRrmRnVy6WZguz5kFaDeqKgE-lAII039mPEmb5SEVHktKGW3HOxx7psKwBnnirqfNpcdp0phgXqLfktqFkrhr-82aLK-bdbRSdclYQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/LbO-GKh03DOUKuBPr_iRh_Woo4c_tSmGJA7RITLvN3j_6r-FzAGtJ9V5yoVklDVZ6h_-6A9poljYRdyy_a-JL9CdClbIb46QYyowN3mi1cH4K_5a9bnrINZJJbZCk_8A6ISA4CJD2swatAiIMpqRmuM5l3uLxeW3f1iazkYGQdbWDIts8tqO2qRD9zNI-V1nwdSgRc043JV7v8reIlpuB108leJR4QU1GuLAhsY3kgMLeDm2nMwA3bdpHKsIXMLCPCAeTYmiDM9xV5eMlQx9nyjhnoLSas1uP41g8WBCOSKDLDBjx7JnD3SbFIApUW4DpIoBpVC9uoQg9PSIqNE6Bg.jpg"
         }
       ]
     },
@@ -140,7 +43,7 @@
       "date": "2026-07-10T16:00:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28400,
+      "views": 29200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -152,7 +55,7 @@
       "date": "2026-07-10T16:28:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27900,
+      "views": 28600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -164,7 +67,7 @@
       "date": "2026-07-10T20:06:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28700,
+      "views": 29800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -183,7 +86,7 @@
       "date": "2026-07-11T01:31:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24000,
+      "views": 25600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -195,7 +98,7 @@
       "date": "2026-07-11T03:54:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24000,
+      "views": 26100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -225,7 +128,7 @@
       "date": "2026-07-11T10:46:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16300,
+      "views": 20100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -237,7 +140,7 @@
       "date": "2026-07-11T11:05:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13700,
+      "views": 18400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -249,7 +152,7 @@
       "date": "2026-07-11T12:19:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7200,
+      "views": 15100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -267,11 +170,107 @@
       "date": "2026-07-11T12:47:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2120,
+      "views": 12600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 4375,
+      "message": "اکانت جدید ساختم، پروژه رو دیپلوی کردم، کار کرد، یک دقیقه بعد 1101 زد",
+      "date": "2026-07-11T13:09:51Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 10700,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/WVIiCx1FEzjLEK7qpnF7a3vlY0HiIH9aZ8RdaB6BDW3Ek7TXSKb73yjlMvYOCnQTn8GoufPCmgMz5z0A8dKcphEuoG5Qrke1_3S09qGJicjxnKcLk3pKThdXD8fgqC7_qQfoaL0WE6PBdzj-Px1DCQYtpcKC-YsuweeD31LZB3J2BeD7eUvHHmu4ffke304So5LrJpYrKDN0v_KXMKGXeE33W3n9v9QSNQiwrozfJhFW9rv_tFVLr9PXyUpvgxTKYap6biTRD7wXUi0HAG_2zmKvul0I-1Hk9pHhz0sRat0kBX-CsY8a_ScuFowVVX5J98mbAaUE5EEeSJrXRHKq9g.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4376,
+      "message": "مشغول دیدن ویدئوهای برادران چینی هستم ببینم چه گلی به سرشون گرفتن",
+      "date": "2026-07-11T13:11:31Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 10400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 4377,
+      "message": "25 تا پیدا کرد سرجمع و فیکس کرد:)",
+      "date": "2026-07-11T13:16:19Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9670,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/kdRTurk-nXJ9086y09BusejwWMsBuQ4TO7P9CKzvoVzomiE-MTQX_PggzeHt-u8LmPKwzQ1pPGgbIOin3tKoV5DE8UX4D2sUbdPs_isrgw88NU_XqgUneHIKrQQG8OH-bOGlOp3JaOsid1DIz2J0KupRSztG8PqZ1fcCcB7UNaLRhdDRqGj3eZNKSOTKa4JSesMfNTlbV_w93uoAD0APdmKikTbdS17rhsGWG-vi-fazueGDSMT8W423ELJpMue4A3MsIIPDqHNk13iC_fpT1D-LoPTeQgdBYdK0sDT4YE0w15NcS8fdmNCwggSPA7vaX_0UmPIyFlcjF0RBF194Dw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4378,
+      "message": "تنها چیزی که از ویدئوی برادران چینی اذیتم کرد:",
+      "date": "2026-07-11T13:29:38Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7840,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/FgNabo1M6zf6JyPMhTJnpTyfkPSny8Tzh2oSMgfkRnAllGFGMmGNNdcUVIVBNLUG4o0GQA14cgN_Q239Q6EygVS4rmij0q2vbayXc4KmCw-mBT49zf1vPJ8eltfKSiaWrWKkxclCbN8wucHRsUPjiFli8IByq1My-EPn-k9_T8Po-BVWnQ8SS3Fatd0oLBdRaWsPn-CzOiVYxZYGSd4rUWnZwRB9oo14nL18XeQMNewvbtfvx8fDj-X32R8DnI6uk463rsUGpvG_N55WgX023ohBbYWDTT1_aCTbFzAjHmfsAd3lEIg8dROjTGJ6cgk3-MiFZx_LDSlHZ28cAKGGgQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4379,
+      "message": "دوتا خبر خوب دارم\u003cbr/\u003eاول اینکه مشکل 1101 رو روی همین اکانتی که network abuse خورده حل کردم\u003cbr/\u003eدوم اینکه یه سرویس جایگزین و قدرتمند برای AtomicMail پیدا کردم که اگر یه وقت اون به مشکل خورد، بتونیم ازش استفاده کنیم",
+      "date": "2026-07-11T13:30:17Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7710,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 4380,
+      "message": "منظورم دقیقا اینه که دوتا ایمیل نتورک ابیوز اومده و سه تا پروژه‌ی قبلی abuse خوردن، اما روی همین اکانت الان وصلم و دارم این پست رو آپلود میکنم\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9881.png\u0026#39;)\"\u003e\u003cb\u003e😁\u003c/b\u003e\u003c/i\u003e با روش برادران چینی\u003cbr/\u003eاگر تا یک ساعت آینده وصل موند، ویدئوش رو میسازم",
+      "date": "2026-07-11T13:41:27Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5790,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/q8GKzn-ZMVJcwolk2bCSI7z_zVgEonLum93UyD38NaKMB-H65D9SCkrz2TbAi3S0sTiRgYdvrZQ8fFvC1NpOlo6bSniD6FU362a2WfMCf7GQakkThycLxhlCAV7wQoaCeoUrISqpqc3GFgHLAI1a2HapgxTlQ38WG_3d5CZLav6gnRmE1LUH6XGGbNTtHqj3qYHhaHyC2qofJuRqOSCEKmchFTCmpiNZVgIZp6H_MYII7kyIFVo7Wcjyfs5fsT9wgPCF-vt8Rdb-d9jWJCl1EjAzK1Y1UP4B94uyLxIXOgB__I5HKL7ZF0gBdXArPM7EoMvhUSpLlyDtWVWTkAOSTg.jpg"
+        }
+      ]
     }
   ],
   "last_updated": 0
