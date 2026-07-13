@@ -8,30 +8,12 @@
   },
   "posts": [
     {
-      "id": 4405,
-      "message": "توییت Theo:\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003egpt-5.6-sol is meaningfully better in Claude Code than in Codex\u003cbr/\u003eIt MAKES BETTER DESIGNS. WHY. WHY IS IT BETTER AT DESIGN WHEN USED IN CLAUDE CODE.\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003eو داره میگه که وقتی gpt 5.6 sol رو توی کلاد استفاده کرده نتیجه‌ی خیلی بهتری توی دیزاین گرفته. که احتمالا به خاطر harness و ابزارهایی بوده که کلاد در اختیار داشته.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5470060791883374114\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8D.png\u0026#39;)\"\u003e\u003cb\u003e✍️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://x.com/i/status/2075776733626892542\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eTheo\u003c/a\u003e",
-      "date": "2026-07-12T18:02:43Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/bcthi_MlzVCP9dzLXeT0uadkjzRXI6I1T0yTaz1jhoX7uVXLaXcfyew8Bx7QdEugLeOzkTd0SrEz-jJGmVeNyQbcv37YsG5O4W4VXUmG_76TMFIOvByIDSnNQ61nAU2TYTVdUJcNaLaTEpzFoF9gKVZIs6zxcDoDolKIEwqRseFh5QmEntxmhxRrYVB8zB9t-xxOx06vRiFJmFX9hJiXpZsG-grfnf0nuwuQDbtFuF0ADTzrdQDRLFclM2coEnzxrCoG_BWXOSOcLtST3EiW7AD9o0JCiaHCLKpxQxYBciUl_C778w2avAtVD0cYA0IRlfy8T1BnDYVFvkHh_Eoorw.jpg"
-        }
-      ]
-    },
-    {
       "id": 4406,
       "message": "یه پرامپت، سه تا AI\u003cbr/\u003eاولی GPT\u003cbr/\u003eدومی جمنای نانو بنانا 2\u003cbr/\u003eسومی در کمال تعجب، Meta!",
       "date": "2026-07-12T19:31:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23500,
+      "views": 23800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -57,7 +39,7 @@
       "date": "2026-07-12T19:42:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22600,
+      "views": 22900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -69,7 +51,7 @@
       "date": "2026-07-12T19:46:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24200,
+      "views": 24500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -81,7 +63,7 @@
       "date": "2026-07-12T19:47:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23700,
+      "views": 24000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -93,7 +75,7 @@
       "date": "2026-07-12T19:48:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24300,
+      "views": 24600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -105,7 +87,7 @@
       "date": "2026-07-12T20:06:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26700,
+      "views": 27000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -136,7 +118,7 @@
       "date": "2026-07-12T20:29:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28500,
+      "views": 28800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -148,7 +130,7 @@
       "date": "2026-07-12T23:45:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27100,
+      "views": 27700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -160,7 +142,7 @@
       "date": "2026-07-13T08:26:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23800,
+      "views": 24400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -178,7 +160,7 @@
       "date": "2026-07-13T08:31:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23200,
+      "views": 24100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -200,7 +182,7 @@
       "date": "2026-07-13T17:32:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5980,
+      "views": 8840,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -222,7 +204,7 @@
       "date": "2026-07-13T17:39:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4700,
+      "views": 7850,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -240,7 +222,7 @@
       "date": "2026-07-13T17:43:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3460,
+      "views": 7220,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -252,11 +234,47 @@
       "date": "2026-07-13T17:43:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3130,
+      "views": 7220,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 4425,
+      "message": "با atomic mail یه اکانت ساختم بهش وصل کردم مجددا\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9881.png\u0026#39;)\"\u003e\u003cb\u003e😁\u003c/b\u003e\u003c/i\u003e روی سرور",
+      "date": "2026-07-13T18:01:27Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4090,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/PqCtz1_stvLiU42aiVBfd_VNEU5GqmD1VTzf2ob4ZVXDpCbeIWTWjfbVPWJf_jjwWXgu6ZfctcIBowBTx5kDXODsjyots1_6Y1izvo6zdDyF9P8l5Ws6BIm02076TOTTl_x83cx3ZV1CThlEq39pRWwl1EJ3zq0cw3amm_XaTSKjRUjTxbOc4iCRDmntUOMdJbZMnyG5C4i3naB7BlYrCBmY8JHq5U11n_XkHqY7PNXqFuYT8ojzcVkfEmkC3wrD5aBqZFPbsQNWBcVGW7bUak6XjwAK7VnR0istpHI83PNeCuFfYgifprnzYbGto2JnHKyQQ-RG9VwaF99XAKpWBQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4426,
+      "message": "ناگفته نماند که روی 9Router هم میتونید وصل کنید. بدون نیاز به نصب روی سیستمتون/سرورتون",
+      "date": "2026-07-13T18:02:37Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3460,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/qFAC_MJWq-lGpz7_kjSL62R7r3nMzsuF-UW1E08t9bww-x0lWxHb_n4hkpDX_dLJ40lzNxsLLYWSxKcw22DEdhY4NFoY_LCtBdCNWODyVWMD-wpVShSVqRQOy-rnPN3yNCJo9nVi0PvMFVrR8WAi2qfJpZayXlUE6tDp3764r5h7-jMC3UfrYUU8bmJrFhr-6Hf2trxtb8E2R_0P3yBihndr_p-wlGk1DrLpFj8DpAGQgWSmCHOEv22st0YLrlk4gqviDpsbXk5nG8bJhuEKBAre9SaVhVbmRZ68OPxjAgeDxK2NH8wqyOsRWpfAJpra3Onnb8LJIlAIV0NwuUnNCQ.jpg"
+        }
+      ]
     }
   ],
   "last_updated": 0

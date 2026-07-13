@@ -39,7 +39,7 @@
       "date": "2026-07-12T10:26:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 177,
+      "views": 178,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -156,7 +156,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Mz3l5gFY6riTO_Vd9tMqo7IqozWA80MJ6BygmS16HfZUqs7kpIv9SOoFu0KLFER6TggsmdldmBJppwcJCRCdY1D_Qjg1TTr0-c3RoRB5ZvbCTyfHacX7fr0wOo3zUqyhyjJH4KJKyQMdDHjhz_Gj_ozBNTGYMcq1rlmD0Dh9NnXMQbGB_Hq0KTd9_qSQJARl3LOKEYbvy1JON-K7vl3j8nkJL8O2nq_6E_mUxt8fiIIu1_EpOxyPHAsNTxlZXs5AYnAOa7pchzfste9pnduRBHDl7Ib3Zd0p28tPoNmXKSTPJ3tmCAymhYgeAfyoqVRkDHNivZMHAwz4ujCnRH18fw.jpg"
+          "url": "https://cdn4.telesco.pe/file/Qs2DxdWC2K5kWC9TIyhIOxSUdA58y9z_IsXU4AyqXMGDFQdx6Y-rmd-WKx8oMBoCnwnhGFi3RqZhuduXgD2wW6hvtli6PkEnMOITWXQgOi0ZAkIdMiQYh11n9DFxpNl1sJa-E_1qIr5amIBlWYCknUoUyOMpFYMaZfShowfuMggt3perlqQlSZNl_8MDvkiBP6AQLeJFvfPER-CltAEfqwKvyKH5yjR9vD0j4W01j449unh-rkmcoHJgre1C2lQd7rRU-aGWQKO9X-r36V90kEQYZz57fSi1lbQ-XLzoX2BHC56sXyh3GKzEQ6GhU9iFKsMkevhHyoermhWAtctt-g.jpg"
         }
       ]
     },
@@ -166,7 +166,7 @@
       "date": "2026-07-12T20:45:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 246,
+      "views": 247,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -185,7 +185,7 @@
       "date": "2026-07-13T07:33:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 160,
+      "views": 161,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -204,7 +204,7 @@
       "date": "2026-07-13T07:47:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 160,
+      "views": 164,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -222,7 +222,7 @@
       "date": "2026-07-13T08:36:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 150,
+      "views": 152,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -252,7 +252,7 @@
       "date": "2026-07-13T09:20:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 137,
+      "views": 139,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -270,7 +270,7 @@
       "date": "2026-07-13T10:02:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 147,
+      "views": 149,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -289,7 +289,7 @@
       "date": "2026-07-13T12:02:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 134,
+      "views": 136,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -307,7 +307,7 @@
       "date": "2026-07-13T12:31:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 133,
+      "views": 136,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -325,7 +325,7 @@
       "date": "2026-07-13T13:32:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 136,
+      "views": 140,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -343,7 +343,7 @@
       "date": "2026-07-13T15:49:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 84,
+      "views": 91,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -352,6 +352,24 @@
         {
           "type": "photo",
           "url": "https://cdn4.telesco.pe/file/Kn4eaya4K82tg1_DmoN71b1LpQ0JHm4Nx7GJNEYKGEKNP7-rYijqeZnXEx-lbT09Sg-CGBW9rvHZxeNf4JXi3XEhRgBA1TRHRqyIbXyvdRmvZ44yChXua6iRE6C8NJBWUSHQcYf4zkNZ8d5BV5V2AFdNhaJKBvXv3fS2padI8zPhjx7KgQkzH-qSIfimY3qKRxCd9OqJbsL5yByhSHO_Uf5mYILXNUyzDmAGBSTnrVRTIty_dxxhbc0sPAOWXOZsE-ZoS1DVAQoKRwbbYCms2fg31iHhQomG-u-OQr9A5o-qqRgVVXq0FWHYMkVF66Cf-WEd4gztzTzzNWyaGI4jAQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 19404,
+      "message": "‏بی‌بی زهرا موسوی، زندانی سیاسی محبوس در زندان وکیل‌آباد، در زندان مجبور به انجام کار اجباری شده و مقامات زندان تهدیدش کرده‌اند که به محض آزادی موقت، مستقیم به افغانستان دیپورت می‌شود. زهرا متولد ایران است و مادرش ایرانی و پدرش افغانستانی است.\u003cbr/\u003e\u003cbr/\u003e‏مادر زهرا دیابت دارد و با توجه به ناتوانی مالی برای درمان و تهیه انسولین، وضعیت سلامت او به‌شدت بحرانی شده و در خطر فوری قطع انگشتان هر دو پا قرار گرفته است.\u003cbr/\u003e\u003cbr/\u003e‏پدر زهرا نابینا است و با زندانی شدن دخترش که نان‌آور خانواده بود، عملا زندگی این خانواده از هم پاشیده است. کسی هست که به این خانواده کمک کند؟\u003cbr/\u003e\u003cbr/\u003e‏ زهرا ۲۱ ساله و اهل فریمان و صندوق‌دار یک رستوران در این شهر، ۳۰ دی‌ماه ۱۴۰۴ بازداشت شد و اخیرا به ۱۰ سال و ۶ ماه حبس محکوم شد که ۶ سال و نیم آن تعلیقی و ۴ سال آن تعزیری و در حال اجرا است.\u003cbr/\u003e‏ او از سوی بازپرس قناد، بازپرس پرونده مجیدرضا رهنورد، به «حضور در اعتراضات»، «تبلیغ و ترغیب به ارتکاب جرم»، «ایجاد گروه» و «اقدام علیه امنیت ملی» متهم شده است. \u003cbr/\u003e‏بازجویی و انفرادی زهرا، چهار ماه طول کشیده و بررسی پرونده اعطای شناسنامه ایرانی به او پس از بازداشتش، لغو شده است.\u003cbr/\u003e\u003cbr/\u003eتماس مستقیم با وکیل در واتس‌اپ:\u003cbr/\u003e+905510332575\u003cbr/\u003e\u003cbr/\u003eبات دادبان \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Dadbanbot\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/Dadbanbot\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eایمیل \u003cbr/\u003esupport@dadban.info\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://dadban.info/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eوبسایت\u003c/a\u003e | \u003ca href=\"https://www.instagram.com/dadban2021/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eاینستاگرام\u003c/a\u003e | \u003ca href=\"https://twitter.com/dadban4\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eتوئیتر\u003c/a\u003e  | \u003ca href=\"http://youtube.com/@dadban2021\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eیوتیوب\u003c/a\u003e |\u003ca href=\"https://www.facebook.com/dadban2021?mibextid=ZbWKwL\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eفیس‌بوک\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Daadbaan2021\" target=\"_blank\"\u003e@Daadbaan2021\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%AF%D8%A7%D8%AF%D8%A8%D8%A7%D9%86\"\u003e#دادبان\u003c/a\u003e \u003ca href=\"?q=%23%D8%A8%DB%8C%E2%80%8C%D8%A8%DB%8C_%D8%B2%D9%87%D8%B1%D8%A7_%D9%85%D9%88%D8%B3%D9%88%DB%8C\"\u003e#بی‌بی_زهرا_موسوی\u003c/a\u003e",
+      "date": "2026-07-13T18:11:07Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "دادبان؛ مرکز مشاوره و آموزش حقوقی ویژه کنش‌گران",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/kXGDt-gjbVR1XXryufyHDCjIl_IqPTJN0m-VkzyuWiijJGZ8msckdRbgsC1FGPdlcs9TEOFRnEKItXM0qI0q5MoAmIjxn-MHp2UyB-Y2uBIF8dVBjfjlao6YK9Y4L8iWkSnS6dclOCyjIO9gAsYRIFsGDxIi1YzBBLwHJQeIlOQVtfaSJeMkHt_P5qPcHTmfTP6KLSQCZyt7f7M9nv9JwYrn2ntGcTnS87UVu1xFjgRJ3GlnUs4-kaAp7rz_vONJDRoMksqBv1kIXO2XK-N_EHquArffGU5fECJuEUbAz-ds7lq_8mEohnJBt8Wpg5Ii6Ro-CYXS4Juh1dLuUrNAUA.jpg"
         }
       ]
     }
