@@ -8,159 +8,12 @@
   },
   "posts": [
     {
-      "id": 4406,
-      "message": "یه پرامپت، سه تا AI\u003cbr/\u003eاولی GPT\u003cbr/\u003eدومی جمنای نانو بنانا 2\u003cbr/\u003eسومی در کمال تعجب، Meta!",
-      "date": "2026-07-12T19:31:41Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/LECtPSjGa-k7C1rwTLS3rkT7Y_g3KnvfDiy8QAUqvLSjynVUjCr7O6NOWgz9QH6uJo-IAmArCVhqgjafCULhx5QkNi59XEZcZRko8Csd5PFzvOWbYXSuNHISpShqSuQrNJbiv-AzHM4yFnYrIOsNXpmbV5rfJnQRA3TLWNS3t5QovvP1SeOOp11UCeoqH02QAHBIX-gBRdZ4B1EQuF2M9YLfOvgbxMPIG5-IRvPUjqqNqMYR6QFPRdPsqxW3LfiQDg3EtXArL-kEVSEcO_OcHiNicjmirWlzBZ-z11DPNKcz2Gp0kHTX5vlPYIgnl_Zm6UDWKDtUJBvnEp-4yIxoPw.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/kOX5jY7l_XMXrvLljewrOCVMZho8Ju5YzllHfWotFl1sQ0MsdmaJuVQ3pcWhXQI_9kN79JRmfEysYo2TodOaXXCWCfpQaUU2vZJAWKTj91CealwYlyqFYo6O8T7b5t-575IZnygvWyK5NofyQ5cGkbtBoS46yfVayQger8e7PfHNphAkUXD9eRK9X-cdiIOqpK5tI7I36CFxFY5u08SUUsWaRrYQZlhrzWN8PghTmCHevRvEnTaXWue2xN6acZBnJXLXSBwheftkfOo_ctdm0Jo8Q3VVGXLvItAD3a_xhjCq73uQaju-BGE53GbP2pgHzxuGVHAwmKKZe4RDbqf0eA.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/bkG0cKHAIGHvsfrs5ndj4mJX5iv2da7WpbXsCL5Jf-8SIuEgfz2HY2gNZkzmtfyNGrR-IHjvwLccQA696oWP5oTBRP2C9Qt2Du5NOh2n4JBReHLOl1RUbHYawHPlULrXGOpBl8e_ORW_pVcHFhE-QfL8fl4qdvF_Rt58JTwSWp4966WHobV28_CzJSRDXPHU-8rM0YXVR5k84rYxWmIbrcwp4-fQFRB6WOJbJQeyfD9rLQISS6aBysYpkK0b7A5ZzNpmm2MlwVMRyhHYRoHK_ULu8F-mck-MDZ8uTQ07n7pRGmpZvFA-DLvTJpn-Ufd_GCZluQCDMfUHN5wYFcRx7w.jpg"
-        }
-      ]
-    },
-    {
-      "id": 4409,
-      "message": "برای متا من با شماره مجازی گوگل ویس ثبت نام کردم. نمیدونم که وضعیتش با شماره‌های نامبرلند چطوره. اما با ایمیل که ثبت نام میکنم، با هر وی پی انی، ارور Meta AI isn\u0026#39;t available yet in your country رو میگیرم. شماره مجازی‌های دیگه رو اگر تست کردید، یه ایمیل بهم بدید ببینم وضعیت چطوره",
-      "date": "2026-07-12T19:42:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 4410,
-      "message": "یه دولوپر زبانی به اسم Skillscript طراحی کرده که باهاش می‌تونید به صورت دقیق و ساختاریافته به ایجنت‌های لوکال (AI Agents) بگید چیکار کنن. مشکل اینجا بود که ایجنت‌ها برای کارهای روتین هر روزه (مثل چک کردن تیکت‌ها یا بررسی پایپ‌لاین دیپلوی) هر بار سعی می‌کردن همه‌چیز رو از صفر درک کنن که هم توکن الکی مصرف می‌شد و هم بعضی وقتا اشتباه می‌کردن (Hallucination). حالا با این زبان می‌تونید سناریوها رو به صورت خوانا بنویسید، ورژن‌بندی کنید و با خیال راحت بهشون بسپارید.\u003cbr/\u003eکه چیز خیلی بامزه‌ایه و باعث کاهش قابل توجه توکن‌ها می‌شه:\u003cbr/\u003e\u003ca href=\"https://github.com/sshwarts/skillscript\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/sshwarts/skillscript\u003c/a\u003e",
-      "date": "2026-07-12T19:46:29Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 4411,
-      "message": "به حق چیزای ندیده. مردم چه چیزها که به ذهنشون نمی‌رسه",
-      "date": "2026-07-12T19:47:23Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 4412,
-      "message": "یه گزارش هم بدم\u003cbr/\u003eponytail تا الان واسم توی کدنویسی، فوق‌العاده بوده\u003cbr/\u003e\u003ca href=\"https://t.me/MatinSenPaii/4359\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/MatinSenPaii/4359\u003c/a\u003e\u003cbr/\u003eهمینطور skill improve که معرفی کرده بودم\u003cbr/\u003e\u003ca href=\"https://t.me/MatinSenPaii/4373\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/MatinSenPaii/4373\u003c/a\u003e",
-      "date": "2026-07-12T19:48:20Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 4413,
-      "message": "آیا AI جای ما رو میگیره توی کارمون؟\u003cbr/\u003eویدئویی پر از واقعیت‌هایی که باید گفته بشه. و کسی راجبشون صحبت نمیکنه\u003cbr/\u003eپیشنهادم اینه که امشب شما هم این ویدئو رو ببینید.\u003cbr/\u003eطولانیه اما پر از درس\u003cbr/\u003e\u003ca href=\"https://www.youtube.com/watch?v=gR2OCyKBF7Y\" target=\"_blank\" rel=\"noopener\"\u003ehttps://www.youtube.com/watch?v=gR2OCyKBF7Y\u003c/a\u003e\u003cbr/\u003eبا تشکر از یاشار عزیز.",
-      "date": "2026-07-12T20:06:32Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 4414,
-      "message": "بخشی از این ویدئو که مورد علاقه‌ام بود",
-      "date": "2026-07-12T20:15:20Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/XSO53B7sTkwWaAsTbOKWVEXbGWOfgxbSgcPvZKuGYoXAdnA_ek-7N0JCgjQT5o1bx-_ujXEEZGRX_SYTyiZ1CJ6KI5nmpttVnJZKBVrigJ5B_i3QDqr2bL-Qos0kWrVMkXtY1TmjUg-C_Jd8iUcWugjsdKHf_-WVX-kTSHdLBx6iBMYkYKoO3JeP_QUu7CQ9Ygnlh_vHJdNQdxx_2-0itb3ngLppOYDvcKOQ6wS84OD0e_HOIc-EN6y-38tpsBwKzYpzX0_nuCQodXXJ_KzpfosXZT4TAUfbQfrTwpo8IEyv2BqLzOC9yvcMfEWHjwcrdf0efhv2nN_BSVfpj-5RCQ",
-          "width": 1056
-        }
-      ]
-    },
-    {
-      "id": 4415,
-      "message": "دوست ندارم که ویدئو رو بیشتر از این اسپویل کنم، اما جواب سؤال \u0026#34;آیا AI جای ما رو میگیره یا نه\u0026#34;، اینه که ماهیت سؤال غلطه.\u003cbr/\u003eچون این قضیه یه switch خاموش روشن نیست.\u003cbr/\u003eیه طیفه",
-      "date": "2026-07-12T20:29:48Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 4416,
-      "message": "گویا برق قسمت‌هایی از اهواز رفت.\u003cbr/\u003eدلیلش هم حمله به زیرساخت برق بیان شده.",
-      "date": "2026-07-12T23:45:04Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 4417,
-      "message": "",
-      "date": "2026-07-13T08:26:46Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/DCFPIDEx35cIy-sYjkhvICEVGp7zbJQQa5pMkrF8DulK9FAFNijEX0SlPEorxt8ze2W62JsBHRGb0lHybqzb1a79SgVdQDkJKSu-nTtQ7Zt0Hubi4AzhyTqON-8SAFo7_3zuKCiOUOLO52Ni-jVBezWea-z8EQXYAIAbFLgND3Li1LtLdJhEMScgmZtyEdPNrrdWJogsr41tt9gA8j9ygXm3wuTEs5o2QxNecieRMEbYNgAuau5xRp7PLMJHDG7St18VYR2lY5wQKf70tuRXlOxQGEHAZAzAByCxKrm-e7SY3jgbxAk0GxwQU4J8ClFSaO7qDT0mdlyY1HT_6tAXRw.jpg"
-        }
-      ]
-    },
-    {
       "id": 4418,
       "message": "مأموریت شکست خورد بچه‌ها\u003cbr/\u003eفقط اون جمله‌ای که آخر گفت",
       "date": "2026-07-13T08:31:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24100,
+      "views": 25700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -182,7 +35,7 @@
       "date": "2026-07-13T17:32:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8840,
+      "views": 13300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -204,7 +57,7 @@
       "date": "2026-07-13T17:39:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7850,
+      "views": 12900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -222,7 +75,7 @@
       "date": "2026-07-13T17:43:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7220,
+      "views": 12400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -234,7 +87,7 @@
       "date": "2026-07-13T17:43:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7220,
+      "views": 12300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -246,7 +99,7 @@
       "date": "2026-07-13T18:01:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4090,
+      "views": 10700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -264,7 +117,7 @@
       "date": "2026-07-13T18:02:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3460,
+      "views": 11000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -273,6 +126,202 @@
         {
           "type": "photo",
           "url": "https://cdn1.telesco.pe/file/qFAC_MJWq-lGpz7_kjSL62R7r3nMzsuF-UW1E08t9bww-x0lWxHb_n4hkpDX_dLJ40lzNxsLLYWSxKcw22DEdhY4NFoY_LCtBdCNWODyVWMD-wpVShSVqRQOy-rnPN3yNCJo9nVi0PvMFVrR8WAi2qfJpZayXlUE6tDp3764r5h7-jMC3UfrYUU8bmJrFhr-6Hf2trxtb8E2R_0P3yBihndr_p-wlGk1DrLpFj8DpAGQgWSmCHOEv22st0YLrlk4gqviDpsbXk5nG8bJhuEKBAre9SaVhVbmRZ68OPxjAgeDxK2NH8wqyOsRWpfAJpra3Onnb8LJIlAIV0NwuUnNCQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4427,
+      "message": "چیزی که برام ساخت خوب بود. میتونم بگم در حد OPUS 4.8 + Claude Design هست. برای وان شات خوب بود واقعا\u003cbr/\u003eاون پایین هم زده هرمس باگشه. مدلی که استفاده شده grok 4.5 هست",
+      "date": "2026-07-13T18:40:08Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7640,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/apNLHm2fMJwxyu01dq3ZvF2M6m_CQNb5UzSn5bMGhPab7Aa-zyJQfsnw9kyDx0WSzp5GFSSxgx98gEyCGa_o8odFwe4WZ_EetZ55Xlk4ToUTs3GkcLgD8CODQyrmwG8oMzsgjYmF-WWToAZ7UIbirgBks7MNF4hVEI6kdd8uDD0soAf5rCwLdecjKQa-FxDlU656LMOI71P6lINDENXqz1By8FsrpQDsRP272Y1aqBJC-qfv6KKbJ5xBxrxGc_25hTRYW9MNNxQhTWSELOsu42w8dWGSxlZ_vDIHiTuXQHkUkcLF8V7_brKsmsBLoEZ5oQ9EjsIQFR3Ck-un-urfRA.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/Fk6m6jP3WBu-5tQfZFVgR716FgKU6J2X-PRQnUXs99ztuauiztGBlRqvHJ0HLsg_3-OJfutfyudvqmBQ3xRVGkAnrvaf_1Qu2afDMZJyKzdjTQ3VVFDIDgRF0WJJ19ArZIC2ZsYkNsvUnw2bQKH8FDcXEayxLHJz3jNLEASyA-alAoI2UUSxOzk9gKgDN1Qxf0H306OgWsCWBlQurK_FQqAUt8xR8vDQVaBN8-6GJLYF1Y8cKvuTQSX-oDK94iWEjPEP2LKRRNoW5LelSPFc2kOwT8fms56YX4M7iEyuNVhF53M7c7ZwlJS4V7T9Rjher_mkCt3maKQXLiScbs_8RA"
+        }
+      ]
+    },
+    {
+      "id": 4429,
+      "message": "\u003cb\u003eمعرفی  Rowboat | یه همکار هوش مصنوعی که همه‌چی یادشه! \u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eیه ابزار جالب اوپن‌سورس توی گیت‌هاب پیدا کردم به اسم \u003cb\u003eRowboat\u003c/b\u003e. این ابزار در واقع یه «همکار هوش مصنوعی دسکتاپی» هست که روی سیستم‌عامل‌های ویندوز، مک و لینوکس نصب می‌شه. توی اولین نگاه هم شبیه هرمس به نظر اومد، اما بعد تفاوتش رو متوجه شدم.\u003cbr/\u003eکار اصلیش چیه؟ اینکه یه گراف دانش (Knowledge Graph) زنده از کل کارها، ایمیل‌ها، جلسات و چت‌هایی که باهاش دارید می‌سازه و با استفاده از همون اطلاعات، کارهای شما رو روی سیستمتون انجام می‌ده.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eچه مزیت‌هایی نسبت به بقیه داره؟\u003c/b\u003e\u003cbr/\u003eبیشتر ابزارهای هوش مصنوعی فعلی وقتی ازشون یه سوال می‌پرسید، می‌رن همون لحظه تو فایل‌ها یا داکیومنت‌ها سرچ می‌کنن تا یادشون بیاد جریان چیه (RAG). اما فرق اساسی Rowboat اینه که \u003cb\u003eحافظه‌ی بلندمدت\u003c/b\u003e داره:\u003cbr/\u003e- اطلاعات و کانتکست کارهای شما در گذر زمان روی هم انباشته می‌شه (مثل حافظه‌ی انسان).\u003cbr/\u003e- ارتباط بین داده‌ها و فایل‌های مختلف رو به صورت گرافیکی (شبیه گراف‌های Obsidian) بهتون نشون می‌ده.\u003cbr/\u003e- نوت‌ها و یادداشت‌ها تو دلِ هوش مصنوعی مخفی نیستن، بلکه فایل‌های ساده‌ی Markdown هستن که خودتون هم می‌تونید ویرایششون کنید.\u003cbr/\u003e- \u003cb\u003eهمه چیز روی سیستم خودتون ذخیره می‌شه\u003c/b\u003e (Local-first) و دیتاتون تو سرورهای ابری هیچ شرکتی رد و بدل نمیشه.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eامکانات و بخش‌های اصلیش چیه؟\u003c/b\u003e\u003cbr/\u003e- \u003ctg-emoji emoji-id=\"5237799019329105246\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA7A0.png\u0026#39;)\"\u003e\u003cb\u003e🧠\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eمغز (Brain):\u003c/b\u003e کل ایمیل‌ها، جلسات، اسلک و چت‌ها رو به یه گراف دانشِ به‌هم‌پیوسته تبدیل می‌کنه.\u003cbr/\u003e- \u003ctg-emoji emoji-id=\"5350421256627838238\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93AC.png\u0026#39;)\"\u003e\u003cb\u003e📬\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eایمیل کلاینت بومی:\u003c/b\u003e ایمیل‌هاتون رو دسته‌بندی می‌کنه و برای ایمیل‌های مهم، بر اساس دیتای کارهاتون به صورت خودکار جواب می‌نویسه.\u003cbr/\u003e- \u003ctg-emoji emoji-id=\"5255883984151276991\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eایجنت‌های پس‌زمینه (Background Agents):\u003c/b\u003e می‌تونید ایجنت‌هایی بسازید که مثلاً هر روز ساعت ۸ صبح یا هروقت ایمیل جدیدی اومد، برن وب رو بگردن یا کد بنویسن.\u003cbr/\u003e- \u003ctg-emoji emoji-id=\"5447410659077661506\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eمرورگر اختصاصی:\u003c/b\u003e یه مرورگر ایزوله داره که به ایجنت‌ها اجازه می‌ده فقط به اکانت‌هایی که شما بهشون دسترسی دادید وصل بشن.\u003cbr/\u003e- \u003ctg-emoji emoji-id=\"5224736245665511429\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EA4.png\u0026#39;)\"\u003e\u003cb\u003e🎤\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eنوت‌بردار جلسات:\u003c/b\u003e به میکروفون و اسپیکر وصل می‌شه، صدای جلسه رو ترنسکریپت می‌کنه، خلاصه‌ش رو تو یه فایل مارک‌داون می‌نویسه و گراف دانش رو آپدیت می‌کنه!\u003cbr/\u003e- \u003ctg-emoji emoji-id=\"5339181821135431228\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92BB.png\u0026#39;)\"\u003e\u003cb\u003e💻\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eحالت کدنویسی (Code Mode):\u003c/b\u003e می‌تونه همزمان چند تا ایجنت کدنویسی (مثل Claude Code) بالا بیاره تا بر اساس کانتکست پروژه‌هاتون براتون کد بزنن.\u003cbr/\u003e- \u003ctg-emoji emoji-id=\"5129776107888837684\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F948C.png\u0026#39;)\"\u003e\u003cb\u003e🔌\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eپشتیبانی از MCP:\u003c/b\u003e می‌تونید راحت به هر ابزار خارجی مثل اسلک، جیرا، گیت‌هاب و توییتر وصلش کنید.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eآزادی عمل توی انتخاب مدل\u003c/b\u003e\u003cbr/\u003eیکی دیگه از ویژگی‌های جذابش اینه که می‌تونید مدل زبانی رو خودتون انتخاب کنید. می‌تونید کلید API خودتون رو بدید (مدل‌های ابری) یا اصلاً از مدل‌های لوکال (مثل Ollama یا LM Studio) استفاده کنید تا حتی پردازش‌ها هم کاملاً آفلاین باشه.\u003cbr/\u003e\u003cbr/\u003eپاسخ خود هرمس به تفاوت این دو ابزار:\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003cb\u003e۱. هرمس (من): یک دولوپر و ماشینِ اجرای تسک\u003c/b\u003e\u003cbr/\u003eمن برای \u003cb\u003eانجام دادن (Execution)\u003c/b\u003e ساخته شدم. رابط گرافیکی سنگینی ندارم و دقیقاً مثل یه دولوپر سینیور تو ترمینال یا چت تلگرام نشسته‌م. تو از من می‌خوای یه اسکریپت پایتون بنویسم، داکر ایمیج بسازم، یه ویدیو رو با FFmpeg فشرده کنم، یا یه کرون‌جاب تنظیم کنم که هر ۶ ساعت اخبار رو اسکرپ کنه؛ و من مستقیماً با هسته‌ی سیستم‌عاملت (لینوکس/مک) درگیر می‌شم و انجامش می‌دم. حافظه‌ی من از جنس «مهارت» (Skills) و دستورالعمل‌هاست.\u003cbr/\u003e\u003cb\u003e۲. روبوت (Rowboat): یک دستیار اجرایی و ناظر\u003c/b\u003e\u003cbr/\u003eروبوت بیشتر شبیه یه \u003cb\u003eمنشی فوق‌هوشمند\u003c/b\u003e با یه رابط کاربری دسکتاپه. کار اصلیش «نظارت خاموش» (Passive Observer) روی کاراته. تو پس‌زمینه ایمیل‌هات رو می‌خونه، تو جلسات آنلاینت صدای میکروفون و اسپیکر رو شنود می‌کنه تا خلاصه برداره، اسلک رو چک می‌کنه و در نهایت همه‌ی این‌ها رو مثل نرم‌افزار Obsidian به یه گراف دانش (Knowledge Graph) متصل می‌کنه.\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003eلینک سورس گیت‌هاب: \u003cbr/\u003e\u003ctg-emoji emoji-id=\"5271604874419647061\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://github.com/rowboatlabs/rowboat\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/rowboatlabs/rowboat\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eلینک دانلود نرم‌افزارش:\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5271604874419647061\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://www.rowboatlabs.com/downloads\" target=\"_blank\" rel=\"noopener\"\u003ehttps://www.rowboatlabs.com/downloads\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
+      "date": "2026-07-13T18:59:00Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4250,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/VfSiSv9jRym2_0SuaQOiNVS052XmItQZKvQnmplebKe2oWoph_lds5uZebDzoWB1N3JF6gFe8V18Od6W0fsW3oxumA8ZSlAeuw2jLNeNFDSJhfY2Em96nuVAoEhB4yydvCGWyZPuXZiWk-GnM-aMnlCqFkh0Tz-EEUlNcIsaIuYobI5Ik5zHIvuNyq1j2FEzcX6VMG7aXC-kKE7IC7OUgV8A86o5ushXaH0bRvWeOt-4mUkSQx1O0u1wAWxPlZK8daoaroTfR5CWC04DFk6-vvRcPhSBrbdYp4CYHNPF9HNMOoNTBEuoG5eGIwUFg7gVv2ZZbDFqk58LuN2AUxWE4A.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4430,
+      "message": "تصویری از گراف دانشش",
+      "date": "2026-07-13T19:04:05Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3410,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/AW_0Dy-53Yl481LxuJI2Vq8ClAEloXh4H_bZ_2mlz5TBV0RKZDSeTDew0zxk9J53hmGkHvOKeQY_hahU1-obzgwZhg5Z0dz7up6vpCHJROX_LxMnqpOQDj2m3gKW0jPGR2pLuKKB8WVNtrNI9Lxp9FgKwgaWxelrGXHC5d5H27ERBdc8uVMZKA27wkrAuJghejmLnXoYZ1ixUBZXtmJ8E-LYsPRZWfSaKvMUurfMWJ76E6FLnp7y0RRacWy-UHXP_kuPj6kf4JN5vh0pGAduFOXch4685fKq3XntSVbODIkn-VwowLuMdqlse2KmepQ9j1BhsRO_mLNtFg8SvP_Ghw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4431,
+      "message": "بذارید تک تک نشونتون بدم\u003ctg-emoji emoji-id=\"5210956306952758910\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9180.png\u0026#39;)\"\u003e\u003cb\u003e👀\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-07-13T19:05:28Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2920,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 4432,
+      "message": "1- بخش Brain(مغز)\u003cbr/\u003e\u003cbr/\u003eکل ایمیل‌ها، جلسات، پیام‌های اسلک و چت‌هایی که با دستیار داشتید رو به یه گراف دانشِ به‌هم‌پیوسته (دقیقاً شبیه استایل نرم‌افزار Obsidian) تبدیل می‌کنه.",
+      "date": "2026-07-13T19:05:38Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2670,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/XBA-ToFb8Ns91A7CqbhDhK4HDKhMaP3GoEY7-I14TQ41pMy4McYywWFBRfgvr2No5GfckxdFk_4SA8MG07YFTmifBOGl4tu1TrgI0ZWghm10OEj5jxiO0Y_nLkDB51flKqQtSSve5t2er9RdfdjV-dpzBsVWqix7NjCS3VnDVUJdGr8RK32udRDavXQIXjFKIn087O1N_zlqZqYXdYZHa3MabpuOOTNe7bBWbEQBHIiieOGmDN19WNviR2Rc5oCgS-ViUX88A4tvGvZtgs6dFtzbcBrFehGSq1TOF75BcCxcZx84dC5e1jQ-pxGORqpVvHrveYzw3e0IkC1DncxShg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4433,
+      "message": "2- بخش Email: \u003cbr/\u003e\u003cbr/\u003eیه بخش ایمیل داخلی که ایمیل‌های مهم رو از بقیه جدا می‌کنه. بعدش با استفاده از تمام اطلاعات و دیتایی که از کارهای شما داره، به‌صورت خودکار برای ایمیل‌های مهم پیش‌نویسِ جواب می‌نویسه.",
+      "date": "2026-07-13T19:07:40Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1890,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/hsSxms2hkYO6E0mSpRq4AEybpitAqGUY1xYii4ec67QlS--4EXWmUjBjx3jjuXl7aqMbxgJP8sFZaAKPaH4C5MDkWSQYkSp1VDCWrs_mLNY9yu8TC9Gd4_PhTN9FrdRBnaKLiacm0USEgcOMryNCGfsjQ25Hm5Jhc31cr-24CWObZ05UWKcMy24YSwCRFtStfehJneILXcW490x0vv32Pm0X4HbStHjtvAq4msCtoDXwaO4QBXROK0gVPmoqM30SDFZXSxaTccUq3cexKtunEiyup4r1WKGWoCZ_paqDjndQx0_jvRvPaEyLQyFvntzm0Xo8c6pfguowvmkxS39DZw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4434,
+      "message": "3- بخش Background agents:\u003cbr/\u003e\u003cbr/\u003eمی‌تونید ایجنت‌هایی بسازید که بر اساس یه اتفاق (مثلاً دریافت ایمیل جدید) یا بر اساس زمان‌بندی (مثلاً هر روز ساعت ۸ صبح) اجرا بشن. این ایجنت‌ها می‌تونن به ابزارها وصل بشن، تو وب سرچ کنن، از مرورگر استفاده کنن و حتی با Claude Code یا Codex براتون کد بنویسن.",
+      "date": "2026-07-13T19:08:27Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1890,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/VBgnNmVRRefEEREspYk7vbQSGm8OmMr-j-df7_u5UdctaG4L3jnPDCUKMc3aWLTXltJaoW0IxZr3m42dDdBTTdrs5cbAe_WkJEXOxujm4jl-63KPFXKPmenNOfuGDTBwQ_FHTwUvLnwSjTBB-I4l4HTgEffFC69ygO9Wtf0Ait6cTyy4jQr99SSTT7q2zuuCa8Pjea8Jn1MJRmhkLX_q_jA3PN4Q3YenZjVDWudtb_Gf4cSV53I3TT-4kF8UXf9sPVrehVj_Sa1Z7mlqLR6_OB_fNrT5C9aoA6yVoORrnhuNAxHi-S7aFJxppKr2Hy0g2HefX8AbJg5fI2UFRYxAoA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4435,
+      "message": "4- بخش مرورگر اختصاصی:\u003cbr/\u003e\u003cbr/\u003eیه مرورگر  Built-in داره که اجازه می‌ده شما و دستیار هوش مصنوعی روی تسک‌های وب با هم کار کنید. چون این مرورگر از مرورگر اصلیِ خودتون ایزوله‌ست، می‌تونید فقط تو اکانت‌هایی لاگین کنید که دوست دارید هوش مصنوعی بهشون دسترسی داشته باشه.",
+      "date": "2026-07-13T19:09:16Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1250,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/KlTnY8WAYqngLYPrP2FqKe_IcqRV-NwoCOzpaufbIrhK7aphLT14jXLol7F8tQb4SFMaUzMzEyaTZxt7q7LtdK88H0Pw8sZqoH0-o1o827vC1dStCd7kNkrsiAzSg1haV49DRj-7wYWD94PO3vcUMhKL9BrTph4RHl5zeS01AM9dqBIluCwLUGIZzpz8h1cxyabch3embg-K4IHituJgkwKkIGcqWhCxjBQKzPdE7AWmeSmhHh7eXIcV2hkBgGhK0DbowxepYOqf89jHRlotXxBszhidjq3cBV9gVMzH-yHEH8cOr8c90gP1ODqIXbpBwD-jOGTvAMdgL-y2k96LEw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4436,
+      "message": "5- بخش Meeting Notes:\u003cbr/\u003e\u003cbr/\u003eیه دستیار محلی داره که مستقیماً به میکروفون و اسپیکر سیستم وصل می‌شه، همون‌موقع صحبت‌ها رو تایپ (ترنسکریپت) می‌کنه، در نهایت خلاصه‌ی جلسه رو تو یه فایل Markdown بهتون می‌ده و گراف دانشِ سیستم رو هم آپدیت می‌کنه.",
+      "date": "2026-07-13T19:10:37Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 310,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/R_jBPEEPvf7m_z1yX0QIpaqpNoLBB1kTXl01zDJHvrbFcMk7NCxxWcPesF6CpL6uy4C-OtCuNJYFEpEQE4I2KVnpCjeCNFRa7wZ1r3CtoBWkm4RR_QGgdCrMNOCJQ0QF-dEo5QToW08qP7TQgQ0I66wOaZXZ44kIhyBwvNzrXxyiiQxKQMXymj5X0prR9s8QI9ACoEpCEJktHgWHKP0ENuS1_z5fQrp5NKT0Qa15yZWm-tv2Rd-lQbuDCve_4YGDjGdjS183fwze38M3UWCGb1tVNOgu8f0InnEvCCGeyFKnQ8abM4BhIP8IfrQYcUB2PAV-LiUxdLRlyfvvx_VhRA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4437,
+      "message": "6- بخش Code Mode:\u003cbr/\u003e\u003cbr/\u003eاین بخش بهتون اجازه می‌ده همزمان چند تا ایجنت کدنویس (مثل Claude Code یا Codex) بالا بیارید تا Rowboat با استفاده از کانتکست پروژه‌هاتون، اون‌ها رو هدایت کنه و کارها رو پیش ببرن.",
+      "date": "2026-07-13T19:11:09Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 306,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/ItGyun7qCyesoo6_VsGAEQbBqaFqmDDb1a8umkeFYSsHyW9Ez7_MPLNcFaqKG_TQyct5RZzzxp8AC_Sm3cxBoclP8FP7tEUDlmm5ejLAizuljXGYK8kVoQXnHPIhSLW9K0YHnxJDIR9cOQs2ITZk0BqTtdyXejlG_RQ36qXOin5NIxRd_BNrVmlpNBH0BHsd5hvMbcCpPPz2Ljt_rplCshzw1c2uWquGcqVUEbOktmUE0kTnvzBPx0iJNOpk8IvuTC5lZvfqVKV8Jl38xRlPUlXif8g2vKumLlruVSv96QQJ0BVXl3zLnoRp4blmTtPLON4vmmxtrsbnqBG_h30kEQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4438,
+      "message": "7- بخش Apps:\u003cbr/\u003e\u003cbr/\u003eمی‌تونید فضاهای کاری اختصاصیِ خودتون رو داخل Rowboat بسازید؛ این اپ‌ها به تمام ابزارها و اتصالات دسترسی دارن و حتی می‌تونید اون‌ها رو با بقیه به اشتراک بذارید.",
+      "date": "2026-07-13T19:11:48Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/Ab-gkFA1jDTMHEmf3RsGINZ6jTBcJa6Cafc6AxrVBMVRL-O6QlSbXeYQwjnXAfMpLq81-1VJGc9dKQ1RCBmM7kr2z5SoCsTwIdLqNrbtC3BfdmtC3F2HILmspVQT8cXJiyL8xfJyrIxUeqHCowFJ0j8vu7yhjCVYO-ZJCmIcUaJBk8COX_Xoymxnrxr2u4eb61TuXd24swaWKv70l4zViQbNlmWvZtIjEK3c2al78gyUYMuWrLZwqjB_UIN-CRVYhIM-tqv-RxKuA7s-t7nH7r5Go0AmitXewcMpCfuv7jt8lz28QvjGg-GgR-StshTyo3I1fgCtPh9EWt6NgD4K9w.jpg"
         }
       ]
     }
