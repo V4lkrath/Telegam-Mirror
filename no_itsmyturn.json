@@ -59,7 +59,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://telegram.me/no_itsmyturn/110832",
+          "url": "https://t.me/no_itsmyturn/110832",
           "width": 320
         }
       ]
@@ -294,7 +294,7 @@
     },
     {
       "id": 110852,
-      "message": "\u003ca class=\"tgme_widget_message_author_name\" href=\"https://telegram.me/no_itsmyturn\"\u003e\u003cspan dir=\"auto\"\u003eAleph (no_itsmyturn)\u003c/span\u003e\u003c/a\u003e pinned Deleted message",
+      "message": "\u003ca class=\"tgme_widget_message_author_name\" href=\"https://t.me/no_itsmyturn\"\u003e\u003cspan dir=\"auto\"\u003eAleph (no_itsmyturn)\u003c/span\u003e\u003c/a\u003e pinned Deleted message",
       "date": "2024-01-15T10:01:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
