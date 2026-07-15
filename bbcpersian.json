@@ -13,7 +13,7 @@
       "date": "2026-07-14T19:55:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 41000,
+      "views": 42200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -67,7 +67,7 @@
       "date": "2026-07-14T20:06:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 41600,
+      "views": 42700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -79,7 +79,7 @@
       "date": "2026-07-14T20:22:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 37200,
+      "views": 38500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -91,7 +91,7 @@
       "date": "2026-07-14T20:35:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 39500,
+      "views": 40900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -109,7 +109,7 @@
       "date": "2026-07-14T21:01:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 34300,
+      "views": 35900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -121,7 +121,7 @@
       "date": "2026-07-14T21:02:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 37100,
+      "views": 38700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -133,7 +133,7 @@
       "date": "2026-07-14T21:15:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 34000,
+      "views": 35600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -145,7 +145,7 @@
       "date": "2026-07-14T22:11:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17400,
+      "views": 20000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -163,7 +163,7 @@
       "date": "2026-07-14T22:26:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13100,
+      "views": 16200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -171,7 +171,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/QHwfim-iNzcdIY3-7YmSvpufgcWkU2VDn_uY5ADRRXgqtB22vDqha5XJfUhZfj6QC8hBH_KNWectuiSZdnVijwf1IJmapKrqkZt6CtvwiraXZb3wnG7OID5L_4vFN1M24siWo229-179UkOwnC985J3OXI7T8ntc4vaPC6cUxcSI8KN5X8DO8FKXr82dSYMVz1EDeyOay3BggqTslmD4ir18BXAwgpI8WbRQ9M3LPjK1yGPTYsHILJfDl4Sj-gbKurggWDAVr_a6OuK0fJQtUovOEpz3m054mFDp1-Y4F6Fmcl7vCYU7nfTI7UBcsM4zjvx6bz4-FlHUmJQL8FeBQQ",
+          "url": "https://cdn4.telesco.pe/file/ktz0iSUPV7ubLMPPTTqfdUs_a8XX_VJxgeSDJ5AXvyphHDS5-C0MM0UuJESpbFH3IsF_s1ASzf7I5IDpxdboEGnytis2hFkaCxBz6lkZEhYiIsyuzJ_yeNdsmep3iKIE2366R6IpGtQuEGfH0qyc09jbstGt-ervxKt1yGP2-ApRtoShH_N2Afw68HHTAqGGjx1j1Qp1fODSRXzn67iE888uCPyNpGfKp_82G7jsbvpdoPs1xUyeBoS0-IGXRMPaB6VE_hsXm_R2SpXrTwGGpwCR1TJKXMtlx2_reOo4z5oQsvxnQXkmR9Wpm1Xi7Hyt8C52NqS8k7aN1IQ-FsIVdA",
           "width": 352
         }
       ]
@@ -182,7 +182,7 @@
       "date": "2026-07-14T22:46:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9200,
+      "views": 12700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -194,7 +194,7 @@
       "date": "2026-07-14T23:13:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4680,
+      "views": 9350,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -203,6 +203,52 @@
         {
           "type": "photo",
           "url": "https://cdn4.telesco.pe/file/J6tK2_8RF4vhteKKEP37S3BMeov6E9-B0opp03SBB6XbUZTwUGkraIVBy-fKxy1hOSTNPpcR9U6949Qj7QviIeUXH2n122n0fSdK4EiVKMR9BMsZt3LOmON23K8wTA3AMlxhbACiW9Ib469BOBgnPHTidrZmfMg9mlwMtlXmkUWON0f-xDCj2bRBniRwwghGvskI89scfZzTZnuR5SuSsHMFdrKs-h5J79UyVa--aFKBnmxAtOcrPyHIZxWZ0n1rmP47-qjEwtRWLeRWGaq00qeNy0UW2OM5b-lVpki5lXssta-Xwm7sLGB1qJhvc9edWrlxVlhnP_NZsl7oYzTvaQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 286638,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F968B.png\u0026#39;)\"\u003e\u003cb\u003e🖋\u003c/b\u003e\u003c/i\u003eبن استیل، مایک رادفورد و جورج رایت\u003cbr/\u003eبی‌بی‌سی \u003cbr/\u003e\u003cbr/\u003eهشدار: این گزارش حاوی جزئیاتی از خشونت شدید و اشاره به خودکشی است\u003cbr/\u003e\u003cbr/\u003eچهار سرباز روس از وحشت و بی‌رحمی حاکم بر شرایط نیروهای روسیه در خط مقدم جنگ اوکراین پرده برداشته‌اند و دو نفر از آن‌ها به بی‌بی‌سی گفته‌اند شاهد بوده‌اند که سربازانی به دلیل سرپیچی از دستورها در جا اعدام شده‌اند.\u003cbr/\u003e\u003cbr/\u003eیکی از این افراد به گروه سازنده یک مستند گفت شاهد بوده است که سربازی به دستور فرمانده‌اش اعدام شده است؛ فرمانده‌ای که در سال ۲۰۲۴ میلادی عنوان «قهرمان روسیه» را دریافت کرده بود.\u003cbr/\u003e\u003cbr/\u003eاو گفت: «دیدمش؛ فقط دو سه متر آن‌طرف‌تر بود... صدای شلیک‌ها بلند شد.»\u003cbr/\u003e\u003cbr/\u003eسرباز دیگری از یگانی دیگر می‌گوید شاهد بوده است که فرمانده‌اش شخصا به چهار نفر شلیک کرده است.\u003cbr/\u003e\u003cbr/\u003eاو درباره سربازان اعدام‌شده می‌گوید: «آن‌ها را می‌شناختم. یادم هست یکی از آن‌ها فریاد می‌زد «شلیک نکن، هر کاری بگویی می‌کنم».»\u003cbr/\u003e\u003cbr/\u003eادامه مطلب را از لینک زیر در وبسایت بی‌بی‌سی فارسی بخوانید. \u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B8.png\u0026#39;)\"\u003e\u003cb\u003e📸\u003c/b\u003e\u003c/i\u003eBBC/ Ben Steele/ GettyImages\u003cbr/\u003e\u003ca href=\"https://bbc.in/4yj0tBT\" target=\"_blank\" rel=\"noopener\"\u003ehttps://bbc.in/4yj0tBT\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/BBCPersian\" target=\"_blank\"\u003e@BBCPersian\u003c/a\u003e",
+      "date": "2026-07-15T00:13:25Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 551,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "BBCPersian",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/ZxZh9pXCvlRMhLu9yfvMAET4VxyTVV4TKTEPD9AkO9qAVOnjzwdR4N8bAt6AVkVhr_84eHO_9MrtzeyOcWMo2N844rM714spYI36jsO8vgkwQTBKUJQGd1MpDbIhNAErHrU4K009t5KHfnz4bFFhEFPcbnmRTDoaIXF1W_35otaQJao48gVBpQbXXzf3D9fdlqIwSvpBkHFQ1qR-Yr7mhDqAsPirhypNBUi4gTUaSJ7FOxiKpaHcFd0CbJaScs5RSDaxbh5rRxCmxL8gNcqZWVbOGp5_rxEbV4D92AltqLx4shjbmQOQMefLJrt6lvovHIVyra6h7impc9AB6w92PA.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/srQJD31cihvoXp1y5RHDKdfOTAjlCLyDKxE0NHI00yDO17IT7cbB6wu91K4NMKpt3fnZ9exvMId8Zxjbzh8cAEM0zOh7AA5HI_mlplmhN7s1a6zwTi05a6yVJPtDBivwJr8xtRokAxMLVD1aYwGcI-izRCPWSo2NIEQ1l551gZXkl0UaLu8I1Bsq6P2ciQ0QdUTP9VzaI-XqLlRCO_qq9yaQuOIdcQfGSvqulslBkFF2dydQbWR-bavr_ul0xsOQGUja9X75byuOLsGivXXWgbD8ScCzYMRrs-gF0mIl8f5u2JZXo67BZw-zymsrgHeEBowoH_2B4tzbDi9x-Bww-w.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/dkUIQWXKA6YMH3K10Qc4kUqBXCUVrl8r7yhD5XP0Uwaf_e8YWCJGYuH7_wSzjyi9CrC5faabTQ528Ap4Yud6GCOJhvgdF_uxVrVXGCv-lRq-MeTl98M68LbYmxAYnzhoPGZnthXIghpFm8tmhuovYI5pspJhoAcFR6nq_CMJjjDaBifP-IYvdGcfp-yK7JBtfCCHVlECiT0QyG9-Q15vO1O2mNQK6SykSL-LeRdJHsgVULVsZNEx6Hiwwt-kix52nmtg28bDzhyo0oMeX-FyWc2ihu26iUV4qC_Da7tqOyaRKYgZT8PxHQ4UwpEcKZlkQqjo7YcSMBsjmbSjBEmPVw.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/hG2IZ_TxYfyIeQu4vzie1x7KHp_-ssv6N7oust9jHgeSJF_tbGJUtVQaY9y98lvuPOiGBFKgxrUL2Dv0IxcdSi2tHFjHljghVFbwbzgQJiz-mSRqFjnp3uqYS-K1XW9iwNEOJbx2-KPV2W_0UwP2D3sHsdnkM0vBawucw0gmIA98AcQ2UBceyqvNim7pBCAbLrPJT-P_nrcrcsy1cGxv1duv-qGEaSwrhlHo_3QnH1GDFdiwn8BbM5iDaWa6eLlIOigoR6kHUITTujThlTHwqzPrdBcCFSQ_FvUnf7m8loFEr262lGAk2Fz5f2J-5uGCMvfhjJ3qClGCSaoksX6-fw.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/SXOaYfkOeFRfRSWGg018E3VtPXwEjpFlGnYq4XNT9N-REzLuVeo_ZPqwR7pfnSMcxj37HGOs8Uopwr2eLPb57WeDuXweYqhEJj9qHojXbySVCfMkdQqyrpsN7I5Yt-1lOCihsvzBYN4xFxADb1br_xxUP20bj6JNsfiaeD45V9csQZCHrWpikP5OcBzAoHyKWxeE1BuH8jzowdSGoZ7TQDMRIPeKHPYmnbfTpXzyTEkeQUaaOcIFdn83DV_QiYIF8Qrm5GvUcT0sE7NVFgC4yptJN4v4ySjqCjoWgNIIQW0a6jKJ3ieQHFgfV1HSUmr0oKMKhvfEgxCbQ69V5Kx_sA.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/ACnlENnABzsoSBseCeUQeUfwk9rUZZOQE5IkcFIy6xvrpyVcjP3cgg5a_ltpBN_uOu9iP7bB17UgQK_7ht2klXOGgHo5O1TUgjT8Q11R5LkexN_79rQ26yLz8XMaeejI9hpYHuw5ATZ3eUv35J5MatroIsFpnlhVvoizajIWtDxdL4qoTlZcGfKEROTpi_7rcrMOCoziJyrjJvyOddE6W9s-oEpf4lak6mehrOgsbK7JK-OUm4hmgs8HUnlVO8xHSrWnFEBWfI1NfLGQhmgpT_xedW51Sqj4Tyvr6ZXNBMKu23b1rM3AaXBEqyn1xbp_qejr0p-7VsjQpZu4awSVdw.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/Sibg86S8KcJXFTt6jh6DPOZvlXMjJlvZhiF0cnJbdfh0Ng1J43NgEoMvR1G-R91ShfD8npO44ujVijHPKe0EWUN7s9yEJQ-CFOKszTTnogjsp-ySxRy0Gk6QBSRTcQcolmfDufYX5mU3ezMt-L0h7jkrYpeAiaTCXXqULVL7u0t2IXpHEyK1PW44x1Ws4GWYHnf9mNycE_wi_QOpTziCVcqZpTQuBgb-bbz12KiTkO4a7_ZOWvpojyf_LAz-Od0c7ALnbqB7dj1XFf_9HRVzC7cGWx4eYiOrBr05_0Sf0OXjzkHm9KXNOMEeWx1Tmp0PnnkrGlRqXIEeVM4C3kANvA.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/clfEoFmcMmHmQZjb6QQlhzNHwAgcHm2WUzZbce1FAv_OsbTl67J_oJms4sLpd3AYiVTfWrbUp7wpZeNOPevmdx8Ks_BeFbeYBroh0yZqlTIaYeRcxlz0sr_UdIf_bIB0klGdjYomtD13N5AFWqqbKp2HDTTnVn-uNP-TsnmhdnLVSwfUbp-obEMlG-FbAlZYkS8L2D14jaXnu0-d23e9t-wQliR4ar_GoGK-mJ60ccSxOLDKoVrc-DKot4PgqxQKLy6tQ7WeU3zL0JPTS1Uq8amhgZKi0XlCdhaxbAftnndT4XBJIgXTDbgVpEmoeRS8Buom5_dl3csYZ-Zy02VjRw.jpg"
         }
       ]
     }
