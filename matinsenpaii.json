@@ -8,265 +8,114 @@
   },
   "posts": [
     {
-      "id": 4502,
-      "message": "همراه اول Masque + Balanced ترکیب خیلی خوبیه",
-      "date": "2026-07-15T16:11:45Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 4503,
-      "message": "این‌روزا تماما بغضم. از دیدن این وضع زندگی و اینهمه فشاری که به مردمم میاد\u003cbr/\u003eاز اینکه حتی نمیتونن یه زندگی معمولی داشته باشن\u003cbr/\u003eاز اینکه نه نونی هست برای خوردن، نه آینده ای برای امیدوار بودن..\u003cbr/\u003eهر روز میبینم که قطعی برق چه ضرر‌هایی داره به مردم جنوب میزنه..یکی رو خودش بنزین خالی میکنه، یکی از شدت فشار جلوی دوربین گریه میکنه..یکی گوسفند مرده رو میذاره رو کولش که ببره برای زن و بچه‌ای که دوساله گوشت نخوردن..\u003cbr/\u003e\u003cbr/\u003eچی میتونم بگم، فقط اینکه پا به پاشون من هم غمگینم..",
-      "date": "2026-07-15T17:32:27Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 4504,
-      "message": "اگر کانکت شد و پینگ نداد، ۵-۱۰ ثانیه صبر کنید. اوکی میشه\u003cbr/\u003eعجله نکنید",
-      "date": "2026-07-15T18:36:54Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 4505,
-      "message": "\u003ctg-emoji emoji-id=\"5812037770301938686\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8DB7.png\u0026#39;)\"\u003e\u003cb\u003e🍷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eدرود به همه رفقا...\u003cbr/\u003eآموزش ساخت کانفیگ bepass uoosef \u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e1. از یکی از لینک های زیر پلاگین bepass رو دانلود کنید\u003ctg-emoji emoji-id=\"5978787831164704530\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e•  \u003ca href=\"https://github.com/bepass-org/nekobepass/releases\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/bepass-org/nekobepass/releases\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e2. پلاگین رو داخل برنامه نکوباکس فعال کنید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e3. وارد لینک زیر بشید و فایل worker رو دانلود کنید\u003cbr/\u003e\u003cbr/\u003e• \u003ca href=\"https://github.com/bepass-org/bepass-worker\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/bepass-org/bepass-worker\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e4. به کلودفلر برید و یک ورکر بسازید وفایل رو داخلش اپلود کنید\u003cbr/\u003e\u003cbr/\u003e5. ورکر خودتون رو در فرمت زیر قرار دهید \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://name.workers.dev/dns-query\" target=\"_blank\" rel=\"noopener\"\u003ehttps://name.workers.dev/dns-query\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e• /dns-query \u003cbr/\u003e\u003cbr/\u003e6. فایل خامی که باید در اخر ادرس worker خودتونو داخلش قرار بدید  داخل لینک زیر هستش \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://rentry.co/bepass\" target=\"_blank\" rel=\"noopener\"\u003ehttps://rentry.co/bepass\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5312536423851630001\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A1.png\u0026#39;)\"\u003e\u003cb\u003e💡\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eخلاصه و نکته:اگر حوصله ساخت این کانفیگ رو ندارید میتونید از کانفیگ اماده زیر استفاده کنید و از نسخه ۱.۳.۴ برنامه رو بریزید:\u003cbr/\u003e\u003ca href=\"?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF\"\u003e#کانفیگ\u003c/a\u003e های آماده بدون نیاز به ساخت:\u003ctg-emoji emoji-id=\"5470177992950946662\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://rentry.co/bepass\" target=\"_blank\" rel=\"noopener\"\u003ehttps://rentry.co/bepass\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e(این کانفیگ هیچ ربطی به پنل هایی مثل نهان یا bpb نداره و کاملا متفاوت و نتیجه دیگه ای داره به خاطر وجود پلاگین یوسف د نکوباکس)\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%DB%8C%D9%88%D8%B3%D9%81_%D9%82%D8%A8%D8%A7%D8%AF%DB%8C\"\u003e#یوسف_قبادی\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/xsfilterrnet\" target=\"_blank\"\u003e@xsfilterrnet\u003c/a\u003e \u003ctg-emoji emoji-id=\"5053169761232356354\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Paradise_Of_Freedom\" target=\"_blank\"\u003e@Paradise_Of_Freedom\u003c/a\u003e \u003ctg-emoji emoji-id=\"5312016608254762256\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
-      "date": "2026-07-15T20:01:30Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/mpAL-E7HWqYCBfADeQ5_7Qir9pnBTmm4cle3aybOgDQ1PAGJUBsEDnRT9qzWEOFdzhJe7F0_Nit84slR8tX-nbZcBvd2d0ehkp7u97aeXRGI0Cow62rsQKhuMWMyACANSmVvItmrk3we7SsADogCvITPNRk5wXpJAVXh0rsVI_XKfWJo6xYDRIOUNCPhFuPmaCY2m3ihS9tRkvVnTqpTKl2npENrw4hChnBheAkyGqxS9jRNfA_tiYrVxFLqXfVpJwVIkdSAFyqS3O4eLGb_Iln6ji2xViDzU8Yn9QUd_VzWoFDv3uFKPHHcLOQrKdgCRRnygN5etwlT6BfZBkUBkw",
-          "width": 576
-        }
-      ]
-    },
-    {
-      "id": 4506,
-      "message": "اپلیکیشن Aether-GUI آپدیت شد به ورژن 0.3.0\u003cbr/\u003e\u003cbr/\u003eتغییراتی که توی این ورژن دادم:\u003cbr/\u003e\u003cbr/\u003eالف) آپدیت به هسته‌ی 1.1.1 خود Aether که سه تا قابلیت داره: \u003cbr/\u003e\u003cblockquote\u003e1- دیگه وقتی می‌نویسه Connected، یعنی واقعا Connected! تونل الان به‌ صورت سرتاسری اعتبارسنجی می‌شه تا مشکلی که توی اون برنامه متصل نشون داده می‌شد اما هیچ ترافیکی جریان نداشت، برطرف بشه.\u003cbr/\u003e2- خودترمیمی MASQUE — در صورت قطع شدن تونل یا شکست توی اعتبارسنجی، Aether به‌طور خودکار مجددا اتصال رو برقرار می‌کنه.\u003cbr/\u003e3- اتصال مجدد سریع — آخرین تنظیماتی که باهاش تونستید وصل بشید به حافظه سپرده میشه تا سری بعدی خیلی سریعتر وصل بشید.  \u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003eب) مشکل ارور setup prompts برطرف شد کامل\u003cbr/\u003e\u003cbr/\u003eج) مشکل بافر نامحدودی که باعث افزایش تدریجی و مداوم مصرف پردازنده توی حین مسیر اتصال و توی تمام سیستم‌ها می‌شد، برطرف شد. الان مصرف CPU نزدیک به 0 هست.\u003cbr/\u003e\u003cbr/\u003eد) تمامی کتابخونه‌های غیرضروری و سنگین، حذف شدن\u003cbr/\u003e\u003cbr/\u003eاز اینجا دانلود کنید: \u003ca href=\"https://github.com/MatinSenPai/Aether-GUI/releases/tag/v0.3.0\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/MatinSenPai/Aether-GUI/releases/tag/v0.3.0\u003c/a\u003e",
-      "date": "2026-07-15T21:22:31Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/EL4WkC1wrSdpiVeVYBygBEUP2ScWVFJYpEfZFTVamaWX4AoSp4lSGAbgBSVJIj4MZvoZNE8LcOx0pPeMzuAFoTuqGDKCWgG3v6W0Y26_WucpN7yItzzm8c8POV4LBD2Uf8waVHfWq7cSHkp-Pr9QHVhIxDcm6oS4y3zKMNrAVoGQZKcLw-o-560NPbI9WmfnM_xmmf3nT72VKYdObk1DSs1zN4yrk4I1fBWq2n_Y0rseNaB1THYGdfwigRRa0NFYOdG77uxjOH31vdQKzgioUg-afCISgdDdqdLhS6-C-ABG-Ars3ngW_1YiWqyJz5-uluaVKz4d4zj4A5JcNp4dhA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 4507,
-      "message": "نسخه‌ی اندروید هم دوستم زحمتشو کشید نوشت: \u003cbr/\u003e\u003ca href=\"https://github.com/ZethRise/Aethery\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/ZethRise/Aethery\u003c/a\u003e\u003cbr/\u003eالبته هنوز باید کاملترش کنه\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9880.png\u0026#39;)\"\u003e\u003cb\u003e😀\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-07-15T21:29:24Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 4508,
-      "message": "هک Suno فاش کرد این هوش مصنوعی با دزدیدن میلیون‌ها آهنگ از یوتیوب و دیزر، یاد گرفته موسیقی بسازد.\u003cbr/\u003e\u003cbr/\u003eدر یک رسوایی دوگانه، گزارش 404 Media فاش کرد که Suno، سازنده موسیقی با AI، هدف یک «حمله زنجیره تأمین» (نفوذ از طریق تامین‌کنندگان نرم‌افزاری) قرار گرفته است. هکر با دسترسی به اعتبارنامه‌های یک کارمند، به کد منبع دست یافت که ثابت می‌کند Suno برای آموزش مدل‌های خود، دهه‌ها محتوای صوتی را از یوتیوب موزیک، دیزر و پادکست‌ها «اسکرپ» (استخراج انبوه و غیرقانونی) کرده است.\u003cbr/\u003e\u003cbr/\u003eشرکت Suno پیش‌تر ادعا می‌کرد بر اساس «دکترین استفاده منصفانه» (قانون اجازه استفاده محدود از اثرات دارای کپی‌رایت برای اهداف تحلیلی یا آموزشی) عمل می‌کند، اما شرکت‌های ضبط موسیقی معتقدند دور زدن پروتکل‌های حفاظتی یوتیوب، نقض صریح DMCA (قانون کپی‌رایت دیجیتال) است. این وضعیت مانند آن است که کسی برای یادگیری نقاشی، موزه‌ها را شبانه تخلیه کند و ادعا کند چون آثار «در معرض دید» بوده‌اند، کپی‌برداری از آن‌ها مجاز است. علاوه بر این، داده‌های حساس کاربران از جمله شماره تلفن و بخشی از اطلاعات کارت‌های بانکی در Stripe لو رفته است؛ حادثه‌ای که Suno در نوامبر 2025 رخ داد اما آن را به عنوان یک «حادثه امنیتی محدود» پنهان کرد و کاربران را مطلع نساخت.\u003cbr/\u003e\u003cbr/\u003eمنبع: \u003ca href=\"https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5470060791883374114\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8D.png\u0026#39;)\"\u003e\u003cb\u003e✍️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://x.com/i/status/2077457770115129629\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eهوش مصنوعی گراتومیک\u003c/a\u003e",
-      "date": "2026-07-16T03:45:05Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/bjnwW6yOOgGMF-grKfQ8ThQKTNT9JGUgqFXb-Fk-Tg1kj5dua2_7sIS-Zi9VI2obP5M-KXaJEXt8QCjr4P9sUvHLKYXA5AKvz8PCv2N9VUw_cKaIwy4cmK8Id8QW0X03jAgxnaewctdVZYezp2auUpChFG0KWHFcW_UEUIRVjN3FdpZ0n8AMCj13GYz96qzfDCLzsOYuMG6qEN457rK8zd1Giv155ScACD4kNk8bE-Q6khgtdZ8a9JeDhmLIcoPyTs93dQAtYQaJLjl5ZLSFMmw5XlkD-kb5K1juGM4HtYiOQBwKAwcuAwHjrUw6B1FpxVsyc8_wqa4adVQlPNVCeg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 4509,
-      "message": "این جدی خیلی خبر عجیبی بود.\u003cbr/\u003eکمپانی‌های بزرگ پول دادن به هکر که این اپلیکیشن رو هک کنن که ببینن سورس کد چیه\u003cbr/\u003eمنظورم اینه که\u003cbr/\u003eخب، میدونم اون هم دزدی کرده\u003cbr/\u003eاما این کار کمپانیا، خودش غیرقانونی نیست؟",
-      "date": "2026-07-16T03:46:15Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 4510,
-      "message": "برگام\u003cbr/\u003eگویا Grok-Build به طور کامل اوپن سورس شده\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-07-16T04:17:09Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 4511,
-      "message": "\u003ca href=\"https://github.com/xai-org/grok-build\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/xai-org/grok-build\u003c/a\u003e",
-      "date": "2026-07-16T04:17:43Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 4512,
-      "message": "انقدر خندیدم که دل درد گرفتم",
-      "date": "2026-07-16T04:17:53Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 4513,
-      "message": "ماجرا داره این اوپن سورس شدن\u003cbr/\u003eکه خب به نفع ما مردمه به هر حال\u003cbr/\u003eو خنده دار",
-      "date": "2026-07-16T04:18:18Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 4514,
-      "message": "ماجرای اوپن سورس شدن xAI Grok-Build\u003cbr/\u003e\u003cbr/\u003eداستان یه مقدار خنده‌دار (و یه مقدار دارک) هستش. همونطور که می‌دونید Grok-Build همون ایجنت کدنویسی تحت ترمینال شرکت xAI (مال ایلان ماسک) هست که به‌تازگی توی گیت‌هاب اوپن‌سورس شده؛ اما پشت این اوپن‌سورس شدن یه رسوایی بزرگ خوابیده بود.\u003cbr/\u003e\u003cbr/\u003eداستان از این قراره:\u003cbr/\u003e\u003cbr/\u003e1- رسوایی سرقت کد (Spyware شدن ابزار): چند وقت پیش، یه سری از محقق‌های امنیتی و دولوپرها نشستن ریکوئست‌های شبکه‌ی Grok-Build رو مانیتور کردن. دیدن این ابزار وقتی روی سیستم کاربر اجرا می‌شه، فقط فایل‌هایی که بهش می‌گی رو نمی‌خونه؛ بلکه داره تو بک‌گراند کل هیستوری گیت، کل فایل‌های پروژه (حتی اونایی که بهش ربطی نداره)، کلیدهای SSH، پسوردها و Credentials رو زیپ می‌کنه و می‌فرسته روی سرورهای xAI!\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e2- مچ‌گیری و آبروریزی توی توییتر: وقتی این قضیه لو رفت، توییتر منفجر شد. همه شروع کردن به گفتن اینکه xAI داره دیتای خصوصیِ دولوپرها رو واسه Train کردن مدل‌هاش می‌دزده و اسم ابزار رو گذاشتن «جاسوس‌افزار (Spyware)». \u003cbr/\u003e\u003cbr/\u003e3- ماله‌کشیِ سریع xAI: شرکت xAI وقتی دید مچش رو بدجور گرفتن، سریعا یه بیانیه داد و آپلود اتوماتیک دیتا رو قطع کرد. گفتن تمام دیتای قبلی رو پاک می‌کنیم و یه دستور /privacy هم اضافه کردن که کاربر بتونه کنترل کنه چه دیتایی بره به سرورا.\u003cbr/\u003e\u003cbr/\u003e4- تیر آخر (اوپن‌سورس کردن اجباری): برای اینکه اعتماد از دست‌رفته رو برگردونن و بگن «ببینید ما هیچ کدی رو قایم نکردیم و چیزی نمی‌دزدیم»، مجبور شدن کُل پروژه‌ی ۸۰۰ هزار(\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F98AD.png\u0026#39;)\"\u003e\u003cb\u003e😭\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F98AD.png\u0026#39;)\"\u003e\u003cb\u003e😭\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F98AD.png\u0026#39;)\"\u003e\u003cb\u003e😭\u003c/b\u003e\u003c/i\u003e) خطی Grok-Build رو (که به زبان Rust نوشته شده) اوپن‌سورس کنن! الان سورس کدش به صورت کامل روی اکانت xai-org تو گیت‌هاب منتشر شده: \u003ca href=\"https://github.com/xai-org/grok-build\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/xai-org/grok-build\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eخلاصه:\u003cbr/\u003eدلیل خنده‌ی ملت اینه که xAI از قصد نمی‌خواست این ابزار خفن رو اوپن‌سورس کنه، ولی چون دولوپرها مچشون رو سر «دزدی بی‌سروصدای کدها» گرفتن، واسه فرار از رسوایی و اعتمادسازی مجدد، مجبور شدن کل سورسش رو بریزن بیرون!\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eولی خب، از هر زاویه‌ای نگاه کنیم، این رسوایی در نهایت به نفع ما دولوپرها تموم شد و الان یه ایجنت کدنویسی لوکال، قدرتمند و اوپن‌سورس داریم که می‌تونیم مستقیما رو سیستم خودمون (بدون فرستادن دیتا به سرورهای اونا) اجراش کنیم.\u003cbr/\u003eهرچند فعلا باید خودمون بیلد بگیریم با Rust\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-07-16T04:37:25Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/ZjgHlEm0K0ddiMvUeV_lchzOCOblhPtCYAWoVQt5B3nvLBApWvXBSkYuoLUAv6s65i-I25aG5TID4H5emKdqexVRHRVvqrw7xTMrxYmHeDfz1l_RfTF6X-f_548U16y124qDJ-kKcQX4NWsQ5FiIny4QUxxuIotghRl0DKexgDjun_7T8bpD-T50MTMfyLyq8Yj-twQTh9qRvqbX_BSeCnRr8c0SBozwIFdkP9vn7NC6RZxPQpOCUMiWSiiMbvqRIlA9WDBCIL19B7Cwolr1ojbQygEv1DaAMN24OX_ad9ZtIRwjG2CmM4TGI0U0VjkokLSV6ZIxywhyYrEKM1C3PQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 4515,
-      "message": "\u003cb\u003eآیا هوش مصنوعی داره قدرت تفکر رو از ما می‌گیره؟\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5424803166707261356\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8F83E2808DE29982.png\u0026#39;)\"\u003e\u003cb\u003e🏃‍♂\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eیه مقاله‌ی جالب توی وبلاگ ArtFish منتشر شد، درباره‌ی اینکه چطور داریم کم‌کم «فکر کردن» رو به هوش مصنوعی واگذار می‌کنیم. نویسنده‌ی مقاله خودش توی بخش توسعه‌ی Gemini کار می‌کنه، ولی یه سری دغدغه‌های به‌شدت درست و روانی مطرح کرده که خوندنش خالی از لطف نیست.\u003cbr/\u003e\u003cbr/\u003eخلاصه‌ی بحث و چند تا نکته‌ی جذابی که گفته:\u003cbr/\u003e\u003cbr/\u003e1- \u003cb\u003eاز موتور جستجو تا ماشین فکر:\u003c/b\u003e قبل از چت‌جی‌پی‌تی و جمنای و...، ما برای پیدا کردن جواب می‌رفتیم گوگل می‌کردیم، ولی همون سرچ کردن هم نیاز به «فکر» داشت. باید سوال رو می‌شکستیم، منابع رو می‌خوندیم و خودمون ترکیبشون می‌کردیم تا به جواب برسیم. اما الان هوش مصنوعی تمام این مراحلِ میانی رو حذف کرده و یه جواب شسته‌رفته و آماده می‌ذاره کف دستمون. این کار زمان رو ذخیره می‌کنه، اما «فکر کردن» رو هم حذف می‌کنه\u003ctg-emoji emoji-id=\"5472248119942979457\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA494.png\u0026#39;)\"\u003e\u003cb\u003e🤔\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e2- \u003cb\u003eداستان ترسناک مرد میکروفون‌دار!\u003c/b\u003e نویسنده تعریف می‌کنه که دوستش تو یه رویداد استارتاپی تو سانفرانسیسکو یه نفر رو دیده که یه میکروفون کوچیک به لباسش وصل کرده بوده و کل مکالمات روزمره‌ش رو ضبط می‌کرده. آخر شب هم می‌داده به هوش مصنوعی تا تحلیلش کنه! اون آدم با افتخار می‌گفته: \u0026#34;کلاد از من باهوش‌تره و تفکر انتقادی (Critical Thinking) بهتری داره، پس من کلاً فکر کردنم رو سپردم به اون!\u0026#34; \u003ctg-emoji emoji-id=\"5471919885657316480\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EA4.png\u0026#39;)\"\u003e\u003cb\u003e🎤\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e3- \u003cb\u003eمرز بین دستیار و از دست دادن استقلال:\u003c/b\u003e ما همیشه بین «جواب‌های سریع» و «تفکر عمیق» یه معامله می‌کنیم. وقتی برای هر سوال کوچیک و بزرگی (از اینکه \u0026#34;شام چی بخورم؟\u0026#34; تا سوالات فلسفی و تاریخی) سریع گوشی رو درمیاریم و از AI می‌پرسیم، کم‌کم قدرت استدلال، حدس زدن و بحث کردن رو از دست می‌دیم\u003ctg-emoji emoji-id=\"5472170432574528133\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9783.png\u0026#39;)\"\u003e\u003cb\u003e🗃️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e4- \u003cb\u003eداستان سفر پرتغال:\u003c/b\u003e یه جای قشنگ مقاله می‌گه با خواهرش تو پرتغال بودن و براشون یه سوال تاریخی/فرهنگی پیش میاد. خواهرش سریع می‌گه \u0026#34;بذار از ChatGPT بپرسم\u0026#34;. اما نویسنده می‌گه \u0026#34;نه، بیا اول خودمون فکر کنیم.\u0026#34; شروع می‌کنن به حدس زدن، تئوری بافتن، مخالفت با هم و استفاده از اطلاعات دبیرستانشون. بعد از کلی بحث، می‌رن از AI می‌پرسن و می‌بینن خیلی از حدس‌هاشون درست بوده. لذتِ اون «مسیر فکری» دقیقاً چیزیه که داریم با هوش مصنوعی از دستش می‌دیم\u003ctg-emoji emoji-id=\"5472064286752775254\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F97BA.png\u0026#39;)\"\u003e\u003cb\u003e🗺\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e5- \u003cb\u003eاگه من کارای روتین رو بدم به AI، زندگیم بهتر نمی‌شه؟\u003c/b\u003e اینم یه زاویه‌ست. خیلیا می‌گن اگه تسک‌های خسته‌کننده (مثل ترجمه داکیومنت یا خلاصه‌سازی) رو بدیم به AI، وقتمون برای تفکر مهم‌تر و جذاب‌تر آزاد می‌شه. اما مشکل اینجاست که مرز بین «اتوماتیک کردن کار» و «تنبل شدن ذهن» خیلی باریکه. مثل دانش‌آموزایی که حل مسئله‌ی فیزیک رو می‌دن به AI؛ درسته که نمره می‌گیرن، اما در نهایت یاد نمی‌گیرن «چطور» به اون جواب برسن\u003ctg-emoji emoji-id=\"5472375242385005771\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F918D.png\u0026#39;)\"\u003e\u003cb\u003e👍\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eحرف آخر:\u003c/b\u003e\u003cbr/\u003eسوال اصلی اینه که ما دقیقاً داریم چیو اتوماتیک می‌کنیم؟ «کارهای انسانی» رو یا «عاملیت (Agency) و تفکر انسانی» رو؟ استفاده از AI عالیه، ولی یادمون نره که بعضی وقتا حدس زدن، اشتباه کردن و با ذهن خودمون به جواب رسیدن، همون چیزیه که ما رو انسان نگه می‌داره\u003ctg-emoji emoji-id=\"5472193350520021357\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA1.png\u0026#39;)\"\u003e\u003cb\u003e🛡\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003eلینک مقاله‌ی اصلی: \u003ca href=\"https://www.artfish.ai/p/offloading-thinking-to-ai\" target=\"_blank\" rel=\"noopener\"\u003ehttps://www.artfish.ai/p/offloading-thinking-to-ai\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-07-16T10:39:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 4516,
-      "message": "دوستان، این به معنی این نیستش که Grok اوپن سورس شده یا میتونیم رایگان از هوش مصنوعیش استفاده کنیم\u003cbr/\u003eصرفا ابزار grok build\u003cbr/\u003eیه چیزی شبیه claude code\u003cbr/\u003eاوپن سورس شده\u003cbr/\u003eخودش صرفا یه ابزاره برای هدایت مدل ai برای کدنویسی. الان با اوپن سورس شدنش می‌تونید مدل‌های شخصی خودتونو روش سوار کنید به طور مثال",
-      "date": "2026-07-16T12:40:15Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 4517,
-      "message": "قبلا چندتا مقاله خونده بودم، اما تا با چشم خودم ندیدم قبولش نکردم. \u003cbr/\u003eواقعا AI ها، زبان TypeScript رو خیلی خیلی بهتر از مابقی زبان‌ها می‌فهمن",
-      "date": "2026-07-16T14:13:53Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 4518,
-      "message": "\u003cb\u003eخالق لینوکس: هوش مصنوعی یه ابزاره، هرکی دوست نداره جمع کنه بره! \u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5361541227604878624\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F90A7.png\u0026#39;)\"\u003e\u003cb\u003e🐧\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eیه بحث جنجالی توی لیست پستی توسعه‌دهندگان لینوکس بالا گرفته بود سر اینکه آیا باید از هوش مصنوعی (LLMها) برای بررسی کدها و کمک به Maintainerهای لینوکس استفاده بشه یا نه. بعضی‌ها خیلی سفت‌وسخت مخالف بودن و می‌گفتن کلاً نباید پای AI به هسته لینوکس باز بشه.\u003cbr/\u003e\u003cbr/\u003eاما \u003cb\u003eلینوس توروالدز\u003c/b\u003e (خالق لینوکس) همونطور که از شخصیت رک و بی‌اعصابش انتظار می‌رفت، وارد بحث شده و یه جواب به شدت قاطع داده. \u003cbr/\u003e\u003cbr/\u003eخلاصه‌ی حرف‌های لینوس ایناست:\u003cbr/\u003e\u003cbr/\u003e1- \u003cb\u003eلینوکس پروژه ضد هوش مصنوعی نیست:\u003c/b\u003e لینوس صراحتاً گفته: \u0026#34;می‌دونم بعضی‌ها از هوش مصنوعی متنفرن، اما لینوکس قرار نیست یکی از اون پروژه‌های ضد AI باشه. اگه کسی با این قضیه مشکل داره، می‌تونه طبق قانونِ اوپن‌سورس پروژه‌مون رو Fork کنه یا کلاً از اینجا بره!\u0026#34;\u003cbr/\u003e\u003cbr/\u003e2- \u003cb\u003eکسی که میگه AI به درد نمی‌خوره، اصلاً باهاش کار نکرده:\u003c/b\u003e به گفته‌ی لینوس: \u0026#34;AI مثل بقیه ابزارهایی که داریم، صرفاً یه ابزاره. شاید تا یه سال پیش کاربردش واضح نبود، اما الان دیگه شکی توش نیست که مفیده. هرکسی که به مفید بودنش شک داره، کاملاً مشخصه که تا حالا ازش استفاده نکرده.\u0026#34;\u003cbr/\u003e\u003cbr/\u003e3- \u003cb\u003eبه جای غر زدن، درستش کنیم:\u003c/b\u003e لینوس قبول داره که هوش مصنوعی گاهی اوقات به خاطر پیدا کردن باگ‌های خجالت‌آور یا تولید کارهای اضافه، می‌تونه برای مدیران پروژه‌ها دردسرساز باشه. اما می‌گه راه‌حلش این نیست که \u0026#34;سرمون رو بکنیم تو برف و بگیم من چیزی نمی‌شنوم\u0026#34;. راه‌حل اینه که یاد بگیریم چطور از این ابزارها برای «کمک» به تیم استفاده کنیم، نه اینکه کلاً حذفشون کنیم.\u003cbr/\u003e\u003cbr/\u003e4- \u003cb\u003eانسان‌ها هم بی‌نقص نیستن:\u003c/b\u003e لینوس یه تیکه‌ی سنگین هم انداخته: \u0026#34;بله، AI بی‌نقص نیست. ولی محض رضای خدا، هرکسی که به مشکلات AI اشاره می‌کنه، بهتره تو آینه به خودش هم نگاه کنه! چون هوش طبیعیِ انسان‌ها هم همیشه اونقدرها عالی و بی‌نقص نیست.\u0026#34;\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eحرف آخر:\u003c/b\u003e\u003cbr/\u003eدر نهایت لینوس آب پاکی رو ریخته رو دست همه و گفته لینوکس یه پروژه‌ی تکنولوژی‌محوره، نه یه کمپین مذهبی یا اجتماعی. ما اوپن‌سورس کار می‌کنیم چون نتیجه‌ش می‌شه تکنولوژی بهتر، و تصمیماتمون رو هم بر اساس ارزش‌های فنی می‌گیریم، نه از روی «ترس از ابزارهای جدید». به قول معروف: پیشرفت منتظر کسی نمی‌مونه! \u003cbr/\u003e\u003cbr/\u003eلینک ایمیل اصلی لینوس توی لور: \u003ca href=\"https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-07-16T15:07:06Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 4519,
-      "message": "مرز \u0026#34;یادگیری\u0026#34; و \u0026#34;تنبلی\u0026#34; با LLM ها واقعا یه خط موی باریکه",
-      "date": "2026-07-16T16:54:47Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 4520,
-      "message": "فکر کنم تا اسرائیل حمله نکرده نت رو قطع نمی‌کنن",
-      "date": "2026-07-16T19:27:03Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
       "id": 4521,
       "message": "شاید هم عاقل شدن\u003cbr/\u003eچه میدونم والا",
       "date": "2026-07-16T19:28:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15400,
+      "views": 17800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 4522,
+      "message": "طبق معمول، پیشنهاد میکنم WhiteDNS رو راه‌اندازی کنید برای خودتون و دوستانتون\u003cbr/\u003e\u003cbr/\u003eآموزش: \u003ca href=\"https://youtu.be/6Pm7kNQb3mo\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/6Pm7kNQb3mo\u003c/a\u003e",
+      "date": "2026-07-16T21:55:15Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3290,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/ZPmicawf8SIGSjQ3eauMNBaV4Du8QvStkpZnImUnVsWF6Vyrcp5r9hiy2O68WCnH9XG9go-VqOItNGrbrWTNaXW047WF3HAHpTSzi_ydVsUK2JZbFb8bpIldK8MIwek3FDEYkEsGZuNnBHtjsuhRV725pcuArR_Qnk_cBbTwJ2eOevP-XX50RUBdatOGcixuwk6i3sXkG68L5Uy3dwDffd6B-x6DmffbMjdQ_z4eAaYGGtbhJzvsoSzAih0IsGrw5hjFTitYN4CjmeIM7sFz1gAkuq3kGDe06UCYDnAlzmBWW8e7YHBt0MH9rjbmU7iSf4oJ6OgMd9jm6QuITnDnwA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4523,
+      "message": "\u003ctg-emoji emoji-id=\"6008107257907122096\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F90A7.png\u0026#39;)\"\u003e\u003cb\u003e🐧\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e نسخه لینوکس",
+      "date": "2026-07-16T21:55:19Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4510,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 4531,
+      "message": "آخرین نسخه‌های مک-ویندوز-لینوکس",
+      "date": "2026-07-16T21:55:22Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4520,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 4532,
+      "message": "",
+      "date": "2026-07-16T21:55:25Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4770,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 4537,
+      "message": "\u003ctg-emoji emoji-id=\"5303138782004924588\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92AC.png\u0026#39;)\"\u003e\u003cb\u003e💬\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eآموزش قدم به قدم استفاده از اپ CoreForge\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://youtu.be/filwdiPKN90\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/filwdiPKN90\u003c/a\u003e",
+      "date": "2026-07-16T21:55:26Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4890,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 4538,
+      "message": "این هم نسخه‌ی IOS",
+      "date": "2026-07-16T21:55:26Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 6020,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 4539,
+      "message": "نسخه‌های اندروید(اگر نمیدونید کدومه برای پردازندتون، Universal رو دانلود کنید)",
+      "date": "2026-07-16T21:55:29Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5990,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 4540,
+      "message": "سرعت آپلود به شدت ضعیف شده اینجا",
+      "date": "2026-07-16T21:55:39Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5920,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
