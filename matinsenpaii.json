@@ -13,7 +13,7 @@
       "date": "2026-07-16T21:55:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19600,
+      "views": 20400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -25,7 +25,7 @@
       "date": "2026-07-16T21:55:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18900,
+      "views": 19800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -37,7 +37,7 @@
       "date": "2026-07-16T21:55:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20500,
+      "views": 21300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -49,7 +49,7 @@
       "date": "2026-07-16T21:55:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22100,
+      "views": 22900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -61,7 +61,7 @@
       "date": "2026-07-16T21:55:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23500,
+      "views": 24300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -73,7 +73,7 @@
       "date": "2026-07-16T21:55:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24500,
+      "views": 25300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -85,7 +85,7 @@
       "date": "2026-07-16T21:55:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25600,
+      "views": 26400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -97,7 +97,7 @@
       "date": "2026-07-17T05:57:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19300,
+      "views": 20800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -109,11 +109,99 @@
       "date": "2026-07-17T05:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19600,
+      "views": 21200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 4543,
+      "message": "یه آزمایش خیلی جالب توی وبلاگ TryAI انجام شده. اومدن یه محیط ایزوله ساختن و به دو تا از قوی‌ترین مدل‌های هوش مصنوعی یعنی Claude Fable 5 و GPT-5.6 Sol، یه آهنگ (Uptown Funk از برونو مارس)، یه متن از لیریکس آهنگ، یه سری ابزار (مثل سرچ وب، دسترسی به APIهای تولید ویدیو و ابزار تدوین ffmpeg) و یه بودجه مشخص دادن. \u003cbr/\u003e\u003cbr/\u003eهدف این بود که مدل‌ها رو به حال خودشون رها کنن تا صفر تا صد یه موزیک ویدیو رو خودشون کارگردانی و تدوین کنن! هر مدل با دو تا بودجه‌ی ۲۵ دلاری و ۱۰۰ دلاری تست شد. نتایج و درس‌هایی که از این آزمایش گرفتن خیلی جالبه:\u003cbr/\u003e\u003cbr/\u003e1- آزادی عمل تو انتخاب ابزار: هر مدل روش متفاوتی رو پیش گرفت. مثلاً کلاد تو هر دو حالت فقط رفت سراغ تبدیل «متن به ویدیو» (Text-to-Video). اما مدل Sol تو بودجه‌ی ۲۵ دلاری، اول عکس ساخت و بعد عکس‌ها رو متحرک کرد (Image-to-Video) و تو بودجه‌ی ۱۰۰ دلاری همزمان از ۳ تا مدل ویدیویی مختلف برای ساختن شات‌هاش استفاده کرد.\u003cbr/\u003e\u003cbr/\u003e2- درک سطحی از شعر: هوش مصنوعی لیریکس رو خیلی لغوی و تحت‌الفظی می‌فهمه! مثلاً وقتی خواننده می‌خونه \u0026#34;Make a dragon wanna retire\u0026#34; (می‌خوام اژدها رو بازنشسته کنم)، هوش مصنوعی دقیقاً یه اژدهای واقعی میاره تو تصویر! \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e3- مشکل در ریتم و تدوین: با اینکه مدل‌ها با ابزار ffmpeg بیت (Beat) آهنگ رو پیدا کردن و کات‌ها رو روی ضرب آهنگ زدن، اما حرکات داخل ویدیو (مثل رقصیدن یا حرکت دوربین) اصلاً با تمپوی آهنگ هم‌خونی نداشت و یه‌کم تو ذوق می‌زد.\u003cbr/\u003e\u003cbr/\u003e4- کم‌کاری توی بازبینی: یکی از نقاط ضعف بزرگ مدل‌ها این بود که اصلاً خروجی کار خودشون رو نقد و اصلاح نمی‌کردن. یعنی وقتی یه شات رو تولید می‌کردن، همون رو می‌چسبوندن تو ویدیو و دیگه برنمی‌گشتن که افکت بهتری روش بندازن یا اگه بی‌کیفیت بود حذفش کنن. (به قول معروف چشم‌بسته تحویل می‌دادن).\u003cbr/\u003e\u003cbr/\u003e5- بودجه‌ی اضافی کمکی نکرد: دادن ۱۰۰ دلار بودجه واقعاً زیاد بود! هیچ‌کدوم از مدل‌ها نتونستن از تمام این ظرفیت استفاده کنن (نهایتاً حول‌وحوش ۳۶ تا ۴۸ دلار خرج کردن). می‌تونستن با این پول کلی عکس ثابت از کاراکترها بسازن تا مشکل تغییر قیافه‌ها تو طول ویدیو حل بشه، ولی هیچ‌کدوم به این راهکار فکر نکردن.\u003cbr/\u003e\u003cbr/\u003e6- هزینه‌های پنهان: با اینکه بودجه تولید ویدیو محدود بود، اما هزینه‌ی توکن‌های خود LLM برای کلاد به شدت گرون‌تر دراومد (حدود ۱۷ تا ۲۵ دلار فقط پول توکن)، در حالی که این هزینه برای مدل OpenAI زیر ۴ دلار بود. با این حال تیم سازنده به صورت سلیقه‌ای، خروجی ۱۰۰ دلاریِ کلاد رو بیشتر از بقیه پسندیدن.\u003cbr/\u003e\u003cbr/\u003eحرف آخر:\u003cbr/\u003eهیچ‌کدوم از موزیک ویدیوهای نهایی شاهکار از آب درنیومدن و هنوز شکافِ بزرگی تو انسجام داستان، ثبات چهره‌ی کاراکترها و خلاقیت تدوین وجود داره. اما اینکه یه هوش مصنوعی خودش بره مدل ویدیویی انتخاب کنه، پرامپت بنویسه، ویدیو بسازه و با ابزارهای خط فرمان ادیتش کنه، یه کم ترسناک ولی باحاله! \u003cbr/\u003e\u003cbr/\u003eلینک مقاله اصلی با ویدیوها: \u003ca href=\"https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6\" target=\"_blank\" rel=\"noopener\"\u003ehttps://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6\u003c/a\u003e\u003cbr/\u003eسورس کد این پلتفرم (اگه می‌خواید خودتون تست کنید): \u003ca href=\"https://github.com/hershalb/music-video-arena\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/hershalb/music-video-arena\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eهر 4 تا ویدئوش رو آپلود می‌کنم ببینید\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
+      "date": "2026-07-17T17:09:04Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5780,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 4544,
+      "message": "مدل GPT 5.6 Sol - بودجه 25 دلار",
+      "date": "2026-07-17T17:24:00Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2410,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/eyBlVCe5unV1lAPCf8MiPGg_nANYn7vSESrkGm6i-zyAv3Z7HP1qaEVSTzp3LRoFlXqmF-xnWEK3D_vpFjEI4iiNLL8PN_taBJdjn6Mbk7VZ22bnCCeYGNg-OeiVjJjU68OhK3vG6HgkwxS-0VflcVXHBvu6K2A8yrsCL06SdCEkHTz1csO6LDMouIxpsjOoagz8xyIJoOLRWgb5Qw97OTL62KRRstSnVXHP-qWQPMRVRA1fVfbL_W5fcpoTIDuTsq-nSd9CS0PRJo6MIjfXF83T0y8eAO3lxMjo3RwduAwI6gg47oHf8u9y4Sb6Rq9wHJVsIr516BYw4_f-sGCJXw",
+          "width": 1280
+        }
+      ]
+    },
+    {
+      "id": 4545,
+      "message": "مدل Fable 5 - بودجه 25$",
+      "date": "2026-07-17T17:24:14Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2650,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/pdkZB7kK78rs0QiZ20Z7iGp0Penh0E7QLdLiEmMmdIfpIq9PYxG0DlA4CWA0OMuKjxco0BbzlKHu9ITa16EYqFm63jd68MIfeJP3WawZGABLpjm7vo7-Z-aGV06_mPBUXm7Pc1w-onv7wo8e5_QgFvP8rvFzTHcX1gCAjwiwpGWKI8f-pq5-dydpmmZiOsYyC0ZEKWzq8NEyrkZR-J84aTbZm0H87_ti_DSdPIw9SChm5kBJo2zVS_yr_nihOqjPR3OLhzzuQoR2f69na6OBH4ep-2woH012q1TDt5eu12l-frouxhXsjq-x1zBK0-QUq-GpJwAJnllO8FdIFjiWqg",
+          "width": 1280
+        }
+      ]
+    },
+    {
+      "id": 4546,
+      "message": "مدل GPT 5.6 Sol - بودجه 100 دلار",
+      "date": "2026-07-17T17:24:31Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2810,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/L18KVLiV6Tozpvw0nUy-Kb2hxLZBoU-lmMWMfAC8U-STQ5YYjfVNOKsL5u1yOx9M3_YihvCiN-q-zlSzSvk3IYbLi6-ywgiv740eM5xMhyMWxEY9zbqTRx6GWWCW-oHcdlswDLK18WnhOpN4QC8oAWBx57tTQLC0H81PczLMe0WtM_KPEfCIJjMtlrP9s7_BRpymYWILuip0D5rkxG9HxL2ikeT5IWDR_z5GKYwDgM13McgHoem4Ko_zaRoV0nL5Ckiq-lFP4Zwu1caBZqcDGk_zOQs3YsWeMErh3GwB7EAyoxTlRZG838C45P97Ezw9cwsSmioeQGjGGPacfjhx3g",
+          "width": 1280
+        }
+      ]
+    },
+    {
+      "id": 4547,
+      "message": "مدل Fable 5 - بودجه 100$",
+      "date": "2026-07-17T17:24:55Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2170,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/h7WYLVcK9Dakre7LjjDCX-v9urGMkB2apw-KSitSkpu5-UEJGY82JAYg8EYK4qkHlVUq-R7-PQ1ucCd4JY5ms5FpKSA1FU1ZNnaomMZur5qZdzKtENG3JRIuVeEQp33m7ojMbOHqRm57QHsHTypLDnZuNgjnSiJfRqw_QUtFsQ7eYg1D4uzF0SQHwDzGqauEovGmBBO50Fnn2yM1zkD7h8x70p9lZkrZI9Btd6k_zqjPfCVGUn5af8IXxYaKmXErDk6q1rtFqq1nPuzRr70GAPTUWCQx1GIF5WshBPcGXHuQhLb2wvvDlpcE0dfz3lqgv_WmV44UHMBqnpwUI7cXig",
+          "width": 1280
+        }
+      ]
     }
   ],
   "last_updated": 0
