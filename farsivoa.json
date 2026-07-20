@@ -3,310 +3,17 @@
     "id": 0,
     "title": "Farsi VOA",
     "username": "farsivoa",
-    "photo_url": "https://cdn1.telesco.pe/file/LdN9FXSe1Zqi4K4UzMnSGB6G-vRFha1kadkffcmL6ttL2YimzUplvA15-YW_bM6F7vex5fYYLOeCDI8s6cUQph6V6x95rr8KdFBynW37eu1vODLOEhEDGM7ZZky4nQQqoQ3L9_KeVJmvEiNXGaoM-KySlmLadCIh4Xtv-OrG5N3aWmFnIds6BkiVpFe48LznFYqEpa-LOiFaFoLdtypvBGjSJTD2SfZnMt4tfddytN3eQHKuPIs7uYlV4a88oV0BUqJL8lSL106akBBKTBeC1bWCc6NhmVLRC1TazHa-Mby67XNhV6UgYURvbmAvhNAqjL94NGxS_kBkMZl4yEJx3w.jpg",
+    "photo_url": "https://cdn1.telesco.pe/file/IohNtED757pM6f6Zy6UwG5vMUjnZYBljziKbj-OyeQcHzFEd7g9kPsjAyEAuj8YAarU43ytJ0t2r2IFKHdLKznzHuJWyt0zEsxzNtImuqGZQA2v5KK3lSvitUe1DeZj_S5yR1D0Vjd3vAkhP5dLRiDtVsGmp9HEQOJTeVoFTGW3u3mgbQJD-eG8xDopc_iaYPPE88mDw6mVwLk9-t8OlEewJJJy_vjKu9xOv90GridQrLHUiOOwfCJeAJluPlrsOC5jp4Xt_Ccp3u0xcKajcsNOzeBR-ZcxkJBZCT0aw6vHUvvRh0IPr8mTLJAdnq-qBiABbia8ZbSM-nRqpNcEA9A.jpg",
     "description": "تنها کانال رسمی بخش فارسی صدای آمريكا\nعكس، خبر و فيلم هاى خود را براى ما بفرستيد:\n@sendVOA"
   },
   "posts": [
-    {
-      "id": 224527,
-      "message": "فرماندهی مرکزی ایالات متحده، سنتکام، تصاویری از تعمیر یک خودروی سامانه راکتی با تحرک بالا توسط تفنگداران دریایی آمریکا در خاورمیانه منتشر کرد.\u003cbr/\u003e\u003cbr/\u003eسنتکام اعلام کرد نیروهای پشتیبانی و لجستیکی ارتش آمریکا با انجام تعمیرات و نگهداری تجهیزات، آمادگی عملیاتی نیروهای مستقر در منطقه را حفظ می‌کنند.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
-      "date": "2026-07-20T14:02:37Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3810,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/PzCPRCOTMCyj3U089mMRMiHm3saa0fDUUbprL3iVoSvaEdrfRyeSTkhMS2cjLXFarJadndvZ5cqPbJGrkSRyc0TGNMDr8gikUrQvMgDavAm2g5laOw-b-Z58wZ6zqqcARmdh4r_Uhu9OUNQbRT9Vsh-_9p9-9CQROAroL7fwd9H7lfbBWPgUp5b9kFMvDSfA3Aw7G0hjca62-Rg8z_YUBLJeixMy9HqRPb7sE7qF1QzVNb9ZZN8uCjpnMsmZdgJouDzXaOci45f0ED9KpchI17SKTorslF9ZisA5oST2Bz-6UhU1Gn9-34yKxBe6aMMvEojrHYiJufOV-X4QXOugkQ.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/Y09tCbqUeMYCWp2r8reMA35VDNCTDnExjHjWMQXOg9QRifo2NBJSPJ10cZ4Ek5TBZkNoHXrsQGxn-kJkS3ppXc8ynMe4B7WEvAUW1cmuRGxbn7rBskFTs8WNYFBRw75Q8ezAqsMnaRzvB1GXrbZAdYS44YkFgsxpIixUsfOCOP6Krkkp0ZGuoQTg7ZjjvhbIZH77dCWKqao52Js0VMoETlxBbHCtaxJTEYBndduAcvcXrsVNfvFLXhZhVGqlAnSm02UNX67etCec6zwLfIEsQbpXju63ROmhiInlQfMurSOSp9W5tM6pETmD7pc45YVrD3TvXHwL2PGjN2Wlo5MDyA.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/AmiC_7LzPn96sqmWaNV4iMa3DECG3Mn-D_JX7G0T-4GUAwMFK8CrLM2Cfr_ly8QhlYgrJiwkg8sRnvb924QIUlUPE8RY8V3X25K1nPFg3oPuvknG7zUn7QIWx5-BTHuILrS9o9wDP4fNb5YcCIcgn_IR5iNTUNVIZjvS2QVFlSx3yA7ZRtfeEdvrvuk-dIt3W4gf2mt3tLRVuOP0elxd560rq7cxRd7VJNU3D4vlMqJcIzUK8SPjnvVQQpFOOiu3HzA3elBfQ8-kL-_oPuQ3fRZ3CEHjbrywU_CLM7YsOzGEXpNbyfRVZ3VH-Aa1sxlkHwSnihyInadIcy80mJlTlQ.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/bAADv6xRdC-UjyQlBY17KHl2y2HXVVT09Il_l60t0E8JqXrFlSqcqY0tUBWwNzSFA7RC08rpZTYlPAeVkCt2bSlrTFjlJ97MhXu-SYP0ZabGXdKqfDmjDpEW7CvO_6lpmL9xdOWgHkw5ylXuV9tBii6129RcDX5LYBvTBTyPSJG1sM19z5SH90ETuGPFb4zYXf0fFneVJglk29OwhS0xjwc0EeF-1f-BJLMegzwnQ1h5PKnE6JyubU3QIDQ1wViFF0TKLrbYEeSIGB3ooABwIKD8Qq_6nc_GdqWViMUBhcLmyOQ6-RatL0pAW8J79PYzdz13Qi4lnnHBjGEzVvk6iA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 224531,
-      "message": "فضانوردان حاضر در ایستگاه فضایی بین‌المللی ویدیویی با حال‌ و هوای جام جهانی ۲۰۲۶ منتشر کردند.\u003cbr/\u003e\u003cbr/\u003eدر این ویدیو، پرچم کشورهای شرکت‌کننده در پس‌زمینه دیده می‌شود.\u003cbr/\u003e\u003cbr/\u003eاین ویدیو با عبارت «جام جهانی ۲۰۲۶، خارج از این دنیا» منتشر شده است.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
-      "date": "2026-07-20T14:21:37Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3330,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/DQmHQUWeQzxvwYJ_hiuNUhIYajKl7QVV7rVYpwAjJ69Fd8odFOkLvJOLKBY3M229souatQhlUyj3iAdaI1L9RtSMDIq8E1qPlSBaOJ2fGWOwmSfLLovxqlac3etnjzBkKDHoxlMrxCpk3lWrIS3KTi3F1hic6bhDNcXfJHUIQHFRwOkoDM9KOUHlNcwbZR4FtnRdEC4iJ71oIN0E4tSzw8gBOYmk4JJBxf_8ImNf6XqFlL9PifhbTU71jq7YuBUbYktZ7CctyODaZWvE-9kZfjbx-WLfyJyJ2MIo7mhzjrEfGxjzuMDauY45oltgK2FMSMwYPcI68rzXjJ7-U5OKvw",
-          "width": 1080
-        }
-      ]
-    },
-    {
-      "id": 224532,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eآغاز به کار نخست‌وزیر جدید بریتانیا؛ اندی برنام: بزرگ‌ترین تغییرات ۴۰ سال اخیر را رقم خواهیم زد\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eاندی برنام دوشنبه ۲۹ تیر به عنوان هفتمین نخست‌وزیر بریتانیا در یک دهه اخیر کارش را آغاز کرد و وعده داد که با گسستن از سیاست‌های گذشته، الگوی اقتصادی جدیدی را برای ملتی که از تغییر پی‌درپی رهبران «به‌ستوه آمده» است، به ارمغان بیاورد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/andy-burnham-british-prime-minister-helping-homeless/8173853.html/?nocach=1\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/andy-burnham-british-prime-minister-helping-homeless/8173853.html/?nocach=1\u003c/a\u003e",
-      "date": "2026-07-20T14:35:41Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3140,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA"
-    },
-    {
-      "id": 224533,
-      "message": "دوشنبه ۲۹ تیر ۱۴۰۵، جمعی از کارکنان و بازنشستگان هوانیروز ارتش مقابل ساختمان استانداری کرمانشاه تجمع کردند و به بلاتکلیفی طولانی‌مدت پروژه تعاونی مسکن خود اعتراض کردند.\u003cbr/\u003e\u003cbr/\u003eبه گفته معترضان، آنان در سال ۱۳۹۰ با تشکیل تعاونی مسکن هوانیروز، خرید زمین و پرداخت هزینه‌های مربوط، برای خانه‌دار شدن اقدام کردند؛ اما با گذشت نزدیک به ۱۵ سال و با وجود دریافت مجوزهای مورد نیاز، عملیات ساخت‌وساز هنوز آغاز نشده است.\u003cbr/\u003e\u003cbr/\u003eشرکت‌کنندگان در این تجمع می‌گویند پیگیری‌های اداری و تجمع‌های پیشین آنان به نتیجه نرسیده و هیچ نهاد مسئولی پاسخ روشنی درباره سرنوشت زمین‌ها و زمان آغاز پروژه ارائه نمی‌دهد.",
-      "date": "2026-07-20T14:40:24Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3140,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/cx-Cw9Uighy7ndg5AydaIMblVu67DA3gBEv31OzWXqIFC7855ysn2Fn_y4R73JP27jfsTF4Ow8k942KKnfEYAWZ3A2OloTm5H03DuRygsn622LQmw6_jA6bt80OcdBbHWhsOZU-y82HBpSW4wo1inCaXEdphnTL3go1F6eVXlM4bKoLV6iD1Mdb1KOoOlEJb6Zyak0LTRog6KqAOhy68sej_xLQ9thIxQfo2xxsqdlJ2g1_zTF86Mwje40nxYdYGedwpzxnYXaHqHSc1MLoJbcTxAW2fUnvaMYeI5rtqNan_HJ7T7ojLkc8qOibkOFy5ndZD17bLHwqxM6upCZ-cIA",
-          "width": 1920
-        }
-      ]
-    },
-    {
-      "id": 224534,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eکارمندان دانشگاه‌ها و استادان اخراج‌شده در تهران تجمع کردند؛ اعتراض به مشکلات معیشتی و بی‌ثباتی شغلی\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E297BE.png\u0026#39;)\"\u003e\u003cb\u003e◾️\u003c/b\u003e\u003c/i\u003eجمعی از کارکنان دانشگاه‌ها و اساتید اخراج‌شده دانشگاه فرهنگیان روز دوشنبه ۲۹ تیر ۱۴۰۵ در تهران تجمع‌های اعتراضی برگزار کردند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/university-faculty-staff-protest/8173861.html\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/university-faculty-staff-protest/8173861.html\u003c/a\u003e",
-      "date": "2026-07-20T14:48:51Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3320,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA"
-    },
-    {
-      "id": 224535,
-      "message": "گزارش‌های مردمی منتشر شده در کانال وحید آنلاین از شنیده شدن صدای انفجار در نقطه‌ای از شیراز، روز دوشنبه ۲۹ تیر حکایت دارد.\u003cbr/\u003e\u003cbr/\u003eخبرگزاری فارس وابسته به سپاه پاسداران نیز از شنیده شدن صدای انفجار درپی «حمله هوایی» به محدوده شمال غرب شیراز خبر داد.",
-      "date": "2026-07-20T14:49:40Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3480,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/Pf3vewj72BNzgiK7EoN3EYVgMyhhbS84mYTy-oRYytPNii4qBjlLvdEv4em96rIul3-2bLsubzd221T0-xZXU5agfbcqKxpVJA07xCi0uiGQTXyNIGXjuOK-03ooswmTTN6EPNLunPy83Hq0gMkpBBY7TH7T8X7qC0qc3kAbhYJmmDQ-qkAN1C9NnjW3NWFqW9dIrlcMvLg9HZkaAlO-TScIqHRdY7fNuOdnkc5EnI4bGQIxb7IA54qYBSfgN9D2k3-KxS0X_25442r5EKudjSf1G-lA1v53P6TCoYWXqOLbVcf0mgr7LxlTsvWsddpJnv2HbgWwy620ljf7h0I0gQ",
-          "width": 1920
-        }
-      ]
-    },
-    {
-      "id": 224536,
-      "message": "خبرگزاری‌های رسمی جمهوری اسلامی و گزارش‌های مردمی از شنیده شدن صدای انفجار در شیراز در بعدازظهر دوشنبه خبر دادند.\u003cbr/\u003e\u003cbr/\u003eکانال تلگرامی وحیدآنلاین به نقل از گزارش‌های مردمی اعلام کرد این انفجار ساعت ۱۷:۱۰ دقیقه رخ داده و مکان آن احتمالا «سمت صنایع الکترونیک» بوده است.\u003cbr/\u003e\u003cbr/\u003eخبرگزاری فارس وابسته به سپاه و کانال خبری «اسکان‌نیوز» هم شنیده شدن صدای انفجار در شیراز را مخابره کرده و آنرا به حملات «دشمن» نسبت دادند.\u003cbr/\u003e\u003cbr/\u003eگزارش‌های تکمیلی در این زمینه از صدای آمریکا منتشر خواهد شد.",
-      "date": "2026-07-20T14:59:18Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3510,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/s7XkRfK95fyVz6bV8Btw6Gxvj9dqwqn2vfmV0GAeL21RckVnxbxtvYC8DTWPPKf9V9IupMCGAb7nBD1sSL7_tIOvWv8cln0fH3YVHi5Sm1eUU7KnGOuzfiFA-Yht1obfOQN3v1NYWWnRitCFJqphJOTBNPxTgpZUcPR9VACeLcXWViGDxBsS8cLKrH_Cgwced8vXviNbHXpKEMPekPHpdLvA-TnhREisXhKVUsV_yWfqM-GvXJFVaBlIBAgVMTClIlq-3VpaGC2liKDjVkAOvLhFolfIUpUB49e3KYlTRxJK5u-p8MjIJotfiTwtmgnrhqqHvJkg6qLKutk4JXYUHQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 224537,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eخلیل الحیه به‌عنوان رهبر جدید حماس معرفی شد؛ سایه اختلافات شدید بر سر این گروه تروریستی\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E297BE.png\u0026#39;)\"\u003e\u003cb\u003e◾️\u003c/b\u003e\u003c/i\u003eحدود ۲۱ ماه پس از کشته شدن یحیی سنوار، رهبر پیشین گروه تروریستی حماس، این گروه سرانجام روز دوشنبه ۲۹ تیر ۱۴۰۵ خلیل الحیه را به عنوان رهبر جدید خود معرفی کرد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/hamas-iran-hezbollah-proxy-terrorism/8173866.html\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/hamas-iran-hezbollah-proxy-terrorism/8173866.html\u003c/a\u003e",
-      "date": "2026-07-20T15:29:40Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2860,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA"
-    },
-    {
-      "id": 224538,
-      "message": "ویدیویی که به دست صدای آمریکا رسیده، رقص سوگ مادر عرفان اسفندیاری، از معترضان بازداشتی دی‌، را بر مزار فرزندش نشان می‌دهد.\u003cbr/\u003e\u003cbr/\u003eعرفان اسفندیاری در بویین ‌میاندشت، در خارج از شهر اصفهان، به خاک سپرده شد.\u003cbr/\u003e\u003cbr/\u003eدونالد ترامپ، رئیس‌جمهوری ایالات متحده، روز دوشنبه ۲۹ تیر تصویری از تويیت مسیح علی‌نژاد، روزنامه‌نگار و کنشگر مخالف جمهوری اسلامی، درباره اعدام عرفان اسفندیاری را بازنشر کرده است.\u003cbr/\u003e\u003cbr/\u003eدر این توییت نوشته شده که عرفان اسفندیاری، جوان ۱۹ ساله و تنها فرزند خانواده‌اش بود.\u003cbr/\u003e\u003cbr/\u003eبه گفته خانم علی‌نژاد، عرفان اسفندیاری کسی را نکشته و سلاحی نیز حمل نکرده بود و تنها اتهام او، به ادعای رژیم ایران، باز کردن در و پناه دادن به معترضانی بود که از نیروهای امنیتی می‌گریختند.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
-      "date": "2026-07-20T15:31:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3280,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/jxut2AR4HL0qWY8EzfVDVQoLGJN7zNDRmLiJqrjmTiDTVcmkkp14pAd8IUOrZJtXOGDA4d_x_9kOYHHYTuAzLbfIfmNPMbvtEDoJuNQdiDbUQzifBZgdHY977S57WY5HhXAbAbUqv39y9BFxoS8oa5ka1DmxBYltLxiO-44jQ6xI2NwA8q5NZF9PxnGgezLOuiDmpQhaKkKRyQADENR94FiH3h6vAnzb2x8E9V4bTrc1e7jvkQrhysw20rlQO5IFDsQY24-Pbd9UkWmuPzEBfEaA1cKbgH5WMcYaHU7Ut8YYvQxhzUgNEFAG49XqtbF14UgutaLFe_Qz182aiRhktQ",
-          "width": 1080
-        }
-      ]
-    },
-    {
-      "id": 224539,
-      "message": "کانال «وحید آنلاین» ویدیویی منتسب به پرتاب موشک از حوالی لار در استان فارس، روز دوشنبه ۲۹ تیر، حدود ساعت ۱۹ منتشر کرده است. همچنین تصاویری مشابه منتسب به پرتاب موشک از شیراز نیز منتشر شده است.\u003cbr/\u003e\u003cbr/\u003eکمی پیش‌تر خبرگزاری‌های رسمی جمهوری اسلامی و گزارش‌های مردمی از شنیده شدن صدای انفجار در شیراز در بعدازظهر دوشنبه خبر دادند.",
-      "date": "2026-07-20T15:48:18Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2980,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/XprFciGCgvURw71txP4mGzWSxhmpVjQ32l52H-TIBqmoix4MUsjaztVW08qnwSNCX5BOdAQA3PdJ0Wua2UApkvK7cnXbruyZJBYCJ_Mu4rkNj4ZPiku-iBlPuYRTMioE_Q3Elo1Nda45S19sMkRfDs6zmlLcEnxvQYtYsRAScRNRMNMTkp16bGqt3mvwoKQ8EsJAaKdz6FSAB3rI60AVjKflCf01DrkY6326VFzEsVgs54qhLqTdSlYBiiu8LbQRAbGHHHnb5JvvEzg8OMpFaNvItyRLKiY16OYZEyVqEW45XF35W08224GzT4Genhj5bSPB4eH4oPf8uWShCnUMpw",
-          "width": 1920
-        }
-      ]
-    },
-    {
-      "id": 224540,
-      "message": "روبیو: آمریکا خواهان دیپلماسی واقعی است، اما به اقدامات مخرب حکومت ایران در تنگه هرمز پاسخ می‌دهد",
-      "date": "2026-07-20T15:52:33Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2760,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/Y_GhICCeCgFyPDhMRetNUYaqXFE_nNRyCuJLLWXDFEk2ssak5zOQZzq4lDcA9__kg44V3-Rxq3V0heWB-VfN2KH1j15Qje6yni-ZtZAQCX2augCwkpcvYWADhw2D5kVtCuaJncqoPoPl3xfvZfbAUTnZdyaRsggWWx1wkAJMVfvN16HgmZDH4vPImDgnzTpUNZFrifKQl22zf53PqXKqXFCDe8IrsR6TIokL_vzRh7oluFcZcA6DtSBPFrmLH-mbh8eCQ5ECBTDs6GoAHvTr7q851_VewwKDwxOkeEboW06RRmNd04oZdEJ236WnwHhIPY5z5gILKKGcr_qXtWtphg",
-          "width": 1920
-        }
-      ]
-    },
-    {
-      "id": 224541,
-      "message": "نمایشگاه هوایی فارنبرو، امسال با رنگ‌وبوی متفاوتی آغاز شده است. در حالی که در دوره‌های گذشته تمرکز اصلی روی سفارش هواپیماهای مسافربری بود، امسال جنگ اوکراین و تنش‌های خاورمیانه، پهپادها، سامانه‌های دفاع هوایی و فناوری‌های نظامی را به ستاره‌های نمایشگاه تبدیل کرده‌اند.",
-      "date": "2026-07-20T16:23:19Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1650,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/m69ZFFiCIccz6q-mTbZ03quekDe9auQ3Cqn7tnrZEN_jBSixjvPcy7feQs5eBowxOhUS31Ej3icUR4M3VDrkjQfZ-ReI1EaOMpyqN2IOYpzCKRDNH-3dFLWYGgMukocIqUgcnjwbBTeq4vmb_p6Wf0H8C8s-0djUgLsPaObmq9CV24_JD3mCr-nlOaWi_tQY0pDcpv4LKvmMN3LRU-ACT3upV1yPT5gVH03JvAeEMXFW0iXV2uUDND5nWJTnU9W7Fp0_3t1wA6bqvmChpy4By0UF9I0GBvLrg2PJ24W1uoxrUyNWhVS5lEs8n9MwxDdq86VZ2TT6SJzAAWMk9mM2fQ",
-          "width": 1920
-        }
-      ]
-    },
-    {
-      "id": 224542,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eواکنش فرانسه به بازداشت کارکنان سفارتش در ایران:‌ بی‌پیامد نخواهد ماند\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eوزیر امور خارجه فرانسه در واکنش به بازداشت دو تن از کارکنان سفارت این کشور در تهران توسط نیروهای حکومتی جمهوری اسلامی این اقدام را «بسیار جدی و غیرقابل قبول» خواند و گفت که پاریس در قبال این اقدام تدابیری را اتخاذ خواهد کرد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/iran-french-embassy-diplomatic-tensions-noelbarrot-tehran/8173895.html/?nocach=1\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/iran-french-embassy-diplomatic-tensions-noelbarrot-tehran/8173895.html/?nocach=1\u003c/a\u003e",
-      "date": "2026-07-20T16:25:27Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1740,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA"
-    },
-    {
-      "id": 224543,
-      "message": "پرزیدنت ترامپ: حملاتمان علیه مواضع جمهوری اسلامی به رغم کشته شدن سربازانمان ادامه دارد",
-      "date": "2026-07-20T16:32:21Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1290,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/m3ZDqdgZOWVzSrThubr8l2zDzuy3-k6p1P7aI1Ey9A0whlRPR7RVKDxjxwyny5pp_P2N20VD2BT8XP2-_dQ2WmkGrVhBKn8b_tOjQIMkdZUzIsrqGsVZyCEzgjBR0DeaB9qwvw0oL7i44SX-yJPCzhoQhzgkip1rG_OPtxi_vwMJne8Zq0DpZdZJGuzQoXQITpAj3bNkxOVZP4WAgoEubjJ6iW458Kd4crXwLMDzdRNSM7hqzPnKnHoCbUHHst58fKijCfunXDhBvLBUsL2t91WYTFaWJNAdo97yoHo_Sx9ThjTLK3aupHnmbz4fyrmfd8W7uaW2wymy88W-ocQsiw",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 224544,
-      "message": "فرماندهی مرکزی ایالات متحده، سنتکام، با انتشار تصاویری اعلام کرد نیروهای آمریکایی مستقر در ناو آبی‌خاکی «یو‌اس‌اس باکسر» به‌صورت شبانه‌روزی از دریای عرب از عملیات پروازی پشتیبانی می‌کنند.\u003cbr/\u003e \u003cbr/\u003eسنتکام همچنین اعلام کرد تا ۲۹ تیر، ارتش آمریکا هفت شناور تجاری را تغییر مسیر داده و یک شناور دیگر را از حرکت بازداشته است تا از ورود یا خروج آن‌ها از بنادر ایران جلوگیری شود.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
-      "date": "2026-07-20T16:33:31Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1420,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/PeZJE6t_eSNHJ_bKB-qEptoZA6SpBGdRVXc-CGc0E1g_zo435r0xn63KwSlvG987daJaCSezunYwxfU3QGJ0G2Oua2H143MWUo4NypYklIXQ4KqM9C7MdPn08Em4qVhy6oSiWK39g-FzjbKWHOYhTqsFNwnXuNsTobPJFE7FEGpGVlD_I27tz9UxDCAuIIW1nk14pdo53KYCSXE9UK6IY4NhETdEJ6ukaAvm7q8vraJI-cs5KHD4cinLWife_nffLQUOVZoBrWjrO7DS90TBUEO7EA_DRlUk_j47WI4A2gwPMP_TSEWKacwRKpgoJSEIv9Glo-Vds78h3KeTp-XACg.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/KwRGc3ksQREcIY_vqo0LVMJrRTCdeFamNQhYAFr0W670iL3IHzpWIjlmdKDqPRBQZ3KrpVrlSHHKj24f5jXAvbgMgmSrxqXicrWc_81JZDJdjOsprxWCJ3Rdzc0g1dDqvq0jg4RLXJp6ZS7UshtzqMjQzePJCYtPn8ytcGtd2Sz3sovOAnibOi3_bhwW02qYnEYvHlv4DYyuil1f_PqMMpUFUuieVxJtNzU0RjlcPcYvDs2QaoLXAPjuPemQnaWGgR_5rHCBMzM8X41-a7HqSo-8qu1Ny4s31U0fj7v2_xG63kFrr1xZAwY9UyLpbH2Mu_E9zp1ZXOVisAdLdBGWDg.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/gTkyhljFKyqWfV_f-veBPTSx8m41eZtq4T8-rp7wBI837YfryWVdoQGWYiwPMXRqnG3ooivjYn9UAXwJIEruGMZBOPUPSNxtgjWHcP_oarZhYlODBfieqwYUmgjGhyYRYoD_Is627fek8hAEPc_vxq97RzwZy-zzf-pZ-2Cqq01spnN1tzAZ3yioJ2N4X-cVnMAR3HHvvl7DTbx2S8vyDGC68E6zq6nAe0-UQvxu_ngJYl5H2kHGVfKE2gV8TjXRgT0tsUSsS7zLtald-fz51tqDChDBMXsIsRhatbyolRnPsOUjF9CEJO-NtHdIj8NTZKm8Zg5uuFOfC50Lr5EhgA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 224547,
-      "message": "اهمیت آسه‌آن به عنوان یک بلوک اقتصادی در گفتگو با محمد قائدی",
-      "date": "2026-07-20T16:35:16Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1350,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/OEnik3xfKHn3fjzi1UieKqMjGcNVvPG-eIX86PvB0xfT0MTfIckx0UDq-v_ACqlXAOIbgoT-dJZxDT3v9qgCJ2EaX2hzOtlI8lapzZ-IHI0iWKduGoSYRfqclUu5lPbitOhP7DAiUYVtSb8RbnKE_dhur4kSpV7EGSMvIc2RLfCaw679S15saADxpm1Hl_AzwAGca508Ty_o4sVjAgKcbv5yo_xp434bwyhX5zsmmktWe0CpXk6o-Uiop5aTmB_OozFKNmcpxm861J1fqvFDYWpT0JnDgi1IW8qSON7OD6m5RCwjlF6AbL_c6rNlGOK9eA8J_FNJNz3F_opMZ7gqFQ",
-          "width": 1920
-        }
-      ]
-    },
     {
       "id": 224549,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eوزارت دادگستری آمریکا: هزار دامنه اینترنتی پخش‌کننده غیرمجاز مسابقات جام جهانی توقیف شد\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eوزارت دادگستری آمریکا روز دوشنبه ۲۹ تیر از توقیف بیش از هزار دامنه اینترنتی به دلیل پخش غیرمجاز مسابقات فوتبال جام جهانی و نقض قوانین حق نشر ایالات متحده، خبر داد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/internet-domains-fifa-illegally-streaming/8173886.html/?nocach=1\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/internet-domains-fifa-illegally-streaming/8173886.html/?nocach=1\u003c/a\u003e",
       "date": "2026-07-20T16:50:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 649,
+      "views": 3210,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -318,7 +25,7 @@
       "date": "2026-07-20T16:56:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 129,
+      "views": 3270,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -327,6 +34,191 @@
         {
           "type": "photo",
           "url": "https://cdn1.telesco.pe/file/miiU30eZzMwXlLT-rv-wf4QF5KhuthXfq8yfHEKf5CsbUoTSWvUfskPyHY_bapCXI-dEPO9NumP_wWSKzUMESc8NpFBIQAU1Q3bZBzez9NGNmWcS0mxbFxc3GVKF0VujejR6G8zF-Y0NplcLnEfksT-ncEHO_masDFlRuHjO5M8t9sc20mvkvBr_tWqevyC25yKvHJ_8D2zSP7x5TEG_bnUdyH2tdP0mQK_cFugRYeD8bkKL4YC7ELGwoyTX6zZXiOV9Qe1KfeyicPdTMWBAIKFkKOt4S3lSD_pOW08eOQug3GKNM2COwW1ikEd309jITOV918p_7ceahn_c3C6gjA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 224551,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eسنتکام: مسیر ۷ کشتی تجاری را تغییر دادیم و یک کشتی را از کار انداختیم\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eسنتکام از وادار کردن ۷ کشتی تجاری به تغییر مسیر از زمان از سرگیری محاصره دریایی جمهوری اسلامی خبر داد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/centcom-ninth-attack-rerouting-of-seven-commercial-vessels/8173905.html/?nocach=1\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/centcom-ninth-attack-rerouting-of-seven-commercial-vessels/8173905.html/?nocach=1\u003c/a\u003e",
+      "date": "2026-07-20T17:09:22Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3080,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA"
+    },
+    {
+      "id": 224552,
+      "message": "مهدی قدسی: تاب آوری اقتصادی در ایران رو به پایان است",
+      "date": "2026-07-20T17:17:21Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2790,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/tXrFLF-P3wLCB3wjnBBbellyivo2gba1QTz_x65vziob483j1xjEPW58mN-xWTb9_QThGwz_dDzaE1qEWFpg18gN8AU7GW3lkH1tS1ayedg4yDRLFOVeRVBhZoS-AKhkonRUSggIRtWmjUDq1x4Np2o81v6b8pu91a0MXthV_CR7BMFasGgjCSEUkLmon12Ls6_Ie_Jc-FQf3S38tt7_LkVnUlAKS2LmTr7rrtGDtdulU49_vk5aJK5Y4Uo0skmVHpPxcXxq6Y56jWOdDYWviPaasYhtmwuLRE8g9dLsENRm1XCErTMyITBqmPTc38gktKb69iw5Sx-kqT8Nbc-Hew",
+          "width": 1280
+        }
+      ]
+    },
+    {
+      "id": 224553,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eپرزیدنت ترامپ: نتانیاهو در حال مبارزه با رژیم ایران است و به هیچ وجه در آمریکا بازداشت نخواهد شد\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eدونالد ترامپ، رئیس جمهوری آمریکا، روز دوشنبه ۲۹ تیر با انتشار پیامی در شبکه اجتماعی «تروت سوشال» گمانه‌زنی‌ها درباره احتمال بازداشت بنیامین نتانیاهو، نخست وزیر اسرائیل، در سفرش به نیویورک را رد کرد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/benjamin-netanyahu-donald-trump-killing-american-soldier-arrest/8173924.html/?nocach=1\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/benjamin-netanyahu-donald-trump-killing-american-soldier-arrest/8173924.html/?nocach=1\u003c/a\u003e",
+      "date": "2026-07-20T17:28:20Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2620,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA"
+    },
+    {
+      "id": 224554,
+      "message": "حسن‌یاری معتقد است در ۴۷ سال گذشته هیچ تعریف روشنی از منافع ملی در ادبیات جمهوری اسلامی ارائه نشده و حاکمیت، منافع ملی را بیش از آنکه در رفاه و امنیت مردم تعریف کند، در حفظ نظام جمهوری اسلامی و تداوم حیات شبکه گروه‌های نیابتی خود در منطقه جست‌وجو کرده است.",
+      "date": "2026-07-20T17:36:28Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2230,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/RFaJZje77UMJZ5VxFaTBRcIACvFdUrz32qvB8m44PSJ0TuuGQkOF4hF-hsUfPASRLTebqvw_lDG36-y9DETJXTgojbNrOxgxyO_Sbi_f_bZzTgVQSEHT5y-1DuGeI37DwT42T6Ogu_waYuoqt5OwN4FwQ5n0l5BLKOxclU9DtCrPec3M-V8Ctqsy49iaQAa3TAwreWAfwhxmolykDPGutWqtwCpqagW75W2IfJTmMc7x9PRPq2bXTz0lr42ytlUMdlbKJVhK6tZKx6bwwxFCSiWDQ0Fq5VYkFV7IY_QfaJyRQTKh3Cfu7tIiml8h8qpKwDT0TpS0lVEAdZQ6EYSfFw",
+          "width": 1280
+        }
+      ]
+    },
+    {
+      "id": 224555,
+      "message": "فینال جام جهانی ۲۰۲۶ با قهرمانی اسپانیا، حسرت آرژانتین و قاب‌هایی ماندگار از شادی، اشک و هیجان به پایان رسید. این گالری، روایت تصویری شبی تاریخی در نیویورک است.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-07-20T17:42:00Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2350,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/SdGDfudBai-vLCk4JVBEQNgK74t7lgySwpaCDcu0kF1KmCTrjUFu1oQBrsl2CyqmqMhnsSA8m3KorbDYyN7hPVQUbUsEWqZ9hIG9GMUMHCfBfRDjTaHY_cnj7Qy0RlGYSbCo8zL8ZK73xiTOADfNLk1KfZ4CVi9Km0XRptUySeZYBeW04rdi7o5ZfEd_QwXzRgF0z_brgKQjhfVjI9pWSULTf-ln6UfoqJRdrmj_4ZkacEpzMTGyRVjLh1loK6_9oZWESRX8GHGdfe5kfKURCNYwTfprgvvFrTjdSZDfWrYe8wQ68rg2DQdhouZzjAL67D2BNyP-I2-KORXyF3PGhw.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/e6I0YznsiIdBpNwoWf88K9ekgcexNEq1XAj5jfJRbw9wq0DIVW6vUILScWab0ZgmuE4Bz6_dJtDD-35_H7zgjWCJv3FtycOlnnEHy2Yvn31oLnSzQ2nhlkNcUt_30SvqVE84uMYn78hLovtN6l9iZzlBMRnFwD0lAqSMc7AF1VU6n4npvdxCjDkHtZQLBRZ98MXAureVz3AMur1JHaLIpWlOr1Hs61vD1bzuAGEbLBdD-pfCqSTZgZ6IeIelosc0Szcn3RNJbQ9XL-rqjgQn026Wacpw3VSFav_saev5IUDJvPkNXA-pmtb2IoCPULjO0jArYcrGiokJ3ytW17Aj3w.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/huyTBH3bqdRnWxuzGyFm0RXI_yDODSHoVNvVggAZxQEEoFX7K70EYBKoL4EiLiNqANG98Q8E0RkL8HMl5eHNmh9pOK863clAUoBvCOoYfWfJtAFURcJQF2Fgq2dunPMcqfeuZEY3xmfIfKZPVc567xxpB5yWRIgqkG1zwoC71fIXVJ-wI3IZo8avTuhZCv9X2Nep9sKjK1c6RByXtp9v05iSd8u8yUx5e93AYeALwMwFm4Kqp1Mr97PRI5vkiNGLeJa04Dkw3hoJQb7phyaxaQJ-QTylAh67wietRtwYBoHP4G03ucWg7IiVxY3UKppSmZ4lCJ3Kgj4H2msV_Uu7eQ.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/tLhocDoiWzjLilsA32BG4pP1unULpoCkgqI9bSKtpD-8WcaWSoWRSRg9wXfGPML8yfW2AIWfLPJVVX0J2bHAzveN5AguKjX4wNur9ShHLENUbAQrsT_sroQnnURH5v36XFG6Oypzo7HGt61owa9kX-DfHiKaneR3MwwhJ4o5S2E0oiweparLAjlCoEpsW2JVYnZdHCncpiattF-lbp12R9Gholdu6tQ9ubVRgyAhclXiPuXtD4PHY4zwsVe-Y-TopP8RzhtRo8uS21jpcLvtrh2PKesGGbBnoUYi6X_m5QN9PtvzuSIlkpqfe7tTsuLsoplSs7IyT8Fy85avgGb9og.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/lGqI1RS3Y7za9f7Tz3TPJIfNVyuEk7edHV4qJOCxplgkjJcFUJXVcKOrarxogEy6dPP9Qztj6wua5EYT749B6bgctg5r8fnfBdqn92Fs4gMhUSQOP42NpZLmd9IsoGh7Y8JEzbeAuKp08lII0tx89kqWuGxqtWLrnxH7AnxxSWYH5TH-EmtudsuCYlfSJCFqWIGeKI5xcFzWZ9ns6dc3rOoSlCQlfMaC9yL9-jQ6ZICpEhVqFe8GQMNC6go7rosDRCglmctthj9suki64H-haaSU8A7glRIP1a6ss4cGJRK7rH_Sq37Vt-2a688-XvkJVFi3hx2t9yVYl3wm_3kWew.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/WztY7lPhuSV8AT1aLGPmEsNI_o9r48_PS-pHN7PmqBDksNCO_Je2pM9VoHh-wmP5WgVdFGJtlkD79WiP1D2bIoABGafN7w-ZZZlKG92_rKTG8HUSYoxE___6lO8IDwSPOO7KQVO8e7AntVYEJMinH-CDI2cUQL2xGMzzaqiJwh0avqkG_yvc-2WLOOVER7wQNQxinCYZQylMA3WpKwrIKlaTfaOns3Fs_xJ7jbwxW-4Bh43rFUjqrM__xxHtAWxhjiur0_I4k5Be_QUeQaC4GDxBnudikElvfxIJNgXYwy20SKh2Kg9rOhBbq9_1VPU3hQ2t62_XjdTiG9cr8CS3DA.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/MLfrEv1djdq10cRxqRQTUAilevcy77OIQRsFe7esN-sB-H-EGzUHp3RYZUzXuTZzJrTKaqjEUHjvlvd_Xzqlx3R2k7n5aUbyJ1XgJMrk39jF916UvRBTDs8-AnLcyzpgwPp4HN_1ha1RWZ9rqH9Kavs7OcYxNIcjPWlCVSmRkW5QK6Jk8-Jfw7QTj-ldW3HVlTnRFa7cGf6VWAOub8bxrhxygXKk26hAvGT5sUQTuAQnPr0zFM2IcslhxAVAqdXJGOhJ08mC4FWdcai5NSXk4ynGTWPnujh38zTQVohJpCapYtSGK7KaRpqmjEuaUbxpplG4yr9KnN8_2lFrYF7nMA.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/DLdSYeY9XZQY4-21vmkUcMNFRkjnyCMm_jvq41PINy051TJvw74sjrfId8MOW4lIiciLLCCqqZMvoHzcApBJGhScRMHx_aXtjtsP12p7LnXbjaIWZGd4syT_FbenlwNKOkv5NrLLz6ebToVCZDSbGf2nN9DC1RqgldnXP9BH7hucoO8L3GN9-IWmE9VxMKIVxSq45TcgSP7VQ2b1sk79h4hn3kBWTpRTvhUYA8tKopLuOfwAXjmnok3MNkDg4G1bUIgthT2_Tx99C0W86mzFcc-IVG3DJIMcmeNWnwxRThbmSmvFre6fnv0siiUTl86PRL23rGMU7IkZnTo_hfcOLg.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/QxUGhKY4N4Gg0DSKruUnjAa_BGnEjhRPpsIP7Hcm9sKDT6T_7q9yOcrR5GYyHJnj9sxj4erwru-hGoPt_3RxiuRymwMGmsGF3OBdsDePrr4gC4Iwd5nmwtiZTqSiFmg8mLkMDXd5SVxVsgggvehIvyIu_92hhv86DxR4a9hhUv36O-Ye6QTFbXK_5K3i4xAfXFKX9W10kBueIlmruW9FXForu0ZsNQ5Mk-CBXsX9VdbAODPFxvdlWq1yo3RbeayT70jjsJLb06ao6qkRow2VoLHSO7YfdToPyzHTiaQ6YtrsiX2blX1DIZojq-RbIL4Acro5O4MoqmHwnqISQP8-Sw.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/M3WpdbLovgLBcaYSorlU_uZw0sPSz5CzKyxxnGTjWZcXjEhkTl3YTL_kKooS1WjtCu7Ak7w9RBEDTEnYkBwGu2rfiytch7JB1VcgoaqXuxrqVp2yVAkhOjnHFS-OJk-OjogNEdAZ21PH9TnRsKn5X5cjsgTbb-feTAfaseFGKZqc-5zeLDoiV6u85P7t5R2grPkP5edNkDSAtdINSZixu6xg-K8-O-9Qz2U-aMEN6u8cTBmlK6ioL-TL14L5ssqQuvHYIl9mbEiypcK0kdKNT3wtNJliFoqDBtZUfG_pQuljQ1yXrvcqZ_k55pUTC3X57MNzoYkK-InLRKJAmM2khA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 224565,
+      "message": "بر اساس ویدیویی که دن اسکاوینو، دستیار رئیس جمهوری‌ آمریکا، منتشر کرده است، یک بمب‌افکن راهبردی بی۲ در همراهی جنگنده‌های اف۲۲ آمریکا در حال پرواز دیده می‌شود.\u003cbr/\u003e\u003cbr/\u003eدر این ویدیو قطعه «نسون دورما» با اجرای لوچیانو پاواروتی پخش می‌شود و عنوان این اثر «هیچ‌کس نباید بخوابد» است.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-07-20T17:57:15Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1920,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/FH8YzB9cihKb6TliZba5ht2k0n4JDWSYtzDXh92Oe6m0BWUbBV33aNQ60_aP9D4M6WrNq-pO2zl980OXzISlCIf_D3x1A57kyi9ynLLEvptMLhi1Rtw-nL1Qg0VnHPvxgRufYsjGbOz0Aa-LK2azul1HXjzJAU4FuPVk7lrnCMD-gSSasRWCtkDXI_X3EQXat8KR6lHZXGeBtRH2zLjFlWO8JcKwhp5wSXNQI3qnGdKxTgqQchr3qTJ2cSAvUjpujPz976tIKxtu1sUNlVkSazRAFke0hJ5kSiJmGiYaNL-TAIR8B_Xp9VSSdRrRUlVd8lwfQ-TkJoYcWDrLp_mPew",
+          "width": 1080
+        }
+      ]
+    },
+    {
+      "id": 224566,
+      "message": "فرانسه و آلمان خواستار اصلاح ساختار سیاست خارجی اتحادیه اروپا شدند",
+      "date": "2026-07-20T18:04:42Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1540,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/V9Ydoky9UYOifjrdSGGx4NcVyPG6l7NmcassFetaNajj1sfX0yUgXdKcsQ0MT19gc2uXS-0pv0ZtqhMRBopEABUE-BFgj627-dYJZ_N0f2CjkeOlcqRrtGEBbgQY6BGXCjcJefr_LUeRLdvzKVOebWJf6S15fBAJKlkZObl1st3ZgTia_-6VKuuvdo18oc1sVJdZDF8gsMWsABsr4lyKiObnmM5_OWS4yhpR44ei6ftF88_8mK6WuEk5xQ4BahmtLXuswpwZK9astjDjA9YvAJsuPxehbzQwyleyhKBZPCg2D5zknExdZ1yezz-L2Qo08KC66qFRcF0QVB3sPaSe2g",
+          "width": 1280
+        }
+      ]
+    },
+    {
+      "id": 224567,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eچرا لباس بانوی اول آمریکا در فینال جام جهانی نگاه‌ها را به خود جلب کرد\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eملانیا ترامپ، بانوی اول آمریکا، در جریان دیدار نهایی جام جهانی ۲۰۲۶ میان تیم‌های ملی اسپانیا و آرژانتین، با پوششی متشکل از برندهای آمریکایی در ورزشگاه حاضر شد؛ انتخابی که توجه رسانه‌های مد و شماری از کاربران شبکه‌های اجتماعی را به خود جلب کرد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/melania-s-patriotic-world-cup-look/8173896.html/?nocach=1\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/melania-s-patriotic-world-cup-look/8173896.html/?nocach=1\u003c/a\u003e",
+      "date": "2026-07-20T18:08:41Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1390,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA"
+    },
+    {
+      "id": 224568,
+      "message": "دانشجویان و علاقه مندان به فوتبال در روز پایانی این دوره از رقابت‌های جام‌جهانی همزمان با برگزاری بازی فینال بین تیم‌های آرژانتین و اسپانیا در حیاط مرکزی دانشگاه تورنتو جمع شدند تا به تماشای بازی نشسته و از تیم محبوبشان حمایت کنند.",
+      "date": "2026-07-20T18:16:08Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 568,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/Nkka4zDZ-c8LA93NYDEfgyJ67O901xlgBckKihIrGfONcl2ohOTfsgH4XCnW0LehGDXmRJhwIkRKYxflVBSmHSv5VTVIUdv-SIGqqlDJLZ6jUk7lDb0LWoHeRnhOEwXbMOotVSSR-VBvoA6FHm2P3x7GT8_zgfX4Vcv_A9sCrQKVlJgmXx7C2jX0EWQE7Cg331qBehy8C9QrJt2Yt8FR68206Pf0oOy40U70VsLMKv5gRbXgyYgUaZe1_EEwWAraOdYcnnRy-5RFbxsuTlGN3nsDWtsaeKiAGtQHj3ieHSHLG0GXNs2Q-SMP07U8udgff0BKuCvjPNOn3BkMDdxGNw",
+          "width": 1280
         }
       ]
     }
