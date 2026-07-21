@@ -13,7 +13,7 @@
       "date": "2026-07-20T07:16:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 140,
+      "views": 142,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -51,7 +51,7 @@
       "date": "2026-07-20T07:16:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 156,
+      "views": 158,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -69,7 +69,7 @@
       "date": "2026-07-20T08:26:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 161,
+      "views": 163,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -77,7 +77,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/SfWe-xTf5rf53NkyySN-jBmIelOn2rj14N2uhMhAuQOWqwBUz5WWl54a-uxh8nF6_76vl8E22lnuKwPZK6sFp7ae4kL2fist5mUf8DR4d9UXIQeLLJmyYgQPSdrcd7NCY61Tc3gCgYvA2WdNvBDO3pg-vHWv66lTJvGHSRmpDZCuKmMlJEEs6knKGiBJXE2ypOKZ-5yFghF-JJ5wbFQPq-PS30f0LUsJqBPeZYj_3BSXfKk_UdrjkecMkzmC9Y47kg0NEQ_Cz3mjq7cWqIj42VQFvQ6UDl-pW_RTy2hHuNlkhktRiyIQEtMiP2JaHPfWI01RPDuvhPMu1HkJzY5pgA.jpg"
+          "url": "https://cdn4.telesco.pe/file/cutJsQMM0MLa-ApZuB-2BK5CScThNAmcOhRLsoGrwBSNPg6SwZm2RPst4RJIiEnkzCA_wIqejMb0lQ91fx9eYQSyP7IP2GumzvGb5DSV49SqGQrsQcLHdYy2O75l8qiQfCmu-hBtdipG1BiZ7NYJ72DGqa9VB0m0ATjffXRkaEqWZwQBo_q9eZXUu3LwIZEjOsHz6yp-oQPOTq2F9HKryovxCs6O7hAHQrXVKcLIzOZbuQkx3DQnA21J0QW8kZT2zYh86KZP3WzA6cmzpzM-seQccpKHm7Ye48vSjQf6A1bXAQ8PUMtYXt-3h0iF4PgQJmrHaLxS2cylz3k5oRPsdg.jpg"
         }
       ]
     },
@@ -87,7 +87,7 @@
       "date": "2026-07-20T09:11:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 141,
+      "views": 146,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -106,7 +106,7 @@
       "date": "2026-07-20T09:38:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 156,
+      "views": 157,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -125,7 +125,7 @@
       "date": "2026-07-20T10:08:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 161,
+      "views": 164,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -143,7 +143,7 @@
       "date": "2026-07-20T12:02:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 171,
+      "views": 176,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -161,7 +161,7 @@
       "date": "2026-07-20T14:53:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 148,
+      "views": 156,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -179,7 +179,7 @@
       "date": "2026-07-20T15:44:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 153,
+      "views": 160,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -213,7 +213,7 @@
       "date": "2026-07-20T17:11:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 147,
+      "views": 155,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -231,7 +231,7 @@
       "date": "2026-07-20T20:09:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 147,
+      "views": 160,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -240,6 +240,42 @@
         {
           "type": "photo",
           "url": "https://cdn4.telesco.pe/file/qD1ZvRcxmVZLtSBqhsPHc82nC2zF8GR_xDQK_4ZHQrnHK7N3X6MmAguvFoAL_lLuzcX9rfSqYWAeUVjMaeI5UR1udVZfhMvxPluAsgkFvR6H4yOKk_A836Yw_WRfLrchZAczAaGn7J6tvmSNoPHZ3aGfzSNrMkCo18G-uovF-BD9_fubBR5Ixexygi6l2kncMUp2W610muPPbLp0rJhm15YTtY7bxOAtBE39EkWPvu9xE9k65eSLIBsct2XAX9er28ELWsTVWUjzFD0i3L8rdkTTFZ6FyTZ5Ljkmu9rwEo8DchzkbAAjszZQgWzXfDsAcuT5CGxtYdtOdXNjSbcwOQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 19520,
+      "message": "گسترش سرکوب‌های اجتماعی؛\u003cbr/\u003eچندین کافه در تهران پلمب شدند\u003cbr/\u003e\u003cbr/\u003eهمزمان با تشدید درگیری‌های نظامی میان آمریکا و جمهوری اسلامی، سرکوب‌های اجتماعی در ایران نیز هر روز گسترش بیشتری پیدا می‌کند.\u003cbr/\u003e\u003cbr/\u003eدر همین زمینه، گزارش‌ها و تصاویر منتشرشده از سوی کاربران در شبکه‌های اجتماعی از پلمب چندین کافه در تهران حکایت دارد. بنا بر گزارش‌ها، اکثر کافه‌های پلمب‌شده در خیابان‌های سنایی و ایرانشهر واقع شده‌اند.\u003cbr/\u003e\u003cbr/\u003e«عدم رعایت شئونات، سد معبر و تداخل صنفی» از جمله دلایل پلمب این کافه‌ها عنوان شده است.\u003cbr/\u003e\u003cbr/\u003eاین اقدامات در حالی صورت می‌گیرد که طی ماه‌های اخیر نیز گزارش‌های متعددی از تشدید نظارت بر پوشش شهروندان، افزایش فشار بر کسب‌وکارها و گسترش مداخلات حکومتی در حوزه زندگی خصوصی منتشر شده است؛ روندی که نشان می‌دهد نهادهای امنیتی و انتظامی همچنان بر سیاست کنترل اجتماعی و محدودسازی آزادی‌های فردی اصرار دارند.\u003cbr/\u003e\u003cbr/\u003eدادبان تاکید می‌کند، از منظر حقوقی، پلمب واحدهای صنفی یا بازداشت افراد به استناد مفاهیمی کلی و مبهم مانند «ناهنجاری اخلاقی»، «هنجارشکنی» یا «عدم رعایت شئونات اسلامی» با اصول بنیادین حاکمیت قانون، اصل قانونی بودن جرم و مجازات و حق آزادی‌های فردی در تعارض است.\u003cbr/\u003e\u003cbr/\u003eهمچنین، محدود کردن فعالیت اقتصادی شهروندان بدون وجود نص قانونی روشن و بدون رعایت تشریفات دادرسی عادلانه، مصداق نقض حقوق اساسی شهروندان و تجاوز به حق اشتغال و مالکیت مشروع آنان است.\u003cbr/\u003e\u003cbr/\u003eتماس مستقیم با وکیل در واتس‌اپ:\u003cbr/\u003e+905510332575\u003cbr/\u003e\u003cbr/\u003eبات دادبان \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Dadbanbot\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/Dadbanbot\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eایمیل \u003cbr/\u003esupport@dadban.info\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://dadban.info/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eوبسایت\u003c/a\u003e | \u003ca href=\"https://www.instagram.com/dadban2021/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eاینستاگرام\u003c/a\u003e | \u003ca href=\"https://twitter.com/dadban4\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eتوئیتر\u003c/a\u003e  | \u003ca href=\"http://youtube.com/@dadban2021\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eیوتیوب\u003c/a\u003e |\u003ca href=\"https://www.facebook.com/dadban2021?mibextid=ZbWKwL\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eفیس‌بوک\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Daadbaan2021\" target=\"_blank\"\u003e@Daadbaan2021\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%AF%D8%A7%D8%AF%D8%A8%D8%A7%D9%86\"\u003e#دادبان\u003c/a\u003e \u003ca href=\"?q=%23%D9%BE%D9%84%D9%85%D8%A8\"\u003e#پلمب\u003c/a\u003e",
+      "date": "2026-07-21T07:38:48Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 60,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "دادبان؛ مرکز مشاوره و آموزش حقوقی ویژه کنش‌گران",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/DEuucXshgJhr5wvJzKR-QIKbzHY1lBsRpT6T_DsVQ6Bz6QHlyoHWpDrDJqipGHQVF1_15BwV6NBWjgPFcFN1mPEN-GjQ_wThdkMprseinDY2LfmYfd0cQq3wG7zqwSQlbh8JR-U24vi5-NTCACFwi8t1GnQ_DujEqb7lPDuECC5oNq-vT4jXtR8ZpNbbNgv-yhuTA7g0pEqPvQMH621W5OFY_-w0Xl4HXADAM14cJQPc7F6KsI8ydZBlp6h82XOUoymWrMIjVd1QYSm1Yk_wjafWvM47PSNDacNBFQ7YwCtw4TPRFZ8pW_fHDIn7SajQF00HVk3aKVhbISG4Jnf2SQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 19521,
+      "message": "تداوم  کارزار «سه‌شنبه‌های نه به اعدام» با پیوستن زندان نیشابور در هفته صدوسی‌ام در ۵۹ زندان \u003cbr/\u003eاعتصاب زندانیان واحد ۲ زندان قزلحصار با بیش از ۱۵۰۰ زندانی زیر حکم اعدام\u003cbr/\u003e\u003cbr/\u003eکارزار «سه‌شنبه‌های نه به اعدام» ضمن محکومیت اعدام‌های فزاینده در ایران، یاد تمامی زندانیان اعدام شده به ویژه آنان که برای آزادی و مبارزه با دیکتاتوری خودکامه جانشان را فدا کردند، گرامی می‌دارد.\u003cbr/\u003e\u003cbr/\u003eحکومت مستبد حاکم، در هفته گذشته بار دیگر جان چهار زندانی سیاسی با نام‌های عارف خوشکار در زندان قزلحصار و محمد امینی دهاقانی، عرفان اسفندیاری و گل محمد محمدی در زندان اصفهان، را به شیوه قرون وسطایی اعدام گرفت.\u003cbr/\u003e\u003cbr/\u003eاین چهار زندانی ستم‌دیده نیز همچون بسیاری دیگر از زندانیان سیاسی محکوم به اعدام در یک دادرسی ناعادلانه محاکمه و اعدام‌ شدند. روحشان شاد و یادشان گرامی‌باد.\u003cbr/\u003e\u003cbr/\u003eبراساس آمار موثق تعداد زندانیان اعدام شده در سال ۱۴۰۵ تا کنون دستِ کم ۲۸۰ نفر بوده است.\u003cbr/\u003eدر مخالفت و اعتراض به اعدام‌های غیرانسانی، بیش از ۱۵۰۰ زندانی در واحد ۲ زندان قزلحصار بیش از یک هفته‌ است که دست به اعتراض و اعتصاب زده و خواهان لغو حکم اعدام می‌باشند.\u003cbr/\u003e\u003cbr/\u003eزندانیان این بند تماماً محکوم به اعدام و عمدتاً با اتهام مواد مخدر می‌باشند. بر همگان روشن است که واردکننده و تولیدکننده مواد مخدر در ایران سران حکومت و سرداران سپاه پاسداران هستند و برای سرپوش گذاشتن بر این خیانت آشکار، افرادی که از روی فقر و ناداری در دام مواد مخدر افتاده‌اند را همه‌روزه به چوبه‌های دار می‌سپارند. \u003cbr/\u003e\u003cbr/\u003eاکنون زندانیان قزلحصار و کارزار «سه‌شنبه‌های نه به اعدام»، که در مخالفت با حکم اعدام در ایران صدوسی هفته پیاپی است، به پاخاسته‌اند و ایستادگی می‌کنند.\u003cbr/\u003e\u003cbr/\u003eدر همین خصوص جمعی از زندانیان زندان نیشابور نیز در بیانیه‌‌ای اعلام کردند که به کارزار می‌پیوندند؛ بنابراین کارزار «سه‌شنبه‌های نه به اعدام» روز سه‌شنبه ۳۰ تیر ۱۴۰۵ در هفته صدوسی‌ام در ۵۹ زندان زیر در اعتصاب غذا می‌باشند:\u003cbr/\u003e\u003cbr/\u003eزندان اوین (بندهای زنان و مردان)، زندان قزلحصار (واحدهای ۲ و ۳ و ۴)، زندان مرکزی کرج، زندان فردیس کرج، زندان تهران بزرگ، زندان قرچک، زندان خورین ورامین، زندان چوبیندر قزوین، زندان اهر، زندان اراک، زندان لنگرود قم، زندان خرم‌آباد، زندان بروجرد، زندان یاسوج، زندان اسدآباد اصفهان، زندان دستگرد اصفهان، زندان شیبان اهواز، زندان سپیدار اهواز (بندهای زنان و مردان)، زندان نظام شیراز، زندان عادل‌آباد شیراز (بندهای زنان و مردان)، زندان فیروزآباد فارس، زندان دهدشت، زندان زاهدان (بندهای زنان و مردان)، زندان برازجان، زندان رامهرمز، زندان بهبهان، زندان بم، زندان یزد (بندهای زنان و مردان)، زندان کهنوج، زندان طبس، زندان مرکزی بیرجند، زندان مشهد، زندان گرگان، زندان سبزوار، زندان گنبدکاووس، زندان قائم‌شهر، زندان رشت (بندهای مردان و زنان)، زندان رودسر، زندان حویق تالش، زندان ازبرم لاهیجان، زندان دیزل‌آباد کرمانشاه، زندان اردبیل، زندان تبریز، زندان ارومیه، زندان سلماس، زندان خوی، زندان نقده، زندان میاندوآب، زندان مهاباد، زندان بوکان، زندان سقز، زندان بانه، زندان مریوان، زندان سنندج، زندان کامیاران، زندان ایلام، زندان کرمان، زندان بروجن و زندان نیشابور.\u003cbr/\u003e\u003cbr/\u003eهفته صدوسی‌ام\u003cbr/\u003e۳۰ تیر ۱۴۰۵\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Daadbaan2021\" target=\"_blank\"\u003e@Daadbaan2021\u003c/a\u003e",
+      "date": "2026-07-21T08:40:04Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 12,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "دادبان؛ مرکز مشاوره و آموزش حقوقی ویژه کنش‌گران",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/Fthr8Sciu9zOku0MT-HYR99ZnBq7yvOW6hnkgOBa-sgqMA_JXp45S7_OwHSS4iulCwhAO7QMrL8U9jsBNlJ88OYFyIKnlHWGY5mlJyi4RGatgtTQrkwqmVFLvMw7XZfpPMwTaMiEwGQX6vHh3MPXtrUBAvtR-tgPADBOvhPE1fSHM7ABzlYLS6_K0AKId1mQ5cBZothcHqRWpzkdQ4Ml0jRMlx_YT2l-nVmBvbKNKg7CwAHKwWfS8GH-4R_QwfiS9YYOtyxdwfWlxcqH3db9ecPitmgEo0fo28wwWAO8UCnRPLR0ub6tZ3UXcgZweXcOmWcDYBYWZ46USMtNheSStg.jpg"
         }
       ]
     }
