@@ -13,7 +13,7 @@
       "date": "2026-07-20T15:44:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 188,
+      "views": 191,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -47,7 +47,7 @@
       "date": "2026-07-20T17:11:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 192,
+      "views": 199,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -65,7 +65,7 @@
       "date": "2026-07-20T20:09:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 214,
+      "views": 216,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -73,7 +73,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/qD1ZvRcxmVZLtSBqhsPHc82nC2zF8GR_xDQK_4ZHQrnHK7N3X6MmAguvFoAL_lLuzcX9rfSqYWAeUVjMaeI5UR1udVZfhMvxPluAsgkFvR6H4yOKk_A836Yw_WRfLrchZAczAaGn7J6tvmSNoPHZ3aGfzSNrMkCo18G-uovF-BD9_fubBR5Ixexygi6l2kncMUp2W610muPPbLp0rJhm15YTtY7bxOAtBE39EkWPvu9xE9k65eSLIBsct2XAX9er28ELWsTVWUjzFD0i3L8rdkTTFZ6FyTZ5Ljkmu9rwEo8DchzkbAAjszZQgWzXfDsAcuT5CGxtYdtOdXNjSbcwOQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/ViSwLSUvgBqYJQiqplhLlBtP_On-y_Kowq88eDFYSFG1x7bygTkxbZ7SKNoJ9G-8goX5VO2i7SiXINaKd1Pev76n7fj3D5e5TaV1eoEjOv6DEk79C-Bki-4i11jowtNwSUoVBjsYaaWHIfR_KYVdQOQbDhB3dFcPZ3zQobTIuPbn9SSqf2VDDLS6reSsd5UVkcuFikkqZikWF6KarfYkZenLNvox6LVV0ye5z51Ql-Q1gImoM5PiHemt2dJ7S6ncDQ5TiuoWaGt-hOJXFnyZL25jgVU4bdioyGmc9fPaqr_SpAjwN_6X7nrDuXkssfLjovIgCDUJc_X_2Psn43xvIg.jpg"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "date": "2026-07-21T07:38:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 167,
+      "views": 174,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -101,7 +101,7 @@
       "date": "2026-07-21T08:40:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 166,
+      "views": 171,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -119,7 +119,7 @@
       "date": "2026-07-21T09:16:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 183,
+      "views": 187,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -137,7 +137,7 @@
       "date": "2026-07-21T11:59:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 152,
+      "views": 157,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -155,7 +155,7 @@
       "date": "2026-07-21T13:06:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 176,
+      "views": 193,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -173,7 +173,7 @@
       "date": "2026-07-21T14:27:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 136,
+      "views": 150,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -191,7 +191,7 @@
       "date": "2026-07-21T15:48:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 108,
+      "views": 131,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -210,7 +210,7 @@
       "date": "2026-07-21T17:00:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 72,
+      "views": 108,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -239,6 +239,24 @@
         {
           "type": "photo",
           "url": "https://cdn4.telesco.pe/file/HNd_IDupAVtJbBxcxjDeu9K72Oub7uV51gTThx0JQJL-IcsehkpCLP3yQMBAayDib8vXSI3dQX6dxW6qq6mw0n0uLCg7dotR1vO0KK_nMncuHEiNAUf_Yd1J_hKWbujIKQBvYHnvFB-KC6klxL3dwyDNeZ7LX7sHhbrECxzhP4dX4e380agG6gQ-rVLKrDqsGjhMaMpJIIQeufwr8wMIdPPtcgWJA5NY5PPypUbLvXVeRLEQVxPVjvLlDPaCa_RGMJmrq3iC7xv_M9FU6f18rRD-TmI_bVlVa53_0kmy57tpTfUQX5_cJ-WFhqB6ko9HNQGFGB40BgsPse0uoT_03w.jpg"
+        }
+      ]
+    },
+    {
+      "id": 19533,
+      "message": "سینا ستوده، معترض بازداشت‌شده در دی ۱۴۰۴، به هشت سال حبس محکوم شد\u003cbr/\u003e\u003cbr/\u003eسینا ستوده، شهروند ۳۱ ساله اهل رامسر و از بازداشت‌شدگان اعتراضات سراسری دی‌ماه ۱۴۰۴، از سوی دستگاه قضایی جمهوری اسلامی به اتهام «اقدام علیه امنیت ملی» به هشت سال حبس محکوم شد.\u003cbr/\u003e\u003cbr/\u003eمرکز مشاوره حقوقی دادبان اعلام می‌کند که صدور احکام سنگین حبس برای معترضان، به‌ویژه در پرونده‌هایی که اطلاعات شفافی درباره روند دادرسی، ادله اتهامات و رعایت حقوق دفاعی متهمان منتشر نمی‌شود، مغایر با اصول دادرسی عادلانه است.\u003cbr/\u003e\u003cbr/\u003eبر اساس گزارش‌های منتشرشده، سینا ستوده در جریان اعتراضات سراسری، روز ۲۰ دی‌ماه ۱۴۰۴ توسط نیروهای حکومتی بازداشت شد. او پس از حدود دو ماه‌ونیم نگهداری در بازداشت، با قرار موقت و تا پایان مراحل دادرسی از زندان آزاد شد.\u003cbr/\u003e\u003cbr/\u003eبه گفته منابع آگاه، او در دوران بازداشت تحت شکنجه قرار گرفته و در پی آن با آسیب‌های جسمی از جمله شکستگی دندان‌ها، شکستگی دست و پا، آسیب شدید به دنده‌ها، ضربه به ناحیه تناسلی و خونریزی داخلی مواجه شده است.\u003cbr/\u003e\u003cbr/\u003eدادبان تأکید می‌کند تداوم صدور احکام طولانی‌مدت علیه بازداشت‌شدگان اعتراضات سراسری، از سوی نهادهای حقوق بشری به‌عنوان بخشی از روند سرکوب و ایجاد ارعاب در جامعه ارزیابی شده است. استفاده گسترده از اتهامات امنیتی و مجازات‌های سنگین علیه معترضان، در سال‌های اخیر به یکی از ابزارهای اصلی حکومت برای محدود کردن حق اعتراض، آزادی بیان و سرکوب نارضایتی‌های عمومی تبدیل شده است.\u003cbr/\u003e\u003cbr/\u003eتماس مستقیم با وکیل در واتس‌اپ:\u003cbr/\u003e+905510332575\u003cbr/\u003e\u003cbr/\u003eبات دادبان \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Dadbanbot\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/Dadbanbot\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eایمیل \u003cbr/\u003esupport@dadban.info\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://dadban.info/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eوبسایت\u003c/a\u003e | \u003ca href=\"https://www.instagram.com/dadban2021/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eاینستاگرام\u003c/a\u003e | \u003ca href=\"https://twitter.com/dadban4\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eتوئیتر\u003c/a\u003e  | \u003ca href=\"http://youtube.com/@dadban2021\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eیوتیوب\u003c/a\u003e |\u003ca href=\"https://www.facebook.com/dadban2021?mibextid=ZbWKwL\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eفیس‌بوک\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Daadbaan2021\" target=\"_blank\"\u003e@Daadbaan2021\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%B3%DB%8C%D9%86%D8%A7_%D8%B3%D8%AA%D9%88%D8%AF%D9%87\"\u003e#سینا_ستوده\u003c/a\u003e \u003ca href=\"?q=%23%D8%AF%D8%A7%D8%AF%D8%A8%D8%A7%D9%86\"\u003e#دادبان\u003c/a\u003e",
+      "date": "2026-07-21T19:50:00Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 27,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "دادبان؛ مرکز مشاوره و آموزش حقوقی ویژه کنش‌گران",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/e_zJWOX9vZK-I-yt0tiuvLUQGYOjsQLTP_RjdzzNaqa1Qha2CW3CE2nzH6TEY5RLxcvITCRwDkRgSgD8J8xPWvLHgLPs3t6BBwKc-n6bLLNkisXk_E2qMo1G24jW_P8-1ViCVnMfmd7r8kfe2c8Jqlx05MZmxCtoVfAv1eQAa3N618lvEqjXFlmQeAjmwjqdUJxSov_yt3LAzXgNMcIsimDN6CgCYu75Xkp7Bbajo-rtG-jWt7aQEN0zeLRq7qjNYYcXeg15mPN82aJd28JE6n_NKwFebw8EMQAsE9PdhB7nEvYc1xrsDhlgyyOFQAl0ll-M1hE8zyMSinlAKdugnQ.jpg"
         }
       ]
     }
