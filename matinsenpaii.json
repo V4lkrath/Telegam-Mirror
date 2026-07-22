@@ -8,228 +8,114 @@
   },
   "posts": [
     {
-      "id": 4583,
-      "message": "\u003ca class=\"tgme_widget_message_author_name\" href=\"https://t.me/MatinSenPaii\"\u003e\u003cspan dir=\"auto\"\u003eMatin SenPai\u003c/span\u003e\u003c/a\u003e pinned a photo",
-      "date": "2026-07-20T18:50:33Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 0,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 4584,
-      "message": "در حال آپلود",
-      "date": "2026-07-20T19:32:37Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/NuckrK0VZ8YUreRYsgFvOVWToI3JhCBhRLVYZGWq1teuNq11oYJOnDhAQZ030O_kLodMpAEShMECaKa0eMbJCxXbFTK1M7Klhd_WJbV7Rohbrwke8sCJUWgzzGl0aRYYcesfYbsfJH0-7X9uScrF27Ijm40RnzIGCoP5xpebQC-RKwa9KBiSY9Sd1csuixm07LpFyCPN_wmz4evh4GXoVELL0PXKIxdn_ji1FRxCN7Fqy37pvdIK4WEcAMGUinRurVt9yT0eehSkmTNcVWqU4gfDdIieEkaq1h-SaPWBuQE0JwVHRQc_S4U77LpV4bnGfzEoCKLFFBhWk8Fo_daFBw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 4585,
-      "message": "یه ورک‌فلو هم دارم برای mac-linux مینویسم که تا وقتی مشکل اکانتم رفع میشه، خودتون بتونید فورک بگیرید و بیلد بگیرید",
-      "date": "2026-07-20T20:10:21Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 4586,
-      "message": "یه مقدار برای همین طول کشید. اما خودم هم بیلد رو واستون می‌ذارم",
-      "date": "2026-07-20T20:10:34Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 4587,
-      "message": "اون روز داشتم از claude راجب s3 storage سؤال می‌کردم و کمی داشتم دانشم رو بالاتر میبردم، صرفا سوال جواب بود\u003cbr/\u003eفرداش فید گوگلم پر شده بود از خرید فضای ذخیره سازی s3 و کمترین قیمت s3 و...",
-      "date": "2026-07-20T20:52:47Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 4588,
-      "message": "و الان توی ردیت به این بر خوردم\u003cbr/\u003eدیروز یه ناول ممنوعه که دولت چین متوقف کرده بود رو داشتم راجبش سرچ میکردم\u003cbr/\u003eReverend Insanity\u003cbr/\u003eامروز داخل ردیت یهو توی فید اصلی یه پست اومد که آره این رمانِ Reverend Insanity، دارن لایو اکشنش رو میسازن و... (خبر که فیک بود، ولی خب اصل ماجرا رو بچسبین)",
-      "date": "2026-07-20T20:55:43Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 4589,
-      "message": "بعد میگن شبکه‌های اجتماعی چطوری پول در میارن\u003cbr/\u003e\u0026#34;Data\u0026#34;",
-      "date": "2026-07-20T20:55:59Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 4590,
-      "message": "\u003cb\u003eآپدیت جدید Aether-GUI v0.5.0 منتشر شد\u003c/b\u003e(با پشتیبانی از MacOS و Linux)\u003cbr/\u003e\u003cbr/\u003eتوی این ورژن، هسته (Core) برنامه رو به آخرین نسخه یعنی v1.3.0 ارتقا دادم. که توی این نسخه تمرکز روی پایدار کردن اتصال و اسکنر بوده. یه سری ویژگی کاربردی هم به رابط کاربری اضافه شده.\u003cbr/\u003e\u003cbr/\u003eتغییرات اصلی این نسخه:\u003cbr/\u003e\u003cbr/\u003e1- \u003cb\u003eاسکنر قدرتمند Ironclad:\u003c/b\u003e بقیه حالت‌های اسکن فقط چک می‌کردن که آیا Gateway پینگ می‌ده یا نه. اما Ironclad یه تونل کامل و واقعی می‌سازه و یه درخواست HTTP ازش رد می‌کنه تا صددرصد مطمئن بشه که کار می‌کنه. یکم کندتره، اما قطعی‌ترین حالت ممکنه \u003cbr/\u003e\u003cbr/\u003e2- \u003cb\u003eاتصال مجدد (Reconnect) هوشمندتر:\u003c/b\u003e قبلاً اگه اتصالتون قطع می‌شد، Aether می‌رفت از صفر کل آی‌پی‌ها رو اسکن می‌کرد (که تو حالت‌های سنگین ممکنه چند دقیقه طول بکشه). الان اول همون آی‌پی‌ای که تا دو ثانیه پیش کار می‌کرد رو دوباره چک می‌کنه؛ اگه واقعاً مرده بود تازه می‌ره سراغ اسکن کامل \u003cbr/\u003e\u003cbr/\u003e3- \u003cb\u003eاضافه شدن بخش Obfuscation:\u003c/b\u003e این قابلیت دستتون رو باز می‌ذاره تا شدت مخفی کردنِ هندشیک از سیستم‌های فیلترینگ (DPI) رو تنظیم کنید. پروفایل‌هاش با توجه به پروتکلی که انتخاب می‌کنید (MASQUE یا Wireguard) متفاوته. اگه دیدید رو حالت دیفالت وصل نمی‌شه، درجه‌ش رو ببرید بالا \u003cbr/\u003e\u003cbr/\u003e4- \u003cb\u003eتغییر پورت و Bind Address:\u003c/b\u003e الان می‌تونید پورت SOCKS5 رو به دلخواه تغییر بدید یا اینکه روی آی‌پی \u003ccode\u003e0.0.0.0\u003c/code\u003e ست کنید تا پروکسی رو به کل شبکه‌ی لوکال (مثلاً موبایل‌ها یا تلویزیون تو خونه) Share کنید. اون باگ کلافه‌کننده‌ی پروتکل UDP هم بالاخره تو هسته فیکس شده و الان بدون مشکل توی شبکه‌ی لوکال کار می‌کنه.\u003cbr/\u003e\u003cbr/\u003e5- \u003cb\u003eپشتیبانی کامل از مک و لینوکس:\u003c/b\u003e این اولین نسخه‌ایه که کاملاً مولتی‌پلتفرمه! فایل‌های نصب ویندوز (exe و msi)، فایل‌های مخصوص مک (برای چیپ‌های اینتل و اپل سیلیکون به صورت جداگانه)، و انواع پکیج‌های لینوکس (deb، rpm و AppImage) رو براتون گذاشتم \u003cbr/\u003e\u003cbr/\u003e6- \u003cb\u003eرفتن به System Tray:\u003c/b\u003e گزینه‌ای اضافه شده که وقتی برنامه رو می‌بندید، به جای خروج کامل، بره تو تسک‌بار پایین ویندوز و همونجا تو پس‌زمینه کارشو بکنه \u003cbr/\u003e\u003cbr/\u003eممنون از \u003ca href=\"https://t.me/rqzbeh\" target=\"_blank\"\u003e@rqzbeh\u003c/a\u003e عزیز بابت مشارکت‌هاش تو این آپدیت؛ و ممنون از \u003ca href=\"https://t.me/CluvexStudio\" target=\"_blank\"\u003e@CluvexStudio\u003c/a\u003e عزیز بابت زحماتش روی هسته‌ی برنامه\u003cbr/\u003e\u003cbr/\u003eلینک گیت‌هاب برای دانلود نسخه‌های مختلف:\u003cbr/\u003e\u003ca href=\"https://github.com/MatinSenPai/Aether-GUI/releases/tag/v0.5.0\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/MatinSenPai/Aether-GUI/releases/tag/v0.5.0\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-07-20T21:03:54Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/ar_CWl3Wgx03lbvo9CoifRleZS60swVr_KmqKOWMN7VUroMjnh__09DuMiYcpmz7jvI7GzSvdH6gmlWumYAfHiBA9_UfIBtJkDcm-ZmN8qzA94GiCDEkbaCFVyYhp_M5ZUpUhFJXjAwR7tkTAMzEqfOHCegO6ni-iNUS7umlSnBYQaVDW2ZYdd2HYjTkaJnqSjOfKT_WxY3HPg7nksJ9o9WK89uDDtkHkf81FMbceuPVrwq7SySQj8IJOfvDsZTqZTCjxIvQbgHvoxp2C3RCJtBmPgzoPUbuQYokZ9rhtzXEgs5iYPZ6BolkRJ6tOxpd8ofQDEZ1_-4ICgjdhMx6wQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 4591,
-      "message": "آپدیت جدید Aether-GUI v0.5.0 منتشر شد(با پشتیبانی از MacOS و Linux)  توی این ورژن، هسته (Core) برنامه رو به آخرین نسخه یعنی v1.3.0 ارتقا دادم. که توی این نسخه تمرکز روی پایدار کردن اتصال و اسکنر بوده. یه سری ویژگی کاربردی هم به رابط کاربری اضافه شده.  تغییرات…",
-      "date": "2026-07-20T21:41:35Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 4595,
-      "message": "\u003cb\u003eآپدیت بزرگ و انقلابی BPB Worker Panel (نسل جدید - نسخه 5.1.1)\u003c/b\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E89.png\u0026#39;)\"\u003e\u003cb\u003e🎉\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eنسخه جدید و کاملاً بازطراحی‌شده پنل BPB با امکانات بی‌نظیر و تغییرات ساختاری عظیم منتشر شد! در این آپدیت، مدیریت پنل و سرورها بسیار یکپارچه‌تر، امن‌تر و بی‌نیاز از درگیری با داشبورد کلودفلر شده است.\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29CA8.png\u0026#39;)\"\u003e\u003cb\u003e✨\u003c/b\u003e\u003c/i\u003e \u003cb\u003eمهم‌ترین ویژگی‌ها و تغییرات این نسخه:\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e \u003cb\u003eنصب سریع با One-Click Wizard:\u003c/b\u003e دیپلوی پنل حالا فقط از طریق ویزارد آنلاین و اختصاصی انجام می‌شود و پس از نصب، یک لینک کاملاً پرایوت به شما می‌دهد (روش‌های نصب دستی روی این نسخه کار نمی‌کنند). \u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e \u003cb\u003eداشبورد مدیریت داخلی (Admin Dashboard):\u003c/b\u003e امکان آپدیت پنل به نسخه‌های جدید، حذف کامل پنل، و ریست پسورد مستقیماً از داخل خود پنل اضافه شده است. \u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e \u003cb\u003eراه‌اندازی ربات تلگرام:\u003c/b\u003e مدیریت کانفیگ‌های تکی، دریافت لینک‌های سابسکریپشن و مانیتورینگ مصرف (همراه با هشدار مصرف بالای ۸۰٪) از طریق ربات تلگرام. \u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e \u003cb\u003eحذف کامل Environment Variableها:\u003c/b\u003e تمام متغیرهای ثابت (مثل VLESS UUID، Trojan Pass، Proxy IPs و...) از داشبورد کلودفلر حذف شده و مستقیماً داخل پنل قابل آپدیت و مدیریت هستند. \u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e \u003cb\u003eارتقای چشمگیر امنیت:\u003c/b\u003e\u003cbr/\u003eلاگین به پنل حالا نیازمند ایمیل کلودفلر شماست.\u003cbr/\u003eمسیر ورود به پنل به یک آدرس تصادفی و امن (Secure Path) تغییر یافته (دیگر با زدن \u003ccode\u003e/panel\u003c/code\u003e وارد نخواهید شد). \u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e \u003cb\u003eتنظیم سریع Custom Domain:\u003c/b\u003e دامنه‌های سفارشی خود را می‌توانید مستقیماً از بخش Common settings وارد کنید تا کانفیگ‌های مربوطه با تگ \u003ccode\u003eD\u003c/code\u003e به سابسکریپشن شما اضافه شوند. \u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e \u003cb\u003eقابلیت‌های جدید شبکه و پروکسی:\u003c/b\u003e پشتیبانی از Xhttp و VLESS Encryption برای Chain Proxy در هسته‌های Xray و Clash. \u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e \u003cb\u003eانتقال آسان تنظیمات:\u003c/b\u003e اضافه شدن قابلیت جذاب به‌روزرسانی و همگام‌سازی تنظیمات از یک پنل ریموت BPB دیگر.\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eنکات بسیار مهم برای اتصال کلاینت‌ها:\u003c/b\u003e\u003cbr/\u003eحتماً کلاینت‌های خود را به آخرین نسخه آپدیت کنید (حداقل Sing-box نسخه 1.12.0 و v2rayNG نسخه 2.2.3 به بالا).\u003cbr/\u003eبرای اتصال پایدار در v2rayNG، حتماً گزینه \u003cb\u003eHev TUN\u003c/b\u003e را فعال کنید.\u003cbr/\u003eدر صورت مشکل با فرگمنت در برخی ISPها، حالت \u003ccode\u003ePacket\u003c/code\u003e را روی \u003ccode\u003e1-1\u003c/code\u003e تنظیم کنید.\u003cbr/\u003e\u003ca href=\"https://github.com/bia-pain-bache/BPB-Worker-Panel/releases\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/bia-pain-bache/BPB-Worker-Panel/releases\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/whitedns\" target=\"_blank\"\u003e@whitedns\u003c/a\u003e",
-      "date": "2026-07-21T10:07:06Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn5.telesco.pe/file/bfbqjHunnvq2c8ubkiyEnVn0NiHQNbE0KEd2rgk2mtnrf4VngJ0HiEFWAqLhhDYhAEEnfyT_icfpWWcPLCHDzClyoAok4HC7ZgVP7GVpvhfnQidjX5HvRtSxCuy3DRtJtJFPuxFv4PrBOh1_RkFiGx07hb-KyIaTkIgjC7bQDjecplZ1hpnI6t2uUem2iFrS0xSlOEGkapdax7zO9wWOQFU3l275WbxACXnt33tLxqTQG1LMtTYwj7UYwTvg2-mgJac948-s443_oXElYBA3uVJSm4RhF6CAYtrYus4hnhJTCPHO3Bv6wMNsySrTxLQzlAxhYzU1gpprXom9GJjXXg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 4596,
-      "message": "اگه شما هم با نمایش متن‌های فارسی در Claude مشکل دارید، ریک سانچز راه‌حلش رو براتون آماده کرده!\u003cbr/\u003eفعلاً این ابزار برای macOS منتشر شده و کاربران ویندوز باید کمی منتظر نسخه‌ی مخصوص ویندوز بمونن.\u003cbr/\u003eدر طراحی این پروژه، به یاد زنده‌یاد صابر راستی‌کردار، خالق فونت وزیرمتن، از همین فونت استفاده شده است.\u003cbr/\u003eکافیه لینک زیر رو به Claude بدید و ازش بخواید نصبش کنه؛ بقیه‌ی کارها رو خودش انجام می‌ده:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/m4tinbeigi-official/claude-rtl-patcher\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/m4tinbeigi-official/claude-rtl-patcher\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eبه همین سادگی و خوشمزگی! \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9884.png\u0026#39;)\"\u003e\u003cb\u003e😄\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-07-21T11:24:31Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/mODRxdhnkJ5dm_WzxKnF14NNaurloup3SndSJMEYGYIIbYdJxh-as9u-R7cpEulovShysZix1YsCuafUshC69lMTFmXFkfczVcUXUIHFqo-sFS0OE8IlFeDtHj7STZQeYZI8Yv8s1k1mHNmc5jNK9Sju8vN4MofeyeWWUaMqzzdmgsKMFUzfAuJfqcNURKHAFHGVax41LQGCASmk8tBOZbKcVXEVGrNq3ok5mf5SWEXYOVgmpFBh3kym_CM_cShbHXcWyCpro6jrX7Nnj9j2pt-CUn-8MzsuL0Tff3jLSXd-QmYJW3uhvwPXpifGPFMJx1nrsqIVcsySwGccjXXUuA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 4597,
-      "message": "آپدیت بزرگ و انقلابی BPB Worker Panel (نسل جدید - نسخه 5.1.1) \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E89.png\u0026#39;)\"\u003e\u003cb\u003e🎉\u003c/b\u003e\u003c/i\u003e  نسخه جدید و کاملاً بازطراحی‌شده پنل BPB با امکانات بی‌نظیر و تغییرات ساختاری عظیم منتشر شد! در این آپدیت، مدیریت پنل و سرورها بسیار یکپارچه‌تر، امن‌تر و بی‌نیاز از درگیری با داشبورد کلودفلر شده…",
-      "date": "2026-07-21T12:18:00Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/MZmQdaBhRdE325w2oGKgkgcWuNi6Q8fd459D9jivdwQQZI4467_kD2nmFswZ8YnkXaGyfAAR62Una8erN3nLd9FSUhvyE3KgIeoQDY0AIVusTvJ_lilGEQwMc6Z8Z8homb0GwcoHFsf74bIe1e40Op81HNU-IevTUcf-dgSPGTpwFBYIV4MaEvmDAgdiSa4R7AJlGBl5pjrjGugwZnXQvjgvDT84VPXFvNGjsnkzu8ko1oYKCkvDd4eM6wDJfES84trOLamWF2WIMeq3UjQL40sFX6cymf9Bou3ZZUQRZ1fZ2cL4_1vo65_Y_P2EtdEt_iLymYxX4S19vPGcDtfK2w.jpg"
-        }
-      ]
-    },
-    {
-      "id": 4598,
-      "message": "متین ویندوز و لینوکس هم اضافه کردش",
-      "date": "2026-07-21T13:00:19Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 4599,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA1.png\u0026#39;)\"\u003e\u003cb\u003e🛡\u003c/b\u003e\u003c/i\u003e \u003cb\u003eنسخه 0.0.9 اپلیکیشن WhiteDNS VPN منتشر شد\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eدر نسخه جدید، اپلیکیشن \u003cb\u003eWhiteDNS VPN به‌طور کامل فارسی‌سازی شده است\u003c/b\u003e تا استفاده از بخش‌ها و تنظیمات مختلف آن برای کاربران ساده‌تر و قابل‌فهم‌تر باشد.\u003cbr/\u003e\u003cbr/\u003eهمچنین ظاهر اپلیکیشن به‌طور کامل به‌روزرسانی شده و قابلیت‌های جدیدی برای کنترل بهتر اتصال، DNS و کانفیگ‌های شخصی اضافه کرده‌ایم.\u003cbr/\u003e\u003cbr/\u003eقابلیت‌های جدید:\u003cbr/\u003e\u003cbr/\u003e• فارسی‌سازی کامل اپلیکیشن\u003cbr/\u003e• طراحی و ظاهر جدید اپلیکیشن\u003cbr/\u003e• امکان اضافه کردن DNS اختصاصی با پروتکل‌های \u003cb\u003eDoH\u003c/b\u003e و \u003cb\u003eDoT\u003c/b\u003e\u003cbr/\u003e• امکان وارد کردن سابسکریپشن‌های شخصی با فرمت‌های \u003cb\u003eMihomo، V2Ray و JSON\u003c/b\u003e\u003cbr/\u003e• امکان تعیین پورت دلخواه برای قابلیت \u003cb\u003eIP Fronting\u003c/b\u003e\u003cbr/\u003e• ارتقا و بهبود بخش \u003cb\u003eConnection\u003c/b\u003e و فرایند اتصال\u003cbr/\u003e• اضافه شدن قابلیت \u003cb\u003eTLS Integrity Test\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eقابلیت \u003cb\u003eIP Fronting\u003c/b\u003e به‌خصوص در دوران قطعی یا اختلالات شدید اینترنت می‌تواند بسیار کاربردی باشد. حتی در شرایط فعلی نیز کاربران می‌توانند با استفاده از IPهای تمیز Cloudflare، بعضی از کانکشن‌هایی را که به‌صورت عادی کار نمی‌کنند دوباره فعال کنند.\u003cbr/\u003e\u003cbr/\u003eقابلیت \u003cb\u003eTLS Integrity Test\u003c/b\u003e نیز برای کاربرانی اضافه شده که هنگام استفاده از بعضی کانفیگ‌ها، برای اتصال به سرویس‌هایی مانند \u003cb\u003eChatGPT\u003c/b\u003e با مشکل مواجه می‌شوند.\u003cbr/\u003e\u003cbr/\u003eبا فعال کردن این گزینه، اپلیکیشن پیش از اتصال، سلامت و یکپارچگی TLS را بررسی می‌کند. اگر TLS دست‌کاری یا جایگزین نشده باشد و تست با موفقیت انجام شود، اپلیکیشن به کانفیگ متصل خواهد شد.\u003cbr/\u003e\u003cbr/\u003eدر صورتی که یک کانفیگ این تست را با موفقیت پشت سر نگذارد، اپلیکیشن بررسی کانفیگ‌های دیگر را ادامه می‌دهد تا یک اتصال سالم و مناسب پیدا کند.\u003cbr/\u003e\u003cbr/\u003eفعال کردن این قابلیت ممکن است زمان اتصال را کمی افزایش دهد، اما می‌تواند مشکل باز نشدن ChatGPT و سرویس‌های مشابه را برطرف کند.\u003cbr/\u003e\u003cbr/\u003eپیشنهاد می‌کنیم همه کاربران از همین حالا اپلیکیشن را دانلود کرده و آن را به آخرین نسخه به‌روزرسانی کنند. این نسخه یکی از راهکارهایی است که برای شرایط قطعی و اختلالات شدید اینترنت روی آن کار کرده‌ایم و ممکن است در چنین شرایطی بتوانیم استفاده بسیار بیشتری از قابلیت‌های آن داشته باشیم.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B1.png\u0026#39;)\"\u003e\u003cb\u003e📱\u003c/b\u003e\u003c/i\u003e \u003cb\u003eWhiteDNS VPN v0.0.9\u003c/b\u003e",
-      "date": "2026-07-21T14:11:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/JYGZKEx8kVWjRYCdn0EjEg4HW8douSdD8GNyJJmj2wcQ8M9eQdLt5D-PXOryI6iPgvst6Dt5p6N97b1xN3wTqIkWSmu1cV-mcmJVa2Ya6exAh8EkX7OxN09-09t0J3BA0S22c8Sj1GA_fzjTyrNjimpehc2LAjazSAGfaRn-AdJAnBlCalpr0aRj9XH4QLXgh5JxPIXbm3Xn8Adu3S0MSyGP8oeUH0TYz0Q8HSSANWaaMkE1f270rGKAJZ0lbVPa-o4f2MxpEiCKrngOdkQ8F8GIO55PAnFJh1nzUhN2Dg9-ZQMr9kwVzRUMN9FA9erI-aXb8AzmJpQxz4u_xAAEAw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 4600,
-      "message": "",
-      "date": "2026-07-21T14:11:05Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
       "id": 4605,
       "message": "یه مقاله توی \u003ca href=\"http://exe.dev/\" target=\"_blank\" rel=\"noopener\"\u003eexe.dev\u003c/a\u003e خوندم، راجب این بود که اوایل سال ۲۰۲۵ خیلی‌ها می‌گفتن هوش مصنوعی مثل یه «کامپایلر» جدید عمل می‌کنه؛ یعنی همون‌طور که کامپایلر زبان سطح پایین (مثل C++) رو به زبان ماشین تبدیل می‌کنه، هوش مصنوعی هم «زبان طبیعی» (مثلا فارسی) رو به «کد» تبدیل می‌کنه.\u003cbr/\u003e\u003cbr/\u003eاما الان جواب فرق کرده: \u003cb\u003eنه، کلاد کامپایلر نیست؛ خیلی از اون بهتره!\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eچرا؟ فرقش چیه؟\u003c/b\u003e\u003cbr/\u003eتوی دنیای واقعی، نرم‌افزار لایه‌لایه ساخته می‌شه.\u003cbr/\u003e\u003cblockquote\u003eمدیرعامل استراتژی می‌ده \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9188.png\u0026#39;)\"\u003e\u003cb\u003e👈\u003c/b\u003e\u003c/i\u003e مدیر محصول فیچر تعریف می‌کنه \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9188.png\u0026#39;)\"\u003e\u003cb\u003e👈\u003c/b\u003e\u003c/i\u003e آرشیتکت معماری می‌چینه \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9188.png\u0026#39;)\"\u003e\u003cb\u003e👈\u003c/b\u003e\u003c/i\u003e برنامه‌نویس کد می‌زنه \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9188.png\u0026#39;)\"\u003e\u003cb\u003e👈\u003c/b\u003e\u003c/i\u003e و در نهایت کامپایلر کد رو باینری می‌کنه. \u003c/blockquote\u003e\u003cbr/\u003eهرکدوم از این لایه‌ها دارن جزئیات رو مشخص‌تر می‌کنن و کلی \u003cb\u003eتصمیم‌گیری ا\u003c/b\u003eنجام می‌دن. مشکل اینجاست که ارتباط بین این لایه‌ها پر از اصطکاک، و جلسات خسته‌کننده‌ست.\u003cbr/\u003e\u003cbr/\u003eکار اصلی کلاد اینجاست: هوش مصنوعی می‌تونه \u003cb\u003eبه‌صورت عمودی توی تمام این لایه‌ها حرکت کنه\u003c/b\u003e. کلاد می‌تونه همزمان باهاتون درباره استراتژی محصول بحث کنه، معماری بچینه، کد بنویسه و بهینه‌سازی ماشین رو انجام بده؛ بدون اینکه نیاز باشه واسه هماهنگی اینا جلسه بذارید یا از کسی اجازه بگیرید.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eیه مثال واقعی\u003c/b\u003e:\u003cbr/\u003eنویسنده‌ی مقاله می‌گه برای سیستمشون نیاز به یه سرور DNS توزیع‌شده و سریع داشتن. به جای اینکه خودشون بشینن کد بزنن، اومدن چند تا ایجنت هوش مصنوعیِ موازی (کلاد و کدکس) بالا آوردن تا کل سیستم رو براشون بسازن.\u003cbr/\u003e\u003cbr/\u003eنکته‌ی جالب ماجرا اینجا بود:\u003cbr/\u003eوقتی خروجیِ ایجنت‌های مختلف رو با هم مقایسه کردن، دیدن ایجنت‌ها کلی از مشکلات لبه (Edge cases - مثل وقتی که دیتابیس Rollback می‌شه) رو \u003cb\u003eخودشون متوجه شدن و بدون اینکه از برنامه‌نویس بپرسن، براش راه‌حل و منطقِ کدنویسی طراحی کردن\u003c/b\u003e.\u003cbr/\u003e\u003cbr/\u003eهرچند اگر نظر منِ متین رو بخواید، ai همچنان نیاز به یک متخصص خوب داره که بتونه دیتاش رو Validate کنه، پس به یادگیری ادامه بدید دوستان خوب من\u003ctg-emoji emoji-id=\"5274117846899632751\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5956273741448089195\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eمنبع: \u003ca href=\"https://blog.exe.dev/claude-is-not-a-compiler\" target=\"_blank\" rel=\"noopener\"\u003ehttps://blog.exe.dev/claude-is-not-a-compiler\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
       "date": "2026-07-21T21:23:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12100,
+      "views": 12400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 4606,
+      "message": "طبق معمول، پیشنهاد میکنم WhiteDNS رو راه‌اندازی کنید برای خودتون و دوستانتون\u003cbr/\u003e\u003cbr/\u003eآموزش: \u003ca href=\"https://youtu.be/6Pm7kNQb3mo\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/6Pm7kNQb3mo\u003c/a\u003e",
+      "date": "2026-07-22T03:50:48Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 459,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/oq4g2H4XZniXErKIQ11S3i67TlJOvIauUkkI4Ej1zhW5UlvK5PGij5y2uMWYfLO6BTt59ocjwMkOj67yhJBftUaWp7fPAoCwlLOvHFF60sK3qFiTy0iQ67yGxoPvuTECoOszxZnAGprVc3WNJ2w0nN8cPRUO2S3ICeStMVXoTx43Rk8iq8y9qZyagcCIiARBWEUN_Udjj6RiRFxrd5Vv9rs-p3cC5yJS3HKqpd5okkvkJmpwjtOXCHQARfiF5Pad0Pze5cz2DqxVdqUyVhSOadtAHKfIVGVkz5ZWWV9OQ7dYVuCckYXMnnCeMK4zEg2Lfi0mWMw134J_itLoU-CQDQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4607,
+      "message": "\u003ctg-emoji emoji-id=\"6008107257907122096\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F90A7.png\u0026#39;)\"\u003e\u003cb\u003e🐧\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e نسخه لینوکس",
+      "date": "2026-07-22T03:50:52Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 448,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 4615,
+      "message": "آخرین نسخه‌های مک-ویندوز-لینوکس",
+      "date": "2026-07-22T03:50:57Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 452,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 4616,
+      "message": "",
+      "date": "2026-07-22T03:50:59Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 471,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 4621,
+      "message": "نسخه‌های اندروید(اگر نمیدونید کدومه برای پردازندتون، Universal رو دانلود کنید)",
+      "date": "2026-07-22T03:51:00Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 519,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 4622,
+      "message": "\u003ctg-emoji emoji-id=\"5303138782004924588\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92AC.png\u0026#39;)\"\u003e\u003cb\u003e💬\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eآموزش قدم به قدم استفاده از اپ CoreForge\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://youtu.be/filwdiPKN90\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/filwdiPKN90\u003c/a\u003e",
+      "date": "2026-07-22T03:51:12Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 520,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 4623,
+      "message": "این هم نسخه‌ی IOS",
+      "date": "2026-07-22T03:51:12Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 511,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 4624,
+      "message": "\u003ca class=\"tgme_widget_message_author_name\" href=\"https://t.me/MatinSenPaii\"\u003e\u003cspan dir=\"auto\"\u003eMatin SenPai\u003c/span\u003e\u003c/a\u003e pinned a photo",
+      "date": "2026-07-22T03:51:24Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 0,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
