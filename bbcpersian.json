@@ -13,7 +13,7 @@
       "date": "2026-07-23T12:15:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 34100,
+      "views": 38700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -33,7 +33,7 @@
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/I1C3jLKBcwMM0_O8IeMZY2hICcdtD6olpb0h0B5XEy5wT145GxFwx8kszlmyhhf8t2ZBUwK52SEABDi8JKPz7Kc0aZ6wWD4eo4TSRIE7vCqcYMsei1j08lgXAcLQUix06qS-CWyRqd0V9nlITT4dG33wYX8vz5QkMzBpVoq6_R52l6vK3kK9vC7r2BJ6juamUqctplwyBTzYHL56V7DsveaUjuPVs4J1v71WZJU3xRYuMa9QgJgrKjHfmd7OwckmwBwIQ8KcFJ3ohozvr6cv34-bKAeCkIsNmJuHwPHyiZnSX7hxbk6PCyGg-V6c4A2ngK9Wsx0W1Y9PqGgz3Jwugw.jpg"
+          "url": "https://cdn4.telesco.pe/file/NQOpGeJF4wy9Q3wSYtWUJV7wtYHMVSnaIEDioafKSbebUJLvnJ5_N7zSRW3WSL0B-mr1yedgAYu41HOxOIwN4lUP-nyet3J5YnqqmPs5WNyUvDd602szHSQx8NPY6-Sca_CEyvQ-7GJvsH7Hf5psAY1Z23D6HpdKrx_AU_HnC3tE9OTC7ZwuQ1aLOyQ171rXi4kFL3DCERVqaGOqFITwxH1_jE9iF7WiYg84K-OOnDccM9AoX_d8pEtMIDy3ZHSCMWjJksad99Cp6TrHCalW6S0PaWTCTHntKopK-Vs3yUt8AYd12cIPtEyS_QTnMHU7cIBXO6PsHk7CLYZCtNIVOA.jpg"
         },
         {
           "type": "photo",
@@ -63,7 +63,7 @@
       "date": "2026-07-23T12:25:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33300,
+      "views": 37600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -75,7 +75,7 @@
       "date": "2026-07-23T12:36:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33800,
+      "views": 38400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -94,7 +94,7 @@
       "date": "2026-07-23T13:01:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30100,
+      "views": 35700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -113,7 +113,7 @@
       "date": "2026-07-23T13:35:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24800,
+      "views": 31500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -125,7 +125,7 @@
       "date": "2026-07-23T13:36:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25100,
+      "views": 32000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -137,7 +137,7 @@
       "date": "2026-07-23T13:56:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21100,
+      "views": 29300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -155,7 +155,7 @@
       "date": "2026-07-23T13:58:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23500,
+      "views": 32700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -167,7 +167,7 @@
       "date": "2026-07-23T13:59:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25100,
+      "views": 34900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -179,7 +179,7 @@
       "date": "2026-07-23T14:39:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14800,
+      "views": 27000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -191,7 +191,7 @@
       "date": "2026-07-23T14:43:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13800,
+      "views": 27300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -210,7 +210,7 @@
       "date": "2026-07-23T15:17:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5270,
+      "views": 22100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -222,6 +222,37 @@
           "width": 1080
         }
       ]
+    },
+    {
+      "id": 287497,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BB.png\u0026#39;)\"\u003e\u003cb\u003e🔻\u003c/b\u003e\u003c/i\u003eهمزمان با تشدید دور تازه درگیری‌های نظامی بین ایران و آمریکا، روز گذشته در میناب مراسم تشییع و خاکسپاری ۶۸ قطعه از اجساد ۳۴ دانش‌آموز و کادر مدرسه «شجره طیبه» که بر اثر حمله موشکی در روز نخست جنگ چهل‌روزه کشته شدند، برگزار شد.\u003cbr/\u003e\u003cbr/\u003eبنا به گزارش رسانه‌های ایران، این قطعات مربوط به کشته‌شدگانی بود که پنج ماه پیش تشییع شده بودند.\u003cbr/\u003e\u003cbr/\u003e مدیرکل پزشکی قانونی هرمزگان گفته هویت تمامی کشته‌شدگان حمله به مدرسه میناب «با انجام آزمایش‌های تخصصی دی‌ان‌ای و معاینات ژنتیکی شناسایی شد و همه بقایای پیکرهای به‌دست‌آمده از این حادثه نیز تعیین هویت و تعیین تکلیف شده‌اند.» \u003cbr/\u003e\u003cbr/\u003eاین در حالی است که از ماکان نصیری، دانش‌آموز هفت ساله کشته شده در این حمله، تاکنون هیچ بقایایی یافت نشده است. \u003cbr/\u003e\u003cbr/\u003eدر حمله به مدرسه «شجره طیبه» میناب که بر اساس یافته‌های بی‌بی‌سی با موشک‌های تاماهاوک آمریکایی صورت گرفته، ۱۵۶ نفر کشته شدند که ۱۲۰ نفرشان کودکان ۶ تا ۱۲ سال بودند. \u003cbr/\u003e\u003cbr/\u003eاین موشک را تنها ارتش آمریکا در اختیار دارد. \u003cbr/\u003e\u003cbr/\u003eآمریکا می‌گوید غیرنظامیان را هدف نمی‌گیرد و پنتاگون در حال تحقیق در مورد این حمله است.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/BBCPersian\" target=\"_blank\"\u003e@BBCPersian\u003c/a\u003e",
+      "date": "2026-07-23T15:59:04Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 15500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "BBCPersian",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/bw0PEDD5rvEUXbWwz4rijaUfZOmNwv2c4WaaoCYsX6R6lmxmmkEZ7BMDSYJLW_zXbOGt9Wc6U5TAgrb9YsQwDaV1KrvKZirJgP7svMNig_fLVYkoV09TkzeEo6avJwJdfU26lvDKvuiqMTgJLxZCcZukmf0CrVOQSgYb1PhBXGZ5D9kek9btt7SXSxZ2e8IRaHy7jQnPSsu7oAc4_W9o1z5oswNm7EzlkthWrsyxvX6pP6CRTyKntUAagX8TBwBOZJtnhsXJrRm1Eqn-9Ax5XxUcBmK4iIINiJvLTGwtkRUwnNX5YARVnjabScGF0HC5QtYJ9PwOiL5kZXnoBdC1gw",
+          "width": 1080
+        }
+      ]
+    },
+    {
+      "id": 287498,
+      "message": "\u003cb\u003eچرا نفت صد دلار شد و چقدر بالاتر می‌رود؟\u003cbr/\u003e\u003c/b\u003eبهرنگ تاج‌دین-- خبرنگار اقتصادی بی‌بی‌سی\u003cb\u003e\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003eاز شروع جنگ آمریکا و اسرائیل با ایران، تنگه باب‌المندب اهمیت دوچندانی برای بازار جهانی نفت پیدا کرده است. چون با بسته شدن تنگه هرمز، عربستان سعودی بخش زیادی از نفت خام صادراتی‌اش را از طریق خط لوله شرق به غرب عربستان به بندر ینبع در دریای سرخ منتقل می‌کرد که از آنجا بار نفتکش شود و از طریق باب‌المندب و خلیج عدن برای مشتریان آسیایی فرستاده شود.\u003cbr/\u003e\u003cbr/\u003eاین خط لوله حدود پنج میلیون بشکه در روز ظرفیت دارد. \u003cbr/\u003eبه گفته گلدمن ساکس، ماه پیش روزانه به طور متوسط روزی حدود ۹ میلیون بشکه نفت خام از باب‌المندب عبور می‌کرد - طبیعتاً همه‌ آن از عربستان نبود - و پیدا کردن راه جایگزین برای حدود چهار میلیون بشکه‌اش خیلی سخت است.\u003cbr/\u003e\u003cbr/\u003eطبیعتاً بعضی کشتی‌ها می‌توانند به جای جنوب، از شمال دریای سرخ از کانال سوئز حرکت کنند و قاره آفریقا را دور بزنند تا نفت را به جنوب و شرق آسیا برسانند، ولی هم زمان‌بر است، هم هزینه‌اش بیشتر و هم کانال سوئز محدودیت سایز دارد و ابرنفتکش دو میلیون بشکه‌ای از این کانال اصلاً نمی‌تواند رد شود.\u003cbr/\u003e\u003cbr/\u003eمسأله این‌جاست که مثل تنگه هرمز، وقتی نفتکشی هدف قرار می‌گیرد، صاحبان بقیه کشتی‌های باربری و نفتکش‌ها ریسک نمی‌کنند که خدمه و کشتی‌هایشان را در معرض خطر قرار دهند. تازه حتی اگر خدمه حاضر باشند چنین ریسکی را قبول کنند، حق بیمه کشتی چنان زیاد است که اصلاً عبورش بصرفه نیست.\u003cbr/\u003e\u003cbr/\u003eاین‌ها را که کنار هم بگذارید، می‌بینید که چرا حمله حوثی‌ها به دو نفتکش عربستان باعث شد قیمت نفت به صد دلار برسد. \u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eقیمت نفت چقدر بالا خواهد رفت؟\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eبانک گلدمن ساکس پیش‌بینی کرده است که اگر تنگه هرمز بسته بماند، قیمت نفت در سه‌ماهه آخر سال جاری میلادی، یعنی پاییز امسال، به بشکه‌ای ۱۲۰ دلار خواهد رسید و سال آینده میلادی هم میانگین آن صد دلار خواهد بود.\u003cbr/\u003e\u003cbr/\u003eحالا اگر باب‌المندب هم به سرنوشت ماه‌های اخیر تنگه هرمز دچار شود، می‌توان انتظار ارقام بالاتری را هم داشت.\u003cbr/\u003e\u003cbr/\u003eالبته سناریوهای بدبینانه‌تری هم وجود دارد؛ چون ذخایر استراتژیک ملی و ذخایر تجاری نفت و فرآورده‌های نفتی در این چند ماه دائما کم و کمتر شده است. \u003cbr/\u003e\u003cbr/\u003eاگر در یک کشور بزرگ آسیایی، وضع بحرانی شود، امکانش هست که شاهد یک جهش شدیدتر باشیم و قیمت نفت رکورد ۱۲۶ دلار اوایل بهارش را هم بشکند.\u003cbr/\u003e\u003ca href=\"https://t.me/bbcpersian\" target=\"_blank\"\u003e@bbcpersian\u003c/a\u003e",
+      "date": "2026-07-23T16:42:05Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3310,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "BBCPersian"
     }
   ],
   "last_updated": 0
