@@ -8,66 +8,12 @@
   },
   "posts": [
     {
-      "id": 287644,
-      "message": "",
-      "date": "2026-07-25T08:18:08Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 57200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "BBCPersian",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/oJY-W6KWMeoxBr7e1uR3Y_XRME6m3qnR_z-F9a_1IoTBsDm1APiL1RnuzW6HAZgqmqrupBzaQrU7MwPN5cDXUWuuQBp1uiniwtpjlCX5eyJHfQAZnJQWYI6MotQbBh5Iz3BN4VoYRwwwgxtFPJRodCh_mBm6CKWqSj-Cew-8S8uWf3bCZMXqOOVcCH_6kqGAme6S65f-wwxtvmMDPrA8xSKRiNpKUdeKcnj826_4aGHbVH_QyAul8dRcnckVQZRgpP0oIXNsJeEC0h70bX__1w2F2tdR93Xjn_EoX98S88WGs_1TRB4gdBk5o_UVfFntEMmfl5nhT7ClenlTtTHY6g.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/MGu_mFZy90wdbCe5beytqPVjumTc9JRPkrMslum_CgXwWLJOFbqnrFCBb4IzXcK1UDzn14jIZEnvioxM-GJ7SQ7_By3o-QGjk0zlmGjqa-P_BLDbkpTxs6iMAiTIxr4jkiCvMzSJEyk4v-gSe2UG-yIgw4w3GU4BCPjKPY_mMSv2EpsBFQgErYB0HQhw3sjjLUE6niN9DVYiHcJomJ5uKi9-12oh5O3ixoOjLvg6DiNzAn-LDNLV2qDaRloQSvSD58KrGLgWHSXyFGRjRSzS3-SingtCx0owVw2E4SRBgQn5luPUVFWkeeADc646nAqyZMPUfHKJPz7zbBcodx1dtg.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/lpLBA4OjD4UMZI2TPXAakRZvshCX2FHjtiFYFZxIUHyP4mdZG-T7Pa27-0cSrY1LSqeOPrddqFEPImDEqS5mwGTO89_NiVnqrkaVB4BbauC5_fSOLUvAGdJ-h7WuG2d76f9msbxwpwVBpEoWDKAOfD66LjcBYGoA2TPeqVH69pymY35g4k4PJEZoYzwFDRSOWzdxR4U7AHqtqewi8YPetTxPahC5w_CdPEaLIAKigiEIXh8CK5Yybq9l7DhjoCEUpfbN03CI4lYcYL864nZs84248Ux2_JunUmgNzAzVOvwgN4RBKZG98zwtXH0LXjYscR6t-M4HbShNt2F-iAPhrg.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/HmwIgDPpb5XpZ2V5Me9NkmvaKis8tsSWrUx-SETK5s-GUQ5ZQ9hTNt-CEh3A5wO0Z6fRM3iKm_539YhHaHoynUnthH1Qma3qsM69Yyvt2vhVCwobkAhAxt_O9VxsSY3H1A-gEMf2r2USGv_TkTxezKQ4ZHeusXzDgHFwqlJZG85oVVxUiCeqdwmaBBHcMFtZs5SR5KmD5QHLdQidqH0CBs5a25ANbfusQLLNDX6EibukBIZezXXF_AxzJ6lq87QIragRtYvtvqALXcumLE9c4f7qjJ2tqI8rtsM-QKJbFZ1U2ZwzMOH1IS0Fe_O1dhkjMc90n68yx2bzZYzEOMI_YA.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/EyqZXf6yER1Cvc0qD2hIgURaKuIoVREzuoAEsP3pZYtz4xalAnFU_WE0Nm0rRVmm0A_sKBlH-uDYk2J3QKOBShaKGbMCuOh1QbJ067DcTxqcRHdvpRqqWioyl5mXOx-3tWb_SZ_muC2XG5DkoiQq2PVXpFvWyyUqs88nL_QYXA3oDqR-icXeGWwjEWY3XHmqWJJqBaEo5N_HKfYYyQ_alMhmYD4OCntrjXTcVsKRiIIVodWFIzmbe93GoTAXCq6lVXPXMByOBJvy6QsrE_YXyMrrJKoAsSTJBbC_1TbH5QNKICkrGhJh2v61McPJtn48tcFY2cbaOD5JcMR1AJiAtw.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/sAuSdSInRvxh2XATT2GPO5fAlSVlDFdhR0q8vcNjLSDn-hFIoQB6eVPRWQD-c44i7VwjS8p0e5V2MzoPehfUx8_AqOd2q-VzeaBHfDvhVPbVKoWwMs8J9OAQ5cE7TRuqIQoi43V44pi3ACnBrb45nC3DJq3WKexlnGnHygAyfDjem6wRjjEcsQ68x1c06Zd-3F2v4NQfJokVE6GbGJ8rTCMqifPrat3Wx7FVYtzXfJ5mK45KOwYHWkTw3TKR-DRa6Dm3Zqs3-d7bHAEHbeBXqN3k7wEiq9IxPoFO5mpKnzRkWpD561AxnRtdmezsi4f91vxAxDJdK_zIA2dMkNcVsQ.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Ffoaaznitf4fY96pjiAmexFQ9QNy0c5_BTaz5gXO0JOGcOmg3kAGLXAvRC0L7GJwOuTXGIdSRzDEgTI3L2urQnuB_0oSy6pWy-zdbsMKfYALjUDwS7-GgcXkusQBnMKz36vVigqIYHGMDZYI3wbSROToC-CNANu4EWAY444DIFtx1ispWTZ5gJh5cBV89l6B_KqYa4LZSFcJ-U3pbFe02VGMu8DlfL_pMVmNWFyfYQI1TQJqw-dV_5utsxp5HPklDnfuWVtxhuh5s6RVap4JvUW4oVtQg8aES_QhzW-pmEN4_7XgthZXKoHUdi9TEFUVIT8TEpoMe182RaZ_T68ETg.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/L2xso_gmHX5Hgf7OeXpVEa9HiPcDes2C5KFMTerofNnKHMNikMCwM8V_38Z9O29zWuselA1cGbB1xAlOaXTKJ4DYy1dZDdfLBKR-zIlqysYviEj6546zaVpZ2CMja5vqXuxkbSd-Nj5VAyG_ro27_XMwyp8Ntxo7B52u8azOCWl3k9-Um4b4mNqS1q_xAjp3uQDzxVu9D5Yx341IMu9FDs14Z5P8JpwpOmPovOko7KMdmD5aMCwqN99YzoIbeWsatsJJ8AeKERLw9bPNq6JXYjbn4Y8BkHdqFtVxBMO-4KkowdmQcgM0mEjdsmZu7X062s1otOrZEf638Y_FlQNouQ"
-        },
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/qKXwtZr_MPM3o4C4XQAONu68fIekxwDG1D1WUKlOTLk1TdOtqqCwAebtzJ0Ey9DF1AnNx_7NDGPpcdWbkL2ANvmnBPoFz_kqden29Hofg2kz1SpsL77cPhdasBfCu1f-joUj1RKTMloXPd9fC6J_bJexsiFLkVOt8JKmw6-fCm8qouBJKW4TWWvnTNFn7oyMsu3CGh4Anx1hDReDLtAN4YBNF_UHBAlfJoPEE_hQHlnZ2IoKtWLS6f_tKOiEuGcisukvuGhzjitCs_JNGM57PgtxzhTHmZ2suZ9kA9JJO85DvmvyQnZ3giOO8eYz0_J5SdUVk5ILFW9f1RIGVAcUiw"
-        },
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/inDPGMOz6WaIgleMJNP2OQ_Qp0FW8b0RFMc4RTAKt49-lXLfZZ8M4E4m0NWnmjaiii2T6RPGrTrLx1EGL_X-BaVLt78ZT3wEaz51Fdg38Mjlt0hy2yj-bjtvMBnSB4RWoK6ud-4gBT7qOXvLRD5tOaoyq-qKkSPq91sJnEb0Fc3vP_ZOb4_nguPK_O1X1hriDpPzME00zS5LnHHWTenDa24C-89S-rKqOiiwE1c-dWFVz9CcheixA4lw83C3iGokBag00ZAgkQj5pzggVyrP3KOkfnsK84ZBhGheQ3Xs8secaEPaDDy3rltaE5O8qspeNIqFyAmQohip8lJzFrjAzQ"
-        }
-      ]
-    },
-    {
       "id": 287654,
       "message": "هشدار: این گزارش حاوی جزئیاتی دردناک است که ممکن است برای برخی مخاطبان آزارنده باشد.\u003cbr/\u003e‌روجا اسدی، سردبیر بخش راستی‌آزمایی بی‌بی‌سی فارسی\u003cbr/\u003e\u003cbr/\u003eاز لحظه‌ای که خبر حمله به مدرسه شجره طیبه در میناب منتشر شد، بخش راستی‌آزمایی بی‌بی‌سی فارسی تحقیق درباره این فاجعه را شروع کرد. ‌‌\u003cbr/\u003e\u003cbr/\u003eما به دلیل محدودیت‌هایی که حکومت ایران برای بخش فارسی بی‌بی‌سی ایجاد کرده است، نتوانستیم به میناب برویم یا از تصاویر بی‌بی‌سی انگلیسی یا آژانس‌های خبری در میناب استفاده کنیم. با این حال در ماه‌های گذشته تحقیقات خود را با بررسی تصاویر ماهواره‌ای، ویدیوهایی که از جمله در شبکه‌های اجتماعی منتشر شد، گفتگو با کارشناسان نظامی و حقوقی، گفتگو با اهالی محل و خانواده‌های کودکان کشته‌شده ادامه دادیم. ‌\u003cbr/\u003e\u003cbr/\u003eاین گزارش به همراه مستندی کوتاه به نام «شنبه خونین میناب» که در تلویزیون بی‌بی‌سی فارسی به‌نمایش درآمد و در یوتیوب در دسترس است، نتیجه این تحقیقات است. ‌گزارش کامل را در وب‌سایت بی‌بی‌سی فارسی بخوانید و مستند آن را در کانال یوتیوب ‌بی‌بی‌سی فارسی ببینید. (لینک‌ها در استوری و بایو)\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/BBCPersian\" target=\"_blank\"\u003e@BBCPersian\u003c/a\u003e",
       "date": "2026-07-25T08:18:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 66000,
+      "views": 66600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -89,7 +35,7 @@
       "date": "2026-07-25T09:32:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 63400,
+      "views": 64400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -101,7 +47,7 @@
       "date": "2026-07-25T10:11:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 65000,
+      "views": 65900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -113,7 +59,7 @@
       "date": "2026-07-25T11:46:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 58300,
+      "views": 59600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -131,7 +77,7 @@
       "date": "2026-07-25T11:53:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 56700,
+      "views": 58000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -143,7 +89,7 @@
       "date": "2026-07-25T12:52:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 52900,
+      "views": 54800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -155,7 +101,7 @@
       "date": "2026-07-25T12:57:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 54200,
+      "views": 55800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -174,7 +120,7 @@
       "date": "2026-07-25T13:10:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 58500,
+      "views": 60400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -193,7 +139,7 @@
       "date": "2026-07-25T13:28:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 55000,
+      "views": 57200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -205,7 +151,7 @@
       "date": "2026-07-25T14:18:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 52300,
+      "views": 54500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -224,7 +170,7 @@
       "date": "2026-07-25T14:22:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 54200,
+      "views": 56400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -236,7 +182,7 @@
       "date": "2026-07-25T14:39:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 53200,
+      "views": 55700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -248,7 +194,7 @@
       "date": "2026-07-25T16:40:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 44700,
+      "views": 48300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -267,7 +213,7 @@
       "date": "2026-07-25T17:10:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 41700,
+      "views": 45600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -279,7 +225,7 @@
       "date": "2026-07-25T17:19:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 43300,
+      "views": 48100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -293,31 +239,12 @@
       ]
     },
     {
-      "id": 287673,
-      "message": "آخرین خبرهای مهم روز شنبه ۳ مرداد ۱۴۰۵\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/BBCPersian\" target=\"_blank\"\u003e@BBCPersian\u003c/a\u003e",
-      "date": "2026-07-25T19:45:07Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9320,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "BBCPersian",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/vDY82Lgl_3y2YppacIXQMgCH1UinIPPTXELFlQCjGRlGYZ1K3G0ABEKLv7E2hfmax3NfScePXGDsvABNb7kCRxK_9nxCh1O836c1_Vzg0YGCIAjTCeB3gv3-K3nVnzgTH5BcBwFd1mnWnV0MH8PYRwZskbREDoRzs7Y2ndaG4h8OpQYspSKR5XGvESlgfAx1jrM5Vkv4zfpC8errDRU4wTeKRkBKvztYFFBswSR3nWbnArpl3EHL9JLrO5kxHXIfqU8rwJQPzjoUMPLbX2tZC7BHygIT_RqV2ERLww3mJq0hMNBORJtEf1hOePBLcOZWPoykubGqsh_00CFq0IQrAg",
-          "width": 480
-        }
-      ]
-    },
-    {
       "id": 287674,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BB.png\u0026#39;)\"\u003e\u003cb\u003e🔻\u003c/b\u003e\u003c/i\u003eاسماعیل بقایی، سخنگوی وزارت امور خارجه ایران، با انتشار بیانیه‌ای حمله اوکراین به یک کشتی تجاری ایرانی در دریای خزر را به‌شدت محکوم کرد و گفت در پی انفجار این کشتی، یک ملوان کشته و یک نفر دیگر زخمی شده است.\u003cbr/\u003e\u003cbr/\u003eوزارت امور خارجه ایران این حمله را «اقدامی تجاوزکارانه» و ناقض منشور ملل متحد خواند و هشدار داد که چنین اقدامی می‌تواند به گسترش جنگ روسیه و اوکراین منجر شود.\u003cbr/\u003e\u003cbr/\u003eدر این بیانیه آمده است که ایران «در دفاع از منافع و امنیت ملی خود تردید نخواهد کرد» و مسئولیت پیامدهای این حمله بر عهده دولت اوکراین و حامیان آن خواهد بود.\u003cbr/\u003e\u003cbr/\u003eولودیمیر زلنسکی، رئیس‌جمهوری اوکراین، پیش‌تر گفته بود که نیروهای کشورش یک ناو جنگی روسیه و چند شناور مورد استفاده برای انتقال محموله‌های نظامی مرتبط با ایران را در دریای خزر هدف قرار داده‌اند. اوکراین گفت که دو کشتی باری «پورت اولیا ۲» و «بگی» از جمله اهداف این حملات بوده‌اند، اما ادعاهای دو طرف هنوز به‌طور مستقل تایید نشده است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B8.png\u0026#39;)\"\u003e\u003cb\u003e📸\u003c/b\u003e\u003c/i\u003e Reuters\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://bbc.in/4pHXyyP\" target=\"_blank\" rel=\"noopener\"\u003ehttps://bbc.in/4pHXyyP\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/BBCPersian\" target=\"_blank\"\u003e@BBCPersian\u003c/a\u003e",
       "date": "2026-07-25T20:01:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3220,
+      "views": 14500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -335,7 +262,31 @@
       "date": "2026-07-25T20:02:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1920,
+      "views": 14400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "BBCPersian"
+    },
+    {
+      "id": 287676,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BB.png\u0026#39;)\"\u003e\u003cb\u003e🔻\u003c/b\u003e\u003c/i\u003eنورنیوز: آخرین جلسه شمخانی برای سازماندهی مقابله با اعتراضات بود\u003cbr/\u003e\u003cbr/\u003eوب‌سایت نورنیوز، رسانه نزدیک به شورای عالی امنیت ملی و علی شمخانی، دبیر پیشین شورای عالی دفاع ایران، درگزارشی نوشته است که جلسه‌ای که آقای شمخانی و جمعی از فرماندهان ارشد نظامی در حمله اسرائیل و آمریکا به آن کشته شدند، برای «سازماندهی و تامین تجهیزات جدید برای مقابله با اعتراضات» و «قریب‌الوقوع بودن حمله آمریکا و اسرائیل به ایران» بوده است.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://bbc.in/4gYtrAH\" target=\"_blank\" rel=\"noopener\"\u003ehttps://bbc.in/4gYtrAH\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/BBCPersian\" target=\"_blank\"\u003e@BBCPersian\u003c/a\u003e",
+      "date": "2026-07-25T20:26:52Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3530,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "BBCPersian"
+    },
+    {
+      "id": 287677,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BB.png\u0026#39;)\"\u003e\u003cb\u003e🔻\u003c/b\u003e\u003c/i\u003eوزارت نفت ایران: در دوره جنگ و آتش‌بس ۱۸ میلیارد دلار نفت فروختیم\u003cbr/\u003e\u003cbr/\u003eوزارت نفت ایران می‌گوید که آن کشور در دوره جنگ با آمریکا و آتش‌بسی که پس از آن برقرار شد، در مجموع ۱۸ میلیارد دلار نفت فروخته است.\u003cbr/\u003e\u003cbr/\u003eبر اساس بیانیه این وزارتخانه، ایران در جریان جنگ ۱۱ میلیارد و ۵۰۰ میلیون دلار و در دوره آتش‌بس شش میلیارد و ۵۰۰ میلیون دلار نفت فروخته است. وزارت نفت گفت که این رقم بیش از ۶۰ درصد درآمد نفتی پیش‌بینی‌شده در بودجه سال جاری را تامین می‌کند.\u003cbr/\u003e\u003cbr/\u003eاین آمار در حالی منتشر شده که محمدباقر قالیباف، رئیس مجلس و مذاکره‌کننده ارشد ایران، اوایل ماه ژوئیه گفته بود که ایران در حدود ۵۰ تا ۶۰ روزی که بنادرش در محاصره آمریکا بود، نتوانسته حتی یک بشکه نفت صادر کند. او گفته بود که پس از رفع محاصره، صادرات نفت ایران دوباره افزایش یافته است.\u003cbr/\u003e\u003cbr/\u003eجنگ ایران و آمریکا پس از حملات آمریکا و اسرائیل در ۲۸ فوریه آغاز شد و آتش‌بس ماه آوریل بخش عمده درگیری‌ها را متوقف کرد. این آتش‌بس اوایل ماه ژوئیه و در پی تشدید اختلاف‌ها بر سر کنترل تنگه هرمز فروپاشید.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://bbc.in/4pHXyyP\" target=\"_blank\" rel=\"noopener\"\u003ehttps://bbc.in/4pHXyyP\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/BBCPersian\" target=\"_blank\"\u003e@BBCPersian\u003c/a\u003e",
+      "date": "2026-07-25T20:28:24Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2250,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
