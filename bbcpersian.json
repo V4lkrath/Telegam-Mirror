@@ -13,7 +13,7 @@
       "date": "2026-07-25T04:01:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 35500,
+      "views": 38400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -63,7 +63,7 @@
       "date": "2026-07-25T05:15:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21400,
+      "views": 25600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -113,7 +113,7 @@
       "date": "2026-07-25T05:24:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20600,
+      "views": 25200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -125,7 +125,7 @@
       "date": "2026-07-25T05:27:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22000,
+      "views": 27300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -137,11 +137,29 @@
       "date": "2026-07-25T05:52:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15200,
+      "views": 22000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "BBCPersian"
+    },
+    {
+      "id": 287631,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BB.png\u0026#39;)\"\u003e\u003cb\u003e🔻\u003c/b\u003e\u003c/i\u003eآنتونیو گوترش، دبیرکل سازمان ملل متحد، روز شنبه برای دیدار با مقام‌های سوریه وارد این کشور شد.\u003cbr/\u003e\u003cbr/\u003eاین نخستین سفر یک دبیرکل سازمان ملل به سوریه از زمان آغاز جنگی ۱۴ ساله در آن کشور است؛ جنگی که صدها هزار کشته و میلیون‌ها آواره بر جا گذاشت.\u003cbr/\u003e\u003cbr/\u003eقرار است آقای گوترش در این سفر با احمد شرع، رئیس‌جمهور سوریه دیدار کند.\u003cbr/\u003e\u003cbr/\u003eاستفان دوجاریک، سخنگوی سازمان ملل گفته است که آقای گوترش همچنین با اسعد شیبانی، وزیر خارجه ودیگر مقام‌های دولتی و نمایندگان جامعه مدنی سوریه هم دیدار خواهد کرد.\u003cbr/\u003e\u003cbr/\u003eبه گفته آقای دوجاریک، دبیرکل سازمان ملل در این سفر این پیام را منتقل خواهد کرد که سوریه اکنون فرصتی در اختیار دارد تا «نه تنها از پیامدهای جنگ و درگیری رهایی یابد، بلکه پایه‌های آینده‌ای باثبات‌تر، فراگیرتر و شکوفاتر را برای همه شهروندان سوری بنا کند.»\u003cbr/\u003e\u003cbr/\u003eانتظار می‌رود آقای گوترش چند روز در دمشق، پایتخت سوریه بماند، اما دفتر او هنوز برنامه کامل این سفر را منتشر نکرده است.\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B8.png\u0026#39;)\"\u003e\u003cb\u003e📸\u003c/b\u003e\u003c/i\u003eEPA\u003cbr/\u003e\u003ca href=\"https://t.me/BBCPersian\" target=\"_blank\"\u003e@BBCPersian\u003c/a\u003e",
+      "date": "2026-07-25T06:37:47Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9180,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "BBCPersian",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/OGZSSH1NoydB0tOYWsy_XUaFJMm_c5aKMmtjG18bPtw25la033Whyivx0SE0Bt33kkNA1x-URp6Ut-37HuWGlEw5lmcOyQBr-bz6JtslVX8ZcpNAR1zCxRPRMZDPnplO1QYNHNxT9MblTcoXpLVKJiAeKZ9N6VhiNpSw9nI2R8HOi8sGVybQqkmslYTlZNHm8voUYZyGt1Km_VzT73Hu5QWwQjnCU5NNuthjQIZ8NRun_5TQVz_B3QM0WXiF4D7aDlbN9-LoKS0AqgnTdZRHGirkFmM_mPsI-7CGPCftbRb9E2R_iw7GEjroZmp6HZNSx-Byb7pfqx5IZjJi7H1FsA.jpg"
+        }
+      ]
     }
   ],
   "last_updated": 0
