@@ -8,69 +8,12 @@
   },
   "posts": [
     {
-      "id": 225240,
-      "message": "مهمانی شام خبرنگاران کاخ سفید جمعه‌شب ۲ مرداد با حضور پرزیدنت ترامپ در شهر واشنگتن، پایتخت آمریکا، برگزار شد. مایکل لیپین، خبرنگار صدای آمریکا، در این مراسم حضور داشت و در این رابطه گزارشی تهیه کرد.",
-      "date": "2026-07-26T18:22:38Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3970,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/jEj9Dwp_ce5i0b-4jEh9tPWiqvssCGOBRJRsP3NN_ycfOpvt7NQpTsdwZIVcOPsM-35Tf4CsLRYUCfWecASY_9oikEuSNh70NUpCRo7aaWeH35O_IJgETymhMd4BBftNCptFJOrqQ9VvV5iH20VCxO2HRuqC23ib6Dx2OJrrkT5S1I10kyXompipKR61ssEC8DjTEXQYPjZnnrTviIYKPURSeA2L7vN_jjwCttF9cmGGC8oPmMMcVBgOhT7fHjgxs8Gyao0ho3MzMTCd9qnIw4LvwEJqzRoocLz_ZgHIitsuTxN55_CS85G6OhDYRGE-PCj2C_hEeA1fK47Wzi-38g",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 225241,
-      "message": "گزارشی از تازه‌ترین تحولات امنیتی و سیاسی؛ از تنش میان جمهوری اسلامی و اوکراین تا نگرانی‌ها درباره آموزش کار با سلاح به کودکان در یک برنامه حکومتی.",
-      "date": "2026-07-26T18:27:27Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3950,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/jV0RLMf1jiw359CLkKFlq0ykNKg7_mOEo-8HLZ0TLEiARTcLf-CbKHXz5u5y_GBmJhTgfCPaMBNi5c6tMRseULYKs_TezDYu2FykYvT2120nD6OS-p-swrJC9pBORPrG64t2pe1WFjqnCoxfJVKyhK4VjAJcYilpjp85bkn-I1YUZPKaJ8EYqmlru0N8TTR95hjOiIdxUg1FKCCHyV0duJM8yB7HUGRSIdvW63DC5kV2d6dHXsPqyRI__6S8sk4rTIpaGc0K7tqzrBkW5Bo85vfUbOAbsAoae8qUC7xseSH7aGdzCIkYdjCT7_orqIKcVXTTHYJbhn-jXnenwtaa-Q",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 225243,
-      "message": "حال‌وش ویدیوی از گلایه یک شهروند از کمبود شیرخشک و کاهش حجم آن منتشر کرده است. این شهروند اهل زابل با اشاره به اینکه پیدا کردن شیرخشک «آپتامیل» دشوار شده از کاهش حجم شیرخشک داخل قوطی نیز انتقاد می‌کند.\u003cbr/\u003e\u003cbr/\u003eدر سایه بی‌ثباتی اقتصادی و فشارهای مداوم، زندگی روزمره بسیاری از مردم به میدان مبارزه‌ای خاموش برای تأمین حداقل‌ها تبدیل شده است.",
-      "date": "2026-07-26T18:34:22Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4059,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/rdPEegN3zSc6ft3SFfSfpaWvrJ8uy_RDNr3KEGLELyc3LfYPVIdQzykKMgb1oDft1Iur8ghwS3R7SddlU5VOr0uPQfxX33A1MHvw3CI_97xOxaroaQfbZvlJ9QzDmtda-a_mwD8jHr47l3HIQ2Eu9NlGsDs6-6xZZEe-xOsy32-5aYj5OBWW8Ff1YfTZUTL81gyby3SF7wj4egtCqaOvyt_Ne0Cu43i_3ptFH0g-aCmPodkK1Y9t9cGaC82SJjqs4EJGyudYwyhvsGe5eww8AJQu7OzcAmJuBNIpsvZLGHT2hmkzh0l5FhLMfSShXwSBD8KRZWRJyMQrYCpzNUe26w",
-          "width": 1920
-        }
-      ]
-    },
-    {
       "id": 225244,
       "message": "گزارش برنامه تفسیر خبر: قطعه گمشده پازل ارزیابی اطلاعاتی آمریکا درباره برنامه هسته‌ای نظامی جمهوری اسلامی",
       "date": "2026-07-26T18:39:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3930,
+      "views": 4070,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -89,7 +32,7 @@
       "date": "2026-07-26T18:50:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4190,
+      "views": 4320,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -101,7 +44,7 @@
       "date": "2026-07-26T19:00:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3960,
+      "views": 4130,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +63,7 @@
       "date": "2026-07-26T19:03:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4370,
+      "views": 4510,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -132,7 +75,7 @@
       "date": "2026-07-26T19:10:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4630,
+      "views": 4830,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -144,7 +87,7 @@
       "date": "2026-07-26T19:53:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3860,
+      "views": 4110,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -156,7 +99,7 @@
       "date": "2026-07-26T20:23:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3250,
+      "views": 3490,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -175,7 +118,7 @@
       "date": "2026-07-26T20:45:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2990,
+      "views": 3290,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -187,7 +130,7 @@
       "date": "2026-07-26T20:57:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3160,
+      "views": 3460,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -221,7 +164,7 @@
       "date": "2026-07-26T21:27:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2240,
+      "views": 2610,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -240,7 +183,7 @@
       "date": "2026-07-26T22:03:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1160,
+      "views": 1670,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -259,7 +202,7 @@
       "date": "2026-07-26T22:23:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 703,
+      "views": 1480,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -277,7 +220,7 @@
       "date": "2026-07-26T22:35:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 300,
+      "views": 1150,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -286,6 +229,56 @@
         {
           "type": "video",
           "url": "https://cdn1.telesco.pe/file/KliM4eQPjFVe5BrJOL-X7rss20cPxPb4xqchRlbxpNRHdUyP4JoR_3sl2FbfT_wa_84wIpcD4cnIvBJn_WIqjeTmQ3rtq8jxAMCfMG44AkWme-SoVpWgj9khHUvfVyLsIyR26bRaU3PAlSQkIhLbMq6WvVTwKv3puKqxJxf7QP03yZ-_JDfxn7rDV11UuE8GkRJS19IXfJoKVQZaIHCCjHx70PrHyxXza1XTuLdk1cZLelpAKnNC2MiEnd6fz4BqhdtBRB2pDY79Eqrcuh0WUGKpORyOoWRq_NxVmgJ6CCI37TsGKTjbN4g3rHUXcKQ9ZKpjPP0oY58FePoCRd7YWg",
+          "width": 640
+        }
+      ]
+    },
+    {
+      "id": 225262,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eپاسخ مایک والتز به بیانیه عراقچی علیه اوکراین؛ جمهوری اسلامی «ناگهان» فکر می‌کند که حمله به کشتی‌های تجاری «کار بدی» است\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E297BE.png\u0026#39;)\"\u003e\u003cb\u003e◾️\u003c/b\u003e\u003c/i\u003eمایک والتز، سفیر آمریکا در سازمان ملل متحد، روز یکشنبه ۴ مرداد به اظهارات عباس عراقچی، وزیر امور خارجه جمهوری اسلامی، درباره حمله اوکراین به یک کشتی تجاری جمهوری اسلامی در دریای خزر و کشته شدن یک ملوان، واکنش نشان داد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/8176253.html\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/8176253.html\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-07-26T22:45:45Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 947,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA"
+    },
+    {
+      "id": 225263,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e«کلاهبرداری» در بورس تهران؛ گفت‌وگو با بهزاد احمدی‌نیا روزنامه نگار\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-07-26T22:51:11Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 812,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/NMJokIfPq3w9WM0c3f4RFHZpaqnScroeVyZZSbg-v6ymOrVy0nYNfW_i5vzcnb-PRkmoKb6PyW3XbwTVAHYTgMMcx5XDHcQKVf3Xo6cbTUjYlk0cvlMZEAVrfxwWp9BXKvfASsubiYk2l6Ve3LsAh4cQDv6VYTm2XydsofM3U6BHPk3pEN_hp-aTQljboPwqUv8CoeznsvkglmbMl1Ndj4pHZvEHUgNt_raVTLWGQZLtNtkrJcO_LqmyKul-N57Jg3ssLDQomRoTTGfz6lap-3sff1SCUUs6JHMVgiy8F0LyJo9fwI_YrdIqlZpUKder1Lzzkkcp2xF0sPzP4KxVlA",
+          "width": 640
+        }
+      ]
+    },
+    {
+      "id": 225264,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003eبابک تقوایی: جمهوری اسلامی از ماهواره روسی خیام برای حملات موشک استفاده می‌کند\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-07-26T23:04:11Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 483,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/C7mrMcCIkSX2n_ycVhlSsTY9RO2syDEnhL6drgu1Yyu9F7tUeaZIEAtSMq9a4wH-GTWGWRXb6woNeRFHHxrae_NWarQwVQmxMwTfso-YrMEsdHSHy2DDu2eQj2FdbzAlauOZqH9zL0xW5fAyHjrLBmBkNmHr_Rlh2q_KxMNc8RSiht1c2CexAVok91wCXV-mNOD3mmmZsqtPdffJ2_yv6OWV2FM1Ch1himfVyczogFz4pLZyn1bRWDL2vpIXSAOhl1qbNHWCVPKhp87Bu0baiGRhe8aNcKU8occhAmo4zNRSZhEVW7IqoH1cq77i77gAi1J5kAdxqXiFkBWNJ1p5nw",
           "width": 640
         }
       ]
