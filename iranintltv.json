@@ -3,241 +3,17 @@
     "id": 0,
     "title": "Iran International ایران اینترنشنال",
     "username": "iranintltv",
-    "photo_url": "https://cdn4.telesco.pe/file/sSxGZ_ZO3BC9_A6ClA5zYS8ep7PFG_VQ19L8hc9-gvcNff_zjqSseN_qIcCg5c2g6tVO5ff0_8mbX1x7JXwKyewfxeJpNLChJLalw0oeGSbDUxxFc45a1mSUQhNMUqJBVU4GpF7wFO79CpQmhjjHIdIlriBdvXV37ER11dHbx18GzOUc4TUjMBVdOxe0TawqG1zocHYyPRjWdFizqMD28kEDchX6IrZacmxyOyOYmSYuROVgroT8laHgGMBO3Sshy9G-N2FVG9eKtNmYJm4Eqf-pbJlgp6RWrtYhBPGWprWAlb7_dWB388XGsPMr7mw3NfEVLTpv-5sSjfRWTyINqA.jpg",
+    "photo_url": "https://cdn4.telesco.pe/file/tVi9IzlEBnWYse0BN-iQccCI9E0VMtNt--_YghaWxLi1Y_g1U1t2jFN81WckXzm7SXIWpNZL2wGXzVF8uvKUvmRdnWXufSc6QKcCQuH8XmhZhKvhTR5jDZYZNJUO3IO0pfFy8M_MXKg1lgR2YpMUXwWQdrDvvBW91q_jB70bZx5SDRhxWA3fOAxdRTLffGfURKn3QMrmE1EaPP2WG-TuhbfqbjtoUyPUjPDnm31F0piEM9RPnkMyerdVxNiI4Ro2fPmlOd50W6UHgtR7EUGQJz7qhKKqiyU392jxoCAWcohZTtHk2TTTnEsswSF2u1YsqiQR1RZoOv-ROAkx63XD3Q.jpg",
     "description": "رسانه خبری پیشرو برای ایرانیان\nخبررسانی حرفه‌ای، بی‌پروا و با تکیه بر روایت‌ شهروندان\n\nارسال امن گزارش‌ شما:\n@intlmedia_bot\nوب‌سایت ما:\niranintl.com"
   },
   "posts": [
-    {
-      "id": 349827,
-      "message": "مروری بر روزنامه‌های ایران، دوشنبه ۵ مرداد، با مجتبی هاشمی، روزنامه‌نگار\u003cbr/\u003e\u003ca href=\"https://t.me/iranintltv\" target=\"_blank\"\u003e@iranintltv\u003c/a\u003e",
-      "date": "2026-07-27T12:07:17Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 42600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Iran International ایران اینترنشنال",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/J0wpCmSI5Pxuaei8chZWhL2TXvU-JzfObwAeLhbq0oZFIhuh-6EDOeREYdJ3c9vcV8DuaVpoMpWF9esmWGlVEtGjvF3LqKLmlQazoNrJc1Lp5u8BVoBbSl0ob2oHsLe5Pz9dY06_GwfKFn_2iEZ7XyxRCP51eoXcMKlzheVHibN4rGy3v-SnTG7eV2pt0aKxclPEexyALmnMKAmRXeC8-8T748uP4pLG0rggjMv-CW9R-pPvRGyele2YAvmzOFIuRB7wED27_ZnhXit1VlFPKEMfluBqOCLIbewlSPm6gJl2LTteN6URLNvrC6wgHWTrNUQ8kLT_1-bDNtX5rjZoCw",
-          "width": 426
-        }
-      ]
-    },
-    {
-      "id": 349828,
-      "message": "روزنامه تلگراف گزارش داد که مرکز اسلامی انگلستان در لندن، با وجود ادامه تحقیقات درباره ارتباط احتمالی آن با جمهوری اسلامی، همچنان مجوز حمایت از صدور ویزای نیروی متخصص و مبلغان دینی را در اختیار دارد.\u003cbr/\u003e\u003cbr/\u003eجزییات بیشتر با تاج‌الدین سروش، عضو تحریریه ایران‌اینترنشنال\u003cbr/\u003e\u003ca href=\"https://t.me/iranintltv\" target=\"_blank\"\u003e@iranintltv\u003c/a\u003e",
-      "date": "2026-07-27T12:07:55Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 43600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Iran International ایران اینترنشنال",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/EKkHOT-dYLyEdDNcR7GxkHHU6NTxpgUQL8nEKn1U_cMOrXrIW4KnWAmwKfz6rNVauCf2OlBT3-ElkbZX5FMT8qfAVSgc5L30g72Em52LqNstAUqJPJ0fjEs0ojFiiqiWoBEnU5UF-XmxB8pZIihSRXQyR2qauMQ2-WquYULAFOaXyf7yl1D2HnRhUGkccO9Qy0QyxcXe-TlB9hACXdHcp7CeCgR3-g_omkYn_T-nu9PMrFyHjIe1SdmkfWrIL6aUsQXwgUX9yCalXW8JZX2UyTAliRqIdPO685gWAoFUZcHNwZLZGCI5nHomBNT0jk8kjtdo_5__wI9MTy0_GAVQUA",
-          "width": 426
-        }
-      ]
-    },
-    {
-      "id": 349829,
-      "message": "قلعه الموت به عنوان سی‌امین اثر میراث فرهنگی ایران در اجلاس بوسان یونسکو به ثبت جهانی رسید. حمیده چوبک، سرپرست کاوش‌های باستان‌شناسی این منطقه، پژوهش، کاوش و بررسی این محوطه را ۲۵ سال پیاپی انجام داد و به دستاوردهای مهمی رسید تا امروز این قلعه و استحکامات اطراف آن به ثبت جهانی برسد.\u003cbr/\u003e\u003cbr/\u003eجزییات بیشتر در گفت‌وگو با محسن ظهوری، عضو تحریریه ایران‌اینترنشنال\u003cbr/\u003e\u003cbr/\u003eiranintltv@",
-      "date": "2026-07-27T12:09:20Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 44600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Iran International ایران اینترنشنال",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/UUF1kAXV3eJk1Gmi__-MC7okCPb2pHQb-Ro0UZS6_bOYDAky3x7JcWcDsiAplt0t_gnOK8yKLIz9kq_QEpHgE3zUJbOfPMCOKj0IFd9WD4f0itf9zSas5-KQVx4x-fbL7e10Pzk0PdruHnqTkea5dSSzSbMpvlzogmKgIoojJTgMXngF1IMs5AoyXhG91nXrL3kJi8yfMgLSFg529JHFZHpnbY6RdLDfar2KXWwkHuZMBp653wqVQDj6Gks8dG8VDB6Hnqoz2FKffTGEXAt31unW4uQy9B5dpxwTmVXTaWbjwmNofA1QFw7Xw90yJbyaAyLK_ME4zW1kSDla7j4kKg",
-          "width": 426
-        }
-      ]
-    },
-    {
-      "id": 349830,
-      "message": "بر اساس ویدیوهای رسیده به ایران‌اینترنشنال، گروهی از ایرانیان مقیم استرالیا یکشنبه چهارم مرداد به مناسبت سالروز درگذشت رضاشاه و محمدرضا شاه در ۴ و ۵ مرداد، در سیدنی تجمع کردند و یادشان را گرامی داشتند.",
-      "date": "2026-07-27T12:27:09Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 38300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Iran International ایران اینترنشنال",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/G67YbLMja-yJ6NwsIL1CrZGJVllI3d2gZGD-SzxSl8VmblREFZgnEkyaz2cRnCbBkH9Vb6ZYSRvP0lOKx3q3I0_c0JoXCWfdWXmVxOm_lB-6w9WSgrclhYdruQPZLUQXxPTlgXivnAEIJeWLr3shCPT-Z4KGA_6OlFV3F7VDZepLKZcNmCoVbN_2YCzjmiYZVGDVlGv_zKMaX04DKsfhO-pUkaA55A7YsomzJc9Zr_yUCU3fvVNEsf5orGVtK-InJGKQErmtIIlXs_wNkNryYWqn4oq6TzNwqoLRPfOZzv8B5pheG9IPd8Atww7akGFzR8-GOBFPC_R-fpaS-l8png",
-          "width": 1080
-        }
-      ]
-    },
-    {
-      "id": 349831,
-      "message": "صفحه رسمی وزارت دفاع عربستان سعودی در ایکس اعلام کرد پهپادهایی که از سوی گروه‌های مسلح مورد حمایت جمهوری اسلامی وارد حریم هوایی عراق شده بودند، رهگیری و منهدم شدند. \u003cbr/\u003e\u003cbr/\u003eدر این بیانیه آمده است پهپادهای پرتاب‌شده از خاک عراق تلاش کردند تاسیسات نفتی در منطقه شرقی عربستان سعودی و شهر ریاض را هدف قرار دهند.\u003cbr/\u003e\u003ca href=\"https://iranintl.com/202607270517\" target=\"_blank\" rel=\"noopener\"\u003ehttps://iranintl.com/202607270517\u003c/a\u003e",
-      "date": "2026-07-27T12:33:37Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 37200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Iran International ایران اینترنشنال",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/RA_RYZGkuL1q6s1KWUpD2f0DusJIPJksPt1Pd28ZkkGFw5HBfyR1LlP94gszK1r8lWLKrLy39NiDP3IFyKgetqtmnozhfxTZWUYGGrwl7HicwgJV9iLiBanUJqJYz6iPurvCWJegltXL0sBkAh2zDEwVc5PGPcjORmpDyYeAVEv1RDso1yLhhGdxtiwgNrHkrnFWvN0ArOeWyggEVrMYbqSfweBW_4A0Wze9xXS4bv9xy9F4En7wgYxu-CUqEGRzwJBs3-X4Q4v2m1rq3cKsVtbzON2MKVxa9Vy8R-dPvAn0BAU1GqwRClOqA4mSEi8JYGQ0WCIRWR_h44_hNgzPrw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 349832,
-      "message": "ویدیوهای رسیده به ایران‌اینترنشنال حاکی است هتل استقلال تهران روز دوشنبه پنجم مرداد دچار آتش‌سوزی شده است.\u003cbr/\u003eبر اساس گزارش‌ها کارشناسان اورژانس استان تهران برای نجات جان یک شهروند به طبقه ۱۳ هتل اعزام شده‌اند.",
-      "date": "2026-07-27T12:35:13Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 37200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Iran International ایران اینترنشنال",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/PsltM9AhVIE_m5Kpih-y7eSAAqYDqLtxGSnpEUDy8zKIaPhoe0B23rxGCNkBOIitVqQKSMgKCQsVaWcIy5rJhJZgOqkAFbjW4SYDF47pAZ0l476y72j6vFHLAO4rj1UZlG40VOmypjE0jL86TZgpcNg5MpX-4wQGGdoa_c6iSTN7YAZq-8KRXCSltry4RzYRixbQzLx04TugiDNKd_AiZMFKL9R_HPJpodExl4lxMrEeB7lR3ra9DYY2EjxIRdX8WKmRI1u3Qhdj8creC6Ux-S90wZ1Ecc7eKhStV2YvPlEsfyoZdhajofEiIeW3zZTavbcuy4dFmEwj9664ktvtQQ",
-          "width": 1080
-        }
-      ]
-    },
-    {
-      "id": 349833,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BB.png\u0026#39;)\"\u003e\u003cb\u003e🔻\u003c/b\u003e\u003c/i\u003eباشگاه رئال مادرید به‌طور ناگهانی وارد رقابت برای جذب یان دیومانده، ستاره ۱۹ ساله ساحل‌عاجی، شده و اکنون بخت نخست امضای قرارداد با این بازیکن لایپزیگ است. ارزش این انتقال احتمالا از مرز ۱۰۰ میلیون یورو عبور خواهد کرد؛ رقمی شگفت‌انگیز برای بازیکنی که تنها یک سال پیش با مبلغ ۲۰ میلیون یورو از لگانس به آلمان رفت. به نظر می‌رسد رئال با پذیرش این مبلغ، رقبای سرسختی چون پاری‌سن‌ژرمن و لیورپول را کنار زده است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003eبا این حال، خرید احتمالی این پدیده جوان واکنش‌ها و گمانه‌زنی‌های زیادی را در اسپانیا به همراه داشته و این سوال مطرح است که چرا رئال مادرید حاضر شده بیش از ۱۰۰ میلیون یورو برای جذب این بازیکن هزینه کند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003eتوماس رونسرو، خبرنگار روزنامه «آس»، درباره این پدیده ۱۹ ساله گفت: «در جام جهانی او بازیکن بسیار جذابی بود. او ۱۹ سال دارد و از پتانسیل فوق‌العاده‌ای برخوردار است. او می‌تواند به وینیسیوس جدیدی تبدیل شود. این نشان می‌دهد که رئال مادرید از جذب مایکل اولیسه منصرف شده و دیومانده طرح دوم آن‌هاست.»\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003eجزییات بیشتر را در \u003ca href=\"https://iranintl.com/202607270192\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eسایت\u003c/a\u003e بخوانید\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/iranintltvsport\" target=\"_blank\"\u003e@iranintltvsport\u003c/a\u003e",
-      "date": "2026-07-27T12:48:57Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Iran International ایران اینترنشنال",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/T3hKsbtGm0eMqafeJQeUByH0rlznTiN_B3M8cyc_CdDBBZucp8q8yISojNJJLjzKq11sM3NvARJa_wbScEhweP_lu8E2R4Z2MLDt9kXWw_Ue-iFfGVOmKLbY-E6EWfhu1yGnvdEqKVFIcvs5525beYJb5F06ezYFfuffjTdrQfiA6B1E12Rp_rx3ek45Hoy-xZgIvC_5IwG0Si5hzYbO6PGHNWmyn-6qLyRhKJH0BsdqSFHEDWXm79RpzDhaGD2LcORgz8hhF32AA0NvbMi5og7zJUVlljQ7DGzAThvoIxUp7stCCyBcq4Uz5E9y43XfgqBMi1r3pN-G5yZSIaIdYA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 349834,
-      "message": "دفتر اروپایی کنگره جهانی آزادی، بزرگ‌ترین ائتلاف فعالان و جنبش‌های آزادی‌خواه از کشورهای دارای حکومت‌های اقتدارگرا، در برلین افتتاح می‌شود. برگزارکنندگان در یک نشست خبری، برنامه‌های هفته آزادی برلین ۲۰۲۶، کنفرانس آزادی برلین و چند رویداد بین‌المللی با محوریت آزادی و حقوق زنان را معرفی می‌کنند.\u003cbr/\u003e\u003cbr/\u003eجزییات بیشتر در گزارش احمد صمدی، خبرنگار ایران‌اینترنشنال\u003cbr/\u003e\u003ca href=\"https://t.me/iranintltv\" target=\"_blank\"\u003e@iranintltv\u003c/a\u003e",
-      "date": "2026-07-27T12:50:58Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Iran International ایران اینترنشنال",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/Tv-bnl14WbZoV_Ry8Tvsy027_UMP34rXpTgSivG6gh2d3lYIHvRbL0Yr-A9J9E7x3J7EQyAKXXQgzHhj8aLD0EicALbd7v0-Pg70BxGLmgugJhHrqs_bkyTAZWOz0jxXMBkzaHs4eiIoKZC61wPXDKVLirc2CmLbpJgpmfG9ki7M1Pmfi8fYo834smj8jV7g2brJjnYwuX3HQ3x0Crs0Ld8FEZ_V3563ceiB2wmJCxQiaAV9QWK9H_Mh0Ihx0G9DXh1GSVW0t1tS6hiDgiKatop_epDR-QbkHYGhxQP5uGM6JVmIiv6efigLdUCKQTM-t6MAi_rzJx27PvTW32YD-w",
-          "width": 426
-        }
-      ]
-    },
-    {
-      "id": 349835,
-      "message": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال، برخاستن ستونی از دود را در حوالی فردیس استان البرز در دوشنبه پنجم مرداد نشان می‌دهد.",
-      "date": "2026-07-27T13:03:44Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Iran International ایران اینترنشنال",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/nxPWNEqSza2DUyXc6jM1WKjT7lR6ZYKf8Nt05qHMF7NhQhGsEYl2GVQA79eJZ3rVfN7X0eLLUy8DikVFwXao11YF51EaOZwuHA4LSRCqVPhKhHa_mo7gdM2004BLOvJkMq460sMYR3NLGB925X8goGpzIkz6cgXz4YBD1orZUkSuHJ82slPqRMJ5SFQGkJNgdVn1XwB0j6K_LX3CGYvVcCVsapU1twsr1Zj5jc69ULIQydripMbh70W3Xkj3eUad-5miioHAYRBMfjZO3Rbz3Xv_BGMAqHZMBXppp4IIBWSl4oXxSRN4efIEGVQLg_ZVoqQjrn8RAaYH92yIf1CyoQ",
-          "width": 1080
-        }
-      ]
-    },
-    {
-      "id": 349836,
-      "message": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال، برخاستن ستونی از دود را در حوالی رباط کریم استان تهران در دوشنبه پنجم مرداد نشان می‌دهد.",
-      "date": "2026-07-27T13:14:16Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Iran International ایران اینترنشنال",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/KHEWCQ4J6c6JZUi84pq9U1fGsrZXxd69bZPwNbl5ebeH_bx2akkwIK_tWFAYYAhKMrX5fhmaY3QI6pq3HTTn_wS6ySvO8WRRVcmWNqPCNquE1URQwQOmAUPPoVjwjyNMaAfPdF1LLgRPdIiNVKnDVxgZeGUmZp6WBBRubfJt6dATq1rS702_Uo8KP_vxWcOvxItfQrj6Qi3vYZF9Nwbg-MAplqBC-w2p5oZMZKOrqigZRgpnvBIJAT2FJd728kss3L4z8wZdfe35isGUcHUmikuDaBRqC_KHME4whfJ-IvrtNNJuWC-9T69_Az0YxAh3zE5lN3u7yGM7EKYuT2Eikg",
-          "width": 1080
-        }
-      ]
-    },
-    {
-      "id": 349837,
-      "message": "حمیدرضا حاجی‌بابایی، نایب رییس مجلس جمهوری اسلامی، در نطق پیش از دستور جلسه مجازی صحن، گفت جمهوری اسلامی «هیچ‌وقت با آمریکا به تفاهم نخواهد رسید.» \u003cbr/\u003e\u003cbr/\u003eاو همچنین تاکید کرد که نباید اجازه داد آمریکا زمان آغاز جنگ و اعلام آتش‌بس را تعیین کند.\u003cbr/\u003e\u003cbr/\u003eحاجی‌بابایی گفت: «ما هیچ‌وقت با آمریکا به تفاهم نخواهیم رسید.»\u003cbr/\u003e\u003cbr/\u003eاو افزود: «نباید اجازه داد آمریکا هر زمانی که بخواهد، بجنگد و هر زمانی که خواست آتش‌بس اعلام کند.»\u003cbr/\u003e\u003cbr/\u003eحاجی‌بابایی گفت: «جنگ آمریکا جنگ است، صلح او هم جنگ است و گفت‌وگوی او نیز جنگ است، بنابراین باید مراقب بود.»\u003cbr/\u003e\u003cbr/\u003eنایب رییس مجلس همچنین تاکید کرد: «به کارفرمایان اوکراین اخطار می‌دهیم هرگونه شیطنت از طریق پیمانکار شما در منطقه و دریای خزر، پاسخ پشیمان‌کننده به دنبال خواهد داشت.»\u003cbr/\u003e\u003ca href=\"https://iranintl.com/202607271487\" target=\"_blank\" rel=\"noopener\"\u003ehttps://iranintl.com/202607271487\u003c/a\u003e",
-      "date": "2026-07-27T13:15:47Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Iran International ایران اینترنشنال",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/XiXqJ1uIGYLpzAJ1TxEAkOJwGt11EVkZtl49ZZAquWZVQ94AEUSJKtrePZhau19SVsT3LC9wg45ZaJtETU339A29bAmBAH11wHgtVNlEH1Y9waVTc5GRBulnbgyIp6vFwtBBKNT2d3dWorkcJ9JutDgn8ZIqNviz2TJAbccmPrrhpdqC0JpiISM-49GzAYV7_fetWKE4XiLNd1jAbtaskpS7HhKCyjGsPQ8G2WgFPFQ_Yf79pxNJiNtmx30AjE_e_wxjTdhE-ZI0kbk7jK_2rOKelYU3u5pT_1dvxSNJzSXxipswnFOfst6SgmyAPb2EAAaHzIk0_DA5Tw5A-CIwXg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 349838,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BB.png\u0026#39;)\"\u003e\u003cb\u003e🔻\u003c/b\u003e\u003c/i\u003eورزش سه خبر داده که بازیکنان تیم ملی فوتبال ایران، شب گذشته با دریافت پیامک واریز حدود یک میلیارد و ۴۰۰ میلیون تومان به حساب‌های خود، بخشی از پاداش جام جهانی را دریافت کردند؛ مبلغی که به گزارش این رسانه، با انتظار ملی‌پوشان فاصله زیادی داشته است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003eبر اساس این گزارش، تعدادی از بازیکنان پیش از این با مدیران فدراسیون فوتبال تماس گرفته و نسبت به تاخیر در پرداخت پاداش‌ها اعتراض کرده بودند. حتی گفته می‌شود برخی از آن‌ها تهدید کرده بودند در صورت ادامه این روند، اعتراض خود را در فضای مجازی مطرح خواهند کرد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003eورزش سه گزارش داد که طبق توافق اولیه، قرار بود ملی‌پوشان بابت هر تساوی در جام جهانی ۸۰۰ میلیون تومان دریافت کنند، اما مبلغ واریزی کمتر از انتظار آن‌ها بوده است. همچنین کادر فنی تیم ملی تاکنون هیچ مبلغی از این محل دریافت نکرده است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003eاین رسانه همچنین گزارش داد که با وجود اختصاص حدود ۳۵۰ میلیارد تومان پاداش به کاروان فوتبال ایران، فدراسیون فوتبال تاکنون جزییات رسمی نحوه تقسیم این مبلغ و هزینه‌کرد آن را اعلام نکرده است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003eپیشتر رسانه فوتبال ۳۶۰ خبر داده بود که از پاداش ۳۵۰ میلیارد تومانی تیم ملی، نزدیک به ۱۴۰ میلیارد تومان به امیر قلعه‌نویی، سرمربی تیم ملی اختصاص یافته و مابقی بین کادرفنی و بازیکنان تیم ملی تقسیم خواهد شد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/iranintltvsport\" target=\"_blank\"\u003e@iranintltvsport\u003c/a\u003e",
-      "date": "2026-07-27T13:33:48Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Iran International ایران اینترنشنال",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/W2YpA01duE1uieD1GLaZFdmy8lZTP8mndiZMFm0xsw1d5zhufXSSw8UAA6aaC8JFQRWICckt0w1Id_saW7HvZ7_vd7dXtnlShIgk7T988VXz0Kg8gOCcD1yrzyLyXKqWfjQaAr4amWZEag-OcB30zGlKFb8S_bx6rv-vd-4_zhqj2JxGNmCX4dRETKVxqrcWl64LgZ6hxdGpbJhF9VSfojhNJ38vautlQm0Ht06FWfcD60_Y2HonAHxksZ6LB3XBpthJhRPMGmL8zeD-1GWoibgprYTL-jBZ8fVEeJbt6qvK9N4ZNEByDnvgCQLfATv0S5JBFnzjq4cTLajYxl9mlA.jpg"
-        }
-      ]
-    },
     {
       "id": 349839,
       "message": "وزارت خارجه اردن در بیانیه‌ای، حملات پهپادی از خاک عراق به تاسیسات نفتی در مناطق شرقی و ریاض عربستان سعودی را محکوم کرد.\u003cbr/\u003e\u003cbr/\u003eدر بیانیه وزارت خارجه اردن آمده این حملات نقض حاکمیت عربستان، تهدیدی علیه امنیت و ثبات این کشور و مغایر با قوانین بین‌المللی است.\u003cbr/\u003e\u003cbr/\u003eوزارت خارجه اردن همچنین بر همبستگی کامل این کشور با عربستان سعودی تاکید و اعلام کرد اردن در همه اقداماتی که عربستان برای حفاظت از حاکمیت، امنیت، منافع، شهروندان و ساکنان خود انجام می‌دهد، در کنار این کشور خواهد ایستاد.\u003cbr/\u003e\u003ca href=\"https://iranintl.com/202607271845\" target=\"_blank\" rel=\"noopener\"\u003ehttps://iranintl.com/202607271845\u003c/a\u003e",
       "date": "2026-07-27T13:33:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17900,
+      "views": 40600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -255,7 +31,7 @@
       "date": "2026-07-27T13:33:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20100,
+      "views": 43700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -274,7 +50,7 @@
       "date": "2026-07-27T13:39:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16900,
+      "views": 43700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -293,7 +69,7 @@
       "date": "2026-07-27T13:47:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11600,
+      "views": 39500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -312,7 +88,7 @@
       "date": "2026-07-27T13:47:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11600,
+      "views": 38500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -331,7 +107,7 @@
       "date": "2026-07-27T13:48:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12700,
+      "views": 42700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -349,7 +125,7 @@
       "date": "2026-07-27T13:54:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7400,
+      "views": 38500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -368,7 +144,7 @@
       "date": "2026-07-27T13:58:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3230,
+      "views": 39600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -377,6 +153,220 @@
         {
           "type": "photo",
           "url": "https://cdn4.telesco.pe/file/e5XxePcc0yQnYIsfnkRjBZ9Ywk1yM9147WGjqt195gpx07mUTKlLExhQJQw6nPIQpVUvM8SzGc20wImTyQ0YNJN5ARCmLBOQH-FeYYWTzk0GB1oypYHcsUzZkfhsGT-J9JFUno2XrsKARabmv3EBTTm2vr_kx4PppfogpL60x88LEKGmSJ1ANBlfY3OKxKtuOcI4S7o6XJZO7GdZ1gzad1Nl2LWMR_mFFFxirVtA6YVarRZGm-COWTCgjsI7kyUOjUIc6XoNUyfwc0XIoCSJ_Kf6CV7y9ZqUu1FAXIUH_PICZ0uv0HjsmEAXSaWY_tdHenOnsHQg8gyl6FGKcoI5AQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 349847,
+      "message": "بر اساس ویدیوهای رسیده به ایران‌اینترنشنال، دوشنبه پنجم مرداد، گروهی از بازنشستگان تامین اجتماعی در تهران تجمع کردند و در خصوص مشکلات معیشتی و برای احقاق حق خود شعار دادند.",
+      "date": "2026-07-27T14:03:17Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 37400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Iran International ایران اینترنشنال",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/ApKh_nOy5r5aJVNELqMIE59sBfb7Daf5rpq2N5FaQRItlwpXmFpeKN-T5jRbtVVcknALahZVObR5jEc415VM8DTsZM7ecBCXjkl56qLNkf6IyOesVkcMoo_beADB6QJqHOo8QIU8ggIwpLFmmYekPw2osPosQtBse5hfnu7Ak3IlNg61kP1cvf1mJfIgmfQkifg7FFrIWOfieC0wE62EWUgycY8iv3qR46Y_PtlFlR13H7wlhAqINJQyO1Qjlda8neg7oTwS7nLjNmER7pKlfh8yrL_s1-DDm0v1eVEruWg8v9SkvPO5Oik_MmU3WwlaNkZjnSDLejDHoHKmqjnLlw",
+          "width": 1080
+        }
+      ]
+    },
+    {
+      "id": 349848,
+      "message": "کاظم غریب‌آبادی، معاون وزیر خارجه جمهوری اسلامی، در سخنرانی خود در فرهنگسرای اندیشه اعلام کرد در مذاکرات اخیر اسلام‌آباد «هیچ‌گونه» التماسی برای تداوم مذاکرات از سوی هیات جمهوری اسلامی صورت نگرفت.\u003cbr/\u003e\u003cbr/\u003eمعاون وزیر خارجه جمهوری اسلامی گفت: «در مذاکرات اخیر اسلام‌آباد، طرف آمریکایی طرحی را ارائه کرد که خواسته‌های افراطی در آن منعکس شده بود و عنوان کرد که در صورت رد این طرح، مذاکرات با شکست مواجه شده و بازمی‌گردند.»\u003cbr/\u003e\u003cbr/\u003eاو افزود هیات جمهوری اسلامی این درخواست‌ها را «با صراحت رد کرد» و به هیات آمریکایی اعلام کرد که «برگردید.» \u003cbr/\u003e\u003cbr/\u003eمعاون وزیر خارجه جمهوری اسلامی همچنین اعلام کرد در مذاکرات عمان، طرف مقابل اصرار داشت مسیر جنوبی تنگه هرمز فعال باشد، اما جمهوری اسلامی این درخواست را نپذیرفت.\u003cbr/\u003e\u003cbr/\u003eغریب‌آبادی گفت: «به آنها گفتیم نتیجه این اقدام هرچه باشد، طرح‌های شما را نخواهیم پذیرفت.»\u003cbr/\u003e\u003cbr/\u003eغریب‌آبادی همچنین دیپلماسی جمهوری اسلامی را «عزت‌مندانه» نامید.\u003cbr/\u003e\u003ca href=\"https://iranintl.com/202607271007\" target=\"_blank\" rel=\"noopener\"\u003ehttps://iranintl.com/202607271007\u003c/a\u003e",
+      "date": "2026-07-27T14:05:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 41700,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Iran International ایران اینترنشنال",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/Vz8yHEAn4m8Lirn-RwgjSy6zqFOuSgZpUrooNRPOtkZLK9JWjpACUcQ2NRCvQloT8VwBoMhpVa2ROQnd4bbAS2hYb4MRcZRCA3VtkSCJGj2TE8HToa0YDIgWaBtd70lzwDoGmdM7yG0u8dERWH7DID1lQ3ZSJDjBvk_fTSwiZyjACPE7KqfBSjmBjafyv-tyDgd-WYjdoF69fuTZwQs39JCsHDXRvusgy47939frcGFfnFjU9e92pB9Ogkf_XrV1KXMSNUjJoSDcUC1IAM0DfDUPtNJuGiy7Iun1E7XnnLFqjmYkVp8bl3Uao5Sgu3n77V7diVPG9iPZ3Xxafir6pQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 349849,
+      "message": "آندری سیبیا، وزیر خارجه اوکراین در شبکه ایکس، در واکنش به اظهارات عباس عراقچی، اعلام کرد تهدیدهای جمهوری اسلامی غیرموجه و بی‌اساس است. \u003cbr/\u003e\u003cbr/\u003eاو در ادامه نوشت:‌ «حکومت تهران شریک مستقیم تجاوز روسیه علیه اوکراین است و با سلاح‌هایی که از سال ۲۰۲۲ باعث کشته شدن اوکراینی‌ها شده‌اند، به جنگ جنایتکارانه مسکو دامن می‌زند.»\u003cbr/\u003e\u003cbr/\u003eوزیر خارجه اوکراین همچنین افزود جمهوری اسلامی در جایگاهی نیست که خود را قربانی جلوه دهد، چه برسد به آنکه بخواهد تهدیدهایش را با «استنادهای مضحک» به منشور سازمان ملل توجیه کند.\u003cbr/\u003e\u003cbr/\u003eپیش‌تر  عراقچی در ایکس نوشت: «اقدام زلنسکی به تحریک اسرائیل انجام شده تا اروپا را به جنگ آن بکشاند.»\u003cbr/\u003e\u003ca href=\"https://iranintl.com/202607271369\" target=\"_blank\" rel=\"noopener\"\u003ehttps://iranintl.com/202607271369\u003c/a\u003e",
+      "date": "2026-07-27T14:26:31Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 36300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Iran International ایران اینترنشنال",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/g6mHrvhbzhYcyw-RFb2b6bOXkk9-wP-OfbiovzZEdCv7OZrd-p2ht6MeWBgZ2GPAsmALByy2RM7KE4pInr3yQDOR7CyFldJ6mE4Nx_LVl_M3DwIDtR4pXq4m4jJqsFA1zra5_6nuHtBR4qUtwWSP98IPKL3xsTS6mOepQcTu2TDMM85nQO-FPHL8sHMnztSWkqBxAt2c4luCF0Ed9xluntNHi0EMkv0mFjfBmAqGcsfD5P4VA2GOgqcolBGYUVCyTi2H23HJWzqyeVjGHjPNggvA8gIHrje5gZ0Bs_R7sAkipQsdlo_ekDXrsrnPkylrNQbTXN5B5H4jZEECKDe4vA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 349850,
+      "message": "«برنامه» صدای شماست.\u003cbr/\u003eما شما را، بدون نوبت، مستقیم از ایران روی خط می‌آوریم.\u003cbr/\u003eبیایید و روایت خود را برای همیشه ثبت کنید.\u003cbr/\u003eتاریخ با صدای شما نوشته می‌شود.\u003cbr/\u003eبرای شرکت در برنامه، همین حالا در واتس‌اپ پیام بدهید: ۰۰۴۴۷۵۲۲۱۱۰۱۱۰\u003cbr/\u003e۰۰۴۴۷۵۴۴۱۱۰۱۱۰\u003cbr/\u003e۰۰۴۴۷۵۱۱۱۰۲۵۵۳\u003cbr/\u003e\u003cbr/\u003e«برنامه با کامبیز حسینی»\u003cbr/\u003e«یک ایران صدای شما را می‌شنود»\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/iranintltv\" target=\"_blank\"\u003e@iranintltv\u003c/a\u003e",
+      "date": "2026-07-27T14:27:22Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 37400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Iran International ایران اینترنشنال",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/CMy09V5jpp_Xix-_ahZ0X2VThJcAsUF3Z1do38CagWdKxMnpy1hUqhMY0qVrlNv1B-qLjl2GiLbUnkmhXiw5BQBSDn7BYkkH2d-bJusUcNPiGbhkfzqfHSCh0dw48tEMQ24FT4RZIDUuzLDomOuCuyqZblj9SXrYC57eQQ0BJv3Vg5adBQPiTg9rn7WZSN6z_F_xAuCL-eXeMcSY1v8Ifpda8ETZrKBp_-u97ReN6kW1bx5b6KU--1RckotQ2KKKg0cW2O_kRy6A5HoMJbC1rCOjE4wzWdhMJ24g1alhRXs9Imh0qGWn-MBq0v3XvFtBrW6oII1iMp-JfGaWs68Feg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 349851,
+      "message": "وزارت خارجه قطر در بیانیه‌ای، حمله پهپادی از خاک عراق به تاسیسات نفتی عربستان سعودی در مناطق شرقی و ریاض را محکوم کرد.\u003cbr/\u003e\u003cbr/\u003eدر این بیانیه، از این حملات به عنوان نقض حاکمیت عربستان سعودی و تهدیدی علیه امنیت و ثبات این کشور نام برده شده است.\u003cbr/\u003e\u003cbr/\u003eوزارت خارجه قطر همچنین بر همبستگی کامل این کشور با عربستان سعودی و حمایت از تمامی اقدامات مشروع ریاض در راستای حفظ حاکمیت، امنیت و تمامیت ارضی این کشور تاکید کرد.\u003cbr/\u003e\u003cbr/\u003eهمزمان وزارت خارجه مصر نیز حمله پهپادی به عربستان سعودی را محکوم کرد و آن را نقض امنیت و ثبات این کشور و تهدیدی برای امنیت و ثبات منطقه خواند.\u003cbr/\u003e\u003ca href=\"https://iranintl.com/202607272312\" target=\"_blank\" rel=\"noopener\"\u003ehttps://iranintl.com/202607272312\u003c/a\u003e",
+      "date": "2026-07-27T15:00:49Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 28900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Iran International ایران اینترنشنال",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/ByLST6J-7Q4o5Zeng-wZtMwCdhuEb4vXPivDvjIkIdH8I39pVOQwna-U03KiY2HAB5CuJDcDEbD3nym7iJi2lgvC1rDN6baPBCE-MvlM3T6YVH5ZixPJjehBclMh7JPPWrFBgT5XuX9CFnyQyYfWyInTYc09XPrhizZxNacz76iaEnAVXG3MS971rkRyUzZKjmXyMXX0AP3iBW46qBrwdPS7pGz6enqoBlj1lFBRL6s1o_kfcGekGzx_MhCiSoH9H8ovlxVLQ-pDbPW5qz4_bFfxZ4L3m6LsbCXq6QqK6GnKB434YovBhUNUqn1ZvYCMeMnhuLF4sCNb1a9ShLuhbQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 349852,
+      "message": "بر اساس ویدیوهای رسیده به ایران‌اینترنشنال، دوشنبه پنجم مرداد، گروهی از بازنشستگان تامین اجتماعی در کرمانشاه تجمع کردند و در خصوص مشکلات معیشتی و برای احقاق حق خود شعار دادند.",
+      "date": "2026-07-27T15:02:51Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 28800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Iran International ایران اینترنشنال",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/e0UEMeCfi76oU_jKHLSSgk1L6713BdJwSVAz-f-8VMlm4APqHsNg68idYlTMVQGrJA8ZdGos0WSCTw6zfog2-Gjmyt315zRZTL7Pq5gehrDn0B-eS0iEuRhYwH8HpM3p2vjoPr_tRz8x7qeRxgyC4AB_w0deTGtytEzq_RPaqRa40Ekllk2RgTfP5R9fiJt3aB8BOM2I3hWJ15UVHDQKO7rapxLw9o_L6Vxxy-uRrKd1yCKwiOZd1hYoica3HoYVtUYOGR5CTC0F7WLIEKCK2V4rPmvmDQA5GR3sY7TXscVIQjdksEESzAgCShHE19eEBsOvUKWCUlJHc62qRMXpbg",
+          "width": 1080
+        }
+      ]
+    },
+    {
+      "id": 349853,
+      "message": "دونالد ترامپ، رییس‌جمهوری آمریکا، در گفت‌وگو با کانال ۱۲ اسرائیل گفت آمریکا در حال انجام «مذاکرات بسیار جدی» با جمهوری اسلامی است و هشدار داد اگر این مذاکرات موفق نباشد، واشینگتن به «اقدامات نظامی بسیار قدرتمند» بازخواهد گشت.\u003cbr/\u003e\u003cbr/\u003eاو در پاسخ به پرسشی درباره مدت زمانی که به تلاش‌های دیپلماتیک فرصت خواهد داد، گفت: «زمان زیادی نداریم؛ یا این روند به‌سرعت پیش می‌رود یا اصلا اتفاق نخواهد افتاد.»\u003cbr/\u003e\u003cbr/\u003eترامپ همچنین گفت تصمیم گرفته است روز جمعه حملات را متوقف کند، زیرا کشورهایی که میان واشینگتن، تهران و دیگر کشورهای منطقه میانجی‌گری می‌کنند، از او خواسته‌اند فرصت دیگری برای مذاکره فراهم کند.\u003cbr/\u003e\u003cbr/\u003eاو افزود: «همه کسانی که در مذاکرات با جمهوری اسلامی دخیل هستند از من خواستند شلیک نکن.» ترامپ همچنین گفت معتقد است جمهوری اسلامی خواهان دستیابی به توافق است.\u003cbr/\u003e\u003ca href=\"https://iranintl.com/202607274701\" target=\"_blank\" rel=\"noopener\"\u003ehttps://iranintl.com/202607274701\u003c/a\u003e",
+      "date": "2026-07-27T15:20:40Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 23500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Iran International ایران اینترنشنال",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/EROFBmalbjvWr-MH_l5doCz0EiMgCPjeNa1-bV32P-kGnmksBVLHm7-lnVHS0Mcq808Xkn3N8drfzi3hHGyLKWH4pbxSbzqQyIbFv2_VqNZO_Hi1mn-yx5w7IOWaWyZsZU2P6czb7pbeqCHNN-ZGbaLnmwKXWv7jdBHiWOOKw09JPyxxze9sfKa7A9I3BxjvKqox4K_uO8QFg2iJ0gnWM2cc1pXP4pC7xEtYptao9Jbw6Jxtu4KnIiq7Oep85Szn9uLF_ClFt4_8nvvvI73mycPa5G8mAsFRFlFMa6olDAt1lfxtuE9zsMT6oDkaoUZdb1RJ4kvtkbcoHyCRC9MwPw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 349854,
+      "message": "نتانیاهو که برای دیدار با ترامپ به آمریکا رفته، جنگ تنها در صورتی پایان می‌پذیرد که یا رژیم ایران سقوط کند یا آنقدر تضعیف شود که برنامه هسته‌ای‌اش را کنار بکذارد. همزمان، عراقچی خبر داد جمهوری اسلامی به حمله پهپادی اوکراین به یک کشتی ایرانی پاسخ خواهد داد.\u003cbr/\u003e\u003cbr/\u003eگزارشی از مجتبا پورمحسن\u003cbr/\u003e\u003cbr/\u003eiranintltv@",
+      "date": "2026-07-27T15:21:11Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 25600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Iran International ایران اینترنشنال",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/nJaDOnimUvN298YAwjMkrB639JnpZmkHCFtqP6_S2yGxW7qydzGo3aoiQOGS_S98uv2ebbh8xfQv5NH4owkeDgj9xqqEcU54PDLjwIx-ar-TKQwa-hlGvCuDQG1cXs93A96CQgt_RzJZJYWTB3ODzZ5i2_3jefkawSXn1ud-vhqXx_g1bfsZJE54w89IqhJSv4J692Cs76UsB4OEaSwjEdAJRs0dMleF4r4I6cNlVA-7BaOqXGsJoA7v2cp-mB7oVJZfiMGxG5KJ5xHojwpEOR9HFLIWeLszbrFbyQUSCNsZNOYYC9SsS1qNrk834pZXSFcln57AlJ9fM_iOHTXbhA",
+          "width": 480
+        }
+      ]
+    },
+    {
+      "id": 349855,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EA7.png\u0026#39;)\"\u003e\u003cb\u003e🎧\u003c/b\u003e\u003c/i\u003eنسخه صوتی اخبار شبانگاهی | دوشنبه ۵ مرداد\u003cbr/\u003e\u003ca href=\"https://t.me/iranintlTV\" target=\"_blank\"\u003e@iranintlTV\u003c/a\u003e",
+      "date": "2026-07-27T15:24:26Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 23500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Iran International ایران اینترنشنال"
+    },
+    {
+      "id": 349856,
+      "message": "علی خضریان، عضو کمیسیون امنیت ملی مجلس، در نشستی با نام «طرح مدیریت تنگه هرمز» اعلام کرد عمان «به دلایل حقوقی گوناگون، بدون هماهنگی» با جمهوری اسلامی نمی‌تواند عبور کشتی‌ها را در تنگه هرمز به تنهایی تعریف و اجرا کند.\u003cbr/\u003e\u003cbr/\u003eعضو کمیسیون امنیت ملی مجلس گفت: «دو کشور به جای تحدید حدود، در ۷ مارس ۱۹۷۴ (مطابق سال ۱۳۵۳)، طی بیانیه مشترکی که در زمان سفر سلطان قابوس به تهران صادر نمودند، پذیرفتند که به جای تحدید حدود، همکاری امنیتی در تنگه هرمز داشته باشند. یعنی دو کشور یک زندگی مشاعی مشترک را در تنگه هرمز اعمال کردند.»\u003cbr/\u003e\u003ca href=\"https://iranintl.com/202607278895\" target=\"_blank\" rel=\"noopener\"\u003ehttps://iranintl.com/202607278895\u003c/a\u003e",
+      "date": "2026-07-27T15:28:59Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 23400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Iran International ایران اینترنشنال",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/Yrdj8l-dVHq36XZmFwx6KUPzLq7ZFrHF59wbzDU4iPLY7eO4Pb1wZGYV600aRJ-hJSJvevWpwtEG85WNyYvpcogfHh_uEFYYINK25E-ghxa8la6aUj3xuffwunQyzgAY1eaDBkvOKK3F-jt3c8bpBvmw2lVShT_ug-H_TAlnUwSW6Qd32nuGHPna0oENEBi0b2xHJ7MOtfd6DJ5oZqMRUcErNPFCnKtjlMmMMNv2QgXpNzDAn1EsuX3eYwj4umPRLftis8yh_p_NahD4btR0vOxz8EnA6_2WG6j0H_JjRfvcuTeq6OKDOezbBHju-ukFwc8pNcbISzYwJFsFQT-4TA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 349857,
+      "message": "بر اساس تصاویر رسیده به ایران‌اینترنشنال، دوشنبه ۵ مرداد، بازنشستگان مخابرات در شهرهای مختلف ایران در اعتراض به محقق نشدن مطالبات و حقوق رفاهی خود تجمع کردند. همزمان، رییس کمیسیون کار و تامین اجتماعی اتاق بازرگانی گفت بیکاری واقعی در بازار کار ایران چند برابر آمار رسمی اعلام‌شده است.\u003cbr/\u003e\u003cbr/\u003eگفت‌وگو با آرش آزرمی، دبیر بخش اقتصادی ایران‌اینترنشنال\u003cbr/\u003e\u003ca href=\"https://t.me/iranintltv\" target=\"_blank\"\u003e@iranintltv\u003c/a\u003e",
+      "date": "2026-07-27T15:40:07Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 18100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Iran International ایران اینترنشنال",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/U6avKtLXRH019Vj6vJY6T-fIVJv84qFs998B8QMAvwidcLpC6GBABJ9gkNvP1sA9xdafKAufksmZzalCHGTz8kwvnA7Qd0WTkXeO-5v65EfjVxQ0CPnl9gZUMpfgGX6NqcneZaHNZ_JBIQSsKHenIUI4HXS8YAWVoZQ7Cd0FSJ7vwPJwh4cnG9GjQ21NDGqDvHsbXs2K33RTtj3JmGyRTyDqVOVFEJ6SuuEfiznjeQMX9VoAPmNRvW3NoGu2Qy1leTZYtHGxq_zEdvHumQZTSZzElw5K5b4LT9aXFvGHiySKNGLSgwjXY36WgoizgGQnaY6lFX4htveMkuVzGllzKA",
+          "width": 426
+        }
+      ]
+    },
+    {
+      "id": 349858,
+      "message": "آسوشیتدپرس گزارش داد که مقام‌های منطقه‌ای روز دوشنبه اعلام کردند میانجی‌ها در بازگرداندن آمریکا و جمهوری اسلامی به میز مذاکره به پیشرفت دست یافته‌اند. این تحول پس از آن رخ داد که دو طرف، پس از دوره‌ای از تنش‌های فزاینده، حملات خود را متوقف کردند. با این حال، حملات پراکنده گروه‌های مسلح در نقاط مختلف منطقه نشان داد تنش‌ها همچنان پابرجاست.\u003cbr/\u003e\u003cbr/\u003eاین گزارش افزود در سه روز گذشته، نه آمریکا و نه جمهوری اسلامی هیچ حمله‌ای را گزارش نکرده‌اند؛ وقفه‌ای پس از حدود دو هفته حملات مداوم که نگرانی‌ها درباره بازگشت به جنگی تمام‌عیار را افزایش داده بود.\u003cbr/\u003e\u003cbr/\u003eدر این گزارش به نقل از دو مقام منطقه‌ای آمده است میانجی‌ها به رهبری قطر و پاکستان در تلاش هستند شکاف میان واشینگتن و تهران را کاهش دهند تا دو طرف به توافق آتش‌بس موقت، که پس از تبادل حملات فروپاشیده بود، بازگردند.\u003cbr/\u003e\u003ca href=\"https://iranintl.com/202607275263\" target=\"_blank\" rel=\"noopener\"\u003ehttps://iranintl.com/202607275263\u003c/a\u003e",
+      "date": "2026-07-27T15:52:31Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 11700,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Iran International ایران اینترنشنال",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/prsWMuZCvh0mjLF0224quXVJpcqQMRKIeJhayotRbWDMdBNEwXm6wBgsXiI5NtsuMeofQqvt3xKxm1ZJuVPxvm9tAvxKA9YQnlbygtWPLIo1qNMt2h3hqL2Oy1s2ewoN75-gfmwJ9IUg41jeaARfVRshekO7H1WcGeI0i5PxpAnSG8xbqXDuZX015m4PhDmFEA8Dup9UHFwJFgwscr-hN8GsWaqiBMmtR2fZ_qR6lUntsUuGkCn55R7KVdaTzuZA3LJNiYZs2t_qKvGNi4Xdjimd170JrRTJO8QvH2bkqZL1CbEfNy6NFJdh1MlmNxjg_tzlpkMZSeqYi7OfHALKIQ.jpg"
         }
       ]
     }
