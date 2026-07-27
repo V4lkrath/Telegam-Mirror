@@ -8,54 +8,12 @@
   },
   "posts": [
     {
-      "id": 4686,
-      "message": "خوشحالم که این ویدئو برای خیلیا کاربردی بودش\u003ctg-emoji emoji-id=\"5274117846899632751\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003eروی یه سری آموزش دیگه هم دارم کار میکنم واستون",
-      "date": "2026-07-26T11:45:16Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 4687,
-      "message": "همینطور اگر ارور the model provider is ratelimiting میگیرید، به خاطر شلوغ بودن سرورهای Mimo هستش\u003cbr/\u003eطبیعتا از روش‌های دیگه‌ی api رایگان که توی ویدئوهای قبلی یاد دادم می‌تونید استفاده کنید برای 9router و بندازید پشت همون Combo",
-      "date": "2026-07-26T11:49:24Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 4688,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A2.png\u0026#39;)\"\u003e\u003cb\u003e📢\u003c/b\u003e\u003c/i\u003e تازه‌های نسخهٔ ۱.۲.۲ کلاینت موبایل Aether \u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e یک به‌روزرسانی بزرگ و بنیادین با تمرکز بر امنیت حداکثری، کاهش شدید مصرف منابع سخت‌افزاری و ثبات اتصال منتشر شد! در ادامه خلاصه تغییرات این نسخه را برای شما آماده کرده‌ایم:\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9484.png\u0026#39;)\"\u003e\u003cb\u003e🔄\u003c/b\u003e\u003c/i\u003e ۱. مدیریت خودکار و ارتقای هسته (Core) \u003cbr/\u003eارتقا به نسخه پایدار ۱.۴: هسته تانل داخلی برنامه به آخرین نسخه پایدار ارتقا یافت. \u003cbr/\u003eخودکارسازی در CI/CD: فرآیند همگام‌سازی و اعمال پچ‌های اختصاصی اسکن رنج به صورت کاملاً خودکار و هوشمند در خط‌لوله بیلد گیت‌هاب پیاده‌سازی شد تا از بروز کوچک‌ترین ناسازگاری یا خرابی در فایل‌های نهایی جلوگیری شود.\u003cbr/\u003e \u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9791.png\u0026#39;)\"\u003e\u003cb\u003e🗑\u003c/b\u003e\u003c/i\u003e ۲. حذف کامل سیستم به‌روزرسانی درون‌برنامه‌ای (ارتقای امنیت) \u003cbr/\u003eافزایش شفافیت و امنیت: بخش دانلود خودکار درون‌برنامه‌ای به همراه دسترسی‌های پرخطری مانند REQUEST_INSTALL_PACKAGES کاملاً حذف شد.  \u003cbr/\u003eدلیل فنی: برای اطمینان از اصالت کدها و عدم نصب ناخواسته فایل از منابع ناشناس، از این پس تمامی آپدیت‌ها صرفاً به صورت رسمی و امضاشده فقط از صفحه ریلیس گیت‌هاب پروژه قابل دریافت خواهند بود.\u003cbr/\u003e \u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e ۳. حذف لوکیشن‌های فیک و واگذاری اتصال به هسته هوشمند \u003cbr/\u003eحذف منوی انتخاب کشور: از آنجا که شبکه WARP کلاودفلر از آدرس‌های Anycast استفاده می‌کند، انتخاب لوکیشن در کلاینت عملاً تزئینی بود.  \u003cbr/\u003eاتصال هوشمند واقعی: در این نسخه منوی لوکیشن حذف شده و وظیفه اسکن رنج‌ها و انتخاب بهترین و نزدیک‌ترین لبه ارتباطی (با کمترین پینگ و پایدارترین حالت) به صورت پویا به خود هسته برنامه واگذار شده است.\u003cbr/\u003e \u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e ۴. کاهش مصرف رم، پردازنده و بهینه‌سازی رابط کاربری (UI) \u003cbr/\u003eکاهش مصرف CPU در حالت آماده‌باش (Idle): تغییر ساختار مانیتورینگ اتصال از حالت Polling به حالت Blocking روی پروسه هسته که باعث می‌شود پردازنده گوشی در زمان اتصال بدون ترافیک، به خواب عمیق برود. \u003cbr/\u003eحل نشت حافظه (Memory Leak): محدود شدن حجم لاگ‌های ارتباطی به یک بافر حلقوی ۸۰۰ خطی (حداکثر ۵۱۲ کیلوبایت) جهت جلوگیری از مصرف بی‌رویه رم در اتصال‌های طولانی. \u003cbr/\u003eرابط کاربری روان‌تر و سریع‌تر: حذف انیمیشن سنگین شفق قطبی (Aurora) در پس‌زمینه و جایگزینی با رنگ ساده ساکن که بار پردازش گرافیکی گوشی را به صفر می‌رساند. همچنین منوی تنظیمات پیشرفته اکنون بدون کوچک‌ترین لگی فوراً باز می‌شود.\u003cbr/\u003e \u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F948C.png\u0026#39;)\"\u003e\u003cb\u003e🔌\u003c/b\u003e\u003c/i\u003e ۵. رفع تداخل با v2rayNG و حل مشکل نصب (Over-Install) \u003cbr/\u003eتغییر پورت‌های پیش‌فرض: پورت‌های اشتراک‌گذاری شبکه محلی Aether به 10810/10811 تغییر یافت تا با پورت‌های پیش‌فرض v2rayNG تداخل نداشته باشند. همچنین سیستم شناسایی هوشمند ابزارهای موازی اضافه شده است. \u003cbr/\u003eحل دائمی مشکل امضای دیجیتال: گواهی امضای اندروید در بخش بیلد تثبیت شد؛ کاربران نسخه ۱.۲.۱ می‌توانند بدون نیاز به حذف برنامه قبلی، نسخه جدید ۱.۲.۲ را مستقیماً روی گوشی خود نصب کنند و تمام تنظیماتشان حفظ خواهد شد.\u003cbr/\u003e \u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9492.png\u0026#39;)\"\u003e\u003cb\u003e🔒\u003c/b\u003e\u003c/i\u003e ۶. ممیزی امنیتی ۱۰۰ درصدی خط‌به‌خط \u003cbr/\u003eکد منبع برنامه تحت ممیزی سخت‌گیرانه قرار گرفت و از نظر مواردی همچون اطلاعات هاردکدشده، نشت DNS/IPv6، ذخیره‌سازی محلی ناامن و ترافیک رمزنگاری‌نشده کاملاً پاک‌سازی شد.\u003cbr/\u003e \u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A5.png\u0026#39;)\"\u003e\u003cb\u003e📥\u003c/b\u003e\u003c/i\u003e هم‌اکنون نسخه ۱.۲.۲ را به صورت رسمی و امضاشده دانلود کنید:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/QW-AI-Code/Aether\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/QW-AI-Code/Aether\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/whitedns\" target=\"_blank\"\u003e@whitedns\u003c/a\u003e",
-      "date": "2026-07-26T12:27:16Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn5.telesco.pe/file/irpy6NKPgrtH4Uk8K9fk42vPHKlMeYf0NwrjNSP1CopFYORKfExXSI6v6TgqaUTBJhRPyeQSU88DjRVFfHg0PifbUu3X6i8-G3S6RiXswzvPrw5YV6YNueSMSKn9NufRrjPITK-fQ2vXycTyhcS_0LOwfo2HjcObIb063Iy1h1MxWw5W46fuhZmchKSMdpWogsTeYAq3ZS0Y8z-85dajLjh3Ulv0a4uFhVWoEZU6_uII2kc_dx63E_UZb6Z9oDcXZ0gXRIVzBD8krRXqydOgLMJFpdNoLUgzcoeW7jDsG3QYE42tZtem6K7RAAHB3aytggKYWFC_YjSUMaNg60EQ1g.jpg"
-        }
-      ]
-    },
-    {
       "id": 4689,
       "message": "Aether 1.2.2",
       "date": "2026-07-26T12:27:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21400,
+      "views": 21600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -79,7 +37,7 @@
       "date": "2026-07-26T14:51:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28400,
+      "views": 28600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -105,7 +63,7 @@
       "date": "2026-07-26T15:40:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28800,
+      "views": 29000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -117,7 +75,7 @@
       "date": "2026-07-26T15:41:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29100,
+      "views": 29200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -129,7 +87,7 @@
       "date": "2026-07-26T15:43:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30000,
+      "views": 30100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -141,7 +99,7 @@
       "date": "2026-07-26T17:00:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29200,
+      "views": 29300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -153,7 +111,7 @@
       "date": "2026-07-27T00:11:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28700,
+      "views": 29000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -165,7 +123,7 @@
       "date": "2026-07-27T12:36:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22700,
+      "views": 23200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -177,7 +135,7 @@
       "date": "2026-07-27T14:32:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19600,
+      "views": 20400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -195,7 +153,7 @@
       "date": "2026-07-27T19:43:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9200,
+      "views": 11000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -214,6 +172,48 @@
           "url": "https://cdn1.telesco.pe/file/EhjNMXFAdv1TOutLPR_24F9xxITtd3Eod5Hj1yB-Sjyx9bF2Ux2_-GsZOpicS7ockzWiPVtUYjI502ByHB4Uu94eQ-wqGhl68GSyVWdlqtMkAedtP4uAi_T6Vax_Fbtsmkzw5qkqrBQL-18to54bMtQdj8wmwkH2H6Y4-33L24UxOVhglcXz1Yq4WPVLWTfwMWs_WGQMq2I0hRn0X0HXeCc2oba9dm_1cgftSeCY-Mr4eCsc9LSQc62oprkg90Bgk9_ml-oPyn8J3uJDqeqevVx4r52MiugwstwV7Ut6N19L5Hm3BWsAFjyIZZ7Yv6VWJiIBGtN-x9fBzSFD-NTgwQ.jpg"
         }
       ]
+    },
+    {
+      "id": 4707,
+      "message": "بانو یه جوری تخریب کرد که فکر کنم طرف کلا توییتر رو دیلیت کنه بره به درس و مشق و کلاس‌های تابستونه کانون پرورشی برسه",
+      "date": "2026-07-27T20:59:19Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3240,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/C4hlvOef6jHrm2B1JDcFkp6QOxHOQrVY1_IiQ8TU6xGNzyd27dENWJ9ddHPwu7vapo9IrxKZdU39GWBCyZjTOLkVPhyHpLkDva4dUpT4Y-avU9_rZ_TBTeXHOlF5dKinqwPNSLOIOwvQ6uQ_vryv4yW0jptqwOFa4E38D_sxBlMOMqOdsVg68a431dT5BeKIP7FRxNLUXzD3ri2MuoW9EMFkMNg3QdTcJqnSL0ILkoCSVIW9XZQTX2DKxMcqrRiBBJFW84Ds-l72-RGschGTeU7ABrBongbMrxJ_HJIMMxFR4cdRxz4NjSUVNZkxyStax1vDpvVGz5mwXtRZN2LY_Q.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4708,
+      "message": "تخریب چرا؟ اندازه پنج جلسه تراپی کمکش کردم.",
+      "date": "2026-07-27T21:00:46Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2750,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 4709,
+      "message": "تخریب چرا؟ اندازه پنج جلسه تراپی کمکش کردم.",
+      "date": "2026-07-27T21:01:56Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1960,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
     }
   ],
   "last_updated": 0
