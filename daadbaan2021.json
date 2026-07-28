@@ -47,7 +47,7 @@
       "date": "2026-07-27T07:19:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 221,
+      "views": 222,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -119,7 +119,7 @@
       "date": "2026-07-27T14:52:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 212,
+      "views": 214,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -137,7 +137,7 @@
       "date": "2026-07-27T16:15:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 231,
+      "views": 232,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -145,7 +145,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Ep8sLNI72fbDVNTTpDqU3c3tOeATBhEfiz9m4AHiHJ2aesY-EYMYS8CPLjjMU_dfUVIF7ucK-wg4OH0ScmHykAjXYrgc6NnAT3ETxgZKgDaA1UQgebyl2bi5H_ObxYRE8lQ9Odlq_lT5MOrUWEOPpbC1eBNtm8G8WbcuQCsW_lTcRTYsg8jwQd5MonY1QQjoSkmCUj794sZMSAzQHy5Hc7O6upXAhxuGP0pd5qq1k2AEKHHU97EUKWnndkxZxrkj5f_wujxYxoqWEv1jmAjrufR-x_gYYu2WjPjVGX6Jnhx3Qtu9hrPhYWs3eQwhtN3JK3-v1tgRCYxlLZmEJgHRnQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/QL1X541_QcyjNJ_l-lDyjOTvavKQ4LXdpOBNzdWx1Yaz_yi-LIUzDfBcwaDL10KzqVJG8wobYSKOgdhv-xOTyXLa9cULN7wagsryt1g2Oe752a827eO1uhrSO3KDohyfFvwb96P81vg4SY_n06D54Dd-ac2sxgf3EkjlMsUw3a8LvkvHBzscpmyjYxHXUMDcDp8h3hiiyTy2OrA139IhJegU9UpVGC5krwifm5gFCy3Db5OEht1rLwE0pkaPmzRT4yevLGQ42kCByJKo6TLbZ2mVPzZJcE0jpB0PyX4XRgS4eUTrYSI-flw525DH2fKb4LpHg_IlK-6f0T_3sUZFHA.jpg"
         }
       ]
     },
@@ -155,7 +155,7 @@
       "date": "2026-07-27T18:30:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 221,
+      "views": 224,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -191,7 +191,7 @@
       "date": "2026-07-27T21:46:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 273,
+      "views": 275,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -209,7 +209,7 @@
       "date": "2026-07-28T07:18:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 210,
+      "views": 216,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -227,7 +227,7 @@
       "date": "2026-07-28T08:44:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 171,
+      "views": 177,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -245,7 +245,7 @@
       "date": "2026-07-28T08:45:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 179,
+      "views": 188,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -263,7 +263,7 @@
       "date": "2026-07-28T10:49:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 200,
+      "views": 211,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -293,7 +293,7 @@
       "date": "2026-07-28T12:57:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 127,
+      "views": 140,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -312,7 +312,7 @@
       "date": "2026-07-28T14:18:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 80,
+      "views": 109,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -321,6 +321,24 @@
         {
           "type": "photo",
           "url": "https://cdn4.telesco.pe/file/dElEvKA3vzNcYYVZHDs1f8L-pnDZBBPRTtvcScOst1kyTTIIO8WWXiSTaDuBfNr9yCwC13Xtk6JXVbox5daZB3LoH1lKFINGJPRDuSDYD9CGfPHWaBCKc6gIzXSpuM7MsapzD6bxDkg-pO5BQj7I0i73DqreTrnz8c7Zuwk6_52a1rubXoUlLeVzQawduKl-_GevYpg4NjBE0LCXns5k_euwqow_R3AiARltPSYEI3dozwU1WtkJbqgRkY-cnFOE-RHzKEi2ACWA68iEGXAehLBlkvsTEXtQdDfa6sWDfDIi7rTT1PA_8EUFdkhOOkX8Fc4lDm1XdZt4CkWNvUrKZw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 19622,
+      "message": "‎⁨ ⁨ سخنگوی کمیسیون بهداشت و درمان مجلس:\u003cbr/\u003e‎با کمبود جدی و بحرانی دارو مواجه هستیم\u003cbr/\u003e\u003cbr/\u003e‎سلمان اسحاقی، سخنگوی کمیسیون بهداشت و درمان مجلس، با هشدار درباره وضعیت تأمین دارو در کشور، اعلام کرد که ایران با کمبود جدی و بحرانی دارو مواجه است و هم‌زمان قیمت دارو نیز افزایش یافته است.\u003cbr/\u003e\u003cbr/\u003e‎به گفته او، مشکلات در تامین مواد اولیه وارداتی از عوامل اصلی افزایش قیمت دارو است و برای عرضه داروهای باکیفیت و با قیمت مناسب، باید حمایت ویژه‌ای از مراکز تولیدکننده و فناور حوزه دارو صورت گیرد.\u003cbr/\u003e\u003cbr/\u003e‎اسحاقی همچنین گفت کمیسیون بهداشت و درمان به دولت هشدار داده است که برای جبران آثار تحریم‌ها و جنگ در حوزه سلامت، نقشه راهی مدون، مشخص و قابل اجرا تدوین کند تا از بروز خسارت‌های جبران‌ناپذیر در آینده جلوگیری شود.\u003cbr/\u003e\u003cbr/\u003e‎دادبان تاکید می‌کند، دسترسی به دارو و خدمات درمانی از مولفه‌های اساسی حق بر سلامت است و دولت‌ها بر اساس تعهدات خود در حقوق داخلی و اسناد بین‌المللی حقوق بشر، موظف‌اند دسترسی مستمر، کافی و بدون تبعیض به داروهای ضروری را برای همه افراد تضمین کنند.\u003cbr/\u003e\u003cbr/\u003e‎ادامه کمبود دارو و افزایش قیمت آن، در صورتی که به محرومیت شهروندان از درمان یا دسترسی نابرابر به داروهای ضروری منجر شود، می‌تواند حق بر سلامت و حق حیات را تحت تأثیر قرار دهد. از این رو، اتخاذ تدابیر موثر برای تأمین دارو و رفع موانع دسترسی، از مسئولیت‌های قانونی و حاکمیتی دولت محسوب می‌شود.⁩\u003cbr/\u003e\u003cbr/\u003eتماس مستقیم با وکیل در واتس‌اپ:\u003cbr/\u003e+905510332575\u003cbr/\u003e\u003cbr/\u003eبات دادبان \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Dadbanbot\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/Dadbanbot\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eایمیل \u003cbr/\u003esupport@dadban.info\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://dadban.info/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eوبسایت\u003c/a\u003e | \u003ca href=\"https://www.instagram.com/dadban2021/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eاینستاگرام\u003c/a\u003e | \u003ca href=\"https://twitter.com/dadban4\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eتوئیتر\u003c/a\u003e  | \u003ca href=\"http://youtube.com/@dadban2021\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eیوتیوب\u003c/a\u003e |\u003ca href=\"https://www.facebook.com/dadban2021?mibextid=ZbWKwL\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eفیس‌بوک\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Daadbaan2021\" target=\"_blank\"\u003e@Daadbaan2021\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%AF%D8%A7%D8%AF%D8%A8%D8%A7%D9%86\"\u003e#دادبان\u003c/a\u003e \u003ca href=\"?q=%23%DA%A9%D9%85%D8%A8%D9%88%D8%AF_%D8%AF%D8%A7%D8%B1%D9%88\"\u003e#کمبود_دارو\u003c/a\u003e \u003ca href=\"?q=%23%D8%AD%D9%82_%D8%A8%D8%B1_%D8%B3%D9%84%D8%A7%D9%85%D8%AA\"\u003e#حق_بر_سلامت\u003c/a\u003e⁩",
+      "date": "2026-07-28T16:26:54Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 49,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "دادبان؛ مرکز مشاوره و آموزش حقوقی ویژه کنش‌گران",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/pb0Er_hB-bHelALMQbdAy-tS0ALmU0meFhaOo4QIhJ7wIzuyIobHlHhn_p6VRiowbZYoj3GERLTuJ_ZJcyOwtiBOpRg8kuTkg5YN-a3yqBkjhfDfYs3eK2kpGuzJaeVMsF5LBEYakkdzvIZ2FEKtgVsuxV6nQESXgpvpri83e79riajyR7ppDBLWJJY4BY9zL5f6tKAvliH9gXHI9OvRwFDHuaw77PbGgWrSY7aOfH-NxZ__mw2CxyQBarAPxa7hLpmTEM5-8N9NnI8570l1adUtedFwwQXVEZ-UzTIXYKd9SxSmXQE9g5yNKo-Rf_vk1FGZ4QwfZzkFXoQ1jlCr8Q.jpg"
         }
       ]
     }
