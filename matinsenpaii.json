@@ -8,30 +8,12 @@
   },
   "posts": [
     {
-      "id": 4711,
-      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e انتشار WhiteDNS نسخه 1.6.0\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eدر این نسخه، پشتیبانی رسمی از موتور \u003cb\u003eCottenDNS\u003c/b\u003e به WhiteDNS اضافه شده است.\u003cbr/\u003e\u003cbr/\u003eCottenDNS برای اتصال پایدارتر در شبکه‌های دارای فیلترینگ، پکت‌لاس، DNS Poisoning و اختلال شدید طراحی شده و در هر دو حالت \u003cb\u003eProxy\u003c/b\u003e و \u003cb\u003eFull VPN\u003c/b\u003e قابل استفاده است.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eمهم‌ترین تغییرات\u003c/b\u003e\u003cbr/\u003e* اضافه‌شدن موتور CottenDNS\u003cbr/\u003e* پشتیبانی از چند دامنه در هر پروفایل\u003cbr/\u003e* تنظیم مستقل MTU، FEC، Duplication، رمزنگاری و روش انتقال\u003cbr/\u003e* بهبود Import و Export پروفایل‌ها\u003cbr/\u003e* بهبود رابط کاربری و دسترس‌پذیری\u003cbr/\u003e* سازگاری بهتر با Android 15\u003cbr/\u003e* ادامه پشتیبانی از پروفایل‌های StormDNS و MasterDNS\u003cbr/\u003e\u003cbr/\u003eاین نسخه انتخاب و مدیریت روش اتصال را متناسب با شرایط مختلف شبکه ساده‌تر و انعطاف‌پذیرتر می‌کند.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5771777713236877062\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B1.png\u0026#39;)\"\u003e\u003cb\u003e📱\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eدانلود WhiteDNS ورژن ۱.۶.۰\u003c/b\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/WhiteDNS/WhiteDNS-Android/releases/tag/1.6.0\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/WhiteDNS/WhiteDNS-Android/releases/tag/1.6.0\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5420323339723881652\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5420323339723881652\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5420323339723881652\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e لطفا تست بکنید و نتیجه رو به ما بگید\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eسرور تست CottenDNS \u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ccode\u003ecottendns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoiQ290dGVuRE5TIiwic2VydmVyIjp7ImRvbWFpbiI6ImMuYmFtYWsueHl6IiwiZW5jcnlwdGlvbl9rZXkiOiIyZGRlYjlkZjJjMmJhNGQzIiwiZW5jcnlwdGlvbl9tZXRob2QiOjN9fX0\u003cbr/\u003e\u003c/code\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/WhiteDNS\" target=\"_blank\"\u003e@WhiteDNS\u003c/a\u003e",
-      "date": "2026-07-28T10:35:40Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/BRTUMdDDz0LdIPKZP2oyKUGtnF7kiTIkhY1X_rRf72y7bft0K2cU6HJbm4XvxESIyGMxsbMSDDyWDNMvPjsp2WXpjJbxnyK1Pu08M4U8MFljimimRVCmbp36LdfOAckA_rkydncHyP84gSAVawUcGavVvYDdlUIxw_QJWDcCwYVMBltkCM4iv1xYWIx1t4kzs1yzWJEolleKawZK6jtSiJdLdGSkhWBupc07-l23QuxS8kefhua_l8Pj_eczx_EBWBIqARFOrZSA10KQ3W7p7e5A1vZjOJ7ZaQuy9A7kaEFCReKszH7Qdmf64zN6v2mKmVrXoKvzYRZp7yDWNC8kGw.jpg"
-        }
-      ]
-    },
-    {
       "id": 4712,
       "message": "",
       "date": "2026-07-28T10:35:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18400,
+      "views": 19000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -43,7 +25,7 @@
       "date": "2026-07-28T10:35:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18100,
+      "views": 18500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -55,7 +37,7 @@
       "date": "2026-07-28T10:35:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21300,
+      "views": 22000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -67,7 +49,7 @@
       "date": "2026-07-28T10:54:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25000,
+      "views": 25700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -79,7 +61,7 @@
       "date": "2026-07-28T11:25:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24500,
+      "views": 25000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -91,7 +73,7 @@
       "date": "2026-07-28T11:26:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25900,
+      "views": 26500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -113,7 +95,7 @@
       "date": "2026-07-28T17:13:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25800,
+      "views": 26700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -121,7 +103,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/eIkHTQyjm2oDhOlEyVapUgFru4P77_OcbgmrnrLZNMG4U_rO1jCCSi61OYbN2i7iE2VcqreDxLzqVBa05Qum1c27UcoVvtahK-YY16eAxZtbn47Vk8D0XYtuY0G6r1VIawxS8Zqw9WEF7EfQY2tWx8GsPhoqSDaIhCAqgQPORtzwRZ_U7evuZi0kAGkNb47L0FoyGKoyer0dyA0vOSgCx0juHb7SMyGRxVZpHXsEBX6ZLkf_YVuAeVxcPU-WwB5Apwyhl_wiXXe3Xi2gVfEFBnxKSljE88wvdddb-NGnriLnZEbGk-vjZLcZPeQF0as30L7JQ9mNDLasthRVr8nd3g.jpg"
+          "url": "https://cdn1.telesco.pe/file/sOmjgcCiK7njR81VFxbfvfG6wADWt48FxKjmUIXFCvjPQLEBhf02sh0QazCt4Qyh87XlV8WEolc-nebswzXlQciKhhgRL6x1a-ZXn0Li8Ctl5tzGktoKKo7P5x65L1V8k1OIqLhZsNVxW6K9DEKvpGr5GePMu0cvtdwFbreUQ6VLTIPt_T2p-8jHq0X_YdHpEfRsrLMttAYgxRvnjAkdnR5_pCNLBqvh9kV3bPRFPeX_e-CNeuqZPSNynlzLJvWxGrn9-vZ6lt_TTl3L7Pu02MXOzs6obs7EMpaoGc5fzXE86syXiBLbzLIgJTj6jI2e1liGq8MgTdEdDy2FHuIKsw.jpg"
         }
       ]
     },
@@ -131,7 +113,7 @@
       "date": "2026-07-28T20:06:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24700,
+      "views": 26000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -149,7 +131,7 @@
       "date": "2026-07-29T02:37:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18200,
+      "views": 20900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -161,7 +143,7 @@
       "date": "2026-07-29T02:46:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17900,
+      "views": 20700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -173,7 +155,7 @@
       "date": "2026-07-29T02:51:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18500,
+      "views": 21300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -191,7 +173,7 @@
       "date": "2026-07-29T02:56:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18500,
+      "views": 21800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -209,7 +191,7 @@
       "date": "2026-07-29T02:56:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18500,
+      "views": 21900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -221,11 +203,29 @@
       "date": "2026-07-29T02:59:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18300,
+      "views": 21900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 4731,
+      "message": "\u003cb\u003eاولین دسکتاپ لینوکسی که کامل توسط AI نوشته شده!\u003c/b\u003e\u003cbr/\u003eیه پروژه به اسم Starling منتشر شده که ادعا می‌کنه اولین دسکتاپ لینوکسیه که از صفر تا صد توسط هوش مصنوعی نوشته شده. این نشون می‌ده که توانایی AI توی کدنویسی و توسعه نرم‌افزار به سطح کاملاً جدیدی رسیده: \u003ca href=\"https://starling.build/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://starling.build\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
+      "date": "2026-07-29T16:19:18Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 10000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/VyXWN5TpQxP_EDsX1yW_LRpHAcypV1jOxT3Voud_PDU-stbImDWBwDv1YWJ6UQwo7j2lVszUvU5YRAdFlNd81cJ5YjdjxOifkJSRzP-4chu4S5eKgWrk8KVfx3OMKnSPygS7rBK3FxG5ZsRTRvkr5R9s7Sbvg8jssY04mgDTTJiHZBjDreBAfapl34S2pIJMqEm6CubEfN-2kuC0mziawh65HFHUdOK1VXxS_kuEcxtFdK3hu2vyKdl_Au7pJ1rwW9H4gQ0LrlkYJ6UcPCCy19CE0C2gZrBcIsBcbg6-EtHBrCzYdYorZAbH-EjLiS6C5cUa5VtAkFHWFqU68tdQtw.jpg"
+        }
+      ]
     }
   ],
   "last_updated": 0
