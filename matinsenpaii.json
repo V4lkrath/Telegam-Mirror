@@ -8,103 +8,12 @@
   },
   "posts": [
     {
-      "id": 4741,
-      "message": "توی opencode همچنان کار میکنه mimo\u003cbr/\u003eبا با ratelimit سختگیرانه‌تر",
-      "date": "2026-07-30T20:46:33Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 4742,
-      "message": "به زودی ویدئو داریم ازش\u003cbr/\u003eهم اپ دسکتاپ Claude\u003cbr/\u003eهم Claude Code\u003cbr/\u003eو هم Claude Code CLI",
-      "date": "2026-07-30T20:50:57Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 4743,
-      "message": "برای گول زدنش به طریق‌های مختلف هم یه کارایی قراره بکنیم",
-      "date": "2026-07-30T20:52:41Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/nC6uCcJQtWUuWRC2TACjx6wzh_t4VZYdt-gdd85sppcPu54viuf_uZVJw5sZDzOPSdgTIy1KV0HhXM9kk0Q3d2r4NWzAhdUDkAqsztyxLQUYzh1CImK_Hft-OqirmNCUm7Ki8O10bpxS39rK0-aisQYOJbO9ipdqGEIsCiFd1ExFQMUNZI9dB9q6IM2yyBXZ4OQ90lFWWJXosUJxGoumpXNctrbWvwSWxdanHXrr8KEOtSrsB5w9sf5VW9RsunGCGWZ1WBwMB9suPRo3vo6wVezywAd0SerAPCabYxNYSuNCI2VIME9EzYA5fFB-doMcVGePLKvgoKgzTn4cXtcpXw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 4746,
-      "message": "یه پلنی نوشت برام که اصلا GOD Tier",
-      "date": "2026-07-30T21:22:10Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/Uw9o09v-oSVNKdp-moSyyQEdimMbq5i31v_58Tb8L3JvVQE8EIvRbc8y0xUiMEMzhbcgdrBKnEuYFFBjkPIZlLA_TS2p8AHYQIk9oy4MDUJTtY8xFRguY2DgLKfmQ9rdmdgt_Mlx21F462a3YO8gI-QO2JUSzusV9MGOaDb1MW-FvTJUghrZ1tt7-MLCAygDOLRVdbILWAa8H1f7x-y7c5ZE5JWsbwMND8ZA256cZOvyH7wXaDP9YmD8ZdurBy0edZIDTWustkyqsQS7g1FNCultjDjfgT9JLkVg81KWjBJ6RgsbVJZ9pdlFYR0UB1OHJe_YirgoWZ3x6Q1EFUheuw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 4747,
-      "message": "چیز بامزه‌ای شد\u003cbr/\u003eMimo 2.5 free + Claude Code\u003cbr/\u003eو مجددا بهم ثابت شد که یه مدل معمولی با harness قوی، از یه مدل قوی با harness معمولی به شدت قدرتمند‌تر ظاهر میشه",
-      "date": "2026-07-30T21:59:06Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/jEloTNYlStdBdb4SzbWcIZom8HLN4NzRcmpg3VxqjxQ7FZm5x4wIOAl-HrqfG2hGOhDYx-s7YEDp2qmzcAl2qrAMMd2UcN6-mGdPC_b8UXhsEwjiinzDowpdK1jx_LfbNnXl2UAJ7uLqcMpNsbgnK4CldrhwCE38Q8UTcRhzSFMz9HYE9aLjwh8zCqtjQyju22ndgUaS0CjLP3b8C2mHSYKDsto4zSvS6x8b1_QFm9wj03cUSubPuc3tgwXEkrWlJPPUhHovUuQgfU_stHn0_lzuktGwzbd8Axpr_0_QDkLPgBouqr4Ikg1JTwPapu9ZnMkdMPKew9T2cqZa84zePQ",
-          "width": 1920
-        }
-      ]
-    },
-    {
-      "id": 4748,
-      "message": "انیمیشن و اینها هم خودش SVG زده کلا از جایی دانلود نکرده",
-      "date": "2026-07-30T21:59:59Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
       "id": 4749,
       "message": "یادش بخیر، یک زمان اروپایی‌ها فکر می‌کردن مهاجرین غیرقانونی قراره بیان و با گذر زمان در جوامعشون integrate بشن\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA580.png\u0026#39;)\"\u003e\u003cb\u003e🥀\u003c/b\u003e\u003c/i\u003e",
       "date": "2026-07-30T23:56:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28700,
+      "views": 29100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -116,7 +25,7 @@
       "date": "2026-07-31T04:27:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27300,
+      "views": 27700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -128,7 +37,7 @@
       "date": "2026-07-31T10:19:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20700,
+      "views": 21600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -140,7 +49,7 @@
       "date": "2026-07-31T10:46:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23700,
+      "views": 24500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -158,7 +67,7 @@
       "date": "2026-07-31T10:46:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24900,
+      "views": 25800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -170,7 +79,7 @@
       "date": "2026-07-31T10:47:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24600,
+      "views": 25400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -182,7 +91,7 @@
       "date": "2026-07-31T13:16:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19500,
+      "views": 20400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -194,7 +103,7 @@
       "date": "2026-07-31T13:23:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20200,
+      "views": 21600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -202,7 +111,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/IUqFoIRc5fZbBS_VejdkAiFnLa-bh6ROLcZkMPrquMqM_i4BwAa88XpFK2JbWDHie9kYnRUAFyPyjGTvcF3fhA2kRaXMvP4cBu6aNeLwa9c7SfzBRNaJotWysRjpEXs60XhAKzkYTwcFZAhdaKWbpzSjtrPYyKdPXfXDUdW8RO9h45KhaVERx0YlLW68iC6Eud7ETC0RrNpOA4SdVg1Vpq8M9i0eXtzIiTU_m5ISb9HxYc1d897bbARl7a_iz0Xy7ckBzYTipWQTVMSnS39zqOB14Hw8RbxPlYBzOlL6NpX4YLT17S8dISBjHYptQWQfkIaOXmyh0V8vE7VURtdugg",
+          "url": "https://cdn4.telesco.pe/file/oFow4i7d7XkhO8EnEsf13rSrH25tRkmYFc9HOwiHkPwPKNcZOaUVJvMmWs7F2keDzuT_ih8W_EHI8A8hZ_WgKolaBZhgTFWUGxw5-1HbH5JwpRPedGQ4wqV88Bpn4s539eN6ftFv6PVRknUVsep90VFWf1mRNc39FPsEJQctqkH1mMJC3iydXNt3TnX7JJTsFBuNdSrbuPU6QrLymx1dB6QkfYqV5DUFIzRPTU9ykr72AVCB5Az1JiQ-E_NnbhsKppzp7rIph5XV8Zd1HazAMvB2u9N7NiuSiV1hm3dqUjoPdhnGH5RLMFUq1Xhp3x0GrXB4p9WaeHXml25RyZZhqA",
           "width": 720
         }
       ]
@@ -213,7 +122,7 @@
       "date": "2026-07-31T13:29:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20100,
+      "views": 21600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -231,7 +140,7 @@
       "date": "2026-07-31T14:00:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19500,
+      "views": 21300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -243,7 +152,7 @@
       "date": "2026-07-31T14:46:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19500,
+      "views": 22100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -261,7 +170,7 @@
       "date": "2026-07-31T14:56:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19000,
+      "views": 22000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -279,7 +188,7 @@
       "date": "2026-07-31T19:54:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8690,
+      "views": 14100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -297,11 +206,95 @@
       "date": "2026-07-31T19:55:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8460,
+      "views": 14300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 4763,
+      "message": "این قراره اولین ویدئوی گیمینگ چنل باشه\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e(بازی سه بعدی توی یه فایل HTML که 15 دلار پول رفته سرش)",
+      "date": "2026-07-31T20:50:21Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9480,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/WHFVRG_L6NOjkvtQF2wZ_H0KLqJsJE1KqZJUJG4yG1BSalL_70svKs4a6J5pmonR4HFgb4RJGtMeG-UQGSjQR4mWRKYJ2NOLguC4w2PS0UdyoqBEoLar822Q64y920rSmNoGX1eSlCEjbSx1eBZigX2KlfsQsMyLMVBc9LXLRM6BvKnISKkb6PBVt8pNLiUU-vAtFqc-KKr1W-QeOam7CU2dxiXWJ5Lb9ShQYKEx0Bs4dse9Hl6DsgsGFkYj3Rinos_j5WbmNeDp0emKYnWeUMaz-9Utieuqani6HV-AzJwvKSwWtFu1aPm8CaNY7VcIp2Ds1wLMXIsR3LwCUF1Hdw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4764,
+      "message": "(با کلاد رایگان زدیمش ولی)",
+      "date": "2026-07-31T20:52:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 8910,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 4765,
+      "message": "بچه‌ها اگه خواستید شما هم توی هاگوارتز ثبت نام کنید\u003cbr/\u003eمن نفر 37 هستم\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA5B0.png\u0026#39;)\"\u003e\u003cb\u003e🥰\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ca href=\"https://potterhead.ir/?ref=WL-1B24AC#waitlist\" target=\"_blank\" rel=\"noopener\"\u003ehttps://potterhead.ir/?ref=WL-1B24AC#waitlist\u003c/a\u003e",
+      "date": "2026-07-31T21:10:15Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5360,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 4766,
+      "message": "سایت Adobe با هیچکدوم از کانفیگای کلودفلر بالا نمیومد\u003cbr/\u003eحتی به قول یکی از بچه‌ها با آیپی‌های تروریستی هم نمیومد\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eفقط WindScribe\u003cbr/\u003eاما الان با MASQUE H2 بالا اومد به راحتی",
+      "date": "2026-07-31T21:16:18Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3790,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 4767,
+      "message": "یه آموزش باحال AI هم سر همین سایت ادوبی داریم",
+      "date": "2026-07-31T21:16:30Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3790,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 4768,
+      "message": "اصلا یه ویدئوی عجیبی شده",
+      "date": "2026-07-31T21:27:42Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 642,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/Od2GvskgSlqeuBjfcDHCvPOTn6gUS9fRqX-GAGvf4VIJGGnpRPhAkNDCBn7LZoSke_hkPkACNXmAesL5Zik68zZrUwtU1zt7zUeETE1_rbHiyWytmwZOoEQAnYz1gVFO9zCtMBvTbi3fKTuSmrWEL7ecqziQi5oYmXA8z879U1uEBBp5_dQUgmKFQhUCm4Peap8UtAXwMibBgQEUieum931vG0PYL89ae1HWvG9HcG-PWS1m4VgDNdJy9evJmbTYDTSSFebY0jtx28s44etiboKaYvV0i8VKx_ZGdpSkB7h96p-Km7e__Vgk-6gNjGa81LdscpP72dt5GSjS-2ivnQ.jpg"
+        }
+      ]
     }
   ],
   "last_updated": 0
