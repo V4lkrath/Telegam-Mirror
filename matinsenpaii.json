@@ -8,84 +8,12 @@
   },
   "posts": [
     {
-      "id": 4768,
-      "message": "اصلا یه ویدئوی عجیبی شده",
-      "date": "2026-07-31T21:27:42Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 34600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/KG-SDxbJneJ0a6d_s65NjEdiu6A2zqzIJznHTZ7c4CEYVbKhOUnciZNiTaXcBHv0G_dLbcgVUei7Mw7M3SdfLP9tOVh4pJX85Anxul7uRSbZbe0xvYYZu4X8yeGP0GaXLhRbRIvrckr8GfQDvsogMYU195Z4ykcF9EOhqGdqFfx-LjPw9ewW03r9y7Nn-dFXTzBYQw1bYHRf1DqGq_yplZweernj1qzJNNWl4cLS5OVfrNGV-G5YQx3f0vC-FciibKe-DBz-02w_9gsFwmq-ihkmbR_Yps0p-qYVPdGv_5aew0AEIylb4ibukhg9x_JashjaM8duYT5LpuOaX8zKXg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 4769,
-      "message": "\u003ctg-emoji emoji-id=\"5447246917744478110\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E298A0.png\u0026#39;)\"\u003e\u003cb\u003e☠️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eاستفاده مجانی از Claude و کلاد کد روی سیستم خودتون!\u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5438571934210082705\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e دستورات استفاده شده توی ویدئو + پرامپت سه بعدی: \u003ca href=\"https://t.me/MatinSenPaii/4770\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/MatinSenPaii/4770\u003c/a\u003e\u003cbr/\u003e \u003ctg-emoji emoji-id=\"5447644863644320013\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD90.png\u0026#39;)\"\u003e\u003cb\u003e⭐️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e توی این ویدئو:\u003cbr/\u003e1- بهتون میگم که Harness چیه و دوتا پروژه با یه پرامپت یکسان که با مدل یکسان ولی Harnessهای متفاوت زدم رو بهتون نشون میدم\u003cbr/\u003e2- کلاد رو نصب میکنیم روی سیستم و به روش استفاده‌ی رایگان ازش رو یاد میگیریم\u003cbr/\u003e3- با استفاده از 9Router، بهش Mimo رایگان شیائومی رو وصل میکنیم و استفاده می‌کنیم ازش توی Claude Code\u003cbr/\u003e4- با استفاده از API از Kimi3(مدل قدرتمند Moonshot که توی بنچمارک‌های فرانت‌اند در حد Fable5 قدرتمند ظاهر شده بود) هم استفاده می‌کنیم\u003cbr/\u003e5- با Hermes+Mimo و با Claude+Mimo و با Claude+Kimi، و با یه پرامپت یکسان، یه بازی سه‌بعدی می‌سازیم و خروجی رو مقایسه می‌کنیم\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5447644880824181073\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e پیش‌نیازها و نکات مهم: \u003cbr/\u003e\u003ctg-emoji emoji-id=\"5794182096603847292\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/31E283A3.png\u0026#39;)\"\u003e\u003cb\u003e1️⃣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eهمه‌ی مراحل ساده‌ست و نیاز به پیش‌نیاز خاصی نداره\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5071261477743100913\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B9.png\u0026#39;)\"\u003e\u003cb\u003e📹\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://youtu.be/9uO56F8UXQ4\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eتماشا در یوتوب\u003c/a\u003e",
-      "date": "2026-07-31T22:17:25Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 43700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/DBaSL9MK-NxBl4szJ8mCTMbR1SgpUVzMjERoXEfX-u34DMfRPsRiuU2gtqyfDzHH5VzXvKH8O2__VY7GaO_aGUye81cKYjYwRgJqBdDrlgR_e10AyKI0TM4Z0anofNU8uqBjLO8sLlEZX2GLW3Lgt5vP24-AoGQDhtHnf_ZNfDfY8UlyV7lAHCb6_eqPAxRQtmxFPrCycpedhDFh0MpLxLzMbMjInzrOJcTDjIjBjZfm6CVrXtn6VZWN8s_HZEvtIa0XuLZEZEzoG523Sz-v3mRzQuz1SnzeNpddr41YThwOHxOv3rpQs3h7BKL8XojsLG-u-Ev99Gw6g6WMpU50AA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 4770,
-      "message": "مربوط به ویدئو بالا",
-      "date": "2026-07-31T22:17:46Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 38300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 4771,
-      "message": "یکی کامنت گذاشته بود، بعد کلی که تایپ کردم راه حلش رو دیدم کامنته غیب شد. رفرش کردم دیدم پاک کرده\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F98AD.png\u0026#39;)\"\u003e\u003cb\u003e😭\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eخوشحالم که خودت راه حلت رو پیدا کردی مشتی ولی این رسمش نبود",
-      "date": "2026-07-31T23:42:06Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 37900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 4772,
-      "message": "به خدا اینم نوسان‌گیریه مسخرمون کردین",
-      "date": "2026-07-31T23:58:29Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 38100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
       "id": 4773,
       "message": "این ویدئوی پرایم واقعا خوب بود\u003cbr/\u003eمخصوصا راجب این Demo های وان شات\u003cbr/\u003e\u003ca href=\"https://www.youtube.com/watch?v=LmXU6SEH3Ks\" target=\"_blank\" rel=\"noopener\"\u003ehttps://www.youtube.com/watch?v=LmXU6SEH3Ks\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eجمله‌ی کلیدیش این بود:\u003cbr/\u003eThe Demo is cool, but not actually a game\u003cbr/\u003eاین یعنی شما نباید با دیدن یه چیزی که یه نفر با ai اومده کدشو زده، یه وقت این توهم رو داشته باشید که می‌تونید همین الان(حتی با یه اشتراک 200 دلاری کلاد)، بازی بسازید بدون هیچ دانشی!\u003cbr/\u003eطبیعتا کار رو خیلی سریعتر می‌کنه، اما باید مراقب این باشید که ai، لااقل هنوز به این درجه نرسیده(و به نظر من امکانش هست که هیچوقت به این درجه نرسه که دانش پایه حذف بشه از این چرخه) و خلاصه، یادگیری رو متوقف نکنید. حالا توی هر حوزه‌ای که هستید\u003cbr/\u003e\u003cbr/\u003eنه جزو اون دسته‌ای باشید که میگه ai به درد نمی‌خوره و Anti-AI هستن،\u003cbr/\u003eنه جزو اون دسته‌ای باشید که ai تبدیل به بُت‌شون شده و می‌پرستنش!",
       "date": "2026-08-01T00:39:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 42500,
+      "views": 42600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -103,7 +31,7 @@
       "date": "2026-08-01T00:42:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 43000,
+      "views": 43100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -115,7 +43,7 @@
       "date": "2026-08-01T13:18:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 38800,
+      "views": 39100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -139,7 +67,7 @@
       "date": "2026-08-01T20:34:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29100,
+      "views": 29400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -151,7 +79,7 @@
       "date": "2026-08-01T21:47:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33800,
+      "views": 34100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -163,7 +91,7 @@
       "date": "2026-08-02T05:26:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31300,
+      "views": 31600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -175,7 +103,7 @@
       "date": "2026-08-02T14:15:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23300,
+      "views": 24000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -187,7 +115,7 @@
       "date": "2026-08-02T14:30:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22800,
+      "views": 23600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -199,7 +127,7 @@
       "date": "2026-08-02T14:34:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22600,
+      "views": 23400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -211,7 +139,7 @@
       "date": "2026-08-02T14:36:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22400,
+      "views": 23100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -223,7 +151,7 @@
       "date": "2026-08-02T15:25:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21900,
+      "views": 22900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -235,7 +163,7 @@
       "date": "2026-08-02T17:33:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15900,
+      "views": 17500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -257,7 +185,7 @@
       "date": "2026-08-02T19:18:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9150,
+      "views": 11700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -266,6 +194,70 @@
         {
           "type": "photo",
           "url": "https://cdn1.telesco.pe/file/F3gw5OwekYyL1Ud2f1Meu4am66V3k77pKMWmL1RQ-9e0ri1W6HFimRD3XNngUxpsHa73J0vWIIz3UMTRHDBRhdh8YLfV4xXgglMyEuJJK8Z1NnTwjUmHFKkhc2D3UqUqfFnYSKsIzypz9RYWsEDMgku-ooE5MtV0jUmetHoVb0zwReLh23HQ6HpWHJ2QB0XpoXC58ZaiFDGKKTt9ARwgpVH_qCiPurOoSRfNd1eT65C6wt8WD7gHzlCBCLTx4u2F79ek-P3CsnIM-BA1yHWMdpFaUCJRsJa5wXPEt9pHwXKyBl3v3ZOuL12qm1H0obNJEw9F87A-xmCNDluAirsZFA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4788,
+      "message": "ظاهرا تغییراتی در مسیر های اینترنت بین الملل زیرساخت ایران به وجود آمده ، دیگر به جای اذربایجان و شرکت دلتا تلکام شرکت المانی PCCW Global و ایپی رنج \u003ca href=\"http://205.252.xxx.xxx/\" target=\"_blank\" rel=\"noopener\"\u003e205.252.xxx.xxx\u003c/a\u003e داره نمایش داده میشه ، وضعیت بهتر که نشد هیچ بدتر هم شده ، مثلا پینگ تایم کلودفلر رو 5g ایرانسل قبل محدوده 80 90 بود الان 140 160 ، درنهایت این وضعیت nat کردن اینترنت در ایران داره به یک روال عادی تبدیل میشه که جای تاسف دارد",
+      "date": "2026-08-02T21:09:44Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/e2Oalzj-10cHoEOhwBeuDjvhwK6uGzCBxOQTBkl7Nxr34r3Q3tzJid28CEZP-uoQ3WvfdttZfE-krb9barcsCaaf9XbuGzjou0wIPvkg_mFyVvp5okrsdEwt5t9k4ondAqh3-kHTYKisPeDkk2ADwJnZyKgbfgo7YNiwDDhMEPv2yfwFfBuHsDbh232xJOYnJXpQOpPYdiPbE7hBelIvvl7nvq_WQUmdfpgDm81GMhvw17UYaXg4X3zlBVbPhA8mHugEDjM1Mw8VBEG_9TOlotOonp0CxHjMaPjD1tJUAs_Y9Rf3TZjY0xUDLAlIoiCmUvq-8xqXwQYIkv8mKA-9tw.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/CfiaxpbaOWjWYSqVtzctp1vvT3fH9ENxGOZUAf0wl4ij2s-gFHDmA0ntkYutCo46ci2F4ecFfZXWczdVRXH0LHHNV34jgesVqTGB-oUIautrQh5ogtrEAz8ZaFOPM766nHlLcAQFWm1RQd4NlHeV-V5rqPn8KCKWSk7bhXA2Eql-JYwq9G7UN67wjZ6oPcDWiV7mJIrH5GVGWAkX9lssUc31felAFT46tmNVCx89nHh4iNZGEmji-F80vaAzLaVhZFFRcYUAkuZJZ45qjSY13lvJBaNb6FIQmY_JyTyxd8K4Lj3Z6ghGf1KpFvbI3YHioVJlAB6U9KaaQ2X-DMazsw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4790,
+      "message": "دقیقا این اتفاق برای منم افتاده بود و سه ساعت داشتم میگشتم ببینم کجا پروکسی روشنه که بدون وی‌پی‌ان داره آلمان نشون میده\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FABA9.png\u0026#39;)\"\u003e\u003cb\u003e🫩\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FABA9.png\u0026#39;)\"\u003e\u003cb\u003e🫩\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eروانیمون کردن",
+      "date": "2026-08-02T21:10:17Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2350,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 4791,
+      "message": "به نظرم یه تماس بگیریم باهاشون",
+      "date": "2026-08-02T21:11:30Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1730,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 4792,
+      "message": "+000000000 \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9894.png\u0026#39;)\"\u003e\u003cb\u003e😔\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eشرکت PCCW Global",
+      "date": "2026-08-02T21:11:30Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1180,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/GZ0PPOoRyz_2DR1a6RLRJWP3FACzs3TzBp2bhi-IqyyktgCLBYgH_MoADNNJJ-C_HWrxNtPhJ0xi5t-2-WQmihdt-LD9ILKIN2er_Uac03-6lLOzqtUtS2n7agSeNFVgAIA4Md-G1AO9rRsh5Bp0XrFfzfWUJiVeCrRDIxkCburN0OML7Nfee4ZWhVLBsTHyIp6HPzuwguq1-aDqnGAMvgusmAFWUVq7Xv1IKRF6ugXPzqtH-ZmNJZ84E1RXnXGgd8_QI66v-P5OcYggbGvwpAw3b0KcfD_uj1Baku8exCcqmjtTX7n3oFLQvhbxZ5-Rkfx_1kyarC-t1-AhmD1Pqw.jpg"
         }
       ]
     }
