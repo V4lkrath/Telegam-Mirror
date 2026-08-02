@@ -8,24 +8,6 @@
   },
   "posts": [
     {
-      "id": 1511,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E284B9.png\u0026#39;)\"\u003e\u003cb\u003eℹ️\u003c/b\u003e\u003c/i\u003e Note: Social media network X (formerly Twitter) is experiencing international outages for a second consecutive day amid timeline backend API errors; incident not related to country-level internet disruptions or filtering \u003ca href=\"?q=%23TwitterDown\"\u003e#TwitterDown\u003c/a\u003e",
-      "date": "2026-06-22T14:15:18Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "NetBlocks",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/K50tFDVgfXAu8k6zIJuuu-XTORQYsZwvEwo7e2-pyZGQ6JLuPypSLm7U3Z9TW6p4jRbMyqdSJnU3_VUP8ywR7jzXsNTI3zumg4jqf8xs67XDTdv6lWh40CsGExBP04qoc9Ccs3iZVKcKRlPb2z6dMdXS1GQb_cGyFYTUfQrmEe3NL-eujHWNCVM6leYlP9yT_IBMPZL2YpZBartORDz3X_bpDXk0cTobKrzPDP_R-as0IxMYlN-GqPMBYl5MyDGl1FG2P0uTmebwCmsigsoGumiFLVOBqZjprBhVHIEgBO8nW1hUQIyPHBBB0s05HmSTCMkVavQ8lXZZfUGMtVx3PQ.jpg"
-        }
-      ]
-    },
-    {
       "id": 1512,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e Confirmed: Metrics show a reduction in internet connectivity in Saint Lucia as users struggle to get online; operator Flow says a crisis-level outage is impacting many in Saint Lucia and some in Dominica amid a suspected regional network fault affecting the island states",
       "date": "2026-06-22T15:44:10Z",
@@ -49,7 +31,7 @@
       "date": "2026-06-24T12:29:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 35500,
+      "views": 35600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -57,7 +39,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/UyxfSNBYCmW9-mAcQ2p6xpA1kYzBYzw7XXckEHhDWdHbLikUcydxbAqhb0snJYXlmjQEuz4t0N4nGjpAet0gL0GffDQn4diHmkQloqIgQXnBfPb8vp-mZIhlxuP8iB6hzKT-ngxQsT4OSae1UZK8nL7IBvDZI6gIQwsYOQ501LtTFHX5X6WyfMD7Yh1m6DVmFBX4xl0C49VLYTWFLSVfgsMorrmxGywcsSQ52OCgwVm8ql6txdo2FpPC2DM5kzT4z8F2S6XY1nUgK0DoGZ41YCyLmQen2RaB7eAFSI9oVAb3iEluYkvuqCOyPpTkGkihlHdFacBWduwwQM0ZpAS47g.jpg"
+          "url": "https://cdn4.telesco.pe/file/JiF8KOhxYYFbLsCGezzG_7_-5AsPunvi4XQZvQaqPKAhZFUUz3OTFh9N0dvvwgVPxiD_r9TNykdZBvW1C6ovkN5IbPKueNdGR1cZYOhbn1JWWuVMi87Dmh9gTU2qV9O24MmbDumY6gaQswIpJ6fySkituBq0xhCjtdgQ6HZpG5PvET8s_cBLHUfGyXHvQr9wbGgQ9uIxHHlmBwsoj6FKdQ4TrJJEx6-qPZtc5NhvaoQVcQFEWVPQ_1EF8U1ujx2FXIEq2g4mbthJNUckWpTLqKtFSYrsBR_ZPa_hx6qk4EMbsORYj7yeffNnOw89iH9_VAChvV0xBCp9IyJdkxAlcQ.jpg"
         }
       ]
     },
@@ -67,7 +49,7 @@
       "date": "2026-06-25T00:08:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33000,
+      "views": 33100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -85,7 +67,7 @@
       "date": "2026-06-25T07:11:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 35900,
+      "views": 36000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -103,7 +85,7 @@
       "date": "2026-06-25T22:17:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 37800,
+      "views": 38100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -121,7 +103,7 @@
       "date": "2026-06-26T12:34:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 38100,
+      "views": 38400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -139,7 +121,7 @@
       "date": "2026-06-28T23:12:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 38900,
+      "views": 39400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -157,7 +139,7 @@
       "date": "2026-07-03T11:41:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28100,
+      "views": 29000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -175,7 +157,7 @@
       "date": "2026-07-04T11:05:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26700,
+      "views": 26900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -193,7 +175,7 @@
       "date": "2026-07-05T09:19:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31000,
+      "views": 31200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -201,7 +183,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/jGn6U-qbWUFJoQmrIEiOzCrrpfAO51z2Md1xfUY_Odgu-HnVjaCIaTw51FJnFCEBKWSYwpyEo4P15F3-kIRo-krWdo3LT8djP5SpbAsNRJ3ORXvjMS6ybN9GxU0I_8Xm0U9UD1u60gQ29BIVcUaEJrEjITxbGru5wrWTlT2utu2WrJ5h90U7EhArkod70Ay0IgQz4iGjr54_4O4BZUeo2OKKF0qdWCY-FfWRn3_8ryKV0VxP8033n_PJXdg8RFRZaPLKs7yy7gpwB_6V0Wgun-BsyK9kllH4znA3hufY1M2dmv-TXADd3ZuJm311tvZ3ZZ_UJ8cG2J-rv4QcpGt_rQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/rSw5urYMuK_LpyT-clrMufzwmRWY8sXkgljF5T8jjT8zlPDOvNRRWebLsFy_Np0btIE9HnAFMYqTlwx_sTO70WhXPR63vI1UWsqa_FMmtZ7TkoBtqXLgovJnffp84Soe3f1aOXZNyanHYpe3hTe0Qqcg0iI602OJd1C1N1xDkqZ_xFQIVWEYI8_Ruz15r5tIV8GqKWXApm1gAgj8m4JOs-l0isQKzcB4BLRwzz5iz_Y8QJWgT5qYH-EDq0UoZcn-lEEXeRH2RkcEPobgyP5l8tHkbje1a7MHT25b-7d_gorrlsc5E2iFP_6i40yvJcgsJVtqI4NRcph6ACQjxWr6bQ.jpg"
         }
       ]
     },
@@ -211,7 +193,7 @@
       "date": "2026-07-05T22:30:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33500,
+      "views": 33800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -229,7 +211,7 @@
       "date": "2026-07-05T23:29:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 38800,
+      "views": 39200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -247,7 +229,7 @@
       "date": "2026-07-06T19:36:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 43000,
+      "views": 43700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -265,7 +247,7 @@
       "date": "2026-07-14T10:33:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 34700,
+      "views": 35100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -283,7 +265,7 @@
       "date": "2026-07-19T09:10:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 46800,
+      "views": 47400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -301,7 +283,7 @@
       "date": "2026-07-29T20:47:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18000,
+      "views": 18800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -319,7 +301,7 @@
       "date": "2026-07-30T08:23:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16700,
+      "views": 17600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -337,7 +319,7 @@
       "date": "2026-07-30T15:42:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15800,
+      "views": 17000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -355,7 +337,7 @@
       "date": "2026-07-31T10:05:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 61600,
+      "views": 63200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -364,6 +346,24 @@
         {
           "type": "photo",
           "url": "https://cdn4.telesco.pe/file/AHP7xnQPTpTYc3Cm7WsfOzWbWl3QkM27dfcyw4sLoLj-5Z2dSYM_u5zrUKxK2kFB6mGOqtOYJeOpsMAgca1fAunjQ_2hLnxoB3TfYQ3y4MhMuyGR4FeJ9x37BSq9Ao8SAjfcg2IFzb7O2g7JM8yc4LgjgLIRrvNNuaSwFahpIdgFHOuBirjhXlOqoPRTlP0en4lIa6we5uWh_8clXixepBK6e2dVeIvSiq256tJA3_LA-U3P1rgH-boP3vtZuN8NuyhjS8cMjBiQi0ClVoixQXHAI_qbgjnRaVnboRoyZ55I8rrQGpb-p_AMTtCI7AgW8LhIVof4ejrYlrgGAIM97Q.jpg"
+        }
+      ]
+    },
+    {
+      "id": 1533,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e Confirmed: Live metrics show a gradual decline in internet connectivity in Spokane County, Washington corresponding to evacuations and emergency power shutdowns in areas affected by the Old Trails Fire, a rapidly moving wildfire \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A92.png\u0026#39;)\"\u003e\u003cb\u003e🚒\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-08-02T01:34:43Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2870,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "NetBlocks",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/pWRwzxuSj9J4aQg7A59mXQZb67O_UMwoPCZFoudIOnm7WOQz9q1a3b79i9ipSzPUE-STAzqZzHWPSkPuF_TKctuqdw4cP0cklW-9YEJytyI2R3VfHqFOcUKL8E2K9VqnvZ31P6kU9dEGFMiet0An2GHVftPEgiB1WCrZ34t-sdTdM0XaBWfoSppek0ihIV4_Iws_5TA1UDTgewNJlZZRjDs5cwXhDgwGCqttEwds2tnptx-P9JpizKLqr9r6Ls_CFZvkTxI5siOBD3RNZAaELNu4N7Luc3z6FCEnk3qqwzPVyGS_ZwYcg0Qm48t22rjd4VurnYH8NVskFehrffCXVw.jpg"
         }
       ]
     }
