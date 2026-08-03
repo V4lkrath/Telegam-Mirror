@@ -8,28 +8,6 @@
   },
   "posts": [
     {
-      "id": 4800,
-      "message": "پرامپت ویدئو آخریم رو که با KIMI3 رفته بودم، الان دادم بهش و واقعا نزدیک بهش در آورد\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e به نظر باید منتظر یه مدل خفن باشیم. فعلا توی Preview هست مدل\u003cbr/\u003e\u003cbr/\u003eتازه Kimi نتونست One Shot کنه، و این One Shot کرد\u003cbr/\u003eاونم فعلا رایگان! کیمی نزدیک 3-4 میلیون پولمو خورد\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-08-03T00:30:49Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/TLtuonlPDbzXKB9VmqG9ucQ_5JZ4s6Wj3tuUpsAKSZqNnhAj0w65o6tB75UMKhYsa0yOPjnqntngB-2ICkEroDxq_M6XHmpNfwTE7m3otHdKDcwVyKNhMBOtXsbbaqQLFK1Gba_hzwvKFtjeYqk-ViASEn3MGULdjvYw-SOSGPRCR6mWFOLqdrd5146lE59Uj-x8aDc8WUeBdcvfJPxFyfKWMCEK_Q136-_oUiwIrV0oh_6CbSziIvNSCrqA9bgm6MHEzr89r3yztvuO_xRbTy0coaMQv8J99ti8Cf1yyd5HeyDR2hrp_anprIl_GE_Fe8Nz5Ht4PXWTiVpo4pMYPA.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/LHOuikU5M7RdaPdjzHJKXyk5BCWDwFK8E2cFwRcZweKFXq-DBPb4QvQ3Vm-q4y6vVriz6h6j7QXCrsl0QPceGg4WExopk0nYr_ptb-n46JLauwE1GyNnkGV21X0U_jcgmHDW0IRPYzaH5cjch9yElS1t_XDDw_eKFpHtXeR1j3ERmW8wCyLMfBkxc36Hv_lvJX-oqPK0pfTsND-wymW6FHPDbA8GJFFsJ40XEDsR1ZZUKtganehOJjV5cOxGrGSY4bvX-uKdSXjZXSGiIkS1BHcJpU4cdeJ7t7tzsZCu0ZhWZsU5WOehkFVUSjAD7jHdRDyysWmlYjQTb7H2TQgFbA.jpg"
-        }
-      ]
-    },
-    {
       "id": 4802,
       "message": "حتی بدون اینکه بگم برای خاموش روشن کردن لامپ، دکمه گذاشت:)",
       "date": "2026-08-03T00:39:15Z",
@@ -105,7 +83,7 @@
       "date": "2026-08-03T02:37:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25300,
+      "views": 25400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -117,7 +95,7 @@
       "date": "2026-08-03T03:15:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24200,
+      "views": 24300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -129,7 +107,7 @@
       "date": "2026-08-03T06:16:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22400,
+      "views": 22500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -147,7 +125,7 @@
       "date": "2026-08-03T07:19:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19900,
+      "views": 20000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -195,7 +173,7 @@
       "date": "2026-08-03T08:03:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18800,
+      "views": 18900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -207,7 +185,7 @@
       "date": "2026-08-03T08:03:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23100,
+      "views": 23200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -224,6 +202,24 @@
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 4821,
+      "message": "ورژن دهم و استیبل SenPai Scanner 1.0.0 منتشر شد!(اندروید و دسکتاپ + GUI)\u003cbr/\u003e\u003cbr/\u003eبعد از تغییرات گسترده نسبت به 0.7.1، این نسخه با رابط‌های تازه، موتور اسکن بهبودیافته و پشتیبانی کامل از دسکتاپ، اندروید و CLI اومده.\u003cbr/\u003e\u003cbr/\u003eمهم‌ترین تغییرات:\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5472010685560921607\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F96A5.png\u0026#39;)\"\u003e\u003cb\u003e🖥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e یک GUI کامل دسکتاپ برای Windows، Linux و macOS\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5471960722206366390\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B1.png\u0026#39;)\"\u003e\u003cb\u003e📱\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e اندروید از نو بازطراحی شده؛ Kotlin + Jetpack Compose + Material 3، پشتیبانی از اندروید 7 به بالا، APK جدا برای ARM64/ARM32/Universal\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5456140674028019486\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e دیگه لازم نیست منتظر پایان اسکن بمونید — هر وقت IP سبز کافی پیدا شد، متوقفش کنید و فقط از همون‌ها تست سرعت بگیرید!\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5926764846518376076\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938B.png\u0026#39;)\"\u003e\u003cb\u003e📋\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e امکان کپی نتایج (همه IPهای سبز، ۲۰ تای برتر یا یک endpoint خاص) حتی وقتی اسکن هنوز در حال اجراست\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5188311512791393083\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F948E.png\u0026#39;)\"\u003e\u003cb\u003e🔎\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e اسکن همسایه (Neighbor Scan) دیگه اختیاریه و به‌صورت پیش‌فرض خاموشه\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5388658581664993142\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e تشخیص ISP و ASN چندمرحله‌ای با چند منبع (Cloudflare، IPWhois، IPinfo، Team Cymru + دیتابیس داخلی رنج‌های ایران)\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5472193350520021357\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA1.png\u0026#39;)\"\u003e\u003cb\u003e🛡\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e اعتبارسنجی واقعی کانفیگ‌ها با هسته Xray؛ پشتیبانی از VLESS، Trojan و VMess\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6003502687893593168\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A6.png\u0026#39;)\"\u003e\u003cb\u003e📦\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e خروجی مستقیم به IP:Port خام، Share URL، Base64 Subscription، Sing-box JSON و Clash YAML\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5447595110743168717\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA7A0.png\u0026#39;)\"\u003e\u003cb\u003e🧠\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e موتور اسکن بهتر: الگوریتم weighted-random برای رنج‌های Cloudflare، جلوگیری از IP تکراری، پشتیبانی چندپورتی، خواندن ورودی از IP/CSV/CIDR\u003cbr/\u003e\u003cbr/\u003eجزئیات کامل و دانلود: \u003ca href=\"https://github.com/MatinSenPai/SenPaiScanner/releases/tag/v1.0.0\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/MatinSenPai/SenPaiScanner/releases/tag/v1.0.0\u003c/a\u003e",
+      "date": "2026-08-03T23:25:45Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/CrzecgBWv4o_a5mBehiKXj9eXnuLolYCURBgqcxKNrBCSj25H5lAhO7YI04CY2bFiTbswmMzeZL6zp8Mj-BDybblpBS54-U09m1PUT3mQbRgsCxHVyiMfLUjUHqDQ1_MiuiUQ5Q4CDSeWfJiB0-9FHkFNI7TgpRWzQUI8O6pSyDlFdB-TkY-d2KbLBqkt7as9Nt_arYjocM06XMYeLOX2vQlB6x4cqRGIxxEDxHyu5-qeFxVfzsFXZGKhAhm5bS2AFy98s-rz1sVXJO2d4ytrcH-iCEqz0s4HjaWSZQFif_r4rXVrRaOSGtm2ZivMk7oGwVMNdBl2wfh49H9tNA8cQ.jpg"
+        }
+      ]
     }
   ],
   "last_updated": 0
