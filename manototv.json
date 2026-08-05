@@ -13,7 +13,7 @@
       "date": "2026-08-04T18:34:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17100,
+      "views": 17800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -67,7 +67,7 @@
       "date": "2026-08-05T09:25:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6720,
+      "views": 8580,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -112,6 +112,25 @@
         {
           "type": "video",
           "url": "https://cdn4.telesco.pe/file/CiCeCJNqIY57usU2dY0fG-EF_RQc1waBrQC-l_SfbKSIrSBFf5FcF7fpZX900dyFkDeVhqaqjYsRPvdE1-Wx7rhKGUVQN5YxDDmdVqJrnXQMZyRU0NX3RO7wSxReeEnRwOW-aNItAomKwYJhWKbI6CRYY2Olqlmtys1zbaPTJF1c0UPeZnCTx-6KDvWP17uNZaD49mLAH_fou0JPg_purnDvOeAhErJBcWwA6aB7uBmRGoq92eCJ4I-T5gS9Y0bvRCTyKZSTzwXg8G_3CN5uxIyJxzM4QHIWTwvBv2NTtetVkvvKNu9282ftDe5ibbWSlAycIoiLUic1EBoOQc2p_A"
+        }
+      ]
+    },
+    {
+      "id": 106652,
+      "message": "محیط طباطبایی در این گفت‌وگو، نهضت مشروطه را ضرورتی تاریخی و برخاسته از آمادگی جامعه ایران می‌داند، جنبشی ملی و درونی که نه زودرس بود و نه دیرهنگام. او با یادکرد از ستارخان، باقرخان، سردار اسعد و دیگر مجاهدان مشروطه اضافه می‌کند که آزادی با فداکاری و جان‌فشانی نسل‌های پیشین به دست آمده و حفظ و گسترش آن، وظیفهٔ همیشگی ملت ایران است.\u003cbr/\u003e\u003cbr/\u003eمحمد محیط طباطبایی، پژوهشگر، تاریخ‌نگار، نویسنده، روزنامه‌نگار و آموزگار ایرانی، در سال ۱۲۸۱ در زواره اصفهان به دنیا آمد. او هزاران مقاله و صدها گفتار دربارهٔ تاریخ، ادبیات و فرهنگ ایران منتشر کرد. برنامه رادیویی «مرزهای دانش» نیز سال‌ها با مدیریت و حضور او از رادیو ایران پخش می‌شد.",
+      "date": "2026-08-05T12:44:20Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2620,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/npDXQT_PFsIhH2Z4pQ4uRh13ITWo9_dBo6Vc0J_S4iHnyqt0AztBfKfGS2_v_YPx3wnvQNK6LTZy3g9FFzcmhRGB2S6u9oR6RVggYK8ZFl-kSK40HVsqJ9UsIbE4OflhVuYo1409YL_6WUbDgtxXHXuPs1Msbb7r4ixWjQYyK6rgr_MaaflbulISRUtxikoQQiAzVjf2qioSl9Q7jmun6aFoiirCyvQy9_RHl5KDkdiOTC1MqgxVDJDAEVKhUwn7fYeJcC3EJk9H-g0-jmKx_Vq-Xjz7q1nmi2tgfQKCejwyjEE5a3XrO91CpuVxrZwN8cw1LEh06N6zU8H-s4AF6A",
+          "width": 406
         }
       ]
     }
