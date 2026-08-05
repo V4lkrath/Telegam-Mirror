@@ -8,48 +8,12 @@
   },
   "posts": [
     {
-      "id": 4821,
-      "message": "ورژن دهم و استیبل SenPai Scanner 1.0.0 منتشر شد!(اندروید و دسکتاپ + GUI)\u003cbr/\u003e\u003cbr/\u003eبعد از تغییرات گسترده نسبت به 0.7.1، این نسخه رو با رابط کاربری گرافیکی، موتور اسکن بهبودیافته و پشتیبانی کامل از دسکتاپ، اندروید و CLI منتشر کردم.\u003cbr/\u003e\u003cbr/\u003eمهم‌ترین تغییرات:\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5472010685560921607\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F96A5.png\u0026#39;)\"\u003e\u003cb\u003e🖥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e یک GUI کامل دسکتاپ برای Windows، Linux و macOS\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5471960722206366390\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B1.png\u0026#39;)\"\u003e\u003cb\u003e📱\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e اندروید از نو بازطراحی شده؛ Kotlin + Jetpack Compose + Material 3، پشتیبانی از اندروید 7 به بالا، APK جدا برای ARM64/ARM32/Universal\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5456140674028019486\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e دیگه لازم نیست منتظر پایان اسکن بمونید — هر وقت IP سبز کافی پیدا شد، متوقفش کنید و فقط از همون‌ها تست سرعت بگیرید!\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5926764846518376076\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938B.png\u0026#39;)\"\u003e\u003cb\u003e📋\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e امکان کپی نتایج (همه IPهای سبز، ۲۰ تای برتر یا یک endpoint خاص) حتی وقتی اسکن هنوز در حال اجراست\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5188311512791393083\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F948E.png\u0026#39;)\"\u003e\u003cb\u003e🔎\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e اسکن همسایه (Neighbor Scan) دیگه اختیاریه و به‌صورت پیش‌فرض خاموشه\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5388658581664993142\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e تشخیص ISP و ASN چندمرحله‌ای با چند منبع (Cloudflare، IPWhois، IPinfo، Team Cymru + دیتابیس داخلی رنج‌های ایران)\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5472193350520021357\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA1.png\u0026#39;)\"\u003e\u003cb\u003e🛡\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e اعتبارسنجی واقعی کانفیگ‌ها با هسته Xray؛ پشتیبانی از VLESS، Trojan و VMess\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6003502687893593168\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A6.png\u0026#39;)\"\u003e\u003cb\u003e📦\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e خروجی مستقیم به IP:Port خام، Share URL، Base64 Subscription، Sing-box JSON و Clash YAML\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5447595110743168717\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA7A0.png\u0026#39;)\"\u003e\u003cb\u003e🧠\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e موتور اسکن بهتر: الگوریتم weighted-random برای رنج‌های Cloudflare، جلوگیری از IP تکراری، پشتیبانی چندپورتی، خواندن ورودی از IP/CSV/CIDR\u003cbr/\u003e\u003cbr/\u003eجزئیات کامل و دانلود: \u003ca href=\"https://github.com/MatinSenPai/SenPaiScanner/releases/tag/v1.0.0\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/MatinSenPai/SenPaiScanner/releases/tag/v1.0.0\u003c/a\u003e",
-      "date": "2026-08-03T23:25:45Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/ggolC_2BAFg7xzCaORfCvA70Dj6zemxUmuDVkRQ59QXcPWuUG3wDvu4Slgk-4GDFm2oP9Xt9tBG7AR1KQOsS69Xl7dFbbo4blDWj6cC4aQyZqifHOoYvzJwqtP02ELV3JWzublvsY9PzYCUKt15jm-RqUyt_170YhCXoTly_Mcne5VawGkjGKy9YmUuS8GpGxLl2_5c6rWe6u0MOEDth0lC0gYt6BlI8m6R1QuCR8Q5PYbjIZHOyJ4hPPiS4Wt4mlZEalFqokhJsq9i7AVrw1AFi4NdRmnHdwZ7uJECE1iVV_0RNu5fSbF1JZ8I1WJDesRDqdgEAxGkKB6G_V0OmSg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 4822,
-      "message": "دوستان برای دیدن نسخه‌های GUI روی این گزینه بزنید",
-      "date": "2026-08-03T23:33:39Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/ZLLEgP6o8IDGmakl_kzwu5wWrU5hgSBc3QS0uUcxkCaalAjUB5pJecP7A3WHnuv5YpALfz_9Pa7djaOFcB1Nc-fzfp2BM6KrI6XWJcBZmfJr41c_bFdDzqqPhKsSg9kKiVj8kgM-rFznbz6iMhq11c0wOTNS_FZ6VfBRMABy_i0G13U9SxAwvkoW89PHSACj9DBXaQZU1XvZ5LYZAsnIVcIIBpmvNZZKqnjQB40vNjGfxJCRs7Lr-i-WglHDRzRjvcLKWe0GQ7Btz_XuPgXVSKHEwwVAi49tZswkj9lLxsvdc3uplfpVcBYpJo8h0mmCavLNxOrT_gVVF79reSW5zw.jpg"
-        }
-      ]
-    },
-    {
       "id": 4823,
       "message": "\u003ctg-emoji emoji-id=\"5330280024673101519\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8DB7.png\u0026#39;)\"\u003e\u003cb\u003e🍷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eدرود به همه رفقا...\u003cbr/\u003eآموزش \u003cb\u003eسا\u003c/b\u003eخت کانفیگ Amnezia VPN(وارپ)\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e• صبرکنید ای پی ها رو لود کنه\u003cbr/\u003e\u003cbr/\u003e• بعد یکی انتخاب کنید\u003cbr/\u003e\u003cbr/\u003e• تیک فعال سازی پارامترهای امنزیا 1.5 حتما بزنید\u003cbr/\u003e\u003cbr/\u003e• بزنید روی ساخت کانفیگ Amneziawg\u003cbr/\u003e\u003cbr/\u003e• دانلود کنید وارد کنید داخل Amnezia VPN\u003cbr/\u003e\u003cbr/\u003e• میتونیدم کانفیگو کپی کنید + بزنید بعد insert بزنید کانفیگ اضافه بشه\u003cbr/\u003e\u003c/blockquote\u003e \u003cbr/\u003e\u003ctg-emoji emoji-id=\"5312536423851630001\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A1.png\u0026#39;)\"\u003e\u003cb\u003e💡\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eنکته:روی تمام اپراتور ها متصله هست.\u003cbr/\u003e\u003cbr/\u003eلینک ابزار(ساخت کانفیگ):\u003ctg-emoji emoji-id=\"5470177992950946662\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://darknessshade.github.io/Amnezia-VPN-Config/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://darknessshade.github.io/Amnezia-VPN-Config/\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://apps.apple.com/us/app/amneziavpn/id1600529900\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eدانلود اپلیکیشن ios\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://play.google.com/store/apps/details?id=org.amnezia.vpn\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eدانلود اپلیکیشن اندروید\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/xsfilterrnet\" target=\"_blank\"\u003e@xsfilterrnet\u003c/a\u003e  \u003ctg-emoji emoji-id=\"5053169761232356354\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ConfigWireguard\" target=\"_blank\"\u003e@ConfigWireguard\u003c/a\u003e \u003ctg-emoji emoji-id=\"6100433275061276851\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
       "date": "2026-08-04T04:33:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21500,
+      "views": 21800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -57,7 +21,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/AuAZqvtYbPxx7zQ25nG56GBrk9PFXfp98UgJOXOiUI3p34zIF-jiBDAqx7o5jFsuItju7dLlTg4MPe-Ih1EblIngUObBg-EIa0Xmh6u5Lj0VWoqyhX2YOVFOwYuWKdPImlaLzHKhRZ-ThGSd920hczSQO_vyr_nyt3cu__keG68b9oE1VFBeOb9VRoCbjSsqVTj0_97_5AkfeP3CB_6wD56D3V4xXy8D8kqb_KJj8Sq0DvRhEJPTK-pg_AoYDS0hkrpdB5t9Ea0kZryud0j4KmF6RSLjWKjU1pr6SjDoj1LnGrQOL0xSRCIeXsTyO1TEQwKZXLdzb8dRgDGkmyfjew",
+          "url": "https://cdn4.telesco.pe/file/QsA4xJOVmxZQvwZTS6SpnEWgnmK8Sv1C1KjWYruyNeEOihM8ipuez6UZXV5HnCIAfeNQ5HPrQ7SjfedZYEUrbRSYcu6mgi9YUQOghbl1BEewvKrqkQqoTCspyfCYsGoW6c7ozH14-BwD7ohJejiP2AkOK4t68rvWVm6nk8P-o2qECQq0IFQi2KwrAnRCO7n7SPahJyKWTZGpcbPb14tW84G-tKfP6I2Iy1UmD_SkH4TC3GrRsMgKt578fu4-ZbfiQV-CDaZu9BG_VLmFSFOEpxsTCNAhyRRYf3jLZqtyv6Ldbgf_X1wfMDlCqsyfo7cnxRr3qqwDclngQOiFkhjreA",
           "width": 720
         }
       ]
@@ -68,7 +32,7 @@
       "date": "2026-08-04T10:36:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25800,
+      "views": 26300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -86,7 +50,7 @@
       "date": "2026-08-04T11:47:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23800,
+      "views": 24400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -104,7 +68,7 @@
       "date": "2026-08-04T12:20:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22500,
+      "views": 23000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -122,7 +86,7 @@
       "date": "2026-08-04T13:12:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24000,
+      "views": 24600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -144,7 +108,7 @@
       "date": "2026-08-04T14:57:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21200,
+      "views": 21900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -156,7 +120,7 @@
       "date": "2026-08-04T15:19:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21100,
+      "views": 21800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -168,7 +132,7 @@
       "date": "2026-08-04T15:20:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21200,
+      "views": 21900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -186,7 +150,7 @@
       "date": "2026-08-04T15:48:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22000,
+      "views": 22900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -208,7 +172,7 @@
       "date": "2026-08-04T15:49:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22300,
+      "views": 23200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -220,7 +184,7 @@
       "date": "2026-08-04T16:43:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22700,
+      "views": 24100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -238,7 +202,7 @@
       "date": "2026-08-04T17:39:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21700,
+      "views": 23800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -256,7 +220,7 @@
       "date": "2026-08-04T20:48:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14800,
+      "views": 18300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -268,7 +232,7 @@
       "date": "2026-08-04T20:49:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14800,
+      "views": 18500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -280,7 +244,7 @@
       "date": "2026-08-04T21:27:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11400,
+      "views": 15700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -298,7 +262,7 @@
       "date": "2026-08-04T23:45:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4980,
+      "views": 10200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -307,6 +271,36 @@
         {
           "type": "photo",
           "url": "https://cdn1.telesco.pe/file/YjjsyJJ3VcmPQ5KTBhYpbOCpdgKprxcDXngg6eKaL-RJDA2yoIpiKiQd1QeoHZhaENohGkZaNmJ3l3cys_KtMH2NvbeCAyDAH62ih0i64ABRaaIRbAWzB9ZiULKoRwwDhibTYgzIcwKo1SlrcwWltViQxcMYiqZ408qsBtLput37kwbL0vPPBNl_g1VPGuUtag_v4T6kcZsABezuDf0IEKEMUMB3LrO5BYLNnsCr5eK9xBab3rEBZ9HH6li0i85bGE8syGKGIidQm28V86txNdgOkmJit6Henf0MC_Ka71vYGoRWl0HHFf3Ch72Cv_GloLvi8x75aYzMWY4PoGqWBQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4842,
+      "message": "گویا کلا درخواست‌هایی که \u0026#34;Hermes\u0026#34; توش باشه رو رد میکنه",
+      "date": "2026-08-05T04:09:34Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2140,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 4843,
+      "message": "به نظرم مسئله از خود پرامپته\u003cbr/\u003eچون درجا ارور نمیده\u003cbr/\u003eقشنگ ۱۰ ثانیه طول میکشه.\u003cbr/\u003eمیره فکر می‌کنه و برمیگرده",
+      "date": "2026-08-05T04:18:20Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1290,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/MvMo7JeU2kdZkOWsVW6zkU3n39OoJHfXkAJt_xcGz7AUcekVO6zdu5W5XrdIlckNMw4fHyNJDLAGa72t0iqtIX9zHeP_HzI0J2cuDrTXR4jVtEqYDdNCoxCVlE8-ckWn5tJTBPDsXB1RXtXvoisA4bQ2ZbCAqqiiXT7siLlbEFyu-U2nFUPS8yDPpOLWjvlGbiKsvht3qnyxGK468AYSQcC6GEH4IL4COXa2P8_Yr-Fipzb1PYhczWCUc2KuTWXgaYsiThClUFFVAMF9qaI9KTFGhTnxNeHLJTaPX7T3iLKhoGf2u0bQswEweF7X9yRlJ6KzETPvXLNO-DfsKx5ovg.jpg"
         }
       ]
     }
