@@ -8,24 +8,12 @@
   },
   "posts": [
     {
-      "id": 4820,
-      "message": "00:21",
-      "date": "2026-08-03T13:55:49Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
       "id": 4821,
       "message": "ورژن دهم و استیبل SenPai Scanner 1.0.0 منتشر شد!(اندروید و دسکتاپ + GUI)\u003cbr/\u003e\u003cbr/\u003eبعد از تغییرات گسترده نسبت به 0.7.1، این نسخه رو با رابط کاربری گرافیکی، موتور اسکن بهبودیافته و پشتیبانی کامل از دسکتاپ، اندروید و CLI منتشر کردم.\u003cbr/\u003e\u003cbr/\u003eمهم‌ترین تغییرات:\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5472010685560921607\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F96A5.png\u0026#39;)\"\u003e\u003cb\u003e🖥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e یک GUI کامل دسکتاپ برای Windows، Linux و macOS\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5471960722206366390\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B1.png\u0026#39;)\"\u003e\u003cb\u003e📱\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e اندروید از نو بازطراحی شده؛ Kotlin + Jetpack Compose + Material 3، پشتیبانی از اندروید 7 به بالا، APK جدا برای ARM64/ARM32/Universal\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5456140674028019486\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e دیگه لازم نیست منتظر پایان اسکن بمونید — هر وقت IP سبز کافی پیدا شد، متوقفش کنید و فقط از همون‌ها تست سرعت بگیرید!\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5926764846518376076\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938B.png\u0026#39;)\"\u003e\u003cb\u003e📋\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e امکان کپی نتایج (همه IPهای سبز، ۲۰ تای برتر یا یک endpoint خاص) حتی وقتی اسکن هنوز در حال اجراست\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5188311512791393083\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F948E.png\u0026#39;)\"\u003e\u003cb\u003e🔎\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e اسکن همسایه (Neighbor Scan) دیگه اختیاریه و به‌صورت پیش‌فرض خاموشه\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5388658581664993142\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e تشخیص ISP و ASN چندمرحله‌ای با چند منبع (Cloudflare، IPWhois، IPinfo، Team Cymru + دیتابیس داخلی رنج‌های ایران)\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5472193350520021357\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA1.png\u0026#39;)\"\u003e\u003cb\u003e🛡\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e اعتبارسنجی واقعی کانفیگ‌ها با هسته Xray؛ پشتیبانی از VLESS، Trojan و VMess\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6003502687893593168\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A6.png\u0026#39;)\"\u003e\u003cb\u003e📦\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e خروجی مستقیم به IP:Port خام، Share URL، Base64 Subscription، Sing-box JSON و Clash YAML\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5447595110743168717\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA7A0.png\u0026#39;)\"\u003e\u003cb\u003e🧠\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e موتور اسکن بهتر: الگوریتم weighted-random برای رنج‌های Cloudflare، جلوگیری از IP تکراری، پشتیبانی چندپورتی، خواندن ورودی از IP/CSV/CIDR\u003cbr/\u003e\u003cbr/\u003eجزئیات کامل و دانلود: \u003ca href=\"https://github.com/MatinSenPai/SenPaiScanner/releases/tag/v1.0.0\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/MatinSenPai/SenPaiScanner/releases/tag/v1.0.0\u003c/a\u003e",
       "date": "2026-08-03T23:25:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28700,
+      "views": 29000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -33,7 +21,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/CrzecgBWv4o_a5mBehiKXj9eXnuLolYCURBgqcxKNrBCSj25H5lAhO7YI04CY2bFiTbswmMzeZL6zp8Mj-BDybblpBS54-U09m1PUT3mQbRgsCxHVyiMfLUjUHqDQ1_MiuiUQ5Q4CDSeWfJiB0-9FHkFNI7TgpRWzQUI8O6pSyDlFdB-TkY-d2KbLBqkt7as9Nt_arYjocM06XMYeLOX2vQlB6x4cqRGIxxEDxHyu5-qeFxVfzsFXZGKhAhm5bS2AFy98s-rz1sVXJO2d4ytrcH-iCEqz0s4HjaWSZQFif_r4rXVrRaOSGtm2ZivMk7oGwVMNdBl2wfh49H9tNA8cQ.jpg"
+          "url": "https://cdn1.telesco.pe/file/ggolC_2BAFg7xzCaORfCvA70Dj6zemxUmuDVkRQ59QXcPWuUG3wDvu4Slgk-4GDFm2oP9Xt9tBG7AR1KQOsS69Xl7dFbbo4blDWj6cC4aQyZqifHOoYvzJwqtP02ELV3JWzublvsY9PzYCUKt15jm-RqUyt_170YhCXoTly_Mcne5VawGkjGKy9YmUuS8GpGxLl2_5c6rWe6u0MOEDth0lC0gYt6BlI8m6R1QuCR8Q5PYbjIZHOyJ4hPPiS4Wt4mlZEalFqokhJsq9i7AVrw1AFi4NdRmnHdwZ7uJECE1iVV_0RNu5fSbF1JZ8I1WJDesRDqdgEAxGkKB6G_V0OmSg.jpg"
         }
       ]
     },
@@ -43,7 +31,7 @@
       "date": "2026-08-03T23:33:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26200,
+      "views": 26400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -51,7 +39,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/K422wDvVgPRfWf5GiW4FKY2KYN8mdR2oNHDSEn6mmjYqIAb5GPt_mNlUmsReZS493QigzvJYCtxkfMrou1fMblmgtbxrleCLil8uZqiTgofQ7cLlw0dMns1h_u3YNvddQBUQ9uUXeRb21HGrH4s4eB3xDSCwY9dY9q1RwvqAi47bgrN3hq2InEsauCDOonW_cqtbO0WPb0ZbX3vGUsExd7t0a7Ecm4tgohKTi7BlKp8wbKzP0NcdVnTzW1OoaHGa--15hNEKl6AEfDuYWI_s2BXzOv2TRQ6mMTpDd2pzekCIUVxkrknWHyP9nI_6u0ltS40PzaiVC4LysjXPNkWSeQ.jpg"
+          "url": "https://cdn1.telesco.pe/file/ZLLEgP6o8IDGmakl_kzwu5wWrU5hgSBc3QS0uUcxkCaalAjUB5pJecP7A3WHnuv5YpALfz_9Pa7djaOFcB1Nc-fzfp2BM6KrI6XWJcBZmfJr41c_bFdDzqqPhKsSg9kKiVj8kgM-rFznbz6iMhq11c0wOTNS_FZ6VfBRMABy_i0G13U9SxAwvkoW89PHSACj9DBXaQZU1XvZ5LYZAsnIVcIIBpmvNZZKqnjQB40vNjGfxJCRs7Lr-i-WglHDRzRjvcLKWe0GQ7Btz_XuPgXVSKHEwwVAi49tZswkj9lLxsvdc3uplfpVcBYpJo8h0mmCavLNxOrT_gVVF79reSW5zw.jpg"
         }
       ]
     },
@@ -61,7 +49,7 @@
       "date": "2026-08-04T04:33:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21200,
+      "views": 21400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -80,7 +68,7 @@
       "date": "2026-08-04T10:36:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25500,
+      "views": 25700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -98,7 +86,7 @@
       "date": "2026-08-04T11:47:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23300,
+      "views": 23700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -116,7 +104,7 @@
       "date": "2026-08-04T12:20:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21900,
+      "views": 22300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -134,7 +122,7 @@
       "date": "2026-08-04T13:12:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23300,
+      "views": 23800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -156,7 +144,7 @@
       "date": "2026-08-04T14:57:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20500,
+      "views": 21000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -168,7 +156,7 @@
       "date": "2026-08-04T15:19:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20300,
+      "views": 20800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -180,7 +168,7 @@
       "date": "2026-08-04T15:20:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20500,
+      "views": 21000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -198,7 +186,7 @@
       "date": "2026-08-04T15:48:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21100,
+      "views": 21700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -220,7 +208,7 @@
       "date": "2026-08-04T15:49:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21400,
+      "views": 22000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -232,7 +220,7 @@
       "date": "2026-08-04T16:43:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21200,
+      "views": 22300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -250,7 +238,7 @@
       "date": "2026-08-04T17:39:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19700,
+      "views": 21100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -268,7 +256,7 @@
       "date": "2026-08-04T20:48:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11700,
+      "views": 13900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -280,7 +268,7 @@
       "date": "2026-08-04T20:49:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11700,
+      "views": 13900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -292,7 +280,7 @@
       "date": "2026-08-04T21:27:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7690,
+      "views": 10300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -301,6 +289,24 @@
         {
           "type": "photo",
           "url": "https://cdn1.telesco.pe/file/eSZ-NcNVD9MXBZ8BTl23VlTo81wY-oHLlQT6oKEjls9ALbk_w-xqkR6BC9oZvjUe6U1CMFBAEhfNwj_YTvrVCPC_4rQsAdVjLokgBKIQaodUTTCNuUvnVLV7J4NYmjt8d8zML8dfZmkBpwcmSBQMhS2YzjNQThKDA1g8_oje2KpuXW6EqL8_DLDNo9V0sxi4wmRKeR1yGwdv79xeVbEs-NuZ-QnFmws4pnlo9hJel7D4D5vCG3uR2aeaWS57b9daXuqXKP8srdAWs0tHos-8Wj7Vh5RKeS7Tgz3YZpkMVzj12GDaRY-RCuhqSrLhIAsPZkQfy9Q7v28Y8Mo3Zq_xQA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4841,
+      "message": "دوستان منم دارم به ارور جمنای می‌خورم روی 9router\u003cbr/\u003eجالبه که روی هرمس هست فقط\u003cbr/\u003eجای دیگه ازش استفاده میکنم مشکلی نداره\u003cbr/\u003eدر تلاشم درستش کنم",
+      "date": "2026-08-04T23:45:30Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3410,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/YjjsyJJ3VcmPQ5KTBhYpbOCpdgKprxcDXngg6eKaL-RJDA2yoIpiKiQd1QeoHZhaENohGkZaNmJ3l3cys_KtMH2NvbeCAyDAH62ih0i64ABRaaIRbAWzB9ZiULKoRwwDhibTYgzIcwKo1SlrcwWltViQxcMYiqZ408qsBtLput37kwbL0vPPBNl_g1VPGuUtag_v4T6kcZsABezuDf0IEKEMUMB3LrO5BYLNnsCr5eK9xBab3rEBZ9HH6li0i85bGE8syGKGIidQm28V86txNdgOkmJit6Henf0MC_Ka71vYGoRWl0HHFf3Ch72Cv_GloLvi8x75aYzMWY4PoGqWBQ.jpg"
         }
       ]
     }
