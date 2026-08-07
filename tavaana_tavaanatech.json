@@ -13,7 +13,7 @@
       "date": "2026-08-06T14:54:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1420,
+      "views": 1450,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -55,7 +55,7 @@
       "date": "2026-08-06T16:13:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1260,
+      "views": 1280,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -74,7 +74,7 @@
       "date": "2026-08-06T16:24:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1670,
+      "views": 1690,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -108,7 +108,7 @@
       "date": "2026-08-06T21:02:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1760,
+      "views": 1800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -116,7 +116,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/Sq-G35-Zb7ELCoXHcCaF7G3-POvmMayVzGPhPbddb0IJJL8C2ZQh5WO5fWhs1dfKeLjaBGxpp3dGG7rINAfhd197FmoiYe4ZDPZoCJOXKeiDYYB_chJM5Jc_d7nVjfwl_hCRDqK8d8OLXq-FTSe7ewEUdRJcK8WsavdfOv51rKchYrZyvFYFEDQQ6FckCDB1rzXc3-ZCqnvvjHCk_B8s3e157sehpVWEF19UP2q19UEaR0NGKf1Efa5FI_Wx9KsivzfYV2siTJ7qS0SrN-wMWfIQHMajg-7y01DGr4rrYZT9Hypz1m5IPg3kq5V-zJPb5YwtXxV_ptP_2-m_YscKiA.jpg"
+          "url": "https://cdn1.telesco.pe/file/vvrfRddMd_R8O1gON7AgYL_707NLNkXiJeBGgB4hC4qKvXIz6-cQP727DL9Srm_p4oyQqHwk_wfwOk0F_4yLxfB-UgxT0KeaK67uJC6JsqDbEym_GXn62Eh0bPVMe-J4JzmcFacunJa9fj-pEqsGezCQomxRHAfc4duvZsp3eQ_QgrWUEnf8CtFVSJumVk1ihmuejYITQ67W8bYfP8_OXqw-LZHXiiW03IQbdbfsaq9up-VddD7sVXfxjtxPa_MM0btyPtPLKuZaICUAEXJtu3jcUmDOONrhxX_JI_YT2hdZmQzPm1uWEN90qVWVW6EnRZl0IXNMaUaIJ7r6Vo_XWQ.jpg"
         }
       ]
     },
@@ -126,7 +126,7 @@
       "date": "2026-08-07T04:04:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1760,
+      "views": 1820,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -144,7 +144,7 @@
       "date": "2026-08-07T09:42:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1170,
+      "views": 1230,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -162,7 +162,7 @@
       "date": "2026-08-07T10:35:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1130,
+      "views": 1200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -181,7 +181,7 @@
       "date": "2026-08-07T11:55:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1160,
+      "views": 1250,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -199,7 +199,7 @@
       "date": "2026-08-07T16:25:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 764,
+      "views": 905,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -217,7 +217,7 @@
       "date": "2026-08-07T16:26:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 862,
+      "views": 1010,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -235,7 +235,7 @@
       "date": "2026-08-07T16:46:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 931,
+      "views": 1120,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -254,7 +254,7 @@
       "date": "2026-08-07T17:23:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 847,
+      "views": 1170,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -263,6 +263,25 @@
         {
           "type": "photo",
           "url": "https://cdn1.telesco.pe/file/C-dI90WB91-1j68QAdbgZuP5VuJ-lJhtD4zaZ26R3aTjS93tkqmNrxaHGLIYMZZwgCUWKefN1XGCxqG0TP6zEO0_Rv-dRu4FsSyiEu8jEPpNsgGJqGf00GVvhRcpoCSSB2fp0up5V1tJqPhrw8dNQQe7z9ILT7_ZQmxzxMe5eeYtmem2uoxQdXQ20RgTKOZEnll_MDrlvASESX37WUxSM6xz5FEql5ZdWAXnMMmB1j3uN73f7iYnCyMdwOihcyoWHDGkJ54CJDXLtyM8pKlJ4Ib-zSkE62iP_ewWssCyJaHxpzYEpETlyw4frkcgaqZw0GqTBV4cYMPpiavtuzxLJQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 105262,
+      "message": "کودکی که نخستین سال‌های زندگی‌اش را پشت دیوارهای زندان می‌گذراند، جهان را چگونه می‌شناسد؟ حبس مادر چه اثری بر رشد روانی، احساس امنیت و آینده یک کودک می‌گذارد؟ آیا زندان فقط مادر را مجازات می‌کند یا کودک نیز ناخواسته بخشی از این مجازات را تحمل می‌کند؟\u003cbr/\u003e\u003cbr/\u003eدر لایو اینستاگرامی «مادران و کودکان در زندان»، صبا آلاله، روان‌شناس بالینی، و مریم ابراهیم‌وند، فیلم‌ساز و زندانی سیاسی سابق، از تجربه‌ها و پیامدهای کمتر دیده‌شده زندانی‌شدن مادران سخن گفتند؛ از آسیب‌هایی که نه‌تنها زندگی زنان زندانی، بلکه کودکانشان را نیز تحت تأثیر قرار می‌دهد.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eاین برنامه روز دوشنبه ۱۵ تیرماه ۱۴۰۵ به صورت زنده از صفحه اینستاگرام توانا برگزار شد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D9%86%D9%87_%D8%A8%D9%87_%D8%AC%D9%85%D9%87%D9%88%D8%B1%DB%8C_%D8%A7%D8%B3%D9%84%D8%A7%D9%85%DB%8C\"\u003e#نه_به_جمهوری_اسلامی\u003c/a\u003e \u003cbr/\u003e\u003ca href=\"https://t.me/Tavaana_TavaanaTech\" target=\"_blank\"\u003e@Tavaana_TavaanaTech\u003c/a\u003e",
+      "date": "2026-08-07T21:45:24Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 185,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "آموزشکده توانا",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/DDDl-h3OlDICHg7RKcUouzrjOznQzwXOWG8i4P-JCAgywdL81kqLnhklbNe2OGfblgumM1sjYeuGCZYmdj_HJWJaWj8E9XAsswswF5FBIPpbr7hzFweLcMBAw8S5vxC0LmvX-YmevSJEneifHXe9Ehgu76fs-tIvrUJuAb_OHHkjUJEXSmW3riiGrlJDlKW7rgoX3oXqKSPwFBN9S2qWjCJGvwaEK8RPTK61EIvaTQlaugZBBcK8w8xnmkqBwQ1edlgD5g6A1XFwyQciWT5d11H_ftU7YQvrJdwpAcgOzPd9sbqPg5SVd1dZN7SJ-N6Rl6xLuCESJY1aLdakkk-Kzw",
+          "width": 464
         }
       ]
     }
