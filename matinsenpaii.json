@@ -8,24 +8,6 @@
   },
   "posts": [
     {
-      "id": 4855,
-      "message": "آپدیت بزرگ Hermes، ایجنتِ دوست‌داشتنی ما، نسخه v0.20.0 منتشر شد! \u003ctg-emoji emoji-id=\"5422360266618707867\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938A.png\u0026#39;)\"\u003e\u003cb\u003e📊\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003eاین نسخه که بهش \u0026#34;The Herald Release\u0026#34; می‌گن، کلی قابلیت باحال مثل ارتباط صوتی زنده، سرچ با منبع معتبر، وب‌هووک، اتصال ایجنت به ایجنت و بهبودهای شدید پرفورمنسی داره\u003ctg-emoji emoji-id=\"5417969813609795944\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA9B0.png\u0026#39;)\"\u003e\u003cb\u003e🩰\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003eتغییرات و ویژگی‌های اصلی این آپدیت:\u003cbr/\u003e\u003cbr/\u003e1- گفتگوی صوتی زنده (Talk to Hermes): پشتیبانی از استریم صوتی زنده با قابلیت قطع کردن حرف ایجنت (Interruption) و کلیدواژه‌ای که باهاش بیدار میشه (Wake-phrase). \u003ctg-emoji emoji-id=\"5294339927318739359\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E99.png\u0026#39;)\"\u003e\u003cb\u003e🎙\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e2- منابع و استنادات دقیق (Cited sources): توی کارهای پژوهشی تمام ادعاها رو با منابع واقعی و مستندات و سیستم راستی‌آزمایی (Fact-check) لینک می‌کنه. \u003ctg-emoji emoji-id=\"5388953246486269495\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939A.png\u0026#39;)\"\u003e\u003cb\u003e📚\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e3- وب‌هووک‌های خروجی (Outbound webhooks): فرستادن اطلاعات و رویدادهای چرخه‌ی حیات ایجنت به HTTP Endpoint‌های خودتون به صورت امضا شده و امن. \u003ctg-emoji emoji-id=\"5956273741448089195\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e4- ارتباط ایجنت به ایجنت (Agent to agent): پشتیبانی از پلاگین R2A v1.0 برای شناسایی و واگذاری کارها بین ایجنت‌های مختلف. \u003ctg-emoji emoji-id=\"5372981976804366741\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e5- سرعت به‌شدت بالاتر (Faster everywhere): سرعت لود اولین توکن (First-token) تا ۸۰٪ کاهش پیدا کرده و پرفورمنس اپ دسکتاپ به ۶۰ فریم رسیده. \u003ctg-emoji emoji-id=\"5068963021699679311\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e6- پلتفرم دسکتاپ: قابلیت پیش‌نمایش زنده آرتیفکت‌ها، کیت توسعه پلاگین (Plugin SDK) به همراه تسک‌بورد Kanban و پنجره دسترسی سریع به دسکتاپ اضافه شدن. \u003ctg-emoji emoji-id=\"5339181821135431228\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92BB.png\u0026#39;)\"\u003e\u003cb\u003e💻\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e7- تاییدهای هوشمند (Smart approvals): پیشنهاد تایید دستورات ترمینال بر اساس تاریخچه استفاده و قطع‌کننده هوشمند برای لوپ‌های ریجکت شدن متوالی. \u003ctg-emoji emoji-id=\"5472193350520021357\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA1.png\u0026#39;)\"\u003e\u003cb\u003e🛡\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e8- قدرت‌نمایی در CLI: اضافه شدن ابزارهای اسکن پروژه، مهاجرت ساده و اجرای مستقیم کدهای شل. \u003ctg-emoji emoji-id=\"5988023995125993550\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA0.png\u0026#39;)\"\u003e\u003cb\u003e🛠\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e9- هدایت بهتر ایجنت وسط اجرای کار: قابلیت اصلاح مسیر و دادن دستور به ایجنت وسط کار بدون اینکه پیشرفت قبلیش خراب بشه. نسخه‌ی قدرتمندتر Steer که داشتیمش \u003ctg-emoji emoji-id=\"5433825729060018456\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA7AD.png\u0026#39;)\"\u003e\u003cb\u003e🧭\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e10- ابزارهای خودترمیم: توانایی خواندن خروجی‌های نصفه‌کاره ترمینال، تشخیص خودکار خطاها و بالا رفتن محدودیت تعداد تلاش‌ها. \u003ctg-emoji emoji-id=\"5472291748220771063\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA7B9.png\u0026#39;)\"\u003e\u003cb\u003e🧹\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e11- اتصالات جدید: هماهنگی کامل با پلتفرم‌ها و مدل‌های خفن جدید مثل Buzz, GPT-5.6, Claude Opus 5, Gemini 3.1 Pro, Grok-4.5 و  Vercel AI Gateway و رفع باگ‌هایی که داشتن\u003cbr/\u003e\u003cbr/\u003e12- قابلیت‌های جانبی: پسورد Vault داخلی، فشرده‌سازی خودکار سشن‌ها، لوکال عربی، فایروال و مقاوم‌سازی امنیتی روی ویندوز اضافه شدن\u003ctg-emoji emoji-id=\"5447410659077661506\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003eاین دستور رو توی ترمینال بزنید، آپدیت میشه:\u003cbr/\u003e\u003cpre\u003ehermes update\u003c/pre\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-08-05T15:05:17Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/Jny39uyNF31IaaVyqFHfu7_d9eTxraLUUk_PsVvwYFNQbp3-95Ty47cTEBQa3Fp51pv7gWCjmdAtEX2ERARYg9agBR_KysTaOER0K_aSNn1rGYcUvaihC6Xhm-HRQZL5NxaD0kO3A7xrpE4JGHJFw_YVQGY5WbnGhj2x5Efr9lr1uMoaI-QYUwx8lQp_goYhqYJBz7WmonLmez8BtV7L_uaDyM2RRVdKBv5i8pjR648Ljg-uxduMTCAp1nx0vUR5FkxRSrh16rMwQnzcUC2H4L2h3vubL1RK313BPr8_Axe_EXwy-zHmOUpnNkG4RUC9P9vbK8vhD3FwiC2lNOzQOQ.jpg"
-        }
-      ]
-    },
-    {
       "id": 4856,
       "message": "به همین سادگی می‌تونید آپدیت کنید\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FABA1.png\u0026#39;)\"\u003e\u003cb\u003e🫡\u003c/b\u003e\u003c/i\u003e",
       "date": "2026-08-05T15:43:11Z",
@@ -39,11 +21,11 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/nFoH28lsucjHG_91YlrMYjIi6AZC8gUypxKxhyVHrZu0QTvSz77FmVBBdHHlHMVcRmpIfIvbMT5yzjdJrA1Oh2DIBm5zKz4cd4N57QfzMsvvPjuzMrf00MthYeXJNPRgNdcFyp5fHwi9YKaqdO3rgkMkbMUY544jXGtjy2Xn3VttyAvP0CwmaUxwYfm2cYEgKLsHTBisjuz0YXbysfAmXcH1sJN3ro_ZOiLqx-1YLD3Lsqf-493S57kX-vAg1IAIZoZqZYrPgvlmPuunulcBQuV6btm5bWsePpt1pJcP7nNfH5trHEQq8p9zZtsy02DTEwrmUwbGfzlHKBnV0S1qXA.jpg"
+          "url": "https://cdn1.telesco.pe/file/V1lne3xmP7TbUU5_oh_JtmnFMsaIp_ml05QzEnmNvlXFcxfK5kJCJ3N-bdN6O2Qzs-ctRm7HzfGb6OBsz7D7yRzb9KJYzO19qTw3LQiaV28x9wl1dqNwrA9uioyl6KSxI9zRvzn-FgFcoPgTeA8Fwkifvaacfb_LwWemrIPpa0vWt8DNfKH92uBN1N-PSzXbH588L-pUs4Z_sbJ7mxYrtFDebobLM6ceJUghJzYVdtlLj2NPnYJt9Nn4V2sL7xNBjwAMQE3lP6xjhYHtVvJ9eeJpJiCDlcyeC8LZLR1r81GLwQiAsXzDtoN3YmvlqXTEfsRdxmu-Efobl7Tphz9bYA.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/sTs5eKJHKWCJWUD8SHA9892UWnSVgrvTgPaileiM24WE-Pp9bANbz7a4_bRfyZI-G8y7yS1HMmSXfwxdPhCF465kZs5H-1kQqrZFAMBB0UhqNu-OnkDIc_np8xFRmlQPRZImB1-lMcHFTJXw8eKCdn4hKqvhB-Md57mw5n7vMBW2bwoSvxw1BjyfR-bOyaWAXaC92nDYWrG0sHu_7PB6OHZ7dK7rLzZp9qWBzDBJ-0Mbm27qx99BQNwI86mtt9l8q8XLdperyAzWBNYQi9hqmlMu96AGck01ZGVnOLTGKHsxIgln_ASqluPSVeiS_eYhJvCa4Bcn5e_FJU6l317Vdw.jpg"
+          "url": "https://cdn1.telesco.pe/file/DItjSnBw4UGEYdqd-jRMPCLg3G8-70rvlEksEdThZ42T_7sW-8CvdySwCp6qMlizqSENcGW00hiU81RbMwUza1dJOe_g_-6W3d-Xc2rLGCZRkDnj7_tZhK5A9VAEOXwmYWsW6Gj0A1HqJiVQ9Cb-Gzpc46v15-ltF1RR9yNIzBptiAFnryhsnNbvjHetayv0RM4Sxf4jhfou7fNN8-fWb1KvGedFPsmmkOUfdPyuEUE79BecEhEo9DZsvlT197DZcGrZE3hfZMGRSEUqbjWy_dSM9gTddJASOaXZiyN1jLmG9YEgl7825BnDD19lnZEitlDNrCK2H2NxePsnjTBjdA.jpg"
         }
       ]
     },
@@ -77,7 +59,7 @@
       "date": "2026-08-05T16:01:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32600,
+      "views": 32700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -101,7 +83,7 @@
       "date": "2026-08-06T09:28:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32000,
+      "views": 32100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -119,7 +101,7 @@
       "date": "2026-08-06T09:28:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32500,
+      "views": 32600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -131,7 +113,7 @@
       "date": "2026-08-06T16:25:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30900,
+      "views": 31000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -143,7 +125,7 @@
       "date": "2026-08-06T22:26:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25200,
+      "views": 25300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -162,7 +144,7 @@
       "date": "2026-08-07T02:10:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29500,
+      "views": 29700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -174,7 +156,7 @@
       "date": "2026-08-07T02:23:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29900,
+      "views": 30100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -186,7 +168,7 @@
       "date": "2026-08-07T11:01:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27900,
+      "views": 28100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -204,7 +186,7 @@
       "date": "2026-08-07T20:13:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23500,
+      "views": 23900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -216,7 +198,7 @@
       "date": "2026-08-07T20:13:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23600,
+      "views": 24000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -228,7 +210,7 @@
       "date": "2026-08-07T20:23:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24400,
+      "views": 24800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -250,7 +232,7 @@
       "date": "2026-08-07T20:29:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23200,
+      "views": 23600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -262,7 +244,7 @@
       "date": "2026-08-08T07:38:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17000,
+      "views": 17900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -271,6 +253,24 @@
         {
           "type": "photo",
           "url": "https://cdn1.telesco.pe/file/QPFFHvwCD7UR2iAU5TbY2lBl2a--m5kRw0Z-69lzr8R_YxjcWe1U5_F_ZGjBZqP2pPOl7I08oM8sGqvC9GSBIwTaCcRsl6m0VtAc5FKKLPTCUkCKO2Buty-i-ZwQ7EsVRJYWLscaEKRP8XPV9XTbApFf-NW57PMDEzeLAnr8gf3SH8RiJMfuq3Bz93pMTaKwlErpMC8u1OogJsupWtUUyTAZ6brbuLMg3t-RPMG818WiM0tiEx8-XaYra_r7Zx97GQf8lUYcc7_qxlFvhLdOODY-2UI8sgIeUbww7i_9zhqplSl7_knCc0o32TYxsAH2jPEbBUH2YXq1EySDhaAc8Q.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4875,
+      "message": "مغز دوم و هوشمند برای ایجنت‌های هوش مصنوعی؛ پروژه‌ی متن‌باز Synapse \u003ctg-emoji emoji-id=\"5237799019329105246\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA7A0.png\u0026#39;)\"\u003e\u003cb\u003e🧠\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003eحتماً دیدید هوش مصنوعی‌ها بعد از یه مدت حرفاتون رو فراموش می‌کنن یا اطلاعات قدیمی و جدید رو با هم قاطی می‌کنن. پروژه متن‌باز سیناپس، مثل یه سیستم‌عامل حافظه‌ی طولانی‌مدت عمل می‌کنه که روی دیتابیس محلی SQLite سیستم خودتون بالا میاد. این ابزار فکت‌های مکالمات شما رو استخراج می‌کنه و فکت‌های متغیر (مثل شغل یا محل زندگی) رو به شناسه‌های مشخص وصل می‌کنه تا با تغییر اون‌ها، مقادیر جدید بدون قاطی کردن جایگزین قبلی‌ها بشن. سیناپس اطلاعات قدیمی رو کمرنگ می‌کنه، تداخل‌ها رو رفع می‌کنه و به صورت خودکار مانع ذخیره پسوردها و توکن‌ها می‌شه \u003ctg-emoji emoji-id=\"5472375242385005771\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F918D.png\u0026#39;)\"\u003e\u003cb\u003e👍\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003eاین پروژه به صورت سرور MCP ارائه شده؛ یعنی می‌تونید اون رو مستقیم به ابزارهایی مثل Claude Code، ادیتور Zed یا Cursor وصل کنید تا یه حافظه واقعی و تحت کنترل خودتون داشته باشید. سیستم بازیابی حافظه‌ی ساینپس ترکیبی از سرچ معنایی، متنی و فاکتورهای زمانیه که همراه با هر حافظه، یه شاخص میزان اعتماد (Trust Qualifier) هم به ایجنت می‌ده تا بدونه اون فکت چقدر معتبره.\u003cbr/\u003e\u003cblockquote\u003eکه به نظرم یکی از مهمترین قابلیت‌هاش هست.\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e با سیناپس، ایجنت هوش مصنوعی شما به مرور زمان با بازخوردهاتون هوشمندتر می‌شه و تمام داده‌ها هم کاملاً آفلاین دست خودتون باقی می‌مونه \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8C.png\u0026#39;)\"\u003e\u003cb\u003e✌️\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eلینک ریپوزیتوری پروژه:\u003cbr/\u003e\u003ca href=\"https://github.com/Danialsamadi/synapse\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/Danialsamadi/synapse\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
+      "date": "2026-08-08T14:52:11Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2740,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/MTe1a2k8IQyE1nFGztdaneJWfkCAuRNGxK_l-FHRaw0jdzZqu2qZ3XKi4WEvLewDCpemw_sv206RRKTsedAnCNIihZWF9_lFgUElQl1jB1DwOQtAjtJG-xlfgltLFXD3RaDqFQq5lSnlSx6vCxUkor4BBDOowPxsgKrczhb8OHllGIouA9Gg4SQWeQOJYjqPmtcMejEeK8WeXuzAym9SrmqRsA7irds4anf9TataEZuyWqDx9c1ZfcySI8Qo0aE0NcmUkuCvW3r5QPzOtVBP9k0bTdW3JanV4j3yssvhRZoDiK8ZCNspmRPReznlunmBjssO2XER84dr64MYbC1ORQ.jpg"
         }
       ]
     }
