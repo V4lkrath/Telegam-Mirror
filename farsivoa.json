@@ -8,62 +8,12 @@
   },
   "posts": [
     {
-      "id": 226673,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eکمبود شدید داروهای هموفیلی در ایران؛ جان چهار هزار بیمار در خطر است\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eمدیرعامل کانون هموفیلی ایران، با هشدار نسبت به تداوم کمبود داروهای هموفیلی در کشور، اعلام کرد جان بیش از چهار هزار بیماری که ادامه زندگی‌شان به مصرف منظم این داروها وابسته است، در معرض خطر جدی قرار دارد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/hemophilia-medications-in-iran-4-000-patients-at-risk/8184393.html/?nocach=1\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/hemophilia-medications-in-iran-4-000-patients-at-risk/8184393.html/?nocach=1\u003c/a\u003e",
-      "date": "2026-08-09T16:06:52Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3250,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA"
-    },
-    {
-      "id": 226674,
-      "message": "بازداشت گروه مسلحی که خود را برای حمله از خاک عراق آماده می‌کرد",
-      "date": "2026-08-09T16:19:08Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3020,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/PDAuGGsTeOoNwuY3oYdI8Eo68X1MH6L9jzu3oyFGRQLBNTdsk4WcOUuEXAH_zy4jf-6hqZAALHsmmZqro-53PoLibYftW29wi5kFF1QzjdlT5f3y9XmruxDEW0_JTFhKFeO9hnXJB8leS-ZENdrH_PAlC-0RCUY3WmRF6cwo9Zk-x76yj6LzzCvkcXfTs8PztpB1FZoGLNSstne7KpHs06U3UNmYrmQ3kAYZb8BCq88bKe4s9nGKzK7QoUHs0xhQJtvBQSa_opln3jDQMRWVXpnM0AjD1-0h00xzojyl0InOJIRi0GUdVuIrcmNj488XYNmkooqn46dRYmFJs4BoOg",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 226675,
-      "message": "هاشمیان: جمهوری اسلامی با حملات حوثی‌ها در پی به چالش کشیدن پیمان مکه است",
-      "date": "2026-08-09T16:33:00Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2660,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/p9AjNF9S7iuJYlJsDUQWnAWrO2_Rj7uuLwX9Yu-II61-gXph2t1_qOrbmEu_0bQF7co6oUsRvdxqCtC-uch6R8_2hhh8XyfGC_aGV9bFSfBcTZADBBdm0K2HT-DCDBPHvmhN5vdGfXgvmvSlEu9G7tyhlnMrvNE1TK0cJehbQdFgA3YI0dj0rNA_Kc2I8BTh87b4kCvStf2yJEWVTtpr3nq8xoiJfKl15ANq2vN-HPaBT55fXBH24cNa0bsPPYGOg8LAIeiH25oLB8rl1fpKaoZKMySKUnepHBP8rQk5SGdKzSPfXUEa9F7XhUYJUT8oLFO9_0pKGsSX7JEJMLXpoQ",
-          "width": 1280
-        }
-      ]
-    },
-    {
       "id": 226676,
       "message": "در گفت‌وگو با رضا طالبی، روزنامه‌نگار، از تغییرات احتمالی در شورای عالی امنیت ملی، مذاکرات تنگه هرمز، و جایگاه دولت پزشکیان در روند تصمیم‌گیری گفتیم. طالبی معتقد است مجموعه تحولات اخیر نشان می‌دهد که جمهوری اسلامی در پرونده تنگه هرمز در حال انجام عقب‌نشینی‌های لازم است.",
       "date": "2026-08-09T16:41:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2500,
+      "views": 2780,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -82,7 +32,7 @@
       "date": "2026-08-09T16:51:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2300,
+      "views": 2550,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -94,7 +44,7 @@
       "date": "2026-08-09T16:53:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2450,
+      "views": 2740,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -112,7 +62,7 @@
       "date": "2026-08-09T16:55:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2760,
+      "views": 3040,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -124,7 +74,7 @@
       "date": "2026-08-09T17:08:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2960,
+      "views": 3310,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -158,7 +108,7 @@
       "date": "2026-08-09T17:14:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2810,
+      "views": 3180,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -177,7 +127,7 @@
       "date": "2026-08-09T17:53:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1870,
+      "views": 2340,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -196,7 +146,7 @@
       "date": "2026-08-09T17:56:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1980,
+      "views": 2510,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -208,7 +158,7 @@
       "date": "2026-08-09T18:15:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1290,
+      "views": 1890,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -227,7 +177,7 @@
       "date": "2026-08-09T18:16:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1520,
+      "views": 2240,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -245,7 +195,7 @@
       "date": "2026-08-09T18:34:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 585,
+      "views": 1460,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -264,7 +214,7 @@
       "date": "2026-08-09T18:36:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 452,
+      "views": 1390,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -283,11 +233,61 @@
       "date": "2026-08-09T18:38:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 255,
+      "views": 1390,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Farsi VOA"
+    },
+    {
+      "id": 226694,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eروسیه و اوکراین یکدیگر را به انجام حملات مرگبار متهم کردند\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eروسیه و اوکراین روز یکشنبه ۱۸ مرداد یکدیگر را به انجام حملات مرگبار متهم کردند. این در حالی است که موج تازه حملات موشکی و پهپادی به شهرها، بنادر و زیرساخت‌های انرژی دو کشور، نشانه‌ای از ادامه تشدید جنگ و گسترش حملات به شبکه‌های لجستیکی و اقتصادی طرف مقابل است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/ukraine-russia-accuse-each-other-of-lethal-attacks/8184416.html/?nocach=1\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/ukraine-russia-accuse-each-other-of-lethal-attacks/8184416.html/?nocach=1\u003c/a\u003e",
+      "date": "2026-08-09T18:44:17Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1290,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA"
+    },
+    {
+      "id": 226695,
+      "message": "ایمان آقایاری در برنامه تفسیر خبر: ریشه معضلات معیشتی در ایران، عوامل معیشتی نیست",
+      "date": "2026-08-09T18:50:58Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 855,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/jwI4risGmX1bSOK9GxXzbfQ7QqF5SNn64cCJrwJ8In3MoWkkBZUKepbsr-RrwrAtNpkQlvrxwWYp5Ouj_-1QkKqmBssM_LmXpn0sSEyaKQPcnyqtNhhFwnIRmAzTGFaIOuOGc_NLSY_nd2eMmL07dxaAwU5DF53gqZrIms1rbn4EsEoOPPMqtleQiG6guHkbO3-E-ldhQjL5CcZ6YbSXI-wCl1xYwvWizneR05f1J7VJc_-48o1NdxZLldqnYe122cRay8iAD58VfB0PLGgKq0hkHqma7rBpoaiJQNPoEN3z9dB0spz1uL1hy9vmK7_SphstEgz7UMSy6PF2Z0RHpQ",
+          "width": 1280
+        }
+      ]
+    },
+    {
+      "id": 226696,
+      "message": "احمد علوی در برنامه تفسیر خبر: تا جامعه مدنی از ساختار رژیم عبور نکند نمی‌توان انتظار تحول داشت",
+      "date": "2026-08-09T19:02:17Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 224,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/XIK9pGvBOmVtvw3Jwyz7MAO7l7qwM3L-DikcgNB7E_DhOft_UeQjLokXdCDxvRWZ5CL2ZDaOomWFnWq6UvRnOJzQoukXgNTHWigYuXDN7bsV1P0hwyHgXN8vyqgrMR3nHA5fEp1jGHIC04prGnYXRUwmki6IItd-XspO4yFeyGm6Sl3b9b3GqspTdRx6Ghp3jCM504bBVbOyPGhmR4ySYxGo-HJPFM4N533ERB_-OWk1CjZlNTlJVqw0s8JKHDiK5SmKJAmcxJS6NWrFirYbHdKN5-OxpCkoqqTf11bM8uIL-velM6ucoQoL1f4utizSBnNyQC5v82aK5z1Oh7BuiA",
+          "width": 1280
+        }
+      ]
     }
   ],
   "last_updated": 0
