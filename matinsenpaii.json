@@ -8,40 +8,6 @@
   },
   "posts": [
     {
-      "id": 4856,
-      "message": "به همین سادگی می‌تونید آپدیت کنید\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FABA1.png\u0026#39;)\"\u003e\u003cb\u003e🫡\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-08-05T15:43:11Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/V1lne3xmP7TbUU5_oh_JtmnFMsaIp_ml05QzEnmNvlXFcxfK5kJCJ3N-bdN6O2Qzs-ctRm7HzfGb6OBsz7D7yRzb9KJYzO19qTw3LQiaV28x9wl1dqNwrA9uioyl6KSxI9zRvzn-FgFcoPgTeA8Fwkifvaacfb_LwWemrIPpa0vWt8DNfKH92uBN1N-PSzXbH588L-pUs4Z_sbJ7mxYrtFDebobLM6ceJUghJzYVdtlLj2NPnYJt9Nn4V2sL7xNBjwAMQE3lP6xjhYHtVvJ9eeJpJiCDlcyeC8LZLR1r81GLwQiAsXzDtoN3YmvlqXTEfsRdxmu-Efobl7Tphz9bYA.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/DItjSnBw4UGEYdqd-jRMPCLg3G8-70rvlEksEdThZ42T_7sW-8CvdySwCp6qMlizqSENcGW00hiU81RbMwUza1dJOe_g_-6W3d-Xc2rLGCZRkDnj7_tZhK5A9VAEOXwmYWsW6Gj0A1HqJiVQ9Cb-Gzpc46v15-ltF1RR9yNIzBptiAFnryhsnNbvjHetayv0RM4Sxf4jhfou7fNN8-fWb1KvGedFPsmmkOUfdPyuEUE79BecEhEo9DZsvlT197DZcGrZE3hfZMGRSEUqbjWy_dSM9gTddJASOaXZiyN1jLmG9YEgl7825BnDD19lnZEitlDNrCK2H2NxePsnjTBjdA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 4858,
-      "message": "«بعدش هم روشن شو»",
-      "date": "2026-08-05T15:43:59Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
       "id": 4859,
       "message": "",
       "date": "2026-08-05T15:44:00Z",
@@ -59,7 +25,7 @@
       "date": "2026-08-05T16:01:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33500,
+      "views": 33600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -83,7 +49,7 @@
       "date": "2026-08-06T09:28:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33200,
+      "views": 33300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -113,7 +79,7 @@
       "date": "2026-08-06T16:25:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31800,
+      "views": 31900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -144,7 +110,7 @@
       "date": "2026-08-07T02:10:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30900,
+      "views": 31000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -156,7 +122,7 @@
       "date": "2026-08-07T02:23:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31100,
+      "views": 31200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -168,7 +134,7 @@
       "date": "2026-08-07T11:01:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29900,
+      "views": 30000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -186,7 +152,7 @@
       "date": "2026-08-07T20:13:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26900,
+      "views": 27000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -198,7 +164,7 @@
       "date": "2026-08-07T20:13:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26900,
+      "views": 27000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -210,7 +176,7 @@
       "date": "2026-08-07T20:23:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28100,
+      "views": 28200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -232,7 +198,7 @@
       "date": "2026-08-07T20:29:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26700,
+      "views": 26900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -244,7 +210,7 @@
       "date": "2026-08-08T07:38:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23900,
+      "views": 24200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -262,7 +228,7 @@
       "date": "2026-08-08T14:52:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18600,
+      "views": 19000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -280,7 +246,7 @@
       "date": "2026-08-08T16:28:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11500,
+      "views": 12000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -292,6 +258,37 @@
           "width": 916
         }
       ]
+    },
+    {
+      "id": 4877,
+      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939A.png\u0026#39;)\"\u003e\u003cb\u003e📚\u003c/b\u003e\u003c/i\u003e آموزش اسکن Resolver و استفاده در WhiteDNS (cottendns)\u003c/b\u003e\u003cbr/\u003e\u003cb\u003e\u003cbr/\u003eاگه دنبال یه Resolver مناسب و پایدار برای راه‌اندازی WhiteDNS هستی، توی این آموزش قدم‌به‌قدم نحوه اسکن و پیدا کردن IPهای مناسب با Clean IP Finder و استفاده از اون‌ها در CottonDNS رو توضیح دادیم. \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F948D.png\u0026#39;)\"\u003e\u003cb\u003e🔍\u003c/b\u003e\u003c/i\u003e کاربردها:\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e• اسکن و پیدا کردن ریزالور های مناسب\u003cbr/\u003e• بررسی پایداری و سرعت Resolverها\u003cbr/\u003e• استفاده در WhiteDNS\u003cbr/\u003e• بهبود کیفیت و پایداری اتصال\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A5.png\u0026#39;)\"\u003e\u003cb\u003e📥\u003c/b\u003e\u003c/i\u003e دانلود ابزارها:\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e \u003cb\u003eClean IP Finder v1.3.6\u003c/b\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/WhiteDNS/WhiteDNS-cleanip-finder/releases/tag/1.3.6\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/WhiteDNS/WhiteDNS-cleanip-finder/releases/tag/1.3.6\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e \u003cb\u003eWhiteDNS v1.6.0\u003c/b\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/WhiteDNS/WhiteDNS-Android/releases/tag/1.6.0\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/WhiteDNS/WhiteDNS-Android/releases/tag/1.6.0\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cb\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e ابزارها رو دانلود کن و طبق آموزش پیش برو.\u003c/b\u003e\u003cbr/\u003e\u003cb\u003e\u003cbr/\u003e·:¨༺ \u003c/b\u003e\u003ca href=\"https://t.me/BlueKnight_Net\" target=\"_blank\"\u003e\u003cb\u003e@BlueKnight_Net\u003c/b\u003e\u003c/a\u003e\u003cb\u003e ༻¨:·\u003c/b\u003e",
+      "date": "2026-08-09T05:27:51Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1280,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/rUa7i-fDmK1G-4t4AsvyR4Rxcwx1K7lVhVYcbss2JWg6UttemYdXq7oPYpQTEuSWvQELNwMFK5bD1pjdnWu5kV_mHznLxPXJphRgx7Lia7lw9yH7zBAO8GuN3fcNOfxBAAOj-9GXyGBkOsuhSXYlAj99wJIKlMZ2bA3gBQ3_oFMxhzmYwVV2SyT9CK1VJ9jKGHgEP3Tk8R_0r_0PoY29CzdbNbmbrtw6B6AgK3VRh8NPJNS90OaAeoHawvFVEralyb0q3k_ZSUvxIuXMt0osnFZwQgx1N_3-YaZrjKGuNnPQEwVYGMpiGSwnTKQgc3G9lsgBPKpuciHFydpCTZx7ZA",
+          "width": 1912
+        }
+      ]
+    },
+    {
+      "id": 4878,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B5.png\u0026#39;)\"\u003e\u003cb\u003e🔵\u003c/b\u003e\u003c/i\u003e WhiteVPN Desktop — نسخه ۱.۰.۱۴\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A7.png\u0026#39;)\"\u003e\u003cb\u003e🔧\u003c/b\u003e\u003c/i\u003e رفع اشکال آیکون نوار وظیفه (taskbar)\u003cbr/\u003e\u003cbr/\u003eدر نسخه‌های اخیر، منوی راست‌کلیک روی آیکون کار نمی‌کرد و امکان بستن برنامه از آنجا وجود نداشت — تنها راه، Task Manager بود.\u003cbr/\u003e\u003cbr/\u003eمشکل از حلقه‌ای بود که پیام‌های آیکون را می‌خواند و روی رشتهٔ (thread) اشتباهی اجرا می‌شد.\u003cbr/\u003e\u003cbr/\u003eاگر نسخهٔ ۱.۰.۱۲ یا ۱.۰.۱۳ را نصب کرده‌اید، این به‌روزرسانی را حتما داشته باشید \u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A5.png\u0026#39;)\"\u003e\u003cb\u003e📥\u003c/b\u003e\u003c/i\u003e دانلود:\u003cbr/\u003e\u003ca href=\"https://github.com/WhiteDNS/WhiteVPN-Desktop/releases/tag/v1.0.14\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/WhiteDNS/WhiteVPN-Desktop/releases/tag/v1.0.14\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/whitedns\" target=\"_blank\"\u003e@whitedns\u003c/a\u003e",
+      "date": "2026-08-09T05:28:21Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1080,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
     }
   ],
   "last_updated": 0
