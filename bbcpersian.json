@@ -13,7 +13,7 @@
       "date": "2026-08-11T05:02:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29400,
+      "views": 31000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -55,7 +55,7 @@
       "date": "2026-08-11T05:30:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27400,
+      "views": 29300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -73,7 +73,7 @@
       "date": "2026-08-11T06:33:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21900,
+      "views": 25100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -123,7 +123,7 @@
       "date": "2026-08-11T07:19:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17600,
+      "views": 21500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -141,7 +141,7 @@
       "date": "2026-08-11T08:02:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11100,
+      "views": 16600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -159,11 +159,29 @@
       "date": "2026-08-11T08:20:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6830,
+      "views": 14000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "BBCPersian"
+    },
+    {
+      "id": 289022,
+      "message": "‌\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BB.png\u0026#39;)\"\u003e\u003cb\u003e🔻\u003c/b\u003e\u003c/i\u003eقیمت نفت خام برنت، شاخص جهانی قیمت نفت، پس از کاهش امیدها به توافق ایران و آمریکا از ۹۰ دلار در هر بشکه عبور کرد.\u003cbr/\u003e\u003cbr/\u003eقیمت نفت سه‌شنبه به روند صعودی خود ادامه داد و با کمرنگ شدن امیدها به بازگشایی تنگه هرمز، نگرانی‌ها درباره افزایش دوباره تورم شدت گرفت.\u003cbr/\u003e\u003cbr/\u003eقیمت نفت خام در یک هفته گذشته حدود ۱۰ درصد افزایش یافته است. با وجود اظهارات امیدوارکننده کاخ سفید در اوایل ماه جاری، به نظر می‌رسد آمریکا و ایران همچنان از دستیابی به توافق بر سر آینده این آبراه حیاتی فاصله دارند.\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B7.png\u0026#39;)\"\u003e\u003cb\u003e📷\u003c/b\u003e\u003c/i\u003eBloomberg via Getty\u003cbr/\u003e\u003ca href=\"https://t.me/BBCPersian\" target=\"_blank\"\u003e@BBCPersian\u003c/a\u003e",
+      "date": "2026-08-11T08:59:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5570,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "BBCPersian",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/pkMcwX5ntrmhSVrH0Od8jqUhtzkXWd5agpz6olZNDYSHS6b0Mjw2aRv6M0KwsBJFBTbVfdl0HMM3Smh94kR1CxH2Vzr6iJ96NFynxpif4zUSley_WUxsZAUGiTy9cRweKds1ymvO8gHPmQ1I1wufy70Nz5w4HzuAkwRTbzprjSphmmLyCH6Y9_Fyam8sGDAga2WGCyeBWnUpXeremFPWEjXvuuaAk5_qr8ZIC1IeF3FW8gQ5opwckYzUqI8HP4FRfmfUf7tVDoPQERE5G562HLjfA2VHSFXLVNPzP_0vFoc_U0fb-Kj1yT0zankL4WZJQ8o5SsDsvSnkCfwxRzqEBA.jpg"
+        }
+      ]
     }
   ],
   "last_updated": 0
