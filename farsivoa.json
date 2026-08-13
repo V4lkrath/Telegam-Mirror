@@ -8,68 +8,12 @@
   },
   "posts": [
     {
-      "id": 227072,
-      "message": "کارولین لیویت که از سمت سخنگوی کاخ سفید کناره‌گیری می‌کند، یک سال و نیم فعالیت خود در کنار دونالد ترامپ، رئیس‌جمهوری آمریکا، را «افتخار و ماجراجویی یک عمر» توصیف کرد.\u003cbr/\u003e\u003cbr/\u003eلیویت همچنین از ترامپ برای فرصت‌هایی که در اختیارش گذاشته، از جمله فعالیت در کاخ سفید، حضور در دفتر بیضی، سفرهای خارجی و دیدار با رهبران کشورهای دیگر، قدردانی کرد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
-      "date": "2026-08-13T12:31:50Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3050,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/oJGrmcuFQHvIKdd4A3FFi-ZMZZWm8uu3eGDCbdBMUDn-jT_ncm7xZ8UTWObcVrNCIVdIwwNvGvgaSSTsCfeta5whLFh7ZdYWPWV7GlcxE_8sdcwctzC1HUJa4YYaVNOYVawlw-094Mc-nULY7O9r9gsNyzDxLVZoP1NeP9OOLk3z-XA-eQpHqLyMjhQvLC7L71HVVfqxj1BZ4W65nJDBBr96FVz4tJOIzZQUDYdVkFw1h8u2QXjL6wfm5JV_iDrDxrhJrLcFaYlWegzHIi-KWwoFy9yNor6EIitjnQkwZxlZU9nmpJmn8xbtI1Bwm-rHwQ31hfK6nZH4rCG7ng3Mjw.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/qlYDeFU-6CdDhRCPdBqSSI8NYnTjYf5Lue40j3_ed7pxz0oIXPgnzXr9-sOr9Q-ykQsz9WpjIZxHO-i-6ilpvXPPp9arj9n4W0gxq5I1uictXQbYSayQwzmN4HROXeveHIoIrcV3CiDwowjrXuSYre0Y5qrWStGyTpIqY-u0qQzu8jWxlGguMq-3YK-vEyEOBv_pJqesaBBViwk_LsgA2b7jr-k6WxofFwGQaFBVoi597X4X5AuRGZBc8KV8FTDEXXyp2l_S5hYQYQLnXRuQuxiDoMlZLq0Nzdm5ytG4HLCTxExFt1iMozmmYCK5ADvCkCQzD6t0m6NgC7iyDFe_fg.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/HPLNxtDFCVDAPWouxoEuYJihe5-BKnuttGBlPvMbfV3eaFVO0YnqSW70WcdunhQTql8-sQZ7S23XAPneQZG9RPDrArii7tytIIN73Jgep12-XjPAoloRbWyQ4cLay9_92GJy-XTcEAixDpodDggn0kOrceAezXGHE0xgYX_g-1dbMOGIveLWI-0jL_OMH6C6sumqqXlJw1ZmEqRi640hJcrD9m5_iCnZAFk_Ym4Yjo2rPXr5guDE4GycXQ8fWP0ghYfoz-IuN616VQeovQB91W_yRES50OSDmdGTQrICvzQfdqGQi18dwhySFvtJD2zm-U_eC3I2-9MagDRJWaFbxA.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/Up_9s08eWmFtQDooYfsJfo0mgsNU3_DSE6PpDXyZYUXdClxl-aYT2qEGqEIMHQUN05MbHfjIYIIweVYZj_vpsv9MlGZ1yvSdE1jcRlSk9SKubFa2gMtOVE_XuTeyQBH5TovxFxamOV93nW1hxi95gtKiiIGT0IULYLOF-bXtYhph3n7FqziOIE2hh4u95rpYw3-X4HrCgEivieJpOFHmGvKT7cOoHSVlqrjlfCO6rR9Csdy0_1RVpUnZ50BazHaltAtckhpBXM8_svbd-bVBAVA1LUWN-6N9HqVvsDcHtygjx_Igviomc0Xm29Q1ze86t8OVlSmmzgxulMl_WRDI8w.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/D4ZxBPwIAAM6rEMuCkeIj2VMB_W9R4tneaT937oKv39h7YVA2Xz3O_Bi5gT4sTZzwBGBrT0D4aGAy-5QZjEcOa57ynO1NwPtTtHTuHAXYgYjGFFwuV_eSSoKsVJuEYA1DHuk7GoysbWKTs_hnJuK6KtbjPs6Skv0aQyxx-K3jKqFMxE_cTU2yV4XjjnBZOLSXEJfIHdtamv1P58MabkMW7654dtLGlQy_8BadcdyQVyNupmqBw1sVRr7FE9koSTJ-1dQ0uZdd7r9_js33LwUKoS_bTgv9e3J0uOB1kJW7crvikvU4Pn-MHasUUgFGr_1D_Zwq3IzKo3uRSOzap340A.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/KbVwSc6NqzgfGUAieNLRcitwdQPyk58sfyV7Qw3cBno07xiQ9Fi5nvfKiFqaNZ09u76FOdoWt0g0RKoj_1uHTQyGzrHATid9u1PaEaPrZsu_sRWpp-H21o_NMi4IHsweYlij4v6lbtyQGFEI_rhCNcBKWnskuW4-ENPrznfUtd2yFPokvKsySC_zCHLJZPdQpB2C1IqHnh3oFWS-AHBncy4tJYVflaFYJRBg_cCCmx2v7mnddmDgunI04_ud4wro6mhw1gvej34vUz1SfDfREgxG3FlnQedEoL0DVl4borUjQIXF48isoWLWw3dqYqUSrlFf2aq2w6Dw56xxQVQNLA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 227078,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003eدونالد ترامپ، رئیس جمهوری آمریکا، روز چهارشنبه ۲۱ مرداد با امضای یک یادداشت ریاست جمهوری در حوزه امنیت ملی، اختیارات نهادهای فدرال را برای اجرای عملیات سایبری علیه سازمان‌های جنایی فراملی مستقر در خارج از ایالات متحده گسترش داد.\u003cbr/\u003e\u003cbr/\u003eکاخ سفید اعلام کرد یادداشت جدید به «مرکز هماهنگی ملی» وابسته به کارگروه امنیت میهن دستور می‌دهد برنامه‌ای برای اجرای عملیات سایبری مشخص علیه شبکه‌هایی ایجاد کند که آمریکایی‌ها را هدف کلاهبرداری، اخاذی و دیگر جرایم اینترنتی قرار می‌دهند.\u003cbr/\u003e\u003cbr/\u003eاین برنامه با مشارکت وزارت دادگستری و وزارت امنیت میهن اجرا می‌شود و امکان استفاده از توانایی‌های فنی شرکت‌های خصوصی آمریکایی را نیز فراهم می‌کند. کاخ سفید تاکید کرد تمامی عملیات تحت هدایت، کنترل و اختیار دولت ایالات متحده و مطابق قوانین آمریکا انجام خواهد شد.\u003cbr/\u003e\u003cbr/\u003eبر اساس آمار کاخ سفید، مصرف‌کنندگان آمریکایی در سال ۲۰۲۵ بیش از ۲۰.۸ میلیارد دلار بر اثر جرایم سایبری از دست دادند. دولت پرزیدنت ترامپ می‌گوید همکاری با شرکت‌های آمریکایی می‌تواند توان ایالات متحده برای مختل کردن شبکه‌های جنایی خارجی و حفاظت از شهروندان را به شکل محسوسی افزایش دهد.",
-      "date": "2026-08-13T12:37:13Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3520,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/LC9Qx_UY3TlF0EXyHr5FtfdMcI-7X6SDEtF-thPyuLPAxM5Zhm0jcPYd7XwPSRbpoRG9i_foX7NpI2U4uGmfL6re25asD537dysfiqCsTf3hQeKAuO-BDvxeffaFNNk6lk7mNyhRJrE6pZ-WxeLbfYtsbNkyeVmA_wqdrQVcOxuGfT5v0l_ISI5JdxEroLofqVk_acYjgv3hgt2GmvYtTVxnivgaZW632x0kOFfae5wCAlNZ9SNHGyhlfJoMFv6gF3CQZBfK9ebf8bEwTcUwN5sGXan8ctdemZ5Gh-ed76zcwYVxYkTObTL285-uPrlw3a-s-OKTwUHsyMSEcju3qQ.jpg"
-        }
-      ]
-    },
-    {
       "id": 227079,
       "message": "تازه‌ترین گزارش مرکز رصد جمعیت سازمان ثبت احوال نشان می‌دهد بیش از ۱۴ میلیون زن و مرد مجرد در بازه‌های سنی فعال ازدواج در ایران زندگی می‌کنند. این آمار در شرایطی منتشر می‌شود که سن ازدواج نیز روند افزایشی داشته است.",
       "date": "2026-08-13T12:48:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3360,
+      "views": 3590,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -88,7 +32,7 @@
       "date": "2026-08-13T13:10:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3240,
+      "views": 3470,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -100,7 +44,7 @@
       "date": "2026-08-13T13:14:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3410,
+      "views": 3640,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -119,7 +63,7 @@
       "date": "2026-08-13T13:51:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3200,
+      "views": 3530,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -131,7 +75,7 @@
       "date": "2026-08-13T14:11:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3040,
+      "views": 3400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -143,7 +87,7 @@
       "date": "2026-08-13T14:45:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2460,
+      "views": 2860,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -162,7 +106,7 @@
       "date": "2026-08-13T15:01:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2380,
+      "views": 2840,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -181,7 +125,7 @@
       "date": "2026-08-13T15:18:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2070,
+      "views": 2560,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -193,7 +137,7 @@
       "date": "2026-08-13T15:21:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2009,
+      "views": 2440,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -212,7 +156,7 @@
       "date": "2026-08-13T15:31:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1850,
+      "views": 2350,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -231,7 +175,7 @@
       "date": "2026-08-13T15:55:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1340,
+      "views": 1930,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -250,7 +194,7 @@
       "date": "2026-08-13T16:01:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1260,
+      "views": 1880,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -262,7 +206,7 @@
       "date": "2026-08-13T16:17:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 831,
+      "views": 1520,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -281,7 +225,7 @@
       "date": "2026-08-13T16:20:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 804,
+      "views": 1620,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -299,7 +243,7 @@
       "date": "2026-08-13T16:25:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 643,
+      "views": 1590,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -318,7 +262,7 @@
       "date": "2026-08-13T16:35:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 254,
+      "views": 1330,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -337,7 +281,7 @@
       "date": "2026-08-13T16:36:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 161,
+      "views": 1470,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -349,6 +293,56 @@
           "width": 1920
         }
       ]
+    },
+    {
+      "id": 227097,
+      "message": "پرسش «میدان»: تلاش حکومت برای کنترل اشکال مختلف زندگی شهروندان از جمله با پلمب کافه‌ها به چه معناست؟ آیا حکومت نگران زندگی غیراسلامی بخشی از جامعه است؟‌",
+      "date": "2026-08-13T16:40:23Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1330,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/Z1SExIrV04BS-o0_9qK5E-2IXHTpyu23pDVa9du9E4cl9VSX17Wa-DACSzur0JEoMfYVBKx4eJnAhYvm7pxQsuvt1pOprHZXlvw86zucIP42QiF0vvV6-Ckg6iHUiuZCeRMbUMNDXLKHR13TpywEytq65uECqKZEWvTSxZumf3TEHmvYGvLqf2hNBqFAY9NnyfOOsyMRC1kILZJjBFoRgmNDGu8BXxvzyjgRMuUCsDNSIgkDIgsghuSgrBLBGVMG6TpjYTUBD8nxfxCTOrws36yutOCAWM6-s6KrhBVksgXm7UCxATxgKunOaWWfkHFszbf9qPYMPH_T-8rEHmta_g",
+          "width": 1280
+        }
+      ]
+    },
+    {
+      "id": 227098,
+      "message": "ایرج؛ صدایی ماندگار در حافظه موسیقی ایران؛ گفت‌وگو با علی اصغر شاهزیدی",
+      "date": "2026-08-13T16:43:41Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1290,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/uABEPL2DyLx7kULBY3p4JNXMD-NQmuKTaqCPpz9_LzUFvpuu59VaD8L8kSAR3xH4c41gizhpPxB3aZxAZF1K2Qp9kFpK_DAO1kTtYugm4fjvuZ-0p-Fxs6uknGooCz7qCb3Nkapm3JLd4pb5ApNEkcthOQoGQjB_Bo5lrOEVa-9uclPQCXyXHSRenaegn8j-H5nFhHukaoj-wE4LSDbsSonFZyY8SMa6__zchEKDbp2JkVAf4Ut5hjGBfDSg43J7TsBWLO-zA_EmAERRrXEQ2wEcUtJt57Lz8ucbaLlR0oTfb95jktkVDSSbvJlb9N9EOOO8HIUiI0qQW3ydfiOA9w",
+          "width": 1280
+        }
+      ]
+    },
+    {
+      "id": 227099,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eانفجار بمب در کریمه یک افسر روسیه را کشت؛ گزارش‌ها او را فرمانده سابق اوکراینی معرفی کردند\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eانفجار بمب در شهر سواستوپل در شبه‌جزیره کریمه روز پنجشنبه ۲۲ مرداد یک افسر ارتش روسیه را کشت، و مقام‌های محلی اعلام کردند زنی به ظن انجام این ترور به دستور سازمان‌های امنیتی اوکراین بازداشت شده است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/bomb-kills-russian-military-officer-in-crimea/8185993.html/?nocach=1\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/bomb-kills-russian-military-officer-in-crimea/8185993.html/?nocach=1\u003c/a\u003e",
+      "date": "2026-08-13T16:49:09Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA"
     }
   ],
   "last_updated": 0
