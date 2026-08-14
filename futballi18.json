@@ -8,30 +8,12 @@
   },
   "posts": [
     {
-      "id": 90819,
-      "message": "میشه یه  عکس از زاویع جلو اون خانومه بفرستین",
-      "date": "2026-08-13T22:26:40Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 60500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝗙𝗨𝗧𝗕𝗔𝗟𝗟𝗜 𝟭𝟴+",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/nNrpfbOENodeVf3ei43HNf7jSK3ToZH8JcHkS4IjrWKAK-x0BQuDeqZrT2eiKesGDi66SyIa3vzKhaj_Fwk5H_P-auGo_hUdJOIAPWtHY4p6sXWlZdb-mgS-ox8eogS6gixmBk1MdPsqO5c0_1Rqxtrd0mE1svT5MiRS9LZJU41H330cX_XsUXWvXcNnMG9c284amzpHxHXAuj7ghymD9pYaUDOexzWQsfHYiuO5EDFV7gzvzLjA5SGdh-deauvErTCzee_Lyl4jHVuP7twj9U_GqKQ7r44iP5dSaRNlsxy74MtbQTyJsMJvyis46hizaaek6mWEYnjlFPRhIrl45g.jpg"
-        }
-      ]
-    },
-    {
       "id": 90820,
       "message": "میشه یه  عکس از زاویع جلو اون خانومه بفرستین",
       "date": "2026-08-13T22:54:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 61400,
+      "views": 62400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -49,7 +31,7 @@
       "date": "2026-08-13T23:08:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 62500,
+      "views": 64500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -67,7 +49,7 @@
       "date": "2026-08-13T23:08:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 66500,
+      "views": 68500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -86,7 +68,7 @@
       "date": "2026-08-14T08:41:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 44900,
+      "views": 47900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -116,7 +98,7 @@
       "date": "2026-08-14T09:04:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 42900,
+      "views": 79700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -146,7 +128,7 @@
       "date": "2026-08-14T09:47:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 36200,
+      "views": 41300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -164,7 +146,7 @@
       "date": "2026-08-14T09:59:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 34000,
+      "views": 40100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -182,7 +164,7 @@
       "date": "2026-08-14T10:23:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31600,
+      "views": 36700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -200,7 +182,7 @@
       "date": "2026-08-14T10:54:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23200,
+      "views": 31300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -222,7 +204,7 @@
       "date": "2026-08-14T11:32:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13500,
+      "views": 24700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -240,7 +222,7 @@
       "date": "2026-08-14T11:48:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5110,
+      "views": 19300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -258,7 +240,7 @@
       "date": "2026-08-14T11:48:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5100,
+      "views": 19300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -268,6 +250,24 @@
           "type": "video",
           "url": "https://cdn4.telesco.pe/file/D3lVBX97G6s_Q2go3dQCjjd5zgeRJXSqQiDDf4OjGzZ9b2MHukB42n05FzADS8YMCgbj1LHBJn7kDv_a1w953ILGzUx-g3XvHlElXkrEA9wV1fx4oMWgEXT0EeMkl-HzwxKW7LzZfEylMTI8dlhvIMSE4cJLCjnh-NaxxRzQOL4hEmiBMhyBoTGPaf1a5Uog5lVICn4iyCsqh_PDTvkfwl0M0yoXvYhkpAZepVFED_fync8OhoI2Rfsh2P2Lzcq6SHCAb9q47ez10zyInJQAkpPRbglmyr9a3c7Dxi18WaKI82lD8oIrH7rW4YNTbRQeRTXBkpzsCjADhRwSAlOYGQ",
           "width": 720
+        }
+      ]
+    },
+    {
+      "id": 90840,
+      "message": "\u003ctg-emoji emoji-id=\"5438116989799269586\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B5F09F87B9.png\u0026#39;)\"\u003e\u003cb\u003e🇵🇹\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eاسپورتینگ رسماً گفته که برنامه‌ای واسه فروش لوئیس سوارز تو این تابستون نداره؛\u003cbr/\u003e\u003cbr/\u003eولی اگه هر باشگاهی بخواد این بازیکن رو جذب کنه، باید 80 میلیون یورو بند فسخ قراردادش رو پرداخت کنه و بعدش می‌تونه سوارز رو به خدمت بگیره.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FUTBALLI18\" target=\"_blank\"\u003e@FUTBALLI18\u003c/a\u003e | رومانو\u003ctg-emoji emoji-id=\"5438149073204976908\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B9.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇹\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-08-14T12:22:22Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7110,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝗙𝗨𝗧𝗕𝗔𝗟𝗟𝗜 𝟭𝟴+",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn5.telesco.pe/file/Kpa7cWlrUaWUp_euCncVk-WSYdHi3UDb5rTiXU8tG256w0w3CUAeuNYA-Z0B4eGfdPeSYRc9-cg56fj3_cyQ0xlH6XYVck1zD7-NCwKVuWx5D3Km0R0nu-Fg0RVb_fy9BrwsQNnGwOcqYzeuggsUE_xMSRBbEc4_BPXeUlbABth7TbBGFWKQ1sHpf0K6wkT5HFfGoOiujP04tJK_-dd5ELWg6yf834E-j2n4jyf1Y54haGMU-oPWWwmEccdAHNvaszQ9v-N8ftiKZv18-cqeJxj0iSyviewQiAQfU-C4MTF2Lcm08rRupaxk6UdmGrCotTl7d6MZHz7gx7y05tVmeQ.jpg"
         }
       ]
     }
