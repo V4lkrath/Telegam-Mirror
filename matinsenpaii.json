@@ -8,126 +8,12 @@
   },
   "posts": [
     {
-      "id": 4930,
-      "message": "دیپ سیک یه ماه پیش آگهی استخدام متخصص Harness داده بود\u003cbr/\u003eامروز هارنس خودشو ریلیز کرد\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e توی زندگیمون باید مثل دیپ سیک سریع و هدفمند باشیم",
-      "date": "2026-08-14T14:42:56Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 4931,
-      "message": "عالی بود\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F98AD.png\u0026#39;)\"\u003e\u003cb\u003e😭\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eاینو چرا پوش کردین مسلمونا",
-      "date": "2026-08-14T14:59:22Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/QWUjq8bOw7W8UmMghamwWrrinGqKV1dYEnSpoprQmT1luabQzafwN6AUNss4nNCHK5zi3N8o2Z59bsDjSfv97xJo_TDgbXwmAZXqF9tTPeJljPjEkAXPcpTO7veHTcUbL2O55ZQmVME-YNAdeyF8pNoCQgfwhmD2BHCReUI2l2t0IRw-8OBBqSZvISENR0wAIkcgTwJnCalfwCOUdPTIgq354WECZXVSmcn9pcikWUCKkvtnvGTLv7pvOvBq6ba31xISV1ozifS10y-aGPLB5J8vT519C8sDsY0qT7aOspH7AZ0Hp0mAp4HCF4agqkE67a0URFmffZU4LomfWybk5g.jpg"
-        }
-      ]
-    },
-    {
-      "id": 4932,
-      "message": "دیپ سیک هارنس رو دارم تست می‌کنم، خیلی باحاله\u003cbr/\u003eمحیط UI اش سبکه، و کاربرا هم توی ردیت خیلی گفتن که Caching اش عالیه. یه بنده خدایی قسم میخورد 4 ساعت باهاش کار کردم با deepseek pro فقط 60 سنت مصرف شده بود.\u003cbr/\u003eباحالترین قابلیتش اینه که میشه Mode شخصی ساخت.\u003cbr/\u003eو از معایبش هم که بگم، درسته UI سبکه اما کاربر عادی ممکنه یه کم گیج بشه\u003cbr/\u003eو همینطور فعلا توی فاز تست هستش\u003cbr/\u003eو ساب ایجنت‌هاش هم مشکل دارن\u003cbr/\u003eپیشنهاد می‌کنم ستاپ فعلیتون رو ول نکنید بچسبید بهش، صرفا در حد تست\u003cbr/\u003eمدل سفارشی هم که می‌تونید اد کنید طبیعتا. من الان OpenCode Go اضافه کردم",
-      "date": "2026-08-14T17:16:40Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/eZY8r5PseT6vCRi0Ovio0ZOvsdQNDHG1UHyG0InRkkt5kd0qmAaIGrBcFTn7XHN4aZJ6isEzDcj2IUlDhrraSqzWQV3UmvbC7N00SqYNFoL5ajAZyKYAeadcDBOLGt5NFAa46KKqSf4xWkU78YI4gL3qoT77xIG8XgTYXZZpciadBT6VMGEunRaUxz3CAQ6qHVa21tjoq0vE5m3yA4mDqPLCkBNz0fvqN-rA_Tx-Den46aOSSvAMeeM0zjg5EXLC6QrajTPIdK4Se5uFez8gGXei3DSM_PkwvOB-mSi0RILHA6rtsvY5BOQ2AJBiLiPDaqS68WX13m9AjD6pRbqUFg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 4933,
-      "message": "فرق Cache Input و Input اینجا مشخص میشه\u003cbr/\u003eمی‌بینید که دوتای پایین، مال هرمس هستن. 220 هزار توکن مصرف کردن اما هزینه‌شون 0.001 بوده\u003cbr/\u003eولی آخرین ریکوئست مال هارنس خود دیپ سیک بوده(اولین ریکوئستی که بهش زدم و همه‌اش Input بود) و با 7 هزار تا توکن، 0.003 دلار بوده! یعنی سه برابر\u003cbr/\u003eکه خب چون دستور اولیه‌اش بود منطقی بود. صرفا می‌خواستم فرق این دوتا رو توی عمل بهتون نشون بدم",
-      "date": "2026-08-14T17:20:43Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/WIskxBn0hiG7wTmnJ8bCT6Gwd0j2Sh-pncj2Omce2rs12CjOAuhI9V7NlaMrHHu48sbXjQM5XQCJoWoJFMGfuCx5j5tMbzH-ktcP7CFNR3d9h1l1kuFmOhTZRZjogxy0aWk0V72OlYYaYc4BP2yJSg5-pxHI65PU2INuNmHgg1fE2VeNZq8NMVhkxw9fjwtHtCuaggpS1RGErmD_rpkS2BNC8K5LaFKn8G4gbjDqXoClQpCTqyZlnvcOS-Rirsyp0qJC-T9TzY_jBQu-9REHl9J3FDoitnItG-cBjABgqXxTtK0nGEkGTjMD1764nop8L85XjCsrfO49x8kHEQWKeg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 4934,
-      "message": "یه خورده هنوز امکاناتش کمه همونطور که گفتم\u003cbr/\u003eاما واقعا compatibility بالایی داره با خود مدلهای چینی",
-      "date": "2026-08-14T17:33:58Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/ZyQWF_n0JhEtaHjDKT1bj41pQuNiF-vcAhAu_6_o1MIYte_Zez3AgWq9MYKB7Oxq0xsheEewlQr7EgYyEUujAEXjUE-Ay66QFCfvU-divTA99e9D3WR4c-k5V735wa5vbrQ-D92V6yEVqpJVAWHQC5nnqyfoTrTe97FFXY_EYfQxofR6w70kMvIjC64LquC00hrszGw2DVddrPfIZPuizt0YD4eClp0mPvRFzuT2MiUGoQzESq-GXwCTAHg08cftyqu6DzWx49MES4aN59vW0v9MFpvEM5lTqwWyr8_EFrnbjJpHkvsX62gmwFmk13GoTV3rDeCoqydz6qLQg7gA0A.jpg"
-        }
-      ]
-    },
-    {
-      "id": 4935,
-      "message": "شرایط عادی : \u003cbr/\u003e•  \u003ca href=\"https://github.com/WhiteDNS/WhiteVPN/releases/latest\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eدانلود آخرین ورژن WhiteVPN اندروید\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/WhiteDNS/WhiteVPN-Desktop/releases/latest\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e•   دانلود آخرین ورژن WhiteVPN دستکتاپ \u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eشرایط قطعی اینترنت : \u003cbr/\u003e•  \u003ca href=\"https://t.me/whitedns/1377\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eدانلود آخرین ورژن WhiteDNS اندروید\u003cbr/\u003e\u003c/b\u003e\u003c/a\u003e\u003cb\u003e•  \u003c/b\u003e\u003ca href=\"https://t.me/whitedns/1413\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eدانلود آخرین ورژن WhiteDNS اندروید\u003cbr/\u003e\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003cb\u003e•\u003c/b\u003e\u003ca href=\"https://testflight.apple.com/join/3htm1Whc\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e دانلود آخرین نسخه CoreForge برای آیفون\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/whitedns\" target=\"_blank\"\u003e@whitedns\u003c/a\u003e",
-      "date": "2026-08-14T17:44:53Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn5.telesco.pe/file/fJAPHnyBF-yWy8wQFMHdTsqavlSt9xJZdcjXUcohGH2ObD4hnpW1GRjHAMGzfGFLdq5FiZMOsoks6rQbVn3Ay4P74MTR9_jYnEMSEDcO4p-8LUyhWv6kLJ90OKiZoCFCVFB-CrkgaeM-k-pPxiHN1JDOgo7hrcREJUQs_PoT4F3aPCf0DfiH25cwa2eo4cT2UtI56MXqZkrdkd3xuuf_Gqrd9A1QlcJxB_5iv3EbcSluaFmgtWcOQ5zJ3XZeqN51n1efkfrlyVwld8iTF-urWQYbg9ROk3p5Ny0yGwKugGe-GaDJjH3IrfDxCbDgSlaHhNWEi3hMHpVOwZhEspiGIg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 4936,
-      "message": "به همین راحتی.\u003cbr/\u003eتموم شد و رفت",
-      "date": "2026-08-14T17:45:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
       "id": 4937,
       "message": "نتیجه‌ی One Shot دیپ سیک پرو روی هارنس خود دیپ سیک با این پرامپت همیشگیمون\u003cbr/\u003eبدک نبود. میتونم بگم تقریبا هم‌سطح Kimi3 :) ولی با هزینه‌ی 50 برابر کمتر",
       "date": "2026-08-14T19:08:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28600,
+      "views": 28700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -145,7 +31,7 @@
       "date": "2026-08-14T20:07:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28300,
+      "views": 28400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -163,7 +49,7 @@
       "date": "2026-08-15T08:29:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23500,
+      "views": 23600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -175,7 +61,7 @@
       "date": "2026-08-15T13:44:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15600,
+      "views": 15900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -187,7 +73,7 @@
       "date": "2026-08-15T13:46:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15700,
+      "views": 16000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -199,7 +85,7 @@
       "date": "2026-08-15T13:51:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14900,
+      "views": 15200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -221,7 +107,7 @@
       "date": "2026-08-15T13:59:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13900,
+      "views": 14300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -233,7 +119,7 @@
       "date": "2026-08-15T14:00:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14300,
+      "views": 14600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -245,7 +131,7 @@
       "date": "2026-08-15T14:00:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14300,
+      "views": 14600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -257,7 +143,7 @@
       "date": "2026-08-15T14:22:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13000,
+      "views": 13400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -269,7 +155,7 @@
       "date": "2026-08-15T14:25:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13100,
+      "views": 13700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -287,11 +173,60 @@
       "date": "2026-08-15T14:43:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11200,
+      "views": 11900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 4951,
+      "message": "\u003cb\u003e\u003ctg-emoji emoji-id=\"5224450179368767019\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C8E.png\u0026#39;)\"\u003e\u003cb\u003e🌎\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e انتشار نسخه WhiteVPN 1.4.0 \u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003e• ظاهر جدید و مدرن اپ \u003cbr/\u003e• بهبود اتصال بعد از قطع شدن \u003cbr/\u003e• حل مشکل VPN Mode \u0026amp; Proxy Mode \u003cbr/\u003e• بهبود تست اتصال. حالا میتونید کشور رو فیلتر کنید و بعد تست کنید. تست هم به دو مرحه real delay و تست سرعت  تقسیم شده. \u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5224450179368767019\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C8E.png\u0026#39;)\"\u003e\u003cb\u003e🌎\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eدانلود آخرین نسخه از گیتهاب\u003c/b\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/WhiteDNS/WhiteVPN/releases/latest\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/WhiteDNS/WhiteVPN/releases/latest\u003c/a\u003e",
+      "date": "2026-08-15T17:05:50Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 826,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/GtDHvNGmNyatInKM_ZJ26pXv3tjyHv308O92BZtWoUdVVhGVshvvee7W7JWCTY0rhMzBM_9b640V477hHG2ZkAnh3zg3_Wd1_hMcnyEQhBsb739Lkx4QF2kLCdlEcyT1oolSYVjcEDOLnx7qioXUHD7cIEwhZAboblaYuVfplFiLHMvAVYDljL0MvxNZpt22tw2qkgEb-B5w3rh0F_ablPkWH1JkO6AQA20uNxdUQToGW3DpurdQ_YjZnfsBAgEkKMzyKvCk1_er3JF3rD4fqZYRdHcERVV5xqUr95ouBduGQyZ_h86rGyTREd9O_cUDgfz3rICY0CYxF2twUrlJoA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4952,
+      "message": "",
+      "date": "2026-08-15T17:05:53Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 729,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 4957,
+      "message": "\u003ctg-emoji emoji-id=\"5303138782004924588\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92AC.png\u0026#39;)\"\u003e\u003cb\u003e💬\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e دوستانی که فقط با فشار دادن دکمه کانکت براتون وصل نمیشه یا سرعت کمی دارید، از این روش میتونید تست سرعت بگیرید و بهترین کانفیگ بسته به اینترنت خودتون وصل بشید.\u003cbr/\u003e\u003cbr/\u003eتوجه کنید، هر تست سرعت ۱مگابایت از حجم شما استفاده خواهد کرد.",
+      "date": "2026-08-15T17:05:53Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 893,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/lKtdmdR3TpNzvYEJOOfXThJSjszF1mRGaWJRWsYUvMaboBXf9j13yyrgrQHhP9P1d7gp_u_V5WoncY3ecoCaFZ_0d1kpe8I-qX7NMS8V180eDauwAg1hm19ywMW6pjadEzOEKMOaqMe4RE6uxJVgBSw0K4S3kyQFpar9Fp47rER7UgZEKDzGtOMl9Ok3AdMAxi7sd3d_ZT2gLfYl8vtWS2ucdJ98w61v_VaIhKJfnG8pAbjbMOt3qdo5XW7qQWBRcKKMoKYOeNt4m4zOeF6Pbf9vAHI7GY901_jnOrUWlRFpDXaChHPsqbEuJuZqbK8nDijxZ2PePYawqzKkCnQuzg",
+          "width": 628
+        }
+      ]
     }
   ],
   "last_updated": 0
