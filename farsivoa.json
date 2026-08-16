@@ -3,107 +3,17 @@
     "id": 0,
     "title": "Farsi VOA",
     "username": "farsivoa",
-    "photo_url": "https://cdn1.telesco.pe/file/ibJzKKG9bh1aL9sYksre2S6qHd6bMnD8Gk3i757zc9ip5RWCP2_xbEHx1xukZ3lzFXXs_O3aa0HXvBGU6oVD2LNx9mX_Nk12ZLiOFypfIHdRKtfrDLbE0m9SXhU2gjX2Woyn5zSYiA1BsfVJ1oaTu1GmZWHLXxHy_0D4vvhlbkcE3KhC2Vwzr4N7W2u8J3nUYca0SRveigi1mnAnOBZiT19DMNW8XebpuTMhHGesHFPPjtIdPcxupZN6J4WS_pI4VkuPQXcll6e3zr1ibjWg5W2d9jbrv4ozH-puFVfsXvVdquRn9L6clK2cSL3itpyVq68G3boK7jQJKbKsDGsPUA.jpg",
+    "photo_url": "https://cdn1.telesco.pe/file/tQDREl5-bKhXPsQCToAcNUB9y-MNf_m3aMP_KAf0_IZHVjntyfBKN86S2WoGebizItdl20V6S2XlqQmro34R503EUuJvAFkvXeBTDDDklFmDZUQ67WEZ-SmjgBiZ0QYctGDXAH0cH7HUrz_xsOFBIpVkmUdPAHXkDQJjM_MNgfx1socoWR6aDxM4WAgeYKonmxJ5RPOqWThCWnl0o8jUjyFRTsKTUrsGxlfVpqX7DwneCOxATK04AIKzGVwebs6ebXCgE1_ZhSbfLBIf-XmV0YXN9OYV34OGDFup7C1rAqUxHY2rlfmzHt9CnoyQXxnjpwuFmo8-VbPnR46PvUwz1A.jpg",
     "description": "تنها کانال رسمی بخش فارسی صدای آمريكا\nعكس، خبر و فيلم هاى خود را براى ما بفرستيد:\n@sendVOA"
   },
   "posts": [
-    {
-      "id": 227318,
-      "message": "جسیکا میر، فضانورد ناسا، تصاویری از خورشیدگرفتگی ۲۱ مرداد را از ایستگاه فضایی بین‌المللی منتشر کرد.\u003cbr/\u003e\u003cbr/\u003eبه گفته میر، به دلیل موقعیت ایستگاه فضایی در زمان خورشیدگرفتگی کامل، فضانوردان از آنجا خورشیدگرفتگی جزئی را مشاهده کردند که در اوج آن حدود ۱۸ درصد از سطح خورشید پوشیده شد. این تصویر از پنجره بخش روسی ایستگاه فضایی ثبت شده است.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
-      "date": "2026-08-15T19:05:35Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3640,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/bxBx91ecdPEg1nGBZNI7ET7GmlCVVDOw9nIQCjNm_xDsgGHSDKXWh1AgzRSC6O6oO_aqajceBV3YMgOmjgm9dWCgbHKggxHPMa9Zr0w8x0QzC-Mk0XRlt0xJuBatZchciLu_Zy4SRMat64DTbz4VpSvuUTlpbbIZNtQyF2rrXrcQabZgV3UCFHCC-LwQMd36ygacijGqKRzCT9VGoZ1EexR7GXVTCyhSzxK4xsJr6Uqk8yKfi3bYYjOkb1WYHVpwb_63UORsQ4u_KrDbgty286cE40EVb8YXIJ9K92QNOazMC0jT62LU-V096pbvo0dFCTK5RDkZDAbfRRVcjqhm8g.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/sQaDKlU3IUKG3mqlHizBWMvlLQrvWV5kgy8mdlzl8wUgc0exbp7zYI04WLEszfO9xVkdALhAKBl2O-NwZV8b2ONL1zGTaPOq3w-fZw1X278Ba7tWg8N-Cn1eOaeNVCdQLCbWAX93RMm5Fk9Uq6i7ObHxabJO1WpqJ8G2A4XDMpfOEsdnX7SfVOxhMwLWDkFtgZqVSZ0-nKXZmXTykxJibw6A99NgVKLP4bbHoDswBDXCKc_2sVN-vBZOIVENOEIbFLTdNMYNLwhUnUZVpb7M5Od6Z_mhSeOxUpgC6TXdQKWE3asS7UFhqGS_4Ty53S_LIMMBCGtEn-3F0XUCUMwQ9w.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/r0d6i8KhT5hpv72S_FaE3uJgwbF9HGUqExB5PUjY2PfpJS1QOC043TZh2wvBppwTU1KHzmthHwyz7vgL9W0cp3TgBna7qek6InB0rQx8_AXiTRLaUOe_JSlKEzAeHKiG6FFhq7c1mIKJNTj1XVI9SvkopcpyjfTa12KU9FGqK15L-pSmLhAYGnb8NbjsMePsOZsDwH896nVIrdlHxIuRU6310C7_DxUELkigFgA3n6236zQXpfx09qND_F84RaAjZMmRZzM316ezTW2ASZv3eFIDqpTzOD6DQxdgZcIZEwYYoG5kdeXebInjKjbmX2R4ZDGJcmb8ozM90lEnyg-Z2g.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/TVGrZ0ytILcBnS_DuofoQ64Tg0JP-A3aMsVTlyO_wLdewIN8bGbb_lLQQ3DGmL5DqLCwKW2Py3hxIk3Ji0dkbT4564PyEsrXzy13PtzEAGRQzwRi-Y_xe-QsGkisRr_5hf5RJ8Uz83T08CV3G7GMsenoZu1NL1QBks-LcaH37TwQXg3hzA1LTNar-f_ittjuLG4V0h7RMw597JmGVci-_Nkk5uykoyzS7QrVbHk31mdUD4kz8Uj4n8bmjThQ3oWA6wUjlSI3AXXIxs0nLeZHhjJagldTnpgwVXud4bUfyKPJiCHe5euC8iw0Vp7esEQX8SADhT0Sg2rNwal1QYcXoQ.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/IqTD4MJyttUKMaxGLDRDVzfmkO_f36_9Vb8Ffi96rywmitGcUSzCnKKv_KVWZxsxE4wqvD5CzQR5Z5cRkPc3IpIhdAaBNS0eHa8jKDNEl_luzWSIe9lghrktHNgIghWcuhk1XrbuXzUjpynLZOt3uSPb45u1xQwwYEsSOOP4aUtDeWHE_kNO6a4uHU7KqoP_gczVAFUepmEpjMrQxaeZC1j4Xa_sO-hOk0OOxt9d_FVvusH0mF2qm4ntfmtTQUbNfK45Uh_Wi52XrzQfON5xY_GUk5uA43tqEzbwqoOPvVC3TtHEAi7UEPmw2PFoUxUSzIO5lcj8FVL5rq9zEoRY4w.jpg"
-        }
-      ]
-    },
-    {
-      "id": 227323,
-      "message": "در گفت‌وگو با معصومه طاهرخانی، کارشناس اقتصادی، از بدهی ۱۲۷ میلیارد دلاری دولت و شرکت ملی نفت به صندوق توسعه ملی و نحوه مدیریت درآمدهای نفتی در ایران و کشورهای عربی منطقه گفتیم.\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
-      "date": "2026-08-15T19:25:15Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3290,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/REJsYXoNe3BEuEMYGTDpwpX7yS2EgWJZmIq41R5HepmWudjWyBLJSXhyRDZ7KAkU2IG2i2Ebx2VFtdq4UQ4phh8CDPjPS9pzEw3ps41yVmsRZce8yT4GZ2MQyk1iLsNH7uxTXw26KVRYhHrTmF6BYtGcKBr-5glrICJHffkhRxiB-sXKCkJoV7YTQIIBD5VvgwCGY3en4YSozcOC5odRxv9KrydtSSUGGzfO7JeJ7YpsLNj5ovPLP6OeP3q-91XDFlEw9nacAzePQEAYCmKCmKVmjgV9gMwNp-Yh8j77sHfaNefYB_lbY8o9ESjtTMu2aPD49Sf9IU0LPrPSff98gQ",
-          "width": 640
-        }
-      ]
-    },
-    {
-      "id": 227324,
-      "message": "در گفت‌وگو با مهدی عربشاهی، ادعای تازه یک مقام ستاد کل نیروهای مسلح جمهوری اسلامی درباره زنده بودن و نگهداری سه خلبان ایرانی در قطر را بررسی کردیم. عربشاهی می‌گوید این تغییر روایت، پرسش مهمی درباره منبع اطلاعات تازه حکومت ایران و علت علنی شدن پرونده پس از نزدیک به شش ماه ایجاد می‌کند.\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
-      "date": "2026-08-15T19:29:50Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3270,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/c9ZZk-fCQrKHeaj8u3VrFkZbDsUjUbKwN9_WDWKuDB69drMlVRYZpA2Ywd9q1mgiSZtfmAWn1jKB-EurTeA4Y-sdbLPfHGWCyFDYFlrkMq6TDvrvke5gK4JbH7bEf2ihAyykkUfl8jV751suuae9zMI87Iha-1NJllEPstW4RIAKi83aeCTooJG17sZNQ7IytusoSq8Q2outtwr9vcW-UinyUiQn4VhWyAxZ6Wb0_i81YrnNbYAdd-njzL-3xjSyAfB-bemXN-cRklLq544rr-if2NwNPd3QD-dZ_I4nRPARDWJoc5NmYFGvVvt_spXydMGSAu5cH23Pi1W1_NeRyg",
-          "width": 640
-        }
-      ]
-    },
-    {
-      "id": 227325,
-      "message": "وزارت امور خارجه قطر روز شنبه ۲۴ مرداد در واکنش به ادعای مقامات رژیم ایران مبنی بر اسارت سه خلبان جنگنده‌های سوخوی ۲۴ جمهوری اسلامی، با انتشار بیانیه‌ای در شبکه اجتماعی ایکس، این ادعا را از اساس رد کرد و تنها در اختیار داشتن جسد یکی از چهار خلبان را تأیید کرد.\u003cbr/\u003e\u003cbr/\u003eدولت قطر درباره تحویل جسد خلبان کشته‌شده ایرانی، اعلام کرد، به رغم اعلام آمادگی مکرر خود برای تحویل جسد این خلبان به رژیم ایران، «هیچ‌گونه همکاری از سوی آنها مشاهده نکردیم.»\u003cbr/\u003e\u003cbr/\u003eیک سخنگوی وزارت‌ امور خارجه قطر در این بیانیه بار دیگر اعلام کرد که برای تحویل جسد خلبان کشته شده، یا تشکیل تیم‌های جستجو، برای یافتن اثری از سه خلبان مفقود شده دیگر، آماده هرگونه همکاری است.\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
-      "date": "2026-08-15T19:37:36Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3510,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/LORxuQw-QaowbltLmC2gfLR8cCqwhbuAAEHpZZ9QTXX97X7gJStBe2WQ8Vu6dupfskosGt2b5TqCpxfomxeiUWOGo8FAHouLATHqv0o2S6zj9-AMTSLkrHp1u-k-CUACiTuqsK-1WN869GNWQHC5oMTyiRi3CNRJVbsrj_GAutL-07WWHi39ajyIolMLDnxWEINDc7vAHBybHikApVTwYWZoxfUja6gnnGsZwqI_6GjzgUASejt86vN_hLxYPMUSlnpTZ7sbf78aEIWu9usPOE-PkNnn_BI0UgmDaDlr5H7I9O6LHkJDowX35_niEfHW_V7MI-2_d9bCvB0GQQBJzQ.jpg"
-        }
-      ]
-    },
     {
       "id": 227326,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A2.png\u0026#39;)\"\u003e\u003cb\u003e📢\u003c/b\u003e\u003c/i\u003e‌ پادکست تفسیر خبر - شنبه ۲۴ مرداد\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9B9C.png\u0026#39;)\"\u003e\u003cb\u003e🛜\u003c/b\u003e\u003c/i\u003eدر صورتی که با مشکل اینترنت مواجه هستید میتوانید اخبار صدای آمریکا را از \u003cbr/\u003eنسخه‌های پادکست خبری ما به صورت صوتی دنبال کنید و یا اخبار را از نسخه \u003cbr/\u003eسبک وب‌سایت ما پیگیر باشید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/lite\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003ehttps://ir.voanews.com/lite\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A1.png\u0026#39;)\"\u003e\u003cb\u003e📡\u003c/b\u003e\u003c/i\u003eبروزترین فرکانسهای ماهواره‌ای را نیز میتوانید از صفحه زیر پیگیری کنید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/satellite\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003ehttps://ir.voanews.com/satellite\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9494.png\u0026#39;)\"\u003e\u003cb\u003e🔔\u003c/b\u003e\u003c/i\u003eدیگر شبکه‌های اجتماعی ما را هم دنبال کنید:\u003cbr/\u003e\u003ca href=\"https://linktr.ee/voafarsi\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003ehttps://linktr.ee/voafarsi\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eبا دوستانتان به اشتراک بگذارید\u003cbr/\u003e\u003ca href=\"https://t.me/farsivoa\" target=\"_blank\"\u003e@farsivoa\u003c/a\u003e",
       "date": "2026-08-15T19:54:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3600,
+      "views": 3820,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -115,7 +25,7 @@
       "date": "2026-08-15T20:04:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3470,
+      "views": 3700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -134,7 +44,7 @@
       "date": "2026-08-15T20:31:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2980,
+      "views": 3240,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -153,7 +63,7 @@
       "date": "2026-08-15T20:39:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3280,
+      "views": 3580,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -165,7 +75,7 @@
       "date": "2026-08-15T21:01:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2820,
+      "views": 3100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -184,7 +94,7 @@
       "date": "2026-08-15T21:14:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2640,
+      "views": 2970,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -203,7 +113,7 @@
       "date": "2026-08-15T21:45:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2170,
+      "views": 2520,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -222,7 +132,7 @@
       "date": "2026-08-15T22:15:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1620,
+      "views": 2009,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -241,7 +151,7 @@
       "date": "2026-08-15T22:29:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1630,
+      "views": 2060,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -253,7 +163,7 @@
       "date": "2026-08-15T22:33:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1580,
+      "views": 2000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -272,7 +182,7 @@
       "date": "2026-08-15T23:15:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 908,
+      "views": 1390,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -291,7 +201,7 @@
       "date": "2026-08-15T23:22:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 821,
+      "views": 1340,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -310,7 +220,7 @@
       "date": "2026-08-16T00:05:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 477,
+      "views": 1050,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -329,7 +239,7 @@
       "date": "2026-08-16T00:31:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 246,
+      "views": 917,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -348,7 +258,7 @@
       "date": "2026-08-16T00:31:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 246,
+      "views": 982,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -357,6 +267,87 @@
         {
           "type": "video",
           "url": "https://cdn1.telesco.pe/file/qc0JtHTOz8b_9YrT-nkSersaqb1XZEVPnXldEZmvlxGOqmIAMo_0FcvveyTj2ymcb6leLKe_EzWMT7Hs2DrNrFZjIq95aIXPG77HPCtXdLWjy7CgvVwZjTFa3ldlxqjpW0mFpIoDbng2gBTx4LiA-BK7gqCywwHsea8boYfg4rY3de8Y_BOSpsDDUtWanvNg12brpkHHG6Rd6T0sA1W1iWaBkOZaj2FOSMz6Jyf8mLBTzCu0W4tSw6wYw4GGhfguKwHFSfO5SxOUObyo3aJrYGEBbfzXm5Z2GghsMbkgfSCzVZUJOJot00pqsmsJ4M6C_Z03pyNbtIKBzSvvKioBjw",
+          "width": 640
+        }
+      ]
+    },
+    {
+      "id": 227341,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eوزارت امور خارجه آمریکا: طالبان روشن کرده‌است که تمایلی به ایفای نقشی سازنده در منطقه ندارد\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eوزارت امور خارجه آمریکا در واکنش به پنجمین سالگرد بازگشت طالبان به قدرت، نحوه مدیریت خروج نیروهای آمریکایی از افغانستان در دولت جو بایدن، رئیس‌جمهوری پیشین آمریکا، را به‌شدت مورد انتقاد قرار داد و گفت طالبان از زمان خروج نیروهای آمریکایی، اقدام مؤثری برای بهبود ثبات افغانستان انجام نداده‌اند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/8186888.html\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/8186888.html\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-08-16T00:52:49Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 879,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA"
+    },
+    {
+      "id": 227342,
+      "message": "شرایط اقتصادی و اجتماعی مردم افغانستان پنج سال پس از بازگشت طالبان به قدرت؛ گفت‌وگو با طارق فرهادی\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-08-16T01:03:22Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 786,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/aGg0z6ZJI4RvqptdT_sHDj34GGE61YoOjppw3wuwrIrbtmgysNSj6QkHxpyJJeS2Z6IDYPJUwnyOkLP5bGCFyX9BmjPvTZpcJs-zgf_i7hJsBawqzYjFx_i-sutGTIcjh09fuDZi3v7WsRtA80mcHR5vRqBPxgut2Xcmt3Co4dX2mZS5P8Q9DZUYUUoDleznkZWRcipWvADKjxei1w0Ks1hp7w_1YArRd9KWSL9TG_iJZSxmFmke2phoYOySg0exYjyT-AJnnaqZSggiSxlcGWSgY-dGs_c3St63mjTwbQ1TTj7YzgzljcJiIgDQNIKcQ66fujpU83temMSQcRB9xA",
+          "width": 640
+        }
+      ]
+    },
+    {
+      "id": 227343,
+      "message": "حکومت طالبان چه جایگاهی در عرصه جهانی و روابط بین‌الملل دارد؟ گفت‌وگو با داوود مرادیان\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-08-16T01:35:47Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 483,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/hPanpRlO5EtWKGAYpwp61ewZ89NpLEI1jA_K6mvAJyFufoOlLOczEoxC7boul3Q2EmqErayq2TBUnepQw1SlVTXSAPLPvxKdrUymQtXMJ8WEQ3AAj7myawmhdfps5TMjcFKiSBG8xCmjTNi68tTc2EdtAYlX5Cd5pDHbvy9ncZjmG0QwLAC7BPPmrSd9mJLS2-3gXdo0t3gbQzfw5dXWAQK3ozaf-uL7ez5EQ2UtcUZKWfxZsvswVmSiXjxwGxuEfgjdBrxk3q2tJ8zNCTqN6WTKFK_M72sWvCGlzokAX3D041EXhAHXatzUia5IiSzjhoiEQQobtgyCjnpZncE1tw",
+          "width": 640
+        }
+      ]
+    },
+    {
+      "id": 227344,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eمقاله خبرگزاری فارس وابسته به سپاه از «مساجد» و «پایگاه‌های بسیج» خواست برای سرکوب اعترضات خیابانی و شناسایی معترضان آماده باشند\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eخبرگزاری فارس، وابسته به سپاه پاسداران، در مقاله‌ای که ۲۴ مرداد ماه منتشر کرده، «احتمال» اعتراضات دوباره خیابانی در ایران را مطرح کرده است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/8186890.html\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/8186890.html\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-08-16T01:39:05Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 523,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA"
+    },
+    {
+      "id": 227345,
+      "message": "بحران تنگه هرمز و کاهش چشمگیر صادرات نفت از عراق؛ بغداد به دنبال مسیرهای جایگزین\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-08-16T02:04:31Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 114,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/S_MvO3nZU0yTjrabMir_7dNYJOM3o99vbbzMsQpQbe34Km27tkTwnrbolM_7wkaHY_ClV_CWbH-RlR5MS0XYoOpRmWIaGe8nJvqd96NuyGykIJz6ZEIP4sdM8VB-hlgibjcKDS2VQ1UA7baNwV-JTyIc4wmidficXu6o53BuF0GaVSL-Fz7VMyjAwbY0biLJB0glica4gRq6EmSpywNhEQfZVQfLO6qFMbJY5zfkHQzxTEZ-R7RMvDgjsyDQAHk4vMQPHB6ixBe2Plr0-WQb-cNu_-zlqp4RU_3JUS9F13UEEQhCbnyzJVotRumiS7zrd23-mhy4abZl8uy8NSDqZg",
           "width": 640
         }
       ]
