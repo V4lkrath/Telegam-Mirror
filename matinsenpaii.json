@@ -8,54 +8,12 @@
   },
   "posts": [
     {
-      "id": 4976,
-      "message": "این ریپو رو یکی از بچه‌ها واسم فرستاد که دوستش نوشتتش و جالب و کاربردیه، برای گرفتن کانفیگ رایگان\u003cbr/\u003e\u003cbr/\u003eفرقش با بقیه ریپوهای «کانفیگ رایگان» اینه که فقط کانفیگ جمع نمی‌کنه. کانفیگ‌ها وارد یه \u003cb\u003epipeline چندمرحله‌ای\u003c/b\u003e می‌شن:\u003cbr/\u003e\u003cbr/\u003e1- اول duplicateها حذف می‌شن و ساختار و endpoint هر کانفیگ چک می‌شه \u003ctg-emoji emoji-id=\"5472291748220771063\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA7B9.png\u0026#39;)\"\u003e\u003cb\u003e🧹\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e2- بعد اتصال TCP سرورها تست می‌شه (سرورهای بی‌راه حذف می‌شن) \u003ctg-emoji emoji-id=\"4990150492077163461\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e3- در نهایت هر کانفیگ با یه درخواست HTTP واقعی از طریق خود proxy توی \u003cb\u003e۳ دور مستقل\u003c/b\u003e تست می‌شه \u003ctg-emoji emoji-id=\"5472180551517477902\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003eیعنی چیزی که توی خروجی \u003ccode\u003everified\u003c/code\u003e می‌بینید، ۳ بار واقعا کار کرده. نه فقط روی کاغذ. \u003ctg-emoji emoji-id=\"5472193350520021357\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA1.png\u0026#39;)\"\u003e\u003cb\u003e🛡\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eاعداد و ارقامِ آخرین اجرا ( که خودم از روی index.json چک کردم):\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e- تغذیه از \u003cb\u003e۲۱ منبع\u003c/b\u003e (۱۶ تاشون الان live هستن)\u003cbr/\u003e- \u003cb\u003e۱۰٬۵۵۲ کانفیگ یکتای\u003c/b\u003e جمع‌آوری شده\u003cbr/\u003e- \u003cb\u003e۲٬۳۶۲ تا\u003c/b\u003e هر ۳ دور تست رو رد کردن و وارد لیست verified شدن\u003cbr/\u003e- خروجی‌های \u003ccode\u003everified\u003c/code\u003e، \u003ccode\u003efast\u003c/code\u003e، \u003ccode\u003esecure\u003c/code\u003e و \u003ccode\u003etop100\u003c/code\u003e (۱۰۰ تا از سریع‌ترین‌ها)\u003cbr/\u003e- خروجی برای \u003cb\u003eV2Ray/Xray، Clash و sing-box\u003c/b\u003e — اپ‌هایی مثل v2rayNG، Hiddify، NekoBox، Clash Meta پشتیبانی می‌شن\u003cbr/\u003e- کل سیستم هر \u003cb\u003e۱۵ دقیقه\u003c/b\u003e خودکار آپدیت می‌شه\u003cbr/\u003e- فیلتر \u003ccode\u003esecure\u003c/code\u003e شامل forward secrecy هم هست و لینک‌های بدون اعتبارسنجی گواهی رو رد می‌کنه \u003ctg-emoji emoji-id=\"5472308992514464048\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9490.png\u0026#39;)\"\u003e\u003cb\u003e🔐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003eلینک پروژه:\u003cbr/\u003e\u003ca href=\"https://github.com/0xRadikal/Free-v2ray-Configs\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/0xRadikal/Free-v2ray-Configs\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-08-17T19:36:10Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/UgNtUP7MRa3APbKTrh8zXr3VC5EJYaZ4n4ulTwsvJlYLAQgb8n1ye0R81JvYjr1i_SBfPt28ghJSfUFx_NUKj35DiYyfHMTwKKu1QKiQlR9VCPxH4VNeRhGlX5EyXAv7-CfDALEuOi_g-Ov863PHqgBAEMt6Kk2Eql1X8oCujanIHYIrzzxOLIKcsq1N4kiYyYvA_7KEI5-cq1cLBPPFShluUnNPKtKaRj5sDYgpGsSmPPTeaArAZNPcyfNDjEUOM2B_Cs9-bIXCpqBkU5Z3EZZ2m_fWNAX1MEs_Febo23eDFXi2yMTA0NM-HGlrG7fMzzqACZALX_i7Ygaz9Vev4A.jpg"
-        }
-      ]
-    },
-    {
-      "id": 4977,
-      "message": "اگر دوست دارید استریم‌ها رو دنبال کنید، جوین بشید:\u003cbr/\u003e\u003ca href=\"https://t.me/matinsdungeon\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/matinsdungeon\u003c/a\u003e\u003cbr/\u003eامشب یه لایو کوچیک خواهیم داشت که کمی گپ بزنیم و صحبت کنیم راجب اینکه قراره چیکارا بکنیم",
-      "date": "2026-08-17T20:06:05Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 4978,
-      "message": "بفرمایید لایو\u003cbr/\u003e\u003ca href=\"https://kick.com/matinsenpai\" target=\"_blank\" rel=\"noopener\"\u003ehttps://kick.com/matinsenpai\u003c/a\u003e",
-      "date": "2026-08-17T21:34:46Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
       "id": 4979,
       "message": "دمتون گرم بچه‌ها\u003cbr/\u003eمرسی از همه‌ی کسایی که اومدید\u003cbr/\u003eشبتون کانفیگی\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e",
       "date": "2026-08-17T22:06:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29100,
+      "views": 29300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -73,7 +31,7 @@
       "date": "2026-08-18T09:04:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25600,
+      "views": 25800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -85,7 +43,7 @@
       "date": "2026-08-18T10:01:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20400,
+      "views": 20700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -103,7 +61,7 @@
       "date": "2026-08-18T10:01:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21900,
+      "views": 22200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -115,7 +73,7 @@
       "date": "2026-08-18T10:08:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27200,
+      "views": 27400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -133,7 +91,7 @@
       "date": "2026-08-18T16:08:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25400,
+      "views": 25700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -145,7 +103,7 @@
       "date": "2026-08-18T17:16:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27600,
+      "views": 28200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -163,7 +121,7 @@
       "date": "2026-08-18T17:20:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27800,
+      "views": 28200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -175,7 +133,7 @@
       "date": "2026-08-18T19:54:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25100,
+      "views": 25700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -193,7 +151,7 @@
       "date": "2026-08-19T04:17:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22200,
+      "views": 23200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -211,7 +169,7 @@
       "date": "2026-08-19T04:32:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22500,
+      "views": 23700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -229,7 +187,7 @@
       "date": "2026-08-19T12:12:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15900,
+      "views": 18400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -244,6 +202,48 @@
           "url": "https://cdn1.telesco.pe/file/PCYBSuCfI5alel9UHMEuI4zKdyvWFrjlQAKn61G30PGh2pZL4lAFRlcrWqIpigOOFwNACbiOWKPLb4RMXKZd7i7SGzE97vWYjJ2cTjfOj713biNrsL_F2GdSNT-KxAUuduahGvjCwCZ5YTQO5guhP8abH1lSaPpNHi8oal7Zv_CFft-Jy-GVQqJkhTCvSeouf-6E1eyh1J1hu80XPzG9c3GF_MuGMpd3wVb1CiJ-OQ_V5-Cjupk16eRJgviSKxuLQlEqkoAnTyojGLdu5DeS1uPfM6h2nbZJKHkp_z5UwvSP0TGcgsZIDD-PqFPwlV568LEtaqPy1b1bXioKg1hr6A.jpg"
         }
       ]
+    },
+    {
+      "id": 4996,
+      "message": "نصب هرمس وب یوآی با یک کلیک\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/matinsenpaii\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمتین سنپای\u003c/a\u003e بهم گفت که Hermes WebUi نصبش سخته و بهتره با یک کلیک بشه نصبش کرد برای همین روی پروژه اصلی PR زدم که اگر تایید بشه از این به بعد میتونید راحت این پنل رو نصب کنید و ازش استفاده کنید.\u003cbr/\u003eلینک PR:\u003cbr/\u003e\u003ca href=\"https://github.com/nesquena/hermes-webui/pull/7152\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/nesquena/hermes-webui/pull/7152\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eمیتونید روش ری اکت بدید شاید تاثیری داشته باشه.\u003cbr/\u003e\u003cbr/\u003eاگر هم تایید نکردن مهم نیست\u003cbr/\u003eیک پروژه جدید روی گیت هاب خودم اوردم بالا\u003cbr/\u003e\u003cbr/\u003eلینک پروژه:\u003cbr/\u003e\u003ca href=\"https://github.com/nesquena/hermes-webui\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/nesquena/hermes-webui\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eمیتونید به هرمس بدید و بگید براتون نصبش کنه\u003cbr/\u003e\u003cbr/\u003eخیلی ساده همون پروژه اصلی رو میاد براتون نصب میکنه\u003cbr/\u003e\u003cbr/\u003eحس می‌کنم شدم هوش طبیعی متین سنپای که پول توکنش رو نمیده \u003ctg-emoji emoji-id=\"5370953476635368811\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-08-19T17:12:21Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/HeUFe4TQD0eygR3s99bO3Xt6vFp_YAdxCAAvHWijhuq1DYFbkHsojnVzir344r_G6TEhoPL2K_WMf56CLrIuYuOh2nckKpg8b7wti6XdiW-X90KuFgSpT6s4GR-1t4GyT1bGqzFy46p6yTg12_syvRP3ERBGneCZABtQjV_co1KVJLXyE2d-fv3hjjHtBKASuq7HMCoKya_b8IzDkZSb7azqZuHmVW7iXilFjPlOaQmGcgNOM1OAQXZdeBud2zh2tKwJF4c2macBmfOptcRQodOVOteViNGpJijItahxSD0_-r8z3j1nlixlitMKJ2g8UKdvWDNegxqvLVYYod0Itw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4997,
+      "message": "بچه‌ها شرمنده می‌کنید با استار هایی که میزنید. ممنونم\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-08-19T17:14:17Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 6870,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 4998,
+      "message": "پلن ریک سانچز Go رو باید تهیه کنم هرچه سریعتر\u003cbr/\u003eاینجوری نمیشه",
+      "date": "2026-08-19T17:15:54Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 6400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
     }
   ],
   "last_updated": 0
