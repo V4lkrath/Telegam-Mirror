@@ -8,177 +8,12 @@
   },
   "posts": [
     {
-      "id": 91221,
-      "message": "سرگیف",
-      "date": "2026-08-19T17:10:58Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝗙𝗨𝗧𝗕𝗔𝗟𝗟𝗜 𝟭𝟴+"
-    },
-    {
-      "id": 91222,
-      "message": "علیپور 1گل 2 پاس‌گل\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9890.png\u0026#39;)\"\u003e\u003cb\u003e😐\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-08-19T17:11:16Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 34500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝗙𝗨𝗧𝗕𝗔𝗟𝗟𝗜 𝟭𝟴+"
-    },
-    {
-      "id": 91223,
-      "message": "\u003ctg-emoji emoji-id=\"5438536994651146250\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eگل سوم پرسپولیس به استقلال خوزستان توسط سرگیف\u003c/b\u003e\u003cbr/\u003e3-0\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FUTBALLI18\" target=\"_blank\"\u003e@FUTBALLI18\u003c/a\u003e",
-      "date": "2026-08-19T17:12:07Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 36600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝗙𝗨𝗧𝗕𝗔𝗟𝗟𝗜 𝟭𝟴+",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/hEyau7fGHBgt4SxDQR8rpLaBj6_EPdc56CJ8DhQnpsgKftQyqoK90qyI5J21p05WzO4uR2bSrhSIRaoOZ68gX-Y-izK4kU6JhgqTnjrW4C1euiGm2RZVwk9WHhdprLBfzBdAHKotOO4Vf39v63GZ1FI-IusTqAcyeYbt33sibq6vyoWqjjUsTEKwSovHSS82o_ghQTcdlHr7tjpaJiEChfABwAbOFaFmAmzCtULpT37omNF_ZKAQ28jSbhr_xYbhTp-gW8xvRD_nSOqTQ2slXKMi3O-JERgFBouSm6SQ07ulOrkLUUOKe7iq9HSn30D2k0W-G3FT100-_8Q7NzVhmQ",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 91225,
-      "message": "گلگلگلگل",
-      "date": "2026-08-19T17:27:24Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝗙𝗨𝗧𝗕𝗔𝗟𝗟𝗜 𝟭𝟴+"
-    },
-    {
-      "id": 91226,
-      "message": "استقلال خوزستان",
-      "date": "2026-08-19T17:27:34Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝗙𝗨𝗧𝗕𝗔𝗟𝗟𝗜 𝟭𝟴+"
-    },
-    {
-      "id": 91227,
-      "message": "چه گل تخمی خورد نیازمند\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-08-19T17:27:48Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝗙𝗨𝗧𝗕𝗔𝗟𝗟𝗜 𝟭𝟴+"
-    },
-    {
-      "id": 91228,
-      "message": "فناوری خط دروازه داره این استادیوم؟",
-      "date": "2026-08-19T17:28:57Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝗙𝗨𝗧𝗕𝗔𝗟𝗟𝗜 𝟭𝟴+"
-    },
-    {
-      "id": 91229,
-      "message": "\u003ctg-emoji emoji-id=\"5438581095375343134\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eگل اول استقلال خوزستان به پرسپولیس \u003c/b\u003e\u003cbr/\u003e3-1\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FUTBALLI18\" target=\"_blank\"\u003e@FUTBALLI18\u003c/a\u003e",
-      "date": "2026-08-19T17:30:42Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝗙𝗨𝗧𝗕𝗔𝗟𝗟𝗜 𝟭𝟴+",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/OdJ65mZ_qKHwQm08CWenbLWSvLwQiQtPKcqE9Ixv6N3AF0Ovu5Da0z1_1bzZAKn_QL4Saf76gMwQKtmP3a9MtVNJlmy5Jw5y38Q8D4wBiWBJYfxfToo7-_9y_WD4ZzmDRVJUvuUKzHTX_Pn7eUcNEADy785ybYHCDvKFhFed7IZYr2LZj_UhdrZamYSNrTlPFa_M6FXaydn_Z-lfkWMG6OqbeI7lLQwjcwdbf14eyo-8Qdv3XsrZw8-3ApUV1KRqtZClKlG3MuU6g4sqQnQVdXCEM4pC7-_jsulzDdmjHmhCuR7pjiTbKEcLEYKJ4N4i2E8HRAAOgsPIawVJJ9Gwlw",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 91230,
-      "message": "\u003ctg-emoji emoji-id=\"5438463168458296496\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AAF09F87B8.png\u0026#39;)\"\u003e\u003cb\u003e🇪🇸\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eلحظه ورود رودری به نیوکمپ واسه بازی امشبشون مقابل \u003ca href=\"https://t.me/FUTBALLI18/88198?single\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eالاهلی مصر\u003c/a\u003e :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FUTBALLI18\" target=\"_blank\"\u003e@FUTBALLI18\u003c/a\u003e",
-      "date": "2026-08-19T17:41:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝗙𝗨𝗧𝗕𝗔𝗟𝗟𝗜 𝟭𝟴+",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn5.telesco.pe/file/Xp-NshwwOcRtwOp3cTAZzmzt6-IN9IUlIIfFSkW9GodywreKy68djnWPSTFVoSQs35WcA5nuhy8Vcx7vd-sJ9qiEAKq9lfuR5OoaLX7V6ttjS3HWUCGpEjx2D5uoGqj6Ea06Ws5p1SRa3F_aa-wDbABzpr2oHaOwAULBS7HQ3U2XvKHSg9cKDIhLHYDgtW8jnuKF5LwHdgrCZwc-MhYFq-O4RRR5_PgnWs_DduSGoSSWKelPyqjZw7m5R_QcRxZN2jqmoklYlLkAy9QHKg2j0t1Wj7rGofT3fi_SQH898iIOGKjgGpyW45cgV2C-DJdRvwwatVus36CrXym6unbf3A",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 91231,
-      "message": "گلگلگلگلگل",
-      "date": "2026-08-19T17:55:53Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝗙𝗨𝗧𝗕𝗔𝗟𝗟𝗜 𝟭𝟴+"
-    },
-    {
-      "id": 91232,
-      "message": "پرسپولیس چهارمی رو هم میزنه",
-      "date": "2026-08-19T17:55:58Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝗙𝗨𝗧𝗕𝗔𝗟𝗟𝗜 𝟭𝟴+"
-    },
-    {
-      "id": 91233,
-      "message": "بیفوما چه سکسی کرد",
-      "date": "2026-08-19T17:56:07Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝗙𝗨𝗧𝗕𝗔𝗟𝗟𝗜 𝟭𝟴+"
-    },
-    {
       "id": 91234,
       "message": "پوریا شهرابادی رو پاس سکسی بیفوما",
       "date": "2026-08-19T17:56:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29400,
+      "views": 43900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -190,7 +25,7 @@
       "date": "2026-08-19T17:57:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30500,
+      "views": 45500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -209,7 +44,7 @@
       "date": "2026-08-19T18:03:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29500,
+      "views": 45700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -227,7 +62,7 @@
       "date": "2026-08-19T18:16:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26400,
+      "views": 45200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -249,7 +84,7 @@
       "date": "2026-08-19T18:31:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21300,
+      "views": 44900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -267,7 +102,7 @@
       "date": "2026-08-19T18:37:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19300,
+      "views": 42500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -279,11 +114,201 @@
       "date": "2026-08-19T18:52:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9130,
+      "views": 38800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "𝗙𝗨𝗧𝗕𝗔𝗟𝗟𝗜 𝟭𝟴+"
+    },
+    {
+      "id": 91243,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003eپنجشنبه 29 مرداد 1405\u003ctg-emoji emoji-id=\"4992254300202730194\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cb\u003eنبرد سنگین در لالیگا \u003c/b\u003e\u003ctg-emoji emoji-id=\"4992463108627760205\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003cbr/\u003eاتلتیکو دنبال صدره، مالاگا دنبال بقاء…\u003cbr/\u003eاین بازی از اوناییه که یا قفل می‌شه یا منفجر!\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5289669833284144863\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F95B0.png\u0026#39;)\"\u003e\u003cb\u003e🕰️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e شروع: \u003cb\u003e۲۲:۳۰\u003c/b\u003e  \u003cbr/\u003e\u003ctg-emoji emoji-id=\"5992111760314733954\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EAF.png\u0026#39;)\"\u003e\u003cb\u003e🎯\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ctg-emoji emoji-id=\"6037147971336805562\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FABA5.png\u0026#39;)\"\u003e\u003cb\u003e🫥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e پیش‌بینی‌ت رو ثبت کن؛ اسپانیا هیچ‌وقت بدون سورپرایز نمی‌مونه\u003cbr/\u003e\u003cbr/\u003e \u003cb\u003eبونوس‌های فعال:  \u003cbr/\u003e۳۰۰% \u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"6037326964098868544\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FABA5.png\u0026#39;)\"\u003e\u003cb\u003e🫥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e اولین واریز\u003cbr/\u003e۲۰۰% \u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"6039385383010050997\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FABA5.png\u0026#39;)\"\u003e\u003cb\u003e🫥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e دومین واریز\u003cbr/\u003e۱۰۰% \u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"6039481933874863553\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FABA5.png\u0026#39;)\"\u003e\u003cb\u003e🫥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e سومین واریز\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5080179801239585400\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B6.png\u0026#39;)\"\u003e\u003cb\u003e📶\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e \u003c/b\u003e\u003ca href=\"https://android.codeideally.com/v2/mp/prod/18773475/app.apk\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e\u003cu\u003eدانلود مستقیم\u003c/u\u003e\u003c/b\u003e\u003c/a\u003e\u003cb\u003e\u003cu\u003e اپل\u003c/u\u003eیکیشن اندروید\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5082825621353005780\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B1.png\u0026#39;)\"\u003e\u003cb\u003e📱\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e آدرس ثابت \u003c/b\u003e\u003ca href=\"https://amitisbet.com/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e\u003cu\u003eوبسایت\u003c/u\u003e\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5080510384872358492\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B1.png\u0026#39;)\"\u003e\u003cb\u003e📱\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e \u003c/b\u003e\u003ca href=\"https://t.me/amitisbet\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e\u003cu\u003eعضویت\u003c/u\u003e\u003c/b\u003e\u003c/a\u003e\u003cb\u003e کانال تلگرام\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5305566087067220297\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B8.png\u0026#39;)\"\u003e\u003cb\u003e📸\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e \u003c/b\u003e\u003ca href=\"https://instagram.com/amitisbet\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e\u003cu\u003eمشاهده پروفایل\u003c/u\u003e\u003c/b\u003e\u003c/a\u003e\u003cb\u003e اینستاگرام\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5080067857211982370\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e لطفاً برای ورود، فیلترشکن را روشن کنید و سرور را روی کشورهای آسیایی یا آلمان قرار دهید.g28\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F85B0.png\u0026#39;)\"\u003e\u003cb\u003e🅰\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-08-19T19:18:08Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 36700,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝗙𝗨𝗧𝗕𝗔𝗟𝗟𝗜 𝟭𝟴+",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/bWPzWfxS1XLehX1vIKy-YI49yxOhRfeb0ZKs7e5wAi7gv_F6dUz_EVimQC_Uxrfl1lAMAsOTj_EmnIknVGR7lri1lTPP-i1rW6HNCgqizOZ4R0S2ErnSG1mkTBd6FWzl9LCwTxRCtivlZpnQjGko9xf-f4iVjOJwaA-AgxQZhCcLmBJ7RUEzX5HOgPsy8JjFDLCr6y57ChgWuRd-KMsemoeZ8iHccEqXqh28pz50VFSv4OffJKHlVGOEk-uE18g_WaC_BCgSNAy0Be-K6Bz2w1lqOCnEoihKpyHSdiKYSr4pcLI_rMVc4ozK3qwN-5LTO33XCqwOOPTKi5Aeerxhtw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 91244,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eحق مطلب درباره بازی‌های تبلیغاتی تو یوتیوب\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e+ هندزفری \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F949E.png\u0026#39;)\"\u003e\u003cb\u003e🔞\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FUTBALLI18\" target=\"_blank\"\u003e@FUTBALLI18\u003c/a\u003e",
+      "date": "2026-08-19T19:18:09Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 37800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝗙𝗨𝗧𝗕𝗔𝗟𝗟𝗜 𝟭𝟴+",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/ja28QB4s13yo1GN9GQdP06OmhMhNTltvbrLlQceyxAjeuxAuPznIgSY-gijv2_zqHkkMp-JlDUi1bBofBfGmRAEvqt3a57mmgjsmBNE2of8fgUzYy13AD3imrh3i9sVY-J0HE5RJl7KGDk2HgThn2uIEe5EALN6Rldnr4F-nllU_Ff8hRYNnedEQr6f-VHvqocvuHSQASWPVBJB8FwnYmRn73s0mVQJ7HP3PzBYc5Igy7BFUfT43ZJlmeuWLAzePigRSMiDDHMn7fAY2ReeQWFxroaDUS4cE4pIdOfkgydFpJu2V0QjkGFU6-aOK3ofteVPsggbjRa3SmHhMiAbJRg",
+          "width": 720
+        }
+      ]
+    },
+    {
+      "id": 91245,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eپویول آسوده بخواب که بازوبندت رسیده به گاوی\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E80.png\u0026#39;)\"\u003e\u003cb\u003e🎀\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FUTBALLI18\" target=\"_blank\"\u003e@FUTBALLI18\u003c/a\u003e",
+      "date": "2026-08-19T19:44:03Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 34500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝗙𝗨𝗧𝗕𝗔𝗟𝗟𝗜 𝟭𝟴+",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/Yd3uEfimofAypEdT0NVimvsDHpPHenFdMfDERIlQyTL4IlPOY53xaEtc51OmRXJars6xE8Hl--rXOzy7V9p8rNhrN1-uQLICD22mIyAQgp-ldSxaD4wusvpnEOkDVNE2Imy829singtAwzFz7Ac4uWs5oz1ZPwb0xx8Ljqun_WV48OuMzNkS_OtzfZTWENWhzq6yd6m0iaxI5ASH0wzeUor6QKd-TMgvG5nfOHp9Dyk8l1tDLy5xvu8zX7NmBlHJ-NldL6fDhb5sfWVObDqcPAtZLXT9LsbSg1kB5Qam3mq_AC8jfDd7kJrUcunNA7a4kqR6uNtY-eFjqILJkUePTg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 91246,
+      "message": "\u003ctg-emoji emoji-id=\"5438463168458296496\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AAF09F87B8.png\u0026#39;)\"\u003e\u003cb\u003e🇪🇸\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eامشب یکی از هوادارای بارسا از دوست دخترش خواستگاری کرد و دختره هم جواب \u003cb\u003eبله\u003c/b\u003e داد\u003ctg-emoji emoji-id=\"5402100905883488232\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F928D.png\u0026#39;)\"\u003e\u003cb\u003e💍\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FUTBALLI18\" target=\"_blank\"\u003e@FUTBALLI18\u003c/a\u003e",
+      "date": "2026-08-19T19:57:10Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 32500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝗙𝗨𝗧𝗕𝗔𝗟𝗟𝗜 𝟭𝟴+",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn5.telesco.pe/file/P7NGKwuhnXt92qrNuQpB1jgSL9dGxoLi8k7w_yR49C2w1MPvah8KmOgHr1TmnAWIVaj_BT5_RoUuiLiYLrU_VQsOv-6z1WbEDiLIFMiWsN6Cjx33Z2_JcmxZYejyLyZrIeZ-krr4HOPoXmrulfPjb4nNhebbTgdwQXj6fDI9bhWc3kyJQ4x3FbvrObHWImhSHqNl56XJloEWhaA5B5F12XByS5x3JBg3RwCaD56QrgksjzfY-3q9GNNYiIZIikzudOdBUAzrYj9Xp9bJuAh362RaEJF4pXW2UxrFz-rOMyy5WK9noee9Y3BF_p_MTujTkqJy47KcNdLEVeyHKwd2TA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 91247,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eبازیکن‌های بارسلونا پنالتی رو دادن گوردون بزنه تا روحیه‌اش بره بالا و فصل رو بترکونه ولی خب رید :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FUTBALLIGOALS\" target=\"_blank\"\u003e@FUTBALLIGOALS\u003c/a\u003e",
+      "date": "2026-08-19T20:03:46Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 29500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝗙𝗨𝗧𝗕𝗔𝗟𝗟𝗜 𝟭𝟴+",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/m4omQUfjgM6mDP7Ruoy4kgzhfYFyfowtaZwuF2ZPTEmaMi_If3zKslkwsiyZgw9qwjYhHlVgoI2CLaRsEJqgAYfJnZOSarPREV6WJ3trXywkmOJJr9QUH1h4U-DcIu6IdoqVfTT_e6per-5N4ay8Rp0Z2F2rnxUDq3B-qfIO9QPs8HZoxqRyMjw061_jHtwLjZYnH04OKOKHQp-y93hAk2lmLl4ZyDvXI8jqCBl4qTG-4z1F2cF4AmFFG1bs0yMTnSL3WISfheBnjga0FMO-VA5ZD2Dr7U0Q01WRQBdtZ00Mko60RSu-r2LktDDmUrBF7IW5Qgg4cUQeoyQUwNb4KQ",
+          "width": 852
+        }
+      ]
+    },
+    {
+      "id": 91248,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eهانسی فلیک فصل رو با جام شروع کرد\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eبارسلونا تونست الاهلی مصر رو شکست بده و قهرمان جام خوان گمپر بشه.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5438463168458296496\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AAF09F87B8.png\u0026#39;)\"\u003e\u003cb\u003e🇪🇸\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eبارسلونا 2-1 الاهلی مصر\u003ctg-emoji emoji-id=\"5935902707268194099\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FUTBALLI18\" target=\"_blank\"\u003e@FUTBALLI18\u003c/a\u003e",
+      "date": "2026-08-19T20:14:04Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 28400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝗙𝗨𝗧𝗕𝗔𝗟𝗟𝗜 𝟭𝟴+",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn5.telesco.pe/file/jUkm0FILDjgEG9W9qq8FNN4Lbp5ZzPF_OTpvX1JE76WyySbpCuahNnE5e0AcYcSNeV02NuyTp4heK3pnDd1NPJ2vpSRq1u4YlEDEbrbN9mOu2SrQjDLOT5vakWw2a_5pGqwzaeuicA_8IXkOHWwO0W6nhQFF9QF02_yxK5L9Y2bqUhkndxdM3nVEi4EO_R43quz9dAusJUqusYfarWbkliy33yoeLuci0Q2ThqdtGaFA-bI-yNmkDWzf343qgMZ_MCimKb3soNIwBPIJRR2qMwSzcJNwohHztDMkUiTaLjJYdmBwBLc0DU7q-JC91N18QfeQodobxxCwpa1pJrwlbQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 91249,
+      "message": "\u003ctg-emoji emoji-id=\"5438463168458296496\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AAF09F87B8.png\u0026#39;)\"\u003e\u003cb\u003e🇪🇸\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eآقا یامال داره به قول و وعده‌هاش عمل میکنه و رو صورتش، سبیل فابریک و یه خرده ریش گذاشته:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FUTBALLI18\" target=\"_blank\"\u003e@FUTBALLI18\u003c/a\u003e",
+      "date": "2026-08-19T20:18:35Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 27400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝗙𝗨𝗧𝗕𝗔𝗟𝗟𝗜 𝟭𝟴+",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn5.telesco.pe/file/aqgfCAI_ENGVtmuehg-ht0TpnVxO4fcgrujS78ESiV39WjzOMJZ1kab00nNGWCaG2HdAcglcto6vXZNoHMSKTaq7EExY55MAhw9kaAgy5Sol4m44fLjShwAVCePT85I1gigiq8ARHdH8Ql-0_h4zJE2Dn0jAp9V0PEn-Wsav_NpnYvb4D-5nRpvW-eqQjtIXLbsc1EgZOHh08s3R3dOqcAFxRmnYgBIPrs4JfJW7ttrqMjZzYwSQbHpxx7GjJOeXwEDK0Dk_ScQViwkqVJqisSAU0xy7gULkLRcgcE3t-8acmDPe6FFqpxZa7IIhCmQvQmyC3uA3UQV1TEma-1gDYQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 91250,
+      "message": "\u003ctg-emoji emoji-id=\"5251538220277047773\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B9F09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇹🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eرسانه‌های ترکیه‌ای مدعی شدن که باشگاه ترابزون‌اسپور برای جذب حاج کریم دست‌به‌کار شده و قصد داره این بازیکن رو به ترکیب خودش اضافه کنه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FUTBALLI18\" target=\"_blank\"\u003e@FUTBALLI18\u003c/a\u003e",
+      "date": "2026-08-19T20:40:09Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 19300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝗙𝗨𝗧𝗕𝗔𝗟𝗟𝗜 𝟭𝟴+",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn5.telesco.pe/file/QrbRHkVMhNZMJb4fvACjNii2OiRH1yZEAUgqN31PWvy90Fgdlf-r6yIVgALm5oRcPEKRB2i9HPfpDKbm7DgAn7jKct_bjL2YQOpHrTSS0-jdKKlIggvbymdW8gkGG92NPUQem663c0KvcZ_Oag-osvODp9uPA-YWOyP11SGevzy8YaNiidUcAQr3gsW2EcjyNfwnmhQNUdIxJApKjyItPUZAFrKF451Q_UC06p-Md26zdwD0TONVTKYm1Yd0V3ULi_tza_lw0RlpnU7lWf9HJPwf_VS7B1JJnzK6UA1hhIEfo_0T8WStM1H3gcrwoOM3_A_BlL5Y-NUKtS1yfpbf7A.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn5.telesco.pe/file/mG34D4H0LIfCMgU7xZYeP8mblyP2-4Hf38kW4e04iUyQqEWPUDj0OfjGS7KuqVe4mFEYiPkEPxTSyoCAUj_fHx5g5zUdr3C508Xd-SAW88UBRaD5LZlMTNpUOzIR5R24w_5hVGY4ZVXG4OXdQVf4CAsMn73ydJhtYi8PSUkNXPDBf6VVU3TzeFwVMejDaQvKNGOhIabDRAvEUvhe-pquFDNLUU-OUvpWDCqszOjQfkK1tnDd5dQ03bHLuymkHu19M_122_vu6V5kGMPGS-hvdtODZ3uHKDOBkdlsC6sUFDRsh0GRrLoqhLRwLBpcLHbPaghQMdYSOgrfXuHwQ-591g.jpg"
+        }
+      ]
+    },
+    {
+      "id": 91252,
+      "message": "ترزا هررا؟ \u003cbr/\u003eنه ممنون خودمون خوان گمپر داریم\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FUTBALLI18\" target=\"_blank\"\u003e@FUTBALLI18\u003c/a\u003e",
+      "date": "2026-08-19T20:48:00Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 16200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝗙𝗨𝗧𝗕𝗔𝗟𝗟𝗜 𝟭𝟴+",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/vTX4Rv0Gqkf9HOiaMvcznumH11RAJwBkztlCL-CSkH0_sizc0riVmHUCiTy-vXlAAlOKNw-0098AWCkrs39JWevDNePmdEmQIc4DAaBdTVJ1n-YMj7qnhIJplkTSQN05js6rpETJT_6x8W4jOAKbqCDTCDYu68cPl0WpBAE3PcfuV6uZ2jDxEdiqedHR2nw49s1JMK6hbqsLeeP6Ecmke92AVRrUUaZw5hlkUfrOONLpMiM46Y45GnsbV4yaNaJbhPqdeEjR0h4vBvmsm29HPzpV0Z8lv-394zKH0YLEaSBh1Tsbt1NdTdbdSLgFHu08U-AOXvZX6IdxtHSocETjWw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 91253,
+      "message": "\u003ctg-emoji emoji-id=\"5438412917340931796\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B9.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇹\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eگاتی، بازیکن یوونتوس اولین بازی فصل رو از دست داد؛\u003cbr/\u003e\u003cbr/\u003eحالا چرا؟ چون تو بازی دوستانه یه هوادار رو پاش تکل رفته...\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FUTBALLI18\" target=\"_blank\"\u003e@FUTBALLI18\u003c/a\u003e",
+      "date": "2026-08-19T21:01:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9140,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝗙𝗨𝗧𝗕𝗔𝗟𝗟𝗜 𝟭𝟴+",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/dWSj5YIEx2y-cgahjLt3Zp__5xIoOqnSZ9bKXuWGXsTlyjnmU12GBLRGbyFz_STisZqfqvAbyBtZYyBaPu1j_bfmdsnsVsBYv4XHqMpDCTFo8NyBnMZYlPA3SfWrgolrjPk_5AfEPLPN5G0Ty0xoMqJ0_Q9dltgc_5IMB1ERewj2I1X0_wOlz0F2qKihgw_qFLjqa5b2CfFekrNc8DeiESVF9ZiF58pPiqXWtaOpdmIS8jxhgGm-UZTj02C82rdkc04OX3UBCeCsJ4UfhnAVhJ3YUPQ_qDsz7iyJQM_NoJkUouNtau7zSuUmTIb2t9zR6PZyO7fa4ZfiixhtCRJpew"
+        },
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/QZzNcNxxQhxzq9Qs9TqimtbJv0YjD3eyRPTPNfRWR775-LOXm9VndCpmV0iagOt5IL6OYyTv_JZUaYfUKSRoiWbC0vLhuth_uCLBRhMKR3LDda6Eb4hsYw-o-trLieP9s5Izb1eJZWBd1lVUQHZqvb1Ec3AtKpF80yA-F51Aosaj_3O46xBBYpqtmVqAQWC7iQwR6Y2PZl5qpvUdjowreDmPziU1vouggVDVGv9-PMKe4bM7pGAM_sUMoqBQLvL3R6TpghIAWCpl5f4VunmNHPERfMXOyrrWYLd3CCw8SOC9jVL7n5gGv0go0eObde42Cg978uZJRNzcAph7weNu9g"
+        }
+      ]
     }
   ],
   "last_updated": 0
