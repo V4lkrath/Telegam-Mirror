@@ -13,7 +13,7 @@
       "date": "2026-08-20T10:30:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 183,
+      "views": 186,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -35,7 +35,7 @@
       "date": "2026-08-20T12:03:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 164,
+      "views": 167,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -54,7 +54,7 @@
       "date": "2026-08-20T12:24:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 186,
+      "views": 187,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -88,7 +88,7 @@
       "date": "2026-08-20T13:50:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 205,
+      "views": 206,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -96,7 +96,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Py7Zak-wTd1_yLxa87vatRWQMBCYiKjGxfazB3TaEK_vvu2-MUmwm-HF3b6EBYl3ePtmCAvg8oShJG15BlRexdc20-ss4wde1VQYWm077POK0O-yyTe_VaEFfhGxRs_1weUa_OI3rnB7bxkTzY1gSURunRLx-aZvpBmxHtFXQJKOwixzsiL5LN9nch4wHDUc_tQ9EVKhdYxaBjVLn-k3QPrgXiHWnbzvXrU2_WrC_G71-EnxjamnbVZdWI775m8wH-v9gK0OexGHBAIRbzXk5q5Nc7te3IeFMoGs0gt_3R3heb4DtfwqgiZvUfr7kFiOEWEQBKXJIuemVI0cCyoYtQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/aMs9HxUgOqB582zGwSuscXuWYV0U9HLsg8QUhdMgXl82pzT6kLjTCUnv-RF2u1g3DX6lLXdMmI89jeDJaUZE7Dsmj0r1qFvcXj5sAqhn-b9Lb5hrO7AysFTvg3PCvfstVK6G-IhVLWrK7U-AFnIAdKL7UuQB9wQmq7JcK_51hEGMy4BaiuC_-W2c2-FNZQx8Ku36Hct_-wcaBKR2846U-6YvTUCoCWvIAKn6lDDT0tkWl2JIxbXUfUIyGuj3fPhhAmUz5ESmxkY9h3lSs3T-rIMDALz6f_SxWgeia0QLJP8H03IUuJXKnoe3Hfpn8NQiVEhJiv82W3J5mCMjWPx8tA.jpg"
         }
       ]
     },
@@ -106,7 +106,7 @@
       "date": "2026-08-20T16:28:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 224,
+      "views": 226,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -124,7 +124,7 @@
       "date": "2026-08-20T22:29:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 204,
+      "views": 210,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -142,7 +142,7 @@
       "date": "2026-08-21T07:26:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 139,
+      "views": 148,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -160,7 +160,7 @@
       "date": "2026-08-21T08:28:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 126,
+      "views": 137,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -178,7 +178,7 @@
       "date": "2026-08-21T09:42:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 109,
+      "views": 120,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -196,7 +196,7 @@
       "date": "2026-08-21T10:50:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 94,
+      "views": 111,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -226,7 +226,7 @@
       "date": "2026-08-21T12:12:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 43,
+      "views": 80,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -244,7 +244,7 @@
       "date": "2026-08-21T12:17:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 77,
+      "views": 196,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -254,6 +254,25 @@
           "type": "video",
           "url": "https://cdn4.telesco.pe/file/TS_4GROSW5ptP0tehhLjfyDkTA6y7w8aWhnIAB7S6eKCZqH6PqKnbo8PvFFkRG_sEDKdocpBybPbVMUiY2_Ev3filYUpTR2PbY6UIRauH_yxl4fvmVU_9qXDqgio18iBsjNp9AmWO9QgUJKLrE2nWxVwFbT4yt_sGOLKrCxyDFV3D3fiYr31m9vcgtYnik455KGYT4_yJOqwpajNaiyNt3smLwGAFX_MyVhDv15GKBCwQjYCyn3GDCA5Anpa5Zt8IfxMmq_hWPgCeGA1QBF867r23c55EGIpo_uyroqJD74125c8qAotgcNT05k_XKDCEK2cFQdGUX6sn4PO8EO5RA",
           "width": 464
+        }
+      ]
+    },
+    {
+      "id": 19955,
+      "message": "نجات یک توله‌خرس تشنه با همکاری مردم و محیط‌بانان در سمنان\u003cbr/\u003e\u003cbr/\u003eفرشاد روحی فعال و عکاس حیات وحش، ویدیویی را از آب‌رسانی و نجات یک توله خرش تشنه در سمنان با همکاری مردم و محیط‌بانان منتشر کرده است.\u003cbr/\u003e\u003cbr/\u003eبه نوشته این عکاس حیات وحش، یک توله‌خرس تشنه و کم‌رمق پس از نزدیک شدن به حاشیه روستایی در استان سمنان، با واکنش مسوولانه ساکنان منطقه از خطر نجات یافت. روستاییان به جای نزدیک شدن یا ایجاد ترس برای حیوان، موضوع را به محیط‌بانان اطلاع دادند.\u003cbr/\u003e\u003cbr/\u003eتا پیش از رسیدن نیروهای حفاظت محیط زیست، اهالی با قرار دادن آب در دسترس توله‌خرس تلاش کردند وضعیت او وخیم‌تر نشود.\u003cbr/\u003e\u003cbr/\u003eبه نوشته فرشاد روحی، با حضور محیط‌بانان، اقدامات لازم برای جبران کم‌آبی و بهبود وضعیت جسمانی توله‌خرس انجام شد. پس از بازیابی توان و اطمینان از مناسب بودن شرایط جسمی، این حیوان دوباره به زیستگاه طبیعی خود بازگردانده شد.\u003cbr/\u003e\u003cbr/\u003eاین اتفاق نمونه‌ای از نقش مهم جوامع محلی در حفاظت از حیات‌وحش و اهمیت همکاری سریع با محیط‌بانان است. واکنش سنجیده روستاییان و مداخله به‌موقع نیروهای محیط زیست، این بار سرنوشت یک حیوان تشنه و ناتوان را به پایانی خوش رساند.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eمستقیم با وکیل در واتس‌اپ:\u003cbr/\u003e+905510332575\u003cbr/\u003e\u003cbr/\u003eبات دادبان \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Dadbanbot\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/Dadbanbot\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eایمیل \u003cbr/\u003esupport@dadban.info\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://dadban.info/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eوبسایت\u003c/a\u003e | \u003ca href=\"https://www.instagram.com/dadban2021/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eاینستاگرام\u003c/a\u003e | \u003ca href=\"https://twitter.com/dadban4\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eتوئیتر\u003c/a\u003e  | \u003ca href=\"http://youtube.com/@dadban2021\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eیوتیوب\u003c/a\u003e |\u003ca href=\"https://www.facebook.com/dadban2021?mibextid=ZbWKwL\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eفیس‌بوک\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Daadbaan2021\" target=\"_blank\"\u003e@Daadbaan2021\u003c/a\u003e\u003cbr/\u003e \u003cbr/\u003e \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%AF%D8%A7%D8%AF%D8%A8%D8%A7%D9%86\"\u003e#دادبان\u003c/a\u003e \u003ca href=\"?q=%23%D9%85%D8%AD%DB%8C%D8%B7_%D8%B2%DB%8C%D8%B3%D8%AA\"\u003e#محیط_زیست\u003c/a\u003e",
+      "date": "2026-08-21T13:31:17Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 59,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "دادبان؛ مرکز مشاوره و آموزش حقوقی ویژه کنش‌گران",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/Emrjmhc8I1PpRkep81TW6ZG9TaDMf-ocitr0mB9tTjlXQySY-hyx_HBdBluz1QJZZd6IMAkAIURZn8upwjemhcaAdojNEGNmsBJNA1WNrfjTLZkOoJ0OqJ8pV4ziPG20B5DfWIjlKsDV0nWXnYR-tfN7xF5l1fRwvQWx5lmY1ngg0zxbyWF0qhbrd_zvz5l5mgUXHR-gA1XEtc8ewFFM2lKLJtbEyZW2hm-qeYasCT5b5ErfxnoEvIPiR_D4ehhMjYfPNRcvk7-PDitr2KLM3U2eXUXE_Ql4Pg0ALQrVW9W6izRQGdTkp4cJ2lCZ6Cqt3kNZdUDhzpb4YSEY7WMwtg",
+          "width": 720
         }
       ]
     }
