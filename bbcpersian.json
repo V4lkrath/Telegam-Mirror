@@ -13,7 +13,7 @@
       "date": "2026-08-26T03:34:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28800,
+      "views": 29700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -63,7 +63,7 @@
       "date": "2026-08-26T03:55:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29400,
+      "views": 30300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -75,7 +75,7 @@
       "date": "2026-08-26T04:32:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28400,
+      "views": 29700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -93,7 +93,7 @@
       "date": "2026-08-26T05:43:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22500,
+      "views": 24200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -147,7 +147,7 @@
       "date": "2026-08-26T06:14:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20800,
+      "views": 23700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -159,11 +159,30 @@
       "date": "2026-08-26T07:46:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6600,
+      "views": 10800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "BBCPersian"
+    },
+    {
+      "id": 290214,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BB.png\u0026#39;)\"\u003e\u003cb\u003e🔻\u003c/b\u003e\u003c/i\u003e\u003cb\u003eدست‌کم ۱۴ نوزاد در آتش‌سوزی در بخش زایمان یک بیمارستان در اسلام‌آباد، پایتخت پاکستان، جان خود را از دست داده‌اند.\u003c/b\u003e\u003cbr/\u003eسخنگوی بیمارستان به بی‌بی‌سی اردو گفته است که آتش‌سوزی از دستگاه تهویه مطبوع بخش مادر و کودک بیمارستان آغاز شد و به خاطر اتصالات اکسیژن به سرعت گسترش یافت.\u003cbr/\u003eسخنگوی بیمارستان به بی‌بی‌سی گفت که از میان ۱۵ نوزادی که هنگام آتش‌سوزی در طبقه سوم بیمارستان بودند، تنها یک نوزاد نجات یافته است.\u003cbr/\u003eسخنگوی بیمارستان به رسانه پاکستانی داون نیوز گفته است نوزاد بازمانده را یک پزشک نجات داده است.\u003cbr/\u003eآتش‌ هم اکنون مهار شده است.\u003cbr/\u003eخانواده‌ها در بیرون بیمارستان جمع شده‌اند و به شدت متاثرند.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://bbc.in/4qFMeDR\" target=\"_blank\" rel=\"noopener\"\u003ehttps://bbc.in/4qFMeDR\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/BBCPersian\" target=\"_blank\"\u003e@BBCPersian\u003c/a\u003e",
+      "date": "2026-08-26T08:24:10Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3250,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "BBCPersian",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/D4_WTlG05oiUdlM5rccgB9qFMQ2uYLRzjFRijQ6jMf46rZgZCYh-tS-SUMkGR07P61uxCZz8v3crWKkG-H0PuuUJhFwXC32oMzxZj2bsbdxhBXcmwwztGQd62H2IVgSmQCeAcGDN4S-_NytByyHTVOSBb8PpNTbEk1oz2cF0KWwYGResyULFbpfOVGfJgse8trTklkpCYInk3iwYiu5q7YSK9GWBrmJv2Dzg5fdG5rnPCdTzN3orEMp6nS7bN8mQkC6l76CbSo6o7Wh7mIxM_ZNiKzLbVpvVZVRMWHj0jlYvayuErunB3dMTNMZrr0DoKJ641fql5ONtBZa_qYsPeg",
+          "width": 1080
+        }
+      ]
     }
   ],
   "last_updated": 0
