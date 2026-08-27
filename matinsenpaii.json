@@ -8,24 +8,12 @@
   },
   "posts": [
     {
-      "id": 5044,
-      "message": "راجب یه پادکست جالب شنیدم در مورد یه تیم نرم‌افزار نروژی که 4 ماه کامل از کلاد استفاده کردن و بعدش کلا بیخیال شدن برگشتن روی روش سنتی خودشون\u003cbr/\u003eفردا خلاصه‌اش رو واستون می‌ذارم",
-      "date": "2026-08-24T20:52:15Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
       "id": 5045,
       "message": "یک نکته عجیب در تست‌های اخیر کاربران از مدل Ox Alpha دیده شده که واقعاً سؤال‌برانگیز است.\u003cbr/\u003e\u003cbr/\u003eهمان پرامپت روز اول، بدون حتی یک کلمه تغییر، حالا خروجی بسیار دقیق‌تر و جزئی‌تری تولید می‌کند؛ مخصوصاً در مدل‌سازی سه‌بعدی موتور Raptor که اختلاف کیفیت با خروجی قبلی کاملاً محسوس است.\u003cbr/\u003e\u003cbr/\u003eاما سؤال اصلی اینجاست:\u003cbr/\u003e\u003cbr/\u003eاگر پرامپت همان است و آپدیت رسمی هم اعلام نشده، این جهش کیفیت دقیقاً از کجا آمده؟\u003cbr/\u003e\u003cbr/\u003eآیا مدل در سکوت روی داده‌های جدید Fine-tune شده؟\u003cbr/\u003eآیا وزن‌های مدل یا پایپ‌لاین رندرینگ پشت صحنه تغییر کرده؟\u003cbr/\u003eیا Ox Alpha واقعاً نوعی یادگیری مداوم دارد؟\u003cbr/\u003e\u003cbr/\u003eاگر این تغییرات بدون اطلاع‌رسانی رسمی در حال رخ دادن باشد، ما فقط با یک مدل بهتر طرف نیستیم؛ بلکه با مدلی مواجهیم که رفتار و توانایی‌هایش می‌تواند بدون انتشار نسخه جدید تغییر کند.\u003cbr/\u003e\u003cbr/\u003eو این، از خودِ افزایش کیفیت جالب‌تر و البته نگران‌کننده‌تر است.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5470060791883374114\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8D.png\u0026#39;)\"\u003e\u003cb\u003e✍️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://x.com/callitVer1/status/2091833855254618344\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003ecallitVer1\u003c/a\u003e",
       "date": "2026-08-25T07:51:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30200,
+      "views": 30500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -44,7 +32,7 @@
       "date": "2026-08-25T07:53:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29700,
+      "views": 30000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -56,7 +44,7 @@
       "date": "2026-08-25T07:55:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30300,
+      "views": 30500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -68,7 +56,7 @@
       "date": "2026-08-25T18:51:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28300,
+      "views": 28600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -80,7 +68,7 @@
       "date": "2026-08-25T20:32:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26900,
+      "views": 27300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -98,7 +86,7 @@
       "date": "2026-08-25T21:59:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24600,
+      "views": 25100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -110,7 +98,7 @@
       "date": "2026-08-26T02:29:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23300,
+      "views": 24000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -118,7 +106,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/fK4SqikCpgA67bLBz4RfhV3f7H85u3JTGEaCbHlhPDSPbnWtRADv-nrMEZGbJtq0BD490cZ6WUpep61zJQqjvRb6ZvKIUF0Ogl_dWK5Xd4NZjLdsl1VHNOdk2ijeQcTnJQKh7VQHe43xHxrHObyO-ziQADhIC0lPFbD_Rdy_5Pe5LOUPMulkDus_-0brA5edUZYaj4YiaXnqUMvopGclupqQBVJcs7utmFjNtLC2O7fG-o2-E5TsFnSWRIFDwIe4bwui8rx9tz28UIAqMPzL9mM2heiapFdDeNFGynmZWZZbHqVZMVD6VuzQcvmNUl4rwdNyGiFeZH37krU8w9jVJA.jpg"
+          "url": "https://cdn1.telesco.pe/file/iK5rAR2VIxvV-fyOrJjG7FhnBSYK1n-I0vOGN-2B5yceVyhjs9KK83pH2eTlGfHt7GPefgC-A9YGYmuErrlGjUNe5yHvMiEp_XlgDbUxVxFnC0lMXrj5OAV3CsrXWi6oyN4n8IuY-Zo_6tqz4s1cVCsL7OqmaIJXEK4G8DBCit3lQhjhWsLfOWPjOP1x-uJHKt-9MDKqhZqo24difEIDBuqp5kSOSt9I52zhZKNNzOWoEpqOdb49DidgwwRoa7rXfGQxvKgnYOnb1jobIvBmp-MxDNPtL7evgWYSAl60APZsQyguOA0Ujv76cFoANEbDc3h3w_wGmDwyST9v_vNZtA.jpg"
         }
       ]
     },
@@ -128,7 +116,7 @@
       "date": "2026-08-26T06:50:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21300,
+      "views": 22100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -140,7 +128,7 @@
       "date": "2026-08-26T15:00:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15600,
+      "views": 16700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -158,7 +146,7 @@
       "date": "2026-08-26T15:02:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15500,
+      "views": 16700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -170,7 +158,7 @@
       "date": "2026-08-26T15:10:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15000,
+      "views": 16300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -196,7 +184,7 @@
       "date": "2026-08-26T15:24:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15900,
+      "views": 17600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -226,7 +214,7 @@
       "date": "2026-08-26T17:41:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12300,
+      "views": 14400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -238,7 +226,7 @@
       "date": "2026-08-26T17:46:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12100,
+      "views": 14700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -247,6 +235,24 @@
         {
           "type": "photo",
           "url": "https://cdn1.telesco.pe/file/bcWdIfFaEgXJ6QSuBgHHTkYGbG90SEQ3JykcRQIohayzQXk56Wy8yLBT8-SGkhZH4uZRqlutylEjy9WSd0JATpw_7B-GCF8RJR0BQOKKxYY_QKbqO-xCJ35Xac7OtP4Fjr9Euc2_3-xz9uY2gEGlQCV6cWPLP9XiWN-IUZOwxx_rxkptzLGfqZ6xrhx_aOLKCcoLqgSSH0CWcmw47bgM8tNTwqzpOCJQcH07nceDoSLTQ4DhSqk57ClB-ReUpEw6tkmUWOyzXfPrCYpRsP3M-FywbtlVmVB4EhP_okt7iCn5MkfZZkbcH_zJ97a41fkbWL9YMIsIQeL0GeYIUkXngQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5064,
+      "message": "مدل GLM 5.3 Flash یا همون Ox Alpha، به صورت رایگان روی Cline قرار داره. Cline هم اکستنشن Vs Code داره هم می‌تونید با\u003cbr/\u003e\u003cpre\u003enpm i -g cline\u003c/pre\u003e\u003cbr/\u003eخودش رو نصب کنید\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
+      "date": "2026-08-26T22:56:35Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5340,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/rQeUxZ4FGTdMZeC0p2NCQ6U1rka-bIICcD0YIpx0qb34KY8bEe8dsUi2cxPSP3pmK9KQN1af_zPN8g4_nM10jlIxUAfcfv4cDJl0fLHYB-zT1J2Yfg-viny5xFYoL9huJgzSWW3bma8YbM0bgZ_TZUsabf3Gy82jYU_e4FrJ-gE0_5TSOhiKeIBlyHbC4l4PGrpLx6LgRnzMLWf9egW4TFSmWlIBW6aDovHrLOa5v63ukKBx51XQc1yGP8SuLHKeX_b1aV0Mn8Qqxph3XlfkLXjJx9oZUK9VsiTkPSIZnlV0_Oh_Z1LP-5IPq_9WpTe8auS5BpekRX1wyGkeoKHf9A.jpg"
         }
       ]
     }
