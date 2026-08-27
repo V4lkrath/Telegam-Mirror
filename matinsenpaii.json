@@ -3,102 +3,17 @@
     "id": 0,
     "title": "Matin SenPai",
     "username": "matinsenpaii",
-    "photo_url": "https://cdn1.telesco.pe/file/PPGJilKFqyA8wni9kicmB4jY8k_CQB37eXWRiiC2eK-PVEvW8KlluKIEbSmfnn_dASHkSC-4oujALSl0j5a8W2wa7I-a6NESZ8846wil71taK7AeTPtBAfRP_fDzKLUonJTVDxfkKeaVe6CkowXbNabr8BDCsJYpFTgHd2T5T24uKADt1swNzDWyAO5rt89LrhTVZuXUwR-8JgskLMhsfpKA3GUWI-c0WGpnlT0rbasSDhyiGWNaj0M19GEOJcQp_nOID5jddP-tcG4XqIoWPLE5IGUdDsqv_TMnpAr7rajox9h_eWIRucfRVoBGyuKPBnPUVoNNiWqQdgOgTaTyeg.jpg",
+    "photo_url": "https://cdn1.telesco.pe/file/umQrOD66-r9rIt3PPdXcAdGb8H6KBhiqET_HObc6dQtgOOwLsvAI7nxXBBh2zwMQp-awmyluCZ7cfyUJ-bL1sXCnaFQLiYLF3l1rJDWplbQEPFoT4WGnL6ZJlhYH6mw7rGstOgbbmRGvS7Kg_r_4opTT_r-6CeAwFa7GNmkf4xlhTTYCXSZ90bjqnPXgx6orxXwM9txjWTtTDWDE0pyTcGwjZSeDaGpzUke5TUWPQ5A4jnDxCQKc0R0mFVjIFb_NPab1wObIls6RUik83WQVTl2-S6UrM2lHFPMpwU-vbHfRgZqmC8COwOto4YRRfkCXtXbey8xhYBkpfS9tCadymg.jpg",
     "description": "متین هستم و کامپیوتر رو دوست دارم! در حال یادگیری هستم و چیزهایی که یاد میگیرم رو سعی میکنم به شما هم یاد بدم اگر به دردتون بخوره=)\n\n•YouTube:\nhttp://www.youtube.com/@Matin_SenPai\n\n•Github:\nhttps://github.com/MatinSenPai"
   },
   "posts": [
-    {
-      "id": 5045,
-      "message": "یک نکته عجیب در تست‌های اخیر کاربران از مدل Ox Alpha دیده شده که واقعاً سؤال‌برانگیز است.\u003cbr/\u003e\u003cbr/\u003eهمان پرامپت روز اول، بدون حتی یک کلمه تغییر، حالا خروجی بسیار دقیق‌تر و جزئی‌تری تولید می‌کند؛ مخصوصاً در مدل‌سازی سه‌بعدی موتور Raptor که اختلاف کیفیت با خروجی قبلی کاملاً محسوس است.\u003cbr/\u003e\u003cbr/\u003eاما سؤال اصلی اینجاست:\u003cbr/\u003e\u003cbr/\u003eاگر پرامپت همان است و آپدیت رسمی هم اعلام نشده، این جهش کیفیت دقیقاً از کجا آمده؟\u003cbr/\u003e\u003cbr/\u003eآیا مدل در سکوت روی داده‌های جدید Fine-tune شده؟\u003cbr/\u003eآیا وزن‌های مدل یا پایپ‌لاین رندرینگ پشت صحنه تغییر کرده؟\u003cbr/\u003eیا Ox Alpha واقعاً نوعی یادگیری مداوم دارد؟\u003cbr/\u003e\u003cbr/\u003eاگر این تغییرات بدون اطلاع‌رسانی رسمی در حال رخ دادن باشد، ما فقط با یک مدل بهتر طرف نیستیم؛ بلکه با مدلی مواجهیم که رفتار و توانایی‌هایش می‌تواند بدون انتشار نسخه جدید تغییر کند.\u003cbr/\u003e\u003cbr/\u003eو این، از خودِ افزایش کیفیت جالب‌تر و البته نگران‌کننده‌تر است.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5470060791883374114\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8D.png\u0026#39;)\"\u003e\u003cb\u003e✍️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://x.com/callitVer1/status/2091833855254618344\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003ecallitVer1\u003c/a\u003e",
-      "date": "2026-08-25T07:51:08Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/kT7BMYDhuWY323IlxwvcV7x87VfGutjsxdmJaM9L4o0oL1v91pI_6xXvOADuR3mdjJeqwgqcZvQ99yLM2s-k5oCR2ICojJnivcDUW1r0I9sEZYUaHhESPDtNi8aVGH4OQsxIrHJENcdZMFlG41f-i08tLfyoAxGTu2kTsC7SG_Ug2EBwYZ6LRjL85MvRQUhDQslzSGqMXBWdkzZyKJljOWfeuPs5bn-hd0CWnr0mMIdHgQiiNISZNWs3tG5UYnmjk75X-5yG8gr-qFgZ3we2UVwHNT2z5ouxxj4Gyxb03_fyqs-c_PR0bJs7AMBCko4CjXYZYpnk64l6I1u5gHCjDQ",
-          "width": 1920
-        }
-      ]
-    },
-    {
-      "id": 5046,
-      "message": "به خاطر جالب بودن این پیشرفتش فرستادم. وگرنه به نظرم این نگرانی تا حدودی بی‌مورده.\u003cbr/\u003eزمانی که از مدل چینی/رایگان استفاده می‌کنیم، عملا داریم امضا میکنیم که از دیتامون استفاده بشه واسه‌ی Train کردن مدل.",
-      "date": "2026-08-25T07:53:06Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5047,
-      "message": "و خب من نظرم اینه که، Train بشه که بشه:)) مدل‌های قوی‌تر، ارزونتری که الان هستن و داریم ازشون استفاده می‌کنیم، بخشیش از همین طریق قدرتمندتر شدن\u003cbr/\u003e\u003cbr/\u003eولی خب شما باز اگر نگران «حریم خصوصی» هستید، دور چین و مدل رایگان و contributer رو خط بکشید",
-      "date": "2026-08-25T07:55:09Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5048,
-      "message": "دوستان من کمی از لحاظ جسمی مشکل برام به وجود اومده بود. الان رو به راهم\u003cbr/\u003eسعی می‌کنم ویدئوی x alpha رو زودتر بذارم\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-08-25T18:51:06Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5049,
-      "message": "\u003cb\u003eقدرتمندتر از Fable 5 ولی رایگان! مدل مرموز Ox Alpha\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eتوی این ویدئو رفتیم سراغ مدل مرموز Ox Alpha و اون پروژه‌ای که توی ویدئوی قبلی زدیم رو ارتقا میدیم باهاش! این مدل، به تازگی اومده و یه مدل مرموزه که هنوز اعلام نشده مال کدوم شرکته، اما بررسی و تحلیل می‌کنیم که مال کجا می‌تونه باشه. و همینطور بهتون میگم که چطور می‌تونید رایگان ازش استفاده کنید و کد بزنید\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5071261477743100913\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B9.png\u0026#39;)\"\u003e\u003cb\u003e📹\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://youtu.be/FIhoccZtpZQ\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eتماشا در یوتوب\u003c/a\u003e",
-      "date": "2026-08-25T20:32:13Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/gDPMhkorfBeXeNtgIZaBj_VztytWHqg9e9spzuaoYaPZSYekUF4lcivTeB9dfhyKj4ecKdLS2_MGLufoo_CT7adACFpR9IO0cOlv-UJhG6IjCVQW7O2yZCig1njcfu6fSDAhGrjHrNTw3p1GyxgZ-UEdbhY-7Fu26c2a2_T9Ools3r7j0rjqSUHr3K8KYeFV5p1s56ER4v8tv0-ItWsqtJrtaFmEOZC6G0fi8DWnUUZD3FVwFa2Cn6QrdDPsc_csNtspGAkiqx-RzrAOsoAQbHNkOV-gw3uSvwcLnrhSvAEs93w0Tfv1ze0i_KYtGLn0xKmaQaSBWOkGiQ3hy1lPbQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5050,
-      "message": "به زودی آموزش ویدئویی این ویزا کارت مجازی و روش گرفتن آفرهای رایگان و اینکه چطوری وصلش کنید به Google Pay و... رو می‌ذارم\u003ctg-emoji emoji-id=\"5274090977584234781\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EA8.png\u0026#39;)\"\u003e\u003cb\u003e🎨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
-      "date": "2026-08-25T21:59:33Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
     {
       "id": 5051,
       "message": "\u003ctg-emoji emoji-id=\"5427148558153295349\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9082.png\u0026#39;)\"\u003e\u003cb\u003e🐂\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eچالش Ox Alpha\u003c/b\u003e\u003cbr/\u003eبا Ox Alpha یه ابزار بسازید که یکی از مشکلات واقعی زندگی روزمره‌ی مردم رو حل کنه.\u003cbr/\u003e\u003cbr/\u003eهرچی ایده خلاقانه‌تر و ابزار کاربردی‌تر باشه، شانس بردنتون بیشتره \u003ctg-emoji emoji-id=\"6325547148293178939\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9180.png\u0026#39;)\"\u003e\u003cb\u003e👀\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5258077307985207053\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B9.png\u0026#39;)\"\u003e\u003cb\u003e📹\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e آموزش استفاده رایگان از Ox Alpha: \u003ca href=\"https://youtu.be/FIhoccZtpZQ\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/FIhoccZtpZQ\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eبرای شرکت در چالش:\u003cbr/\u003e1- ابزار یا پروژه‌ای که ساختید رو همراه با یه توضیح کوتاه و ترجیحاً عکس/ویدئو ازش توییت کنید.\u003cbr/\u003e2- من رو توی توییت تگ کنید: \u003ca href=\"https://t.me/MatinSenPai\" target=\"_blank\"\u003e@MatinSenPai\u003c/a\u003e\u003cbr/\u003e3- عضو کانال اسپانسر چالش، Lira Candles باشید: \u003ca href=\"https://t.me/liracandles\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/liracandles\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eمن پروژه‌هایی که برام جالب باشن رو ری‌توییت می‌کنم و در نهایت از بین شرکت‌کننده‌ها ۵ پروژه برتر رو انتخاب می‌کنم. \u003ctg-emoji emoji-id=\"5274117846899632751\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5472096095280569232\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E81.png\u0026#39;)\"\u003e\u003cb\u003e🎁\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e جایزه هرکدوم از ۵ برنده: یک \u003ca href=\"https://t.me/liracandles/28?single\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eشمع صدف\u003c/a\u003e و \u003ca href=\"https://t.me/liracandles/70?single\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eتوت‌فرنگی\u003c/a\u003e از Lira \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F95AF.png\u0026#39;)\"\u003e\u003cb\u003e🕯️\u003c/b\u003e\u003c/i\u003e\u003ctg-emoji emoji-id=\"5469963154391833732\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8D93.png\u0026#39;)\"\u003e\u003cb\u003e🍓\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003eمعیار انتخابم بیشتر روی خلاقیت ایده، کاربردی بودن و کیفیت چیزی که با Ox Alpha ساختید خواهد بود.\u003cbr/\u003e\u003cbr/\u003eتا فردا همین ساعت می‌تونید توی چالش شرکت کنید! چون احتمالا آخرین مهلت استفاده‌ی رایگان از مدل Ox Alpha خواهد بود طبق گفته‌ی OpenCode",
       "date": "2026-08-26T02:29:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24100,
+      "views": 26500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -116,7 +31,7 @@
       "date": "2026-08-26T06:50:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22200,
+      "views": 24800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -128,7 +43,7 @@
       "date": "2026-08-26T15:00:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17000,
+      "views": 21100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -146,7 +61,7 @@
       "date": "2026-08-26T15:02:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17000,
+      "views": 20800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -158,7 +73,7 @@
       "date": "2026-08-26T15:10:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16500,
+      "views": 20300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -184,7 +99,7 @@
       "date": "2026-08-26T15:24:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17900,
+      "views": 22300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -214,7 +129,7 @@
       "date": "2026-08-26T17:41:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14800,
+      "views": 20400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -226,7 +141,7 @@
       "date": "2026-08-26T17:46:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15200,
+      "views": 21900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -244,7 +159,7 @@
       "date": "2026-08-26T22:56:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6480,
+      "views": 20800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -253,6 +168,102 @@
         {
           "type": "photo",
           "url": "https://cdn1.telesco.pe/file/rQeUxZ4FGTdMZeC0p2NCQ6U1rka-bIICcD0YIpx0qb34KY8bEe8dsUi2cxPSP3pmK9KQN1af_zPN8g4_nM10jlIxUAfcfv4cDJl0fLHYB-zT1J2Yfg-viny5xFYoL9huJgzSWW3bma8YbM0bgZ_TZUsabf3Gy82jYU_e4FrJ-gE0_5TSOhiKeIBlyHbC4l4PGrpLx6LgRnzMLWf9egW4TFSmWlIBW6aDovHrLOa5v63ukKBx51XQc1yGP8SuLHKeX_b1aV0Mn8Qqxph3XlfkLXjJx9oZUK9VsiTkPSIZnlV0_Oh_Z1LP-5IPq_9WpTe8auS5BpekRX1wyGkeoKHf9A.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5065,
+      "message": "چالش تموم شدش\u003cbr/\u003eمرسی از همه‌ی کسایی که شرکت کردن\u003cbr/\u003eبه زودی برنده‌ها رو اعلام می‌کنم\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-08-27T08:58:19Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 15100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5066,
+      "message": "خیلی درد داشت که Ox Alpha رو عوض کردم روی GLM 5.3 Flash و الان دارم واسش پول میدم روی OpenCode Go\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F98AD.png\u0026#39;)\"\u003e\u003cb\u003e😭\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-08-27T10:11:53Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 12200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5067,
+      "message": "خوبیش اینه که می‌تونید 2 برابر مصرف کنید. یعنی قیمتش نصفه برای مدت محدود انگار\u003cbr/\u003eبا همون روش ویزا کارت هم رفتم خریده بودم پلنش رو: \u003ca href=\"https://t.me/MatinSenPaii/4915\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/MatinSenPaii/4915\u003c/a\u003e\u003cbr/\u003eکلا سختگیری نداشت روی پرداخت مثل کلاد و...",
+      "date": "2026-08-27T10:13:08Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 12100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/ZP82fVLi1TRlNICh9CcSg0Wixnan2eXaVyaZaYE8S2fEGEJnc3-oWLkjYAVj3Uj_KKm5LA-R7Pr1iEpc00sSyevg0pF1VpzotBurBlwrX2oqj5RiLA1-yaUk4nYdqI_QyEmCNQcvJG3sKgtzL7GQjqbWuV4oRRQtVicpx4mOSatHN3mlDcY66FwOr6MhCqG53WfRQDLJM4yMQkoIARgpxrk2p59_TbMtN7kFaJdlrduhu_gFIrRjBsNnzNDVC5RJS9WKFIx_G-2HRhFBu6xNw89Z9-RMH_3Hr_4R8ibh0NA_bEgVtB-bfCSbwZEwsEpXGsJ7NMtKfJc_cmp6MKX7Wg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5068,
+      "message": "مصرفش خییییییییییییلی نسبت به GLM 5.3 اوکی تره\u003cbr/\u003eو راجب هوشمند بودنش هم که دیگه یه ویدئو کامل دادم نیازی نیست بیشتر صحبت کنم. باز ما میگیم درود بر مدل‌های چینی به یه سریا بر میخوره",
+      "date": "2026-08-27T10:15:05Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 12000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/JNfgSXvYWO4znS3Or--vQ4hlQRBIzG1658h2Uz8VA1qMAoKXniNDYPbZrlSttBqWFIoH3pg0pv2_48sLlk-tzIBdI2FEXP5-8xOj4iC1avbdDVOsC3vMb5l8GphSFV93Qa0OrlZq4mxIcTFGKmIIiZrVcn8NXphaxYhOIQ1doBmCG5vcrP0phxgGY_W8YMAT5fMDAxok5WOus5YO2JecyHLlrkhtAUUi24vGs3CngQ86HlrnluJE-R7pzCvQnM7eWBGBX18EsgOLlzbLnrUUdIVsZJNxWpMGQ-2OOEGWoc-1gWljXaG8QV7sN9UUg0zNeRitj6xHgqeE5q6uLor67Q.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5069,
+      "message": "نرخ Input Cache اش خارق‌العادست\u003cbr/\u003eروی خود هارنس OpenCode",
+      "date": "2026-08-27T10:18:38Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 11500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/ECq9d48K-971gW0t4qLFmHz6TExluWyyO2YIY1zA8pDGdRFg9MBHeGnHM_Fm__bSDHBzU_5-t5V2p4ZpY2suxS37DdpKtdhnoCMimH0vdlkNOHGXhx_R0o-ocgum2rlAedU-CWyskSdJFQBwfHl4vOEHWyzNW7jzIFzPqBcBVssKZiqjW_6Q1M_mhqUzr30oDM0oXWql2uqBdq-vYenN4IMyPR-QtnQMb5SC_zhQQLFpCKBfRvl9wLJsZW6uvqx9oISYz6wFOq40HPsizAfUuoGLiYcrD8L7ZjSKDjMzqioyDv9rlZ0BOWR6woFTS-GB1BOQi42d3XpXPEqdbpPiGQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5070,
+      "message": "هرچقدر از هوشمندیش هم بگم کم گفتم",
+      "date": "2026-08-27T10:19:26Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 11500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/B3nJjLp0CSS8LYCVVVETMpjd9hyoHBkxjPd3LpULzo7ZoArAFcgXQOPC6yOAXaJlcL9_7aRwhNsUXTmmwO7YZXQKH0qGckFx5jm-yQtwtEJAbpRjD4KTYPFD9hYXZFdHgheK7sL9wuif6nm1JvXEg6gWFMTTgjvZH0W6Qysk0cJxpPNdMNykehGXIOUzsZbGKhoPy5soYXQ7d4vASlAtFKPCvXQ52djRtc3rmy2_v80JL7RHbZQhQDaCjd1_MweMCY7X0DIWvI76IGMio6coki1fgshyzSu1XbnMD948ZtpCsHz6VWzOdKE6EHQdFgg6rftLmXcal4SBNPqExhDjnQ.jpg"
         }
       ]
     }
