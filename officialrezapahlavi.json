@@ -103,7 +103,7 @@
       "date": "2026-08-05T03:39:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 505000,
+      "views": 507000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -133,7 +133,7 @@
       "date": "2026-08-06T17:02:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 625000,
+      "views": 626000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -181,7 +181,7 @@
       "date": "2026-08-22T03:34:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 505000,
+      "views": 509000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -199,7 +199,7 @@
       "date": "2026-08-23T18:17:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 600000,
+      "views": 606000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -228,6 +228,24 @@
         {
           "type": "photo",
           "url": "https://cdn1.telesco.pe/file/BsO3IpK4PiROPlnSXptWWo6Kl4AWYG4ixJcwAgbTtTyQfgP76Kgfj30nB2m7TuMQ_QdDaLmA864sTwAkD81Ou0GV3p7wBaHwujfjAdTsIa3r2tiD5E64Ce5tfLtB10oKSEjMsaYqZUwfEnhm1QlVFmhy4mQQGIqLW7Gr-1akNHpmp1Y-z6mehjogqT36qEhkmV_3LUCSa1F8HQmvS6zsF8UjLtQTyVbijXl2gXxu3dzgzZdB58bL5AE9u3p3KwBOtNfBdaHHfJ6_F8GLBReVgIahz3ecOBDQg4ggjQdUR1MrPWvTPUNJTasHn-3BEJo8osc95_9GEQHIxqrzfhpwZg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 1883,
+      "message": "‏از درگذشت اعلیحضرت هارالد پنجم، پادشاه نروژ، عمیقاً متأثر و اندوهگین شدم.\u003cbr/\u003e\u003cbr/\u003e‏پادشاه هارالد بیش از سه دهه با احساس مسئولیتی عمیق، وقار و تعهدی خدشه‌ناپذیر به مردم نروژ و به کشور خود خدمت کرد. او چه در لحظات شادی و جشن و چه در روزهای اندوه عمیق ملی، حضوری پایدار و وحدت‌بخش داشت و نمادی از تداوم و خدمتگزاری به ملت بود.\u003cbr/\u003e\u003cbr/\u003e‏مراتب تسلیت صمیمانه خود را به اعلیحضرت هاکون هشتم، علیاحضرت ملکه سونیا، خانواده پادشاهی و مردم نروژ که در سوگ پادشاه محبوب خود نشسته‌اند، ابراز می‌دارم.\u003cbr/\u003e\u003cbr/\u003e‏مِهر، انسان‌دوستی و یک عمر خدمت پادشاه هارالد به ملت خود، میراثی ماندگار از او به یادگار خواهد گذاشت. نام و یاد او برای نسل‌های آینده گرامی خواهد بود.\u003cbr/\u003e\u003cbr/\u003e‏رضا پهلوی",
+      "date": "2026-08-29T17:58:11Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 11600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Reza Pahlavi | رضا پهلوی",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/iRjlTNO4ziMt88WIAGjbw3LPjTXRJySh6gPI8vjV1317FybdaTreOXCdz-vUJ3_lj8JMT50y3aGYYeKwmMYzM0_NwGCeDY6rEEoU-laJy4QKGyghD9CFkRrVRTkrWWuDxIumLwycOjpYMTBruotwQCgO0fOx6nk0Hsc_NGINzY5g4_CPaKPTNeeJFybZ9eUo6wCmz34jiQAwBDW_XVbMCEFwAqb3RhyMei3griLT19jhOX8428EA3pJ_g2IyX6iSopu-Pj15iHJJMuXQF_Q5kSAoQIcrOOuV-9nMcz-oSeMvkC5wdvtXUSflTtTf2V6UKHSVn9sylozwEPg6xwwZmA.jpg"
         }
       ]
     }
