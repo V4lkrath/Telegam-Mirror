@@ -3,162 +3,17 @@
     "id": 0,
     "title": "نظامی - سیاسی",
     "username": "mwarmonitor",
-    "photo_url": "https://cdn4.telesco.pe/file/TRaoQTLldXOQoDYPFNFwYAsmwsAXtW3cvIDsuYdd6MCNeGFXVDeLpkslDfbGO4MEZEEs8zpVjGgptKUv_1TlcnRwHWFZ6JPzBhFU-L4V--yPZSfE6xJSTZ8gDVNfQOPmN3uEcoF91Xo0aNps0akuvUwgFEYDTD4WTV5tIh3MNqcIIw_h_mzpNwaxfydUngm5_3s_5c1OFU4QA0Ssql7xwgG_XeJrJYqufu4SrZBo1OlBajgPt6HmNjVmX41CPwdEHoo9UrB6yu3QCXmNAnHamHNmKZSPz5AbaWW2A86cUtN_lef4UeTwjUmVxS-cpQ1uIuASdRCuM8EG8lKKNnmtXA.jpg",
+    "photo_url": "https://cdn4.telesco.pe/file/YzUS5_5ePpm2-GcV1qj6Y9G87A0aKAGCTr64cZkovb_eWZQC1cQpukHB3-P_-qZSPS-c56BlHdp5R8sw97E6km49cODGpO-8svGepdhjTF5SkH9Mg7JFsYl3RmBwZmdxtDAtUztg8IjP0YLcyIZl3DgKzlN5YrdLe0GJXhLDolS8puu__xEczosBeqJ-rWJgGXW6rGfmrvyLfolTbljWjTU41rxP5gHW3nzfAw719KolxFuorPdGP2OLEQE4PO8-3CLxUxvVWWlAsaBBvtvISW0HJLOsvxeF6pLAy2A-RUxHN22KLiTi3H2N-yEbAl-XEdn7j6zTuaOmRouBABUQzg.jpg",
     "description": "The Open-Source Intelligence Network\n\nTwitter:\nhttps://x.com/mwarmonitor"
   },
   "posts": [
-    {
-      "id": 13856,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eتری اینگست (گزارشگر فاکس نیوز):\u003cbr/\u003e«بله سلام بچه‌ها، صبح بخیر. مقامات ایرانی اکنون به‌طور علنی به افزایش فشارهای اقتصادی آمریکا علیه کشورشان واکنش نشان می‌دهند. رهبر ایران، مجتبی خامنه‌ای، بیانیه نادری منتشر کرد و از ایرانی‌ها خواست از تولیدات داخلی بیشتر استفاده کرده و وابستگی به دلار آمریکا را کاهش دهند. حساب رسمی او در شبکه X پست کرد: \u0026#34;به همان اندازه با اهمیت، توجه ویژه به رشد اقتصادی، جهش تولید، حذف تدریجی نقش محوری دلار آمریکا و در نهایت محوریت بخشیدن به اقتصاد مقاومتی است - که همگی از اهداف دولت خدمتگزار هستند.\u0026#34; مسعود پزشکیان، رئیس‌جمهور ایران نیز درباره فشار و سختی‌های تجربه شده در تهران صحبت کرد.»\u003cbr/\u003e\u003cblockquote expandable=\"\"\u003eمسعود پزشکیان (رئیس‌جمهور ایران - صداگذاری انگلیسی):\u003cbr/\u003e«صادرات و واردات ما بین ۲۵ تا ۳۵ درصد کاهش یافته است. صادرات ما بیشتر افت کرده، اما واردات ما نیز کاهش داشته است. البته افت صادرات بیشتر از واردات بوده است. معنای این موضوع برای کسانی که اقتصاد می‌دانند روشن است. نمی‌خواهم آن را باز کنم و توضیح دهم. نمی‌دانم به کسانی که ادعا می‌کنند تحریم‌ها هیچ اثری ندارد چه بگویم.»\u003cbr/\u003eتری اینگست (گزارشگر فاکس نیوز):\u003cbr/\u003e«این در حالی مطرح می‌شود که محاصره دریایی آمریکا کاملاً برقرار است. فرماندهی مرکزی ایالات متحده (سنتکام) اعلام کرد تا ۲۸ اوت، نیروهای سنتکام ۸۲ شناور تجاری را تغییر مسیر داده، ۳ شناور را از کار انداخته و وارد ۲ شناور شده‌اند تا از رعایت مقررات اطمینان حاصل کنند. دریادار برد کوپر، فرمانده سنتکام، آخرین اخبار مربوط به جنبه نظامی انزوای اقتصادی را توضیح داد.»\u003cbr/\u003eدریادار برد کوپر (فرمانده سنتکام):\u003cbr/\u003e«همان‌طور که اخیراً اعلام شد، ارتش ایالات متحده به یک دستاورد و موفقیت بزرگ در تنگه هرمز دست یافته است. ما با موفقیت مین‌های دریایی را در خطوط کشتیرانی بین‌المللی این تنگه پاکسازی کرده‌ایم؛ مین‌هایی که ماه‌ها پیش توسط سپاه پاسداران انقلاب اسلامی ایران کار گذاشته شده بودند. شرایط دشوار و به معنای واقعی کلمه خطرناک بود، اما ما کار را به سرانجام رساندیم. خط سخن این است که امروز خطوط کشتیرانی بین‌المللی باز هستند و روند حرکت در حال شکل‌گیری است.»\u003cbr/\u003eتری اینگست (گزارشگر فاکس نیوز):\u003cbr/\u003e«پیت هگست، وزیر جنگ (دفاع) اشاره کرد که اگر ایرانی‌ها بخواهند تلاش‌های آمریکا در تنگه هرمز را مختل کنند، ارتش ایالات متحده کاملاً آماده است. بچه‌ها؟»\u003cbr/\u003eمجریان استودیو:\u003cbr/\u003e«ممنون تری. سپاسگزارم تری.»\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/mwarmonitor\" target=\"_blank\"\u003e@mwarmonitor\u003c/a\u003e",
-      "date": "2026-08-30T15:22:57Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2380,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "نظامی - سیاسی",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/lKKN7btbdZ7FIYIEGzKFkT5a3xU139J4PA1DUJyMGGkWRzsEUDraVSSA9Ugh-2D66LjAjwfKwN9ZcHI26sbVMpBhZrNtyoKQjz8pWcBWaCnhljj87rkTK3tUDSoeSfLffaLnYa3MhZvVOcivE88f_vB0riGuN-vAmwFf1pusBhFQxuGsEQkMnv4dYIPe6m-CyTryxwFi1QNWnmJYvTODiXnlF0S2zNKmRxcQ0EWcU7iV07KS7QLUqJMDKGpB3_2Z9rB2rZsu27XGlqs67TfNwa9Iu6-4htwh13ROGKUbP-lpdy3i_OSZ6y2xVv2tAWkUcPr75ZltsAHJuxEZWAqVtg",
-          "width": 640
-        }
-      ]
-    },
-    {
-      "id": 13857,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eنیروی هوایی آمریکا (USAF) – مأموریت «نیروی بمب‌افکن» (Bomber Task Force)\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C88.png\u0026#39;)\"\u003e\u003cb\u003e✈️\u003c/b\u003e\u003c/i\u003e۳ فروند بوئینگ KC-46 پگاسوس:\u003cbr/\u003e\u003cbr/\u003eAE5F9B | 18-46048 — PICO 11\u003cbr/\u003eAE5F9A | 18-46047 — PICO 12\u003cbr/\u003eAE5F9E | 18-46051 — PICO 13\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C88.png\u0026#39;)\"\u003e\u003cb\u003e✈️\u003c/b\u003e\u003c/i\u003e۲ فروند بوئینگ KC-135 استراتوتانکر:\u003cbr/\u003e\u003cbr/\u003eAE04F6 | 58-0069 — PICO 21\u003cbr/\u003eAE068D | 62-3517 — PICO 22\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C88.png\u0026#39;)\"\u003e\u003cb\u003e✈️\u003c/b\u003e\u003c/i\u003eامروز پنج فروند هواپیمای سوخت‌رسان در پایگاه هوایی فیرچایلد (Fairchild Air Force Base) مستقر شده‌اند؛ سه فروند KC-46 از پایگاه گارد ملی هوایی پیس (Pease Air National Guard Base) و دو فروند KC-135 از پایگاه هوایی مک‌دیل (MacDill Air Force Base).\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C88.png\u0026#39;)\"\u003e\u003cb\u003e✈️\u003c/b\u003e\u003c/i\u003eپرواز PICO 11 تا 13 در تمام مسیر خود تا فیرچایلد قابل ردیابی بود، در حالی که PICO 21 و 22 بین ساعت ۰۱:۰۰ تا ۰۱:۳۰ به وقت UTC از مک‌دیل پرواز کردند، اما از طریق LiveATC قابل ردیابی نبودند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003eبه نظر می‌رسد PICO 23 نیز پروازی نداشته است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C88.png\u0026#39;)\"\u003e\u003cb\u003e✈️\u003c/b\u003e\u003c/i\u003eاین هواپیماهای سوخت‌رسان از یک مأموریت نیروی بمب‌افکن (BTF) متعلق به بال دوم بمب‌افکن نیروی هوایی آمریکا در پایگاه بارکسدیل پشتیبانی می‌کنند؛ این یگان قرار است به سمت استرالیا حرکت کند.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/mwarmonitor\" target=\"_blank\"\u003e@mwarmonitor\u003c/a\u003e",
-      "date": "2026-08-30T15:26:08Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2410,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "نظامی - سیاسی",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/C62m88fJcMDSR_pOKUc8SQK-xejVrDztjFEt_JwBXa0f0vvYyGi2CGE6UHwQyYXVEZuRypd9aTyQWavGDcsKwMHO3FQZUmY1HgJWr4nv_2RM9gYSgkr-3BJg8j9LvIIEJN4MEbavEAaIGj6CX5mXXiPx9oS2z3AqgEOvjs4csWsHoO6pavgpzBDp1luxea7RafIjkdDeRAPwkVDXqvy0B_YBEdHedzitcoCwB6G6_OZ6BwYXDNsjLvwhraThvJoqKyEp9c2lU06weJ8gXGA8wvsLaC5yhHtCo320_HNP5gEa-8HqJFvckhyv7lfs5WbR6WJJNfG8YOjuFefHveKbaA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 13859,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eیکشنبه شلوغ برای نیروی هوایی سلطنتی بریتانیا (RAF)\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003eامروز بعدازظهر تعداد قابل‌توجهی از هواگردهای نیروی هوایی سلطنتی بریتانیا در سراسر اروپا به پرواز درآمده‌اند؛ به نظر می‌رسد در میان آن‌ها چند فروند از هواگردهایی که اخیراً به پایگاه RAF آکروتیری در قبرس وارد شده بودند نیز در حال بازگشت در مسیر مخالف هستند:\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote expandable=\"\"\u003eC-17A با نام پروازی RRR6403 — شماره بدنه ZZ178\u003cbr/\u003e\u003cbr/\u003eC-17A با نام پروازی RRR6995 — ZZ174\u003cbr/\u003e\u003cbr/\u003eC-17A با نام پروازی RRR6628 — ZZ171\u003cbr/\u003e\u003cbr/\u003eShadow R.1 با نام پروازی RFR7140 — ZZ416\u003cbr/\u003e\u003cbr/\u003eShadow R.1 با نام پروازی RFR7141 — ZZ507\u003cbr/\u003e\u003cbr/\u003eA400M Atlas C.1 با نام پروازی RRR4270 — ZM408\u003cbr/\u003e\u003cbr/\u003eA400M Atlas C.1 با نام پروازی RRR4215 — ZM407\u003cbr/\u003e\u003cbr/\u003eA400M Atlas C.1 با نام پروازی RRR4200 — ZM409\u003cbr/\u003e\u003cbr/\u003eA400M Atlas C.1 با شماره ZM417 — نام پروازی نامشخص\u003cbr/\u003e\u003cbr/\u003eVoyager KC.3 با نام پروازی RRR9958 — ZZ333\u003cbr/\u003e\u003cbr/\u003eVoyager KC.3 با نام پروازی RRR9303 — ZZ335\u003cbr/\u003e\u003cbr/\u003eVoyager KC.3 با نام پروازی RRR2270 — ZZ338\u003cbr/\u003e\u003cbr/\u003eTyphoon FGR.4 با نام پروازی DRAGON01 — ZK317\u003c/blockquote\u003e\u003cbr/\u003e﻿\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/mwarmonitor\" target=\"_blank\"\u003e@mwarmonitor\u003c/a\u003e",
-      "date": "2026-08-30T15:31:11Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2560,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "نظامی - سیاسی",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/a3oEVgqjXg2aff7V0XfOf59ziubcvlOyl4QVko9QhiCfH1m4f3QmA0b4K5WeHh1l5ByNXoQ0CIf9VbdLSuBvUybCaVrujItGoyc80HOxAfYze1fFkFhf8oa93zpEc-fA64gmXG-7m-d2DGpfC9dKoTrfvZCiKL1Cyt9btooKYa8DnilCtKrFVmcC_PAW74R-P3rlDPIv_kbG_-3ysIXNoAm6003B59-UWCmTBLBq5gn8Q9QPrBvNb--SUg1ByYMsHUMvmdmSKK4i1ZnDEvSKV7LMIbUsDTmA5-MiRXZs0c8qbn0O79ExpV2nC5nnogepOSKoyjddCWj6cAY1CI2LTg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 13860,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eدر طول هفت روز کامل گذشته، میانگین صادرات نفت خامی که از خط محاصره دریایی نیروی دریایی آمریکا خارج شده، به ۶.۷ میلیون بشکه در روز رسیده است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003eاین رقم حاصل تحقیقات گسترده ماست که داده‌های AIS را با صدها تصویر ماهواره‌ای روزانه ترکیب می‌کند؛ از جمله نفتکش‌هایی که به‌صورت بصری شناسایی شده‌اند اما AIS خود را خاموش کرده‌اند. برخی از این نفتکش‌ها حتی در منطقه خاورمیانه هیچ سیگنال AIS ارسال نمی‌کنند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003eاین محاسبات همچنین شامل کشتی‌هایی می‌شود که چند روز پس از عبور از خط محاصره، AIS خود را دوباره فعال می‌کنند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003eدوستان، این اولین بار نیست که چنین کاری انجام می‌دهیم و تجربه کافی در این زمینه داریم. تانکر ترکر\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/mwarmonitor\" target=\"_blank\"\u003e@mwarmonitor\u003c/a\u003e",
-      "date": "2026-08-30T15:32:21Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2640,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "نظامی - سیاسی",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/AuPpjpEkYxxdWbHaDVG_7V9wxvhGEFXJO3_5ol395-Bvt4ZQ3qjj4n9kv2BgVMX0wDdOCu1_Pl9aCsbjYBas6RDhCtQmOhkiA9YPe6k98x4CFjlkd3KRdCoh8U8nuT9sM9lu4UbJe0NYsQ7e8yuZijy83mMs9j9UVvldPvDncvYHFMrGf6JPqTKQTDEhaI2pWiUXkcNFrrwiUPhl1dBSM4EqeBo0D74w1wh6uO3ZltQ3186dhqQ5GnOTh_3XzdjsJdLtDk9IL7OpuHZvmhSgF8m9w5EaG-tMJrMgPpY5G4HSZsBijTUnShaAJQktnck3kf2UC7kUeIF95yWF8VK0Bg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 13861,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003eاسرائیل درحال شخم زدن جنوب لبنان\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/mwarmonitor\" target=\"_blank\"\u003e@mwarmonitor\u003c/a\u003e",
-      "date": "2026-08-30T16:26:47Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2530,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "نظامی - سیاسی",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/hOuCMyyhzEbR3IDs4RAxP-PEbH3btdH88tSk2ID16TmflnCf5pHy8L0Zs8y-regq8ogbZDu-T7PTylVsqtnXgsOeEwGePi506DOmypqpGLwaqv8ktINlae6yDP0ZNpeDkEPgefCI0dDC1KC1UTnJprI7tKfI_R48KGuf6Xa9_tPjNypVxlEEJ8x7nw6TxzP7LwT4Vc55zPI48YJEAqL6WOlALROkQYqP9AwsHQe998ONTZrw2G-nVrQy-RaUNvYJRGqGZnhWvnO1spa3Lu1oN4mZ5sm0TmTBddKEvYUuWWmjSB3YjNa-n6qvLV28DV-3oIYQMvjYmruhGJOp7xO_Zg.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/K86DtmIep5io57yx4lPjw-qJvBll1P4VbIxpqyWPw-rz7sS3rMZozFNrCFfosP1E7vwPtXPy6w2m_z3m4hSBitLwfodQE4NtfUGy6g0-HnukY4ey7-BncodSIcYAcsBB3qcJELhApLG-2iKwwUCJVm0yRQ1g2E3dbpNGcjb2dKY6bBUnrX9cc6jvmcsNYx4LR5J4dzfsj-6I6qjeOb1dSCI4h1ZLM-562VwdEtYEZgvhpGAYt-Hp2nmJA52tvFIF9FOBXb5jkFl5OFwVAoyF2ORMw4RFCKZYLh7B9cYuwSUgGGRuCub9unNMCyEX7aQDVWsbAylY9hdHRM5qyHtraA.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/TxGTIc-E1iPHDSj71RNASHTRtrB6-ydZBiFUlNIFVJMc1kTd71o7sUrpX-q0LZhaQyk2pb2morc0eFfVH6znm53bGNlAa1C8_AEMtbmAWTX2yPH07omxD0nCT6Y4ua815VrE38qmi8wsAvKVLvIbQLA3T1eg3tYMNp3--A-u80gAIQCvPj2kioGTMo-l7eeqYuBL4Qq4ECr2lIee0QyCVezxg5tJmhFPLYoV08hji74xZPB42ZaWu0ye6Kn6Lro_mREBnalO7csd3PqDmNWNWI97hTkg_e67_Fv9wVA8kNs-_QLTmAwY89qHdKumQZydpHORmiP3MjLRL-jAdCCTpA.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/sfFLVRkEbc3ME7Csz7ylOc0DzkxZeIprzS2ZEjnbTWqw4BCLBfQBQD13xeTjIb0Vb4LkcaHBKWOAVMKLw8t3_hdjYKTwthkVoCMIWqeisG3wbu1fs6oAY4YfleMHUiVHsABiOqI1qj-cBJ-ld_skzPeHsM0ogMu06qOU8BDHu4pDv3x-b6hd0A576_0EJUeWKyQ4QPB6A9dMJuRmLWxz1pvQe5pH5nHZg0Cc2bYqXYBzISPnxMkmzw3vdqVSOMAZsAkcHB1bX0WYHzj8m6JWmCNMh5g9tEuOvJvrpcXUl_DFfHCGvHepTr6DmEI92WaaG7FXaFXO-3J75DkGHiLBhg.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/JRhsMigmrWtMe6LEQldAZk8QsjCXVi9urwJNGpqc4TxpB0KS985Oggn3Thg8-y1DtfxLfB806_AX38PdN3Ahcpme4X0nGeQzfdTZ5jXTdSqGhdfZsXNpMcw0GUTCBzgtsChxoVu0Z-cDEYZjnVV2-bFUMquLQ2NuBJUCD099uOwr06SXz0bzJjIEa74VFyUB0YHcs77W_ksmMEmBfoJ8Z30uSNLFIf3by_7-KBY5ZnzG_P0z567rq-6Go4Qi5TGBPVAtE8b5inAEQ4La6KNkuLUvX5c9VCEzstEhILhdilnUQSEpOcXHaNhCLl9JEdkHfKiLcYmUawL8NvXcRVWXcg"
-        },
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/YMOg4qws2aoZEd77zN-Fe8RXzcyq5B61AFEJThZueDIV3jrpaDhMcF1WCQDgZGSrA2JSSO2jFZdTXP-NhXfRnIZVHB6Kevfs4_W6pVDZFJMqE2gNMMdZVCiTc5JNtIHqWRsAvgnIVccyMlt7L4d9hP-9Q9ZtxOhEShOdayfV2F9Ln4uzbuN3bBVVEENFbMVjFxIbdCX23NsmKtaJ_O9ulvo2gdhdAeLbxjo3HB-PEkUMSpFN3HIACJA6nxR5ABeexq1oHF_UQ2cn5PvQFgQONTNZKjmzl3JbyxzD0lzEGd9aK6WfK32L4TgHqOaBXwktyL-_isn6aZJGf9ln7ijPWw"
-        },
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/gKmX_NeBI6Aibuqy3gTsHfgV6u-mjLMi9RH3HHxt2_90bwYvl4ucsAggsnvpHEmUH-WfPMS8vbyys2XzyC0VcXDHqjZGsP-1meqMe_DPDzbcED3ODGYGM5zrZwo6mTDiBvKomAD1PfxE43DcVjRjWO1f5aYqtsuVEuvex_tCrKWsVUwqSd5F7kfI7hVpXzviasJV9zkBJdM1WEaOxocg8FLRZRVQt74Nu2wj40GFe83Soic99PkZXMwilT3dJFDyGh_cmxkO3Z5PllHGkE49MgQu7-Ms1EdJcC1aj3SSaG45WPXR4BcB-EDiSutG9om1tvzsXdvzDmR2jDiinzICjA"
-        }
-      ]
-    },
-    {
-      "id": 13868,
-      "message": "\u003ctg-emoji emoji-id=\"4981038280872035186\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eسازمان عملیات تجارت دریایی بریتانیا (UKMTO) گزارشی تأخیری از یک حادثه در ۱۲ مایل دریایی شمال خصب، عمان دریافت کرده است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eیک نفتکش در حال عبور به سمت داخل (ورودی) تنگه هرمز، مورد اصابت یک پرتابه ناشناس قرار گرفته است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003eدر حال حاضر هیچ تلفات جانی یا آسیب زیست‌محیطی گزارش نشده است.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/mwarmonitor\" target=\"_blank\"\u003e@mwarmonitor\u003c/a\u003e",
-      "date": "2026-08-30T16:28:10Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2580,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "نظامی - سیاسی",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/fjU0aPr3uvHnDV-v6iWwpggUZK1_n7sBBO6EHUnLAqu3zdjABLPDGn4FewaIxyIWKjbQHoWdS1uKQ8TeKDgzTRSPpYNloQI3D1jZ3zf2R4SE3DeO_kAjFDKaetlCkoXO11SfAPz5ezVpwerYIj2cpsj2Of8RQ-UswJn4XcrxnpK3oqC1eVWPccaMSGkG-z8aXZuPB0HGcoOcZrqOL4sCQsogTl74oUCA-qkDsbJbLnUtZLJWd-VS8L_XA8fh6u_bZ1kjIFGddq7oDRbrUd-7QxnVpQ8v7x_5owahKesj2f-cFGVSQkIxGg0nHh8oy1_M_Oi55oI50QHmXKhFeOI2-w.jpg"
-        }
-      ]
-    },
-    {
-      "id": 13869,
-      "message": "\u003ctg-emoji emoji-id=\"5837180813795399326\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B0.png\u0026#39;)\"\u003e\u003cb\u003e📰\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e«شرکت‌های بزرگ داده در آمریکا اطلاعات را در اختیار هوش مصنوعی چین قرار می‌دهند؛ در حالی که هم‌زمان با پنتاگون نیز همکاری می‌کنند؛ هشدار یک نماینده کنگره»\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5837180813795399326\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B0.png\u0026#39;)\"\u003e\u003cb\u003e📰\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eواشنگتن — یک نماینده جمهوری‌خواه و منتقد سرسخت چین هشدار داده است که شرکت‌های آمریکایی فعال در حوزه داده‌های هوش مصنوعی، هم‌زمان در حال کمک به توسعه هوش مصنوعی چین و همکاری با ارتش آمریکا هستند.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5837180813795399326\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B0.png\u0026#39;)\"\u003e\u003cb\u003e📰\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eطبق گزارشی جدید، چهار شرکت بزرگ آمریکایی فعال در حوزه داده‌های هوش مصنوعی — SurgeAI، Mercor، AfterQuery و Turing — که برای شرکت‌هایی مانند OpenAI، گوگل، متا و پنتاگون خدمات داده‌ای ارائه می‌کنند، در کنار آن با آزمایشگاه‌ها و شرکت‌های هوش مصنوعی چین نیز همکاری داشته‌اند. \u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5837180813795399326\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B0.png\u0026#39;)\"\u003e\u003cb\u003e📰\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eمایکل مک‌کال، نماینده جمهوری‌خواه از تگزاس، گفت:\u003cbr/\u003e«آمریکا در یک رقابت هوش مصنوعی با حزب کمونیست چین قرار دارد. ما نمی‌توانیم میلیاردها دلار برای حفظ برتری فناوری خود هزینه کنیم، در حالی که شرکت‌های آمریکایی بهترین تخصص انسانی ما را جمع‌آوری و بسته‌بندی کرده و آن را به شرکت‌هایی وابسته به ارتش چین می‌فروشند.»\u003cbr/\u003eبر اساس این گزارش، چهار شرکت آمریکایی که با آزمایشگاه‌های هوش مصنوعی چین همکاری داشته‌اند عبارت‌اند از SurgeAI، Mercor، AfterQuery و Turing.\u003cbr/\u003eنگرانی اصلی این است که داده‌های باکیفیت و به‌درستی برچسب‌گذاری‌شده برای آموزش و بهبود مدل‌های هوش مصنوعی اهمیت بسیار زیادی دارند و دسترسی شرکت‌های چینی به چنین داده‌هایی می‌تواند به چین برای کاهش فاصله فناوری با آمریکا کمک کند. \u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5837180813795399326\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B0.png\u0026#39;)\"\u003e\u003cb\u003e📰\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eمک‌کال تأکید کرده است که اگر یک شرکت می‌خواهد با دولت آمریکا قرارداد داشته باشد، نباید هم‌زمان به توسعه هوش مصنوعی شرکت‌های چینی، به‌ویژه شرکت‌هایی که با ارتش چین ارتباط دارند، کمک کند.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5837180813795399326\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B0.png\u0026#39;)\"\u003e\u003cb\u003e📰\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eبر اساس گزارش مذکور، Tencent با SurgeAI همکاری داشته است؛ در حالی که دولت آمریکا Tencent را در فهرست شرکت‌های نظامی چین قرار داده است. همچنین Mercor با Tencent ارتباط تجاری داشته، AfterQuery از شرکت چینی Ant Group درآمد قابل‌توجهی دارد و Turing نیز با ByteDance، شرکت مادر TikTok، همکاری کرده است. نیویورک پست \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/mwarmonitor\" target=\"_blank\"\u003e@mwarmonitor\u003c/a\u003e",
-      "date": "2026-08-30T16:56:49Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2640,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "نظامی - سیاسی"
-    },
     {
       "id": 13870,
       "message": "\u003ctg-emoji emoji-id=\"4981038280872035186\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e فوری \u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eسازمان رادیو و تلویزیون اسرائیل به نقل از منابع:\u003cbr/\u003eکشتی‌های جنگی ترکیه به کشتی‌های نیروی دریایی اسرائیل نزدیک شدند و مسیرهای دریایی مشخصی را به آن‌ها اعلام کردند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eنیروی دریایی اسرائیل سطح آماده‌باش خود را افزایش داده است تا برای هرگونه تحول احتمالی در دریای مدیترانه آماده باشد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/mwarmonitor\" target=\"_blank\"\u003e@mwarmonitor\u003c/a\u003e",
       "date": "2026-08-30T17:53:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2300,
+      "views": 4000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -170,7 +25,7 @@
       "date": "2026-08-30T17:59:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1800,
+      "views": 3470,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -182,7 +37,7 @@
       "date": "2026-08-30T18:01:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1710,
+      "views": 3780,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -200,7 +55,7 @@
       "date": "2026-08-30T18:31:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1050,
+      "views": 3590,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -212,7 +67,7 @@
       "date": "2026-08-30T18:32:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1020,
+      "views": 3880,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -224,7 +79,7 @@
       "date": "2026-08-30T18:34:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 919,
+      "views": 3820,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -236,7 +91,7 @@
       "date": "2026-08-30T18:36:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 820,
+      "views": 4230,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -247,6 +102,179 @@
           "url": "https://cdn4.telesco.pe/file/ElqYEQK2QrhtDkK-9iOYqrcuvkv4OzZD6YxUkLuDBOHUZppeIKKlQJI_boiMAkHyvygNvlyMuPkvpxHg29tMYA9q_fQBCnNspWJxzb8Mr4RfOFv0ZsxP1MEx48AJHc7aC86eJ16snKBhTsvSuBVN0lErpYIdCw1X5LQYReJ-AXGcvk_dKZnHbG2rvwfm0E0W-C33ZXYasacoj87EanjF7kB_bHeI7M3F1aaMTfTF7gFNYOYL8lXdWaQ5lYl8p1Q0eAmjaVvxjN5o73t1t32BCv5loWuFrukqa5yOM3L61wUTz_0zEcbNrtuDOhg1sr7I-Eh8SQJrRIUZvotdc1wrPQ.jpg"
         }
       ]
+    },
+    {
+      "id": 13877,
+      "message": "\u003ctg-emoji emoji-id=\"4981038280872035186\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eیک مسئول آمریکایی به شبکه الجزیره گفت: نیروهای ما امروز دو پرتابگر موشک متعلق به سپاه پاسداران انقلاب اسلامی را در جزیره لارک مورد حمله قرار دادند.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/mwarmonitor\" target=\"_blank\"\u003e@mwarmonitor\u003c/a\u003e",
+      "date": "2026-08-30T19:17:10Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "نظامی - سیاسی"
+    },
+    {
+      "id": 13878,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eیک مسئول آمریکایی به شبکه الجزیره: دو شناور ایرانی در حال آماده‌سازی برای پرتاب موشک‌هایی حامل مین‌های دریایی به سمت تنگه هرمز بودند.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/mwarmonitor\" target=\"_blank\"\u003e@mwarmonitor\u003c/a\u003e",
+      "date": "2026-08-30T19:17:45Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4260,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "نظامی - سیاسی"
+    },
+    {
+      "id": 13879,
+      "message": "\u003ctg-emoji emoji-id=\"4981038280872035186\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eمنبع خبری ایرانی: کشته و زخمی شدن تعدادی از افراد در پی حمله نظامی آمریکا به جزیره لارک .\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/mwarmonitor\" target=\"_blank\"\u003e@mwarmonitor\u003c/a\u003e",
+      "date": "2026-08-30T19:21:28Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4350,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "نظامی - سیاسی"
+    },
+    {
+      "id": 13880,
+      "message": "\u003ctg-emoji emoji-id=\"4981038280872035186\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eمقام آمریکایی: «امروز اوایل وقت، نیروهای آمریکایی دو پرتابگر ایرانی را در جزیره لارک هدف قرار دادند. نیروهای سپاه پاسداران انقلاب اسلامی مشاهده شدند که در حال آماده‌سازی برای شلیک راکت‌های حامل مین‌های دریایی به داخل تنگه هرمز بودند.» باراک راوید \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/mwarmonitor\" target=\"_blank\"\u003e@mwarmonitor\u003c/a\u003e",
+      "date": "2026-08-30T19:27:44Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "نظامی - سیاسی"
+    },
+    {
+      "id": 13881,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eنفتکشی که دیروز هنگام عبور از تنگه هرمز توسط ایران  هدف قرار گرفته بود، امروز در این موقعیت مشاهده شده است:\u003cbr/\u003e\u003cbr/\u003e26.3756, 56.3431\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003eاین نفتکش در نزدیکی جزیره ام‌الغنم  عمان، در حال درجا زدن/حرکت بسیار آهسته (idling) دیده شده است.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/mwarmonitor\" target=\"_blank\"\u003e@mwarmonitor\u003c/a\u003e",
+      "date": "2026-08-30T19:29:32Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4350,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "نظامی - سیاسی",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/Poq1MHmwS2AtvSO0TmoHcD9nlz8q56mg4kNzSjvknGcDkBa4HgDlSd4Cog3n1xDr2ps5LoKuGLxSGgMydyoOaREojzG6MNRrhlWWlZ47HnAGHYpPW22lPF-bg5RXxRpSmU33leXr9JWiknIkNFVIN2JeJRqzw9u8U754aZJTvgDswEauEH7nDxlsbARIJQLxqh0EqJQEraisqQtU7jUYJItkaPhIJqRAJc-Ez3HvpzKvyXaXx7bhw1GUnMb7PdjMd5VXisJdKZ6IxaIOwyFCRjndqyMB6BDRQVokH7b5NCSUYAAmsy6uqCCZ2f68KXwJUMQN3uMBSlpo8Z3jFv6jAw.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/MwfevGDPjplWGEQG71QE1qJW0Ns438zkx-3eQC2QA43Mo85kgF6vNPOGkLNiPpmKdKRsY-g2P9vwkISGQ3kTtWsNtX_OpFG5-UWh0YZfy-GZJvt_DtVh3VVh3t2yeN5aAjLBgmsUAExb_LAdyffrt3eHgvBkboZUOBiwclnWCQOLqhKXouZUyNnacdOb9zwsIysuMuAqjGBwDjtUJP6ynJ9-fQyyVEmbgqmM3sksrkQ6oQ5NFuwbtDIsXqjqOukqs0CVFYootMlXXjcHmSInndd8qsqH6boLYOB2bfJ3lBBCGYrH7nnYZuNvMdbhtyS2jLIS_6NI1WS6szsOCl5w5g.jpg"
+        }
+      ]
+    },
+    {
+      "id": 13883,
+      "message": "\u003ctg-emoji emoji-id=\"4981038280872035186\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eشنیده شدن صدای انفجار در لارک",
+      "date": "2026-08-30T19:40:40Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4270,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "نظامی - سیاسی"
+    },
+    {
+      "id": 13884,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003eبیانیه سپاه ؛ پاسخ خواهیم داد \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/mwarmonitor\" target=\"_blank\"\u003e@mwarmonitor\u003c/a\u003e",
+      "date": "2026-08-30T20:15:45Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3590,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "نظامی - سیاسی",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/WX0nu9IyFJthJEvhqMjwkHXKD724XKS54q5hMY_7FwndihC0xaJ-pIUVoPX9rNTxiGlhSFgfr4u6Gt7LGbQIVmQybxJjtWl8gtWbiOpCikIn4C0RHQ-cwHs5h0b7wy01AXaEqSFAv1JkfBFemk0emNwmqeXuxfygR8JEiceKIleiRbD6LGRd0vVw5Z1KPH6msCGcvndBGJ7JlsBBSFp3IUeH74r11yamAYNYHsMHcRtUu9gQRzOvGh5k92Bhb5R1CMLGVhw8hpygtTJQh_5HEFs90l37HwglJOEfC2HnhmM-a0mwRhd5JWN65D1jxnTt1lNYPlY4ccqdDL2kgYXZZA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 13885,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eایالات متحده برای جلوگیری از تهدید مین‌گذاری در تنگه هرمز به ایران حمله کرد\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5406766155194981600\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92AC.png\u0026#39;)\"\u003e\u003cb\u003e💬\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eنویسنده: باراک راوید \u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5201778253898982824\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28FBA.png\u0026#39;)\"\u003e\u003cb\u003e⏺\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eارتش ایالات متحده برای جلوگیری از استقرار مین‌های دریایی در تنگه هرمز، اهداف نظامی ایران را مورد حمله قرار داد.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5199591767652968725\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eچرا این موضوع اهمیت دارد: این اولین حمله شناخته‌شده ایالات متحده در ایران از اواخر ماه ژوئیه است؛ زمانی که دونالد ترامپ، رئیس‌جمهور آمریکا، کمپین نظامی دو هفته‌ای آمریکا در تنگه هرمز را متوقف کرد.\u003cbr/\u003eاصل خبر: ارتش ایالات متحده هفته گذشته پاکسازی تمامی مین‌ها از مسیر اصلی کشتیرانی در این تنگه را به پایان رساند.\u003cbr/\u003eترامپ در آن زمان گفت به ایران اطلاع داده شده است که هر کشتی یا قایقی که اقدام به مین‌گذاری جدید کند، «بلافاصله و به صورت سیستماتیک نابود خواهد شد».\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote expandable=\"\"\u003eترامپ در شبکه اجتماعی «تروث سوسیال» (Truth Social) نوشت: «سیاست مدارای صفر (عدم تحمل) در خصوص مین‌گذاری با قدرت تمام در حال اجراست.»\u003cbr/\u003eخبرگزاری تسنیم، وابسته به سپاه پاسداران انقلاب اسلامی، گزارش داد که این حمله توسط یک پهپاد انجام شده و دو کشته و دو زخمی برجای گذاشته است.\u003cbr/\u003eاظهارات مقامات:\u003cbr/\u003eیک مقام آمریکایی گفت: «امروز نیروهای آمریکایی دو پرتابگر ایرانی را در جزیره لارک مورد هدف قرار دادند. نیروهای سپاه پاسداران انقلاب اسلامی در حال آماده‌سازی برای پرتاب راکت‌های حامل مین‌های دریایی به داخل تنگه هرمز مشاهده شده بودند.»\u003cbr/\u003eاین مقام افزود که نیروهای آمریکایی «منطقه را از نزدیک زیر نظر دارند و برای محافظت از جریان آزاد تجارت» در این تنگه آماده هستند.\u003cbr/\u003eسپاه پاسداران نیز در بیانیه‌ای اعلام کرد که این حمله ایالات متحده «توسط فرزندان ایران پاسخ داده خواهد شد و به مجازات متجاوز منجر می‌گردد».\u003cbr/\u003e\u003c/blockquote\u003e﻿\u003cbr/\u003e\u003ca href=\"https://t.me/mwarmonitor\" target=\"_blank\"\u003e@mwarmonitor\u003c/a\u003e",
+      "date": "2026-08-30T20:19:19Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3530,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "نظامی - سیاسی"
+    },
+    {
+      "id": 13886,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003eمجری (CNN):\u003cbr/\u003e«خب، اخبار فوری بیشتر. ارتش ایالات متحده حملات جدیدی را علیه ایران در تنگه هرمز آغاز کرده است؛ اولین حملات در بیش از یک ماه گذشته. بریم به کاخ سفید، جولیا بن‌بروک اونجا حضور داره. جولیا، چه اطلاعات جدیدی به دست آوردی؟»\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003eجولیا بن‌بروک (خبرنگار کاخ سفید):\u003cbr/\u003e«خب، ما مطلع شدیم که اوایل امروز، نیروهای آمریکایی دو پرتابگر ایرانی را در جزیره لارک هدف قرار دادند. یک مقام آمریکایی به ما می‌گوید که این اقدام پس از آن انجام شد که مشاهده شد نیروهای سپاه پاسداران انقلاب اسلامی در حال آماده‌سازی راکت‌ها با مین‌های دریایی برای شلیک در تنگه هرمز بودند. این آبراه حیاتی، البته، یکی از مناطق کلیدی مورد توجه در طول این درگیری بوده که اکنون بیش از شش ماه از آن می‌گذرد\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/mwarmonitor\" target=\"_blank\"\u003e@mwarmonitor\u003c/a\u003e",
+      "date": "2026-08-30T20:23:08Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3410,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "نظامی - سیاسی",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/NSA1XdooBSZYGos9XGTJJjM2FP-Z0Bxa_lOsZWyEP8H_4F2nshhI1M3hvfJkgcrPEHDbyCFUoWJfU9rvhHVa2_HCMRY3TRNfk1WGDQ4fFoJuiwG3D4pny2EFJxnVX0uFfMSHHOAjGYXXmpByY0ncWYnuq79VA2oTwfaKvadhrPzhXN1ILHWZ5y4MBImnxx2EHcze7wkO0y1I-D_UG4bxEX4MVqyYPpvepZNm4mgs4-3gEpr_WNkyf6acQZAzM7JQigqWVM2QTs8gya0vakxNYky4i1usNR6YYurkrPnAUz5MFSgdo1fEcr9TcA7csa_xIr7nk5rmFQlfE09irNnJQA",
+          "width": 1280
+        }
+      ]
+    },
+    {
+      "id": 13887,
+      "message": "\u003ctg-emoji emoji-id=\"5055419228878800423\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D8C.png\u0026#39;)\"\u003e\u003cb\u003e❌\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eاخبار تأیید نشده حاکی از شلیک موشک از ایران است.",
+      "date": "2026-08-30T21:19:35Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1670,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "نظامی - سیاسی"
+    },
+    {
+      "id": 13888,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003eیک ملوان نیروی دریایی آمریکا، یک بالگرد MH-60S Sea Hawk را هنگام فرود روی عرشه پروازی ناوشکن USS Delbert D. Black (DDG-119) هدایت می‌کند. این ناوشکن در حالی که در دریای عرب در حال حرکت است، در چارچوب اجرای محاصره دریایی آمریکا علیه ایران فعالیت می‌کند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003eتا ۳۰ اوت، نیروهای فرماندهی مرکزی آمریکا (CENTCOM) برای اطمینان از رعایت مقررات محاصره، ۸۳ کشتی تجاری را از مسیر خود منحرف کرده، ۳ کشتی را از کار انداخته و ۲ کشتی را سوار و بازرسی کرده‌اند.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/mwarmonitor\" target=\"_blank\"\u003e@mwarmonitor\u003c/a\u003e",
+      "date": "2026-08-30T21:23:14Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1280,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "نظامی - سیاسی",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/kHa-JcC52uaLFiTL-t2EiKGpkhbgWAL1f5ggr80L1dzMu5FQdVnS50CAx-nJSuXxO_pEuhxL8NmiXSyVfxzeGMbq_hQ0zI31PL1tTNpRs9q_HMAhSubUV6bFffKEO1-ehk4bKrIiK_rlh7sOaVW-2AtQc276dQmR0o5KfbVY9FgwVP5kaLykIts88nvvZHjfYOOB_B2GCI50_Re5jbCnegG5oXdIZ3Cp3GDi1TCLx1AeBIJVQvhfxLWIwFwnJsbbthOAd7GnRmyAAtMa7vmAYtDKRWwcR8yf5ZmILnvKD5_U9_Rs91PoZV5Fv4l59Mk7yCl5c7Kg8lmf5CgBosP39w.jpg"
+        }
+      ]
+    },
+    {
+      "id": 13889,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003ca href=\"https://www.washingtonpost.com/national-security/2026/08/30/pentagon-secretly-installs-military-influencers-civilian-roles/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eاختصاصی واشنگتن پست\u003c/a\u003e: پنتاگون به‌طور مخفیانه چندین کهنه‌سرباز نظامی محافظه‌کار را که دنبال‌کنندگان زیادی در فضای آنلاین دارند، در سمت‌های دولتی منصوب کرده است؛ اما از اعلام سمت‌ها و مسئولیت‌های آنان خودداری می‌کند، در حالی که این افراد دیدگاه‌های پیت هگست، وزیر دفاع آمریکا، را تقویت و ترویج می‌کنند.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/mwarmonitor\" target=\"_blank\"\u003e@mwarmonitor\u003c/a\u003e",
+      "date": "2026-08-30T21:28:38Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 811,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "نظامی - سیاسی"
     }
   ],
   "last_updated": 0
