@@ -3,192 +3,17 @@
     "id": 0,
     "title": "Farsi VOA",
     "username": "farsivoa",
-    "photo_url": "https://cdn1.telesco.pe/file/XxapFjtbaFKTdY5LrOU7D4HYYMGPvs_W5AHJVs5-hj6DFatSMijghPxx0Rtcy5S99mT2VU3gAz-4z7xdzkZ-HIDAEBwunlYikHKqHAu6G2T9ZiDwgNbUXu3qnG0CYDzQ642CkD8-Hx7MKbOnQtnRtySmonqVQLvPr-WeO6Y20HmO-tJ2NwFS_ttT1mvAhIfKmQiVWDQulC4k7ut-Ie0qysBvK83m8D_RIG-EYsyQvfjLYAi6veiycWPl7PzmnPHTQJCcUhp5kNCn3v8MItnjTDW6MwEVY7jv0xRWRNkmGiWtnErt2_nGDLYhjRh6RLELyy9FShCjVRz6t2bI15_5Vw.jpg",
+    "photo_url": "https://cdn1.telesco.pe/file/DTyj24BOvz1HI-KVXLJeSPCWbV8Hda2DSsJS6__70has7kWTwz0Npx2xE65Wvf0r5kcAvQULQFmV4xBcBeV-uMj9-CCW_E74jtyHAbH82kgeCMkNysAwHU5pbhqtDRj8I76AnJZXAjsNiXsiKbfIgHfUcuPMZNl_LdYshPdjbJjgfZ74eKvbEPfLeyZm2hX0uuGnShvb3sd0ZCT8T983a7dJcDp1_qHkRB0WNsVqedfSOAyhDEHnE7Cx2rsmUHMIrQ2hP_FeW3qxRiTrn2qION1g2pMibwo0oA9RBo9S5tNqTzhmmGlQEXoxJGVPggxfgAiQViL3Hg8MwDx3XaL-gg.jpg",
     "description": "تنها کانال رسمی بخش فارسی صدای آمريكا\nعكس، خبر و فيلم هاى خود را براى ما بفرستيد:\n@sendVOA"
   },
   "posts": [
-    {
-      "id": 228983,
-      "message": "اسپیس‌ایکس با انتشار تصاویری از پرتاب‌های موشک‌های فالکون به ماموریت‌های فضایی انجام‌شده برای ناسا اشاره کرد؛ از اعزام «سایکی» به سوی یک سیارک غنی از فلز و «اروپا کلیپر» به سوی قمر مشتری تا ماموریت‌هایی برای مطالعه اقیانوس‌ها و جو زمین و بررسی تاریخ کیهان.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
-      "date": "2026-08-31T18:42:04Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3270,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/KcXubLdESP4i5w40pibR06XFNB6fGJEjLEwWHLFv4qoje_B9LWoLpW6Rb40r_KZ6-T0T2i5NakUFLZtuTjKlqFYhD-9ezGxosQ3UPkDJTHLUJFdmUCG5AVWS2v4KA5Mc5t8mluyCQoZApfImBp2EB7sBmaVUI3T93-z42j7CFncU9MQSWdNSINUHQNoj2b5Ztwzb5vOdiSME96vn7d7E5RjonJISH10qzlDRdTfFigTPwH7EuKuc6zyWXEDHZX4XQnjth27tvK2xihpNuF9q806YCIPSU3spJIWVRy6JSmHkFhotMsGaF1nvDhEqIwvcUFs59xR6kgyMWX7XB9G0cg.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/k1HUHI2TQb0clEYv4V0sAcnOsPkIpL7irlFdVO9L24wLhwwM-k7Z09__sh4QigNllJO_sGxZzkMjPGhzaKQHH0iw7Cn7slY-uChn-nGg8wL2iot4eGZgXGBQqjNaGz-hK2_WXSfX6RW4IrQUs6z-tzdx3ru8I4vKJM6KrU3pmCKXLHDzfevRsu03wBgjq0Vc9H21w3o3EVFcYg2JkjRh2YvQUXYkOywdjokWZ3xS5ue6YKc9Vf_sZZE__nuJdz7_hbmMfMlSJnVbEpIiO1M-w7podNy4k67rpegYQSrn0QQoi6aoRujEoiz6x6qJUM6wulzJKsyTX4kzdU9tbWaBcA.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/OxosoNs0ggm9WijYlrK7q8nf7EiNWUQmOp9sfDdguWDZBcr_fhlbx5GtNAsNNK1ZUwmG9Lx3vjbqqcbV6Un1njNgON4o3PsYE0oAwEscvt02cbr-oTyNkbpBKrk9QW7JhfUoNwnT7TWUxukBswYnpVZ1mMGhzevu_8Un7JFj4Abfd98vkQOxsD6S3_ZPoAvuueCN-6bZoWiaJXyQ74kBJNLnZe2l6WAvWvRjT3U50KFlBiw2KkW0ozo45tszjvKKPSltY4yP653iVFfA13vWDAe849fc4fyY7JpwgZxBNYDtVxq153IIsW1m6-DbkDsX2acJFPEAMqaoiJcPL8qpjQ.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/TYr1yzmovnlbAqMLTZ9FLc88uF_pCYkoKgWhCEksxqUDYUnJNH-S3VEAOiggc2oWczIhFXhArz-An55Cw8qNr5YhbhiGSWvl_YTKOP1e9aQIQRLvulu543gfQBf7S2haC9Fb8OTWJ63hPW4MYsESWn7rog06EyTgvE2nb178KrnavPxgk15-f8M3dKD1D2Z8-eSKoqOwIJ1PZR3p7H-UF8X67VHp9Wmw3nHRkAYZVg71ndmU3FvK3b539tQtFRSmxzcygzVklLjc0VHPBaXu57bmaPLceoEX7GBu0WRJ61GtUk6Z1Xe-jZqYDkaV6582s7E5BRF-wTABiKT6I7_gXQ.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/rq-WzxuNOpLESSoOpmTfLRK4VxNY80cA1eOI64mffKkYLOV3Y-g8qcSG9hzW_wZVL3yPVj1BpS-SRM1m-9H78-GBcDkV-l_X0YjR8CHxR3LiMAbsIeyXjqFBFgyvGkvIUPXB9Hs00HzLVV71B1azQ60zuZigAHmvAOgKsBfED9DZCkv5qOYbYS1awM3QcoGY8yZ14hIJKZ31PGByXJ4nfqqeZFaqZAymMRd6IcOwS0azJ0hLAE7pQNpMnbMGbS5IFP87Sm3RKgXtJwFieEI4WdcS9OK5Aim4IDvHuS2WH3WFKBDY5NSOgJu1TcC4ZIGy2TK8kKaLD3V_gSdSgr5Sqg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 228988,
-      "message": "گزارش برنامه تفسیر خبر: پیمان دفاعی مکه چیست و چه ابعادی دارد؟",
-      "date": "2026-08-31T18:46:47Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3080,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/FnPYkXYr1LPLYO_N9w8wWFPCJVKuNlHfkrUFuzOT3shq9fM0UTFXIwgRhAWHFNngH88q8qxv6JiTwdJvb0BVc6B7fekTTqSy768ubN1XHu8sNQ_8UqR3aBTrI2nPSZrrYjUwGdDIxF788PkksDvi5zFkbt-2LfyMdPSjAiAmX937uhEgn-Mx-KiRtfHqwS0d-oz11yA1pyiuEF1zdeioaL71i2Y857c5UwoTlKXw-035OQgUQjsL44BhOAlIjtx6ACA8exvMO_y0rCZoWSWYi6w505cTmnX6dwjQh_G_zVCt_vcDj5dAgPysY9GfURemoOM_dDIxq4V3slWK-6LGRg",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 228989,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eاسکات بسنت در نشست گروه ۲۰ بر افزایش فشار اقتصادی بر جمهوری اسلامی تاکید کرد\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eاسکات بسنت، وزیر خزانه‌داری ایالات متحده، همزمان با آغاز نشست وزیران دارایی گروه ۲۰، تلاش می‌کند حمایت متحدان آمریکا را برای افزایش فشار اقتصادی بر جمهوری اسلامی و محدود کردن منابع مالی حکومت ایران جلب کند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/bessent-rallies-allies-against-iran/8192495.html/?nocach=1\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/bessent-rallies-allies-against-iran/8192495.html/?nocach=1\u003c/a\u003e",
-      "date": "2026-08-31T18:48:27Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3620,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA"
-    },
-    {
-      "id": 228990,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A2.png\u0026#39;)\"\u003e\u003cb\u003e📢\u003c/b\u003e\u003c/i\u003e‌ پادکست تفسیر خبر - دوشنبه ۹ شهریور\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9B9C.png\u0026#39;)\"\u003e\u003cb\u003e🛜\u003c/b\u003e\u003c/i\u003eدر صورتی که با مشکل اینترنت مواجه هستید میتوانید اخبار صدای آمریکا را از نسخه‌های پادکست خبری ما به صورت صوتی دنبال کنید و یا اخبار را از نسخه سبک وب‌سایت ما پیگیر باشید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/lite\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/lite\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A1.png\u0026#39;)\"\u003e\u003cb\u003e📡\u003c/b\u003e\u003c/i\u003eبروزترین فرکانسهای ماهواره‌ای را نیز میتوانید از صفحه زیر پیگیری کنید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/satellite\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/satellite\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9494.png\u0026#39;)\"\u003e\u003cb\u003e🔔\u003c/b\u003e\u003c/i\u003eدیگر شبکه‌های اجتماعی ما را هم دنبال کنید:\u003cbr/\u003e\u003ca href=\"https://linktr.ee/voafarsi\" target=\"_blank\" rel=\"noopener\"\u003ehttps://linktr.ee/voafarsi\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eبا دوستانتان به اشتراک بگذارید\u003cbr/\u003e\u003ca href=\"https://t.me/farsivoa\" target=\"_blank\"\u003e@farsivoa\u003c/a\u003e",
-      "date": "2026-08-31T19:07:43Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3390,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA"
-    },
-    {
-      "id": 228991,
-      "message": "\u003ca class=\"tgme_widget_message_author_name\" href=\"https://t.me/farsivoa\"\u003e\u003cspan dir=\"auto\"\u003eFarsi VOA\u003c/span\u003e\u003c/a\u003e pinned an audio file",
-      "date": "2026-08-31T19:07:48Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 0,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA"
-    },
-    {
-      "id": 228992,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eارتش اسرائیل: فرمانده تدارکات حماس در غزه و یک عضو دیگر این سازمان تروریستی کشته شد\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eارتش دفاعی اسرائیل اعلام کرد که فرمانده تدارکات و پشتیبانی سازمان تروریستی حماس در نوار غزه را کشته است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/hamas-ghaza-israel-idf-iran-proxy/8192513.html\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/hamas-ghaza-israel-idf-iran-proxy/8192513.html\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
-      "date": "2026-08-31T19:14:42Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3450,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA"
-    },
-    {
-      "id": 228993,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eدلار وارد کانال ۲۱۲ هزار تومانی شد؛ جهش قیمت طلا و ارزهای دیگر در بازار\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eهمزمان با افزایش تنش نظامی جمهوری اسلامی با آمریکا و تداوم فشار اقتصادی ایالات متحده بر رژیم ایران، روز دوشنبه ۹ شهریور، نرخ دلار آمریکا در بازار ایران از ۲۱۱ هزار تومان گذشت و قیمت طلا با جهشی شدید روبرو شد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/us-dollar-increases/8192521.html\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/us-dollar-increases/8192521.html\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
-      "date": "2026-08-31T19:17:36Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3780,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA"
-    },
-    {
-      "id": 228994,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eلیونل مسی از تیم ملی آرژانتین خداحافظی کرد\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eلیونل مسی روز دوشنبه ۹ شهریور در ۳۹ سالگی به دوران حضور خود در تیم ملی آرژانتین پایان داد؛ پایانی که گرچه با دومین قهرمانی پیاپی در جام جهانی همراه نشد، اما پس از بیش از دو دهه، یکی از برجسته‌ترین دوران‌های یک بازیکن در تاریخ فوتبال ملی را به پایان رساند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/messi-bids-farewell-to-national-football/8192538.html\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/messi-bids-farewell-to-national-football/8192538.html\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
-      "date": "2026-08-31T19:52:37Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2980,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA"
-    },
-    {
-      "id": 228995,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A2.png\u0026#39;)\"\u003e\u003cb\u003e📢\u003c/b\u003e\u003c/i\u003e‌ پادکست میدان - دوشنبه ۹ شهریور\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9B9C.png\u0026#39;)\"\u003e\u003cb\u003e🛜\u003c/b\u003e\u003c/i\u003eدر صورتی که با مشکل اینترنت مواجه هستید میتوانید اخبار صدای آمریکا را از \u003cbr/\u003eنسخه‌های پادکست خبری ما به صورت صوتی دنبال کنید و یا اخبار را از نسخه \u003cbr/\u003eسبک وب‌سایت ما پیگیر باشید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/lite\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003ehttps://ir.voanews.com/lite\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A1.png\u0026#39;)\"\u003e\u003cb\u003e📡\u003c/b\u003e\u003c/i\u003eبروزترین فرکانسهای ماهواره‌ای را نیز میتوانید از صفحه زیر پیگیری کنید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/satellite\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003ehttps://ir.voanews.com/satellite\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9494.png\u0026#39;)\"\u003e\u003cb\u003e🔔\u003c/b\u003e\u003c/i\u003eدیگر شبکه‌های اجتماعی ما را هم دنبال کنید:\u003cbr/\u003e\u003ca href=\"https://linktr.ee/voafarsi\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003ehttps://linktr.ee/voafarsi\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eبا دوستانتان به اشتراک بگذارید\u003cbr/\u003e\u003ca href=\"https://t.me/farsivoa\" target=\"_blank\"\u003e@farsivoa\u003c/a\u003e",
-      "date": "2026-08-31T19:56:58Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3010,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA"
-    },
-    {
-      "id": 228996,
-      "message": "رضا تقی زاده: هدف حمله امریکا به لارک اخطار به حکومت ایران بود\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
-      "date": "2026-08-31T20:03:06Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3030,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/n7aVLNs5-88jzNQ6M0XovvorkM26v1OpNbZYCe4PHdZhGiuP5oxNAIx935B0l7O84UMrtfqUJlVPKmd_vNAL6ENWqZuys1S2dYirej38Sjx6Ur20eaEDuJjsD7G4vm-vRaxKSwJyBOcIDCccoXQzYKPSeokTm6YKd-Q3VArHmOFvQGvuL-6XdO2shMj531ep-zus98hNyoAiZK_lAcwv2Zz3zrZyPqChkECtscs1SMIv_u-ffwnna41-f8z5PEQt0lK24RNkTmxnI7Kdy9TYj8XPXhXQywwYnlZjYL2t9bmUSyzhmnX-Vp9uWzDu8Pk1axWvejr_739g9Y8qck1JbA",
-          "width": 640
-        }
-      ]
-    },
-    {
-      "id": 228997,
-      "message": "اتحادیه اروپا با اعلام احترام به رای مردم ایسلند اظهار امیدواری کرده که مناسبات با این کشور ثروتمند ارتقا یابد. مردم ایسلند با ۵۲.۸ درصد به ادامه مذاکرات برای عضویت در اتحادیه اروپا مخالفت کردند.\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
-      "date": "2026-08-31T20:11:37Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2770,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/T-E3GWLPin4xi_Kp8XMsbwK1eIUNk5PHD79XFye43EdSMUjEWTi5049ol9zyRo1HDLwhGZwnwCHALkg2y3_hGdnWxCOz2JwvLt4_hLK-ifDRrNL_Guf3lqxclA9LWTPc5IqLLkBqJsfWQ6STPlr49kaQg0rh16QCOcjdFnIpIIqhtoxixvO2kJl4EIdShc9sG5_HO7dUSLLRRqj0aKEb3a5WEasHO70didcrJQXAFSKpuuZ9qVu8_EDRLJp_mnTmVfsmShkD0OS8V5T9wdcysv4QkC4YoPjzqTTsNFyrcSsjMR-IVW2cz1U5AnGpczCrBh6qldEVHZqbwbC4MJBQIA",
-          "width": 640
-        }
-      ]
-    },
     {
       "id": 228998,
       "message": "ونس: کلیپ بمباران جزیره خارک ارسال پیام به جمهوری اسلامی است تا رفتارشان در تنگه هرمز را تغییر دهند.\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
       "date": "2026-08-31T20:20:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2660,
+      "views": 3230,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -207,7 +32,7 @@
       "date": "2026-08-31T20:29:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2540,
+      "views": 3160,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -225,7 +50,7 @@
       "date": "2026-08-31T20:31:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2800,
+      "views": 3480,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -237,7 +62,7 @@
       "date": "2026-08-31T20:57:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2200,
+      "views": 3200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -249,7 +74,7 @@
       "date": "2026-08-31T21:25:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1100,
+      "views": 2280,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -268,7 +93,7 @@
       "date": "2026-08-31T21:31:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 946,
+      "views": 2440,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -280,7 +105,7 @@
       "date": "2026-08-31T21:40:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 589,
+      "views": 2280,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -289,6 +114,225 @@
         {
           "type": "video",
           "url": "https://cdn1.telesco.pe/file/QhWoqC9AzgHlLltpqPO0Uw-MXEvAEHEYStzP8req5nfuww_ASNOdbonLLjPm8AWEAfW7LtTLN42X91qAeKUxnQOzZa2ISIBz6ouNeo5PvnoQHpmC12ZzfcW4jJ1T4vCfKbEhCTMLwMM0ImQWY07eLtr2lfUlKqwEgTjSOMB8cGMezMt2-2leEIAuFUUHkLgJ8jebWFHNCShbLI_WhvCD-4nHpxQsyB2R4A8-je_W-fkJpMzayyTjdfALknN2LnWYj8tUiXzjSM0MqHuYCo0acDO6xR1JIU4lrJEiVsUIBX87dLmETq2KPvQ2jCEuQG5Id7z0NZN9i0NLL52D03JHEQ",
+          "width": 640
+        }
+      ]
+    },
+    {
+      "id": 229005,
+      "message": "دونالد ترامپ، رئیس جمهوری آمریکا، روز دوشنبه ۹ شهریور در مراسمی در کاخ سفید به پرسش‌های خبرنگاران پاسخ داد. صدای آمریکا بخشی از این مراسم را با ترجمه همزمان پژواک کیومرثی پخش کرد.\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-08-31T21:53:55Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1990,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/iVybh3gF4sq2nVfwfn-QgTA6_jAlV0Jq_RySLSO9tPNq2rfC9myZn3O9DxdGUnHcItDLYCtr58GvUBFAxOje6dW2mraRzJAfdp5ZUiFIRWLdPyhnYzqKm13kK29m2lVCB-emGgeT5aPpT7yHXOFBRAPrSX7tj1xMOukk6dDtQN8cGUjbrrYKlTzbvUm5urAD9wMFThbH6w586wP-GGLwzyKHFOK_-nHlqV4HJPHlx-7aKnujdkchFT7o8EnY0bo3FtZNl8j0R_VAVDMmzFOCWLZmLC2hTYFRXcW96oyuglLADxTpMQ-g74gs219eqe3VF8Zp3q06OB1tJ7dSI1pKrg",
+          "width": 640
+        }
+      ]
+    },
+    {
+      "id": 229006,
+      "message": "اقتصاد ایران عادی نیست، و حل بحران بیکاری و اقتصاد فشل ایران به مدیریت کارآمد دولت نیاز دارد؛ چیزی که امروز دیده نمی‌شود. با این حال، بسیاری برای دوام آوردن از مهارت، ابزار، ماشین، یا خانه‌شان درآمد می‌سازند. حمایت از کسب‌وکارهای کوچک هم می‌تواند این فرصت‌ها را حفظ کند.\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-08-31T22:10:25Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1550,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/DHYUfqJyO4bnP4njFbq_eaER67YvP5q1CYUr-Ocd6TtfUYHVmS8EPpQPMEFHvygMhq8BHPazeQ2id1xiSYZN2MuvILZqkwUZHc2clcHA0zLROGkEvQNarpgtmqO2zcpZHcxF6Lxv_50dWYJVbNauuBbgj9r98ti0mOqYoYi4pGeYQay6pybZIQa-9DyazQNABCnRBKc_eKw5iM0Y-bZj0ZB2agNZjynCPA7YIrP_Cl7BXsAAZW_jdyCbrlGw7PxuGYgwukK8XlymbMPsmnHRddTkWlU_cNZ7ly3HY-F7zMYPforlvXOpEr8fA7R7gXZutTVaeJdqujnPOSPguF-HSA",
+          "width": 640
+        }
+      ]
+    },
+    {
+      "id": 229007,
+      "message": "۵۰۰ منبع آلودگی در مسیر دجله؛ آب عراق در معرض یک بحران جدی\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-08-31T22:21:31Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1370,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/mDCt0sNQJZ0xYXT_-Xr2FUtut2XdkxgQO9Hz7WiivCmvkOoe-s0aDFgh6rGQfaqItI8ljndNU5OByC8C5FSQEyVDCLZmhqyhJ8DtpCoAafzk-KTjwtmBnwDlc_bIaz9q_i60nUlHtC1AgwTkQCyvna0Cd5DF_Cvk3-PaUYw6d-l1R3pxBeJk1IzCTJd0n8ZDtheLP2qxX8ncmV5wbRsE50FaGNaGPg-t9X6Tj5vfRKsVUYoiqpbtPBxekOCyy0WBrhMPWdiTXriRdmqA_MFQtkamm6K8yPfxKWq2rCyLoFTSnfJeffgmKqyU3TS4xMsm2Ax5VeckurjUfWZDpBpZiQ",
+          "width": 640
+        }
+      ]
+    },
+    {
+      "id": 229008,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eگسترش اعتراضات به وضعیت معیشت؛ دستکم ۱۰ تجمع در شهرهای مختلف ایران برگزار شد \u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eرسانه‌های حقوق بشری و منابع خبری داخلی، روز دوشنبه ۹ شهریور از گسترش تجمعات اعتراضی صنفی و معیشتی در ایران خبر دادند. هرانا اعلام کرد در این روز دستکم ۱۰ تجمع در شهرهای مختلف ایران برگزار شد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/protests-in-iran-continue/8192572.html\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/protests-in-iran-continue/8192572.html\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-08-31T22:23:11Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1520,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA"
+    },
+    {
+      "id": 229009,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eپرزیدنت ترامپ: نیازی به استفاده از سلاح هسته‌ای علیه جمهوری اسلامی نیست؛ شاید باز هم «ضربه سختی» بزنیم\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eدونالد ترامپ، رئیس‌ جمهوری آمریکا، روز دوشنبه ۹ شهریور در پاسخ به پرسش خبرنگاران در کاخ سفید گفت نیازی به استفاده از سلاح هسته‌ای علیه جمهوری اسلامی وجود ندارد، زیرا به گفته او حکومت ایران از نظر نظامی «کاملا شکست خورده» است. او در عین حال احتمال حملات نظامی بیشتر آمریکا را منتفی ندانست.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/president-trump-says-wont-use-nukes-against-iran/8192567.html\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/president-trump-says-wont-use-nukes-against-iran/8192567.html\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-08-31T22:27:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1750,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA"
+    },
+    {
+      "id": 229010,
+      "message": "موفقیت احتمالی اشویل و شانس ایران برای پیدا کردن شرکای تجاری جدید؛ گفتگو با نادره شاملو\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-08-31T22:32:23Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1680,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/Mj9nIX-jKm7FmphDifYztc2kVBvQWBhJOak0pz71VOpmYdtcsz6sORRZMtYhgMTb9AJxmOJ7DGMkW9VSdu0ef3kt3uO0bK5_2FVpZZKFKfhjZnYAwUdl0vfseSKGgTAFCLl108qMeBhiLnZI5tSvIZIRpWeB2i7BzAzi-22LGrbP3DL9U-Sk_687PFdPxKGzgXXfQzX1LoruMXUs165XTSE31HIzK6NSmykJKb9H1-qFwoSTfxHpYw2MT5X9Jx4E9D2P1GmCSQkX6zKQRkUM-La0nFbP5JpzITRs3_bWzYc2pSQcelsl0c5uz8MknlNKeOKUDuridyU2oe2JU3xSOA",
+          "width": 640
+        }
+      ]
+    },
+    {
+      "id": 229011,
+      "message": "پرزیدنت ترامپ: مقامات جمهوری اسلامی بیش از صد هزار معترض را کشتند و باید بابت این جنایت محاکمه شوند\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-08-31T22:40:21Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1580,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/JRVnZ0JTCF1wtVUeCnP6agbe0wEvJ9ZXq8MuX0x12H13OGaV1O5KwtTqTMJEEv7F0jUkXh_dwX_U731AXiGAp6LWBOEXi24XtXJlxoBJ-YubehgYZaDZF1G7CwOIvaspnPNDpPuTQ8b_Qgv2ztdVGLB5Cn9Fkutau8RXPioO8LO8u0iI66u-NTHWPTUtnuuQ35f8k-f6mB4Dm9sKUhF5NlqbJLy1slwsklavxGZoiThbS4xCC094isl5XZLWzybgNjyYidjJybsAdMBqDFma7DlARYl0m8tY36smFyDbTudsd16jn0R9OM2-ocYPOmFPwaWljrlLvc0lZew0-FNA_Q",
+          "width": 640
+        }
+      ]
+    },
+    {
+      "id": 229012,
+      "message": "آخرین روز کارناوال ناتینگ‌هیل، بزرگ‌ترین جشن خیابانی اروپا، در حالی در لندن برگزار شد که پلیس به دلیل تهدیدات امنیتی تدابیر ویژه‌ای اتخاذ کرده بود.\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-08-31T23:13:16Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 967,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/YzJ8K7LGDkxyHGQzkKyqbX8VQh6zarH3tmrZT6fpuiJb-Dz4mQtumTKtgbnXLVcpnyK1kB5LeLy0kzoY72F6Nr-T_nuVijbPVO2msTg0npRl7L9P5BRSYnFaaHLJ6KcRGz5kSp4DX9EciqaMb3fol1_BFzVBjcnHlch8Tu7thcirY0m4yROKY10739ukAvusj52xSGwg7FO6TFYCuNBhvRAPhdvD4-1U0NsT3haOOTzgvcLqqHH8fT8XG1RPWtznzXeuiJHtYUbGaO7mrM4Xzq_uGOJ3MUq4UwEKob--dOfikY2JcOEH92Q_rlraRd_o4EJqBnz6CAin5N_143iyhQ",
+          "width": 640
+        }
+      ]
+    },
+    {
+      "id": 229013,
+      "message": "دولت علی الزیدی تمدید حضور نیروهای خارجی پس از ۳۰ سپتامبر در عراق را رد کرد\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-08-31T23:24:10Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 810,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/IhNmrm4pBcU-RbL44mS-OJExFP5ndDWErJzcutqK45RALH4VZl5iUL8AvOMn8UmPaGpO4SRM-f7yqCdVQAv6xicabYfCZmc7GErX0UdoF35Ri_fKq0KZDiIZrYmpkPJDRmLmnDdbF26dt7R6SdStY0g7_tsA_gUNCCnNTyF1nwjODJd-iUBbiWDtyBJeinJOjyrBP3qc_CqIXCd8OQe9HFQTepxGU7eeIUAasHUAc8tbST-PhMzCz1-J8cvl4t07RjIVHPTIYymx6eRm6gyGFdV2dd1OjpNFqKaoR4KKlyFFdRIP69-gjYcNiW4qdrvWhs1jhwiazbfojOLt7V-66A",
+          "width": 640
+        }
+      ]
+    },
+    {
+      "id": 229014,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eشمار مبتلایان به ایبولا در جمهوری دموکراتیک کنگو از شش هزار نفر گذشت\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eداده‌های دولت جمهوری دموکراتیک کنگو نشان می‌دهد شمار موارد تاییدشده ابتلا به ایبولا در این کشور از ۶ هزار نفر گذشته است، و همه‌گیری کنونی به بزرگ‌ترین شیوع این بیماری در تاریخ جمهوری دموکراتیک کنگو تبدیل شده است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/more-than-six-thousand-ebola-infected-in-congo/8192580.html\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/more-than-six-thousand-ebola-infected-in-congo/8192580.html\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-08-31T23:38:20Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 612,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA"
+    },
+    {
+      "id": 229015,
+      "message": "کنترل ۶۵ میلیارد بشکه نفت ونزوئلا در اختیار آمریکا برای ۲۵ سال؛ بازطراحی بازار جهانی انرژی؟ گفت‌وگو با شاهین نژاد\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-08-31T23:44:49Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 540,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/LvjUBRTRJxE2g1Mt4NReLVUHC1zs1-GHFPuXieTRpL3Tme_by3MtZoS-kJoK7bqUSeK_9LD0y59ihJSemZWpZHrtZ5BMyyQaXuTSiIg2bYZiLqPSbd14vh3Zil5SufvSwg27LJHoUvOrAZlkqlljvQIc5hfLzFX4UFA8Ej5QKHU4PeUiMcx_APo_zvp7mgZfZXL9yHMsfSTMC2Z1R-FS4YVx8VTEh5srEaQ64eeNMkG2-lFPlz7NsL0DKiLupKUBLR_sTBkYGbt9zP25wlzeCD3PUE-7BdFQC0Pcwv92npQxVe7F62pedyJ2PMY5tH8mqyi-KRyvdtlRzpwxiv5Wow",
+          "width": 640
+        }
+      ]
+    },
+    {
+      "id": 229016,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eیک نفتکش در تنگه هرمز هدف سه پرتابه ناشناس قرار گرفت\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eمرکز عملیات تجارت دریایی بریتانیا «یوکی‌ام‌تی‌او» شامگاه دوشنبه ۹ شهریور اعلام کرد یک نفتکش هنگام خروج از تنگه هرمز با سه پرتابه ناشناس هدف قرار گرفته است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/tanker-hit-by-three-projectiles-hormuz/8192583.html\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/tanker-hit-by-three-projectiles-hormuz/8192583.html\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-08-31T23:48:51Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 546,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA"
+    },
+    {
+      "id": 229017,
+      "message": "یونان و اسرائیل برای ایجاد یک شبکه پدافند هوایی چندلایه با هدف مقابله با تهدیدهای موشکی، پهپادی و هوایی قرارداد امضا کردند",
+      "date": "2026-09-01T00:01:30Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 276,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/RDYm7HCPUOl8B4KodGTy5rv7pU7U11AGabf40seaSQspCNpaLi_Ft5Djn4O16nfsfW-Tubf7WnXYUl1uCmCl2T01ESmwDNpDb7eVq3tgsKZGX-IEs-DcD06FQZAc97U48ifo_vMj6XcN3B2egl2vURPdS4dvKHyAyHnp0p4HeQ1n4dbqJatSlr-q3pl_i5l16nKlnodJ79Y7YcoWFdlXP57uoOlvTaUdJQk3ZSIryWri1oWQGXVpnmk6fXY7OsJaxf8A4RB2RduPSZPLkYnElupZ8wDR9lWwKujdyGT1lsmq5OnhhUyr_p26M0jzhTu8Kdhb7UldFtEwAl-UrlUn9g",
           "width": 640
         }
       ]
