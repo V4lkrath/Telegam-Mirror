@@ -3,77 +3,17 @@
     "id": 0,
     "title": "سهام نیوز",
     "username": "sahamnewsorg",
-    "photo_url": "https://cdn1.telesco.pe/file/LPmgQniU9S27yKyKD-jpSpLAofnBc7Yc-jx2x75Lku0gu26JAKiECaEwaNBaJ11fGadRMQf-Rr4dqTASF-OAXpzfKawGTYO9a84xx1CtK4_MRT4tqbBk6gWy2OJNl7EhmSSlkJBXfFaf8H-Yop2H2PHSv9Sn_eDJp3qaIaRw-fmUEO17xmR6DNj7ABDwcQvn4m_aOHW6v2znNCjWe_4yoHjf98rs6LGFmkBI_0SabAb_MCWKj5AGazSV7uTHN1zN9I7kAGAgqLv5KMIbuRv52Rbx0CY_ErxGeI-XLi5GlsC3ljnWCI1k02conSM6gzmlYut_QQbP8goij7rPI_Wujg.jpg",
+    "photo_url": "https://cdn1.telesco.pe/file/CSkKl-Hzx7RuYFrUQxqPqnAckpaqp9wzlAKccmeZ4C4-zN-rMVsr9Wd6gW37VuuPw2bNxXKd19wa1XSBXHWprXbVbFNg0iIW8aGYTt3vvQEia_YTBxec6kv8uUlkkUWU64MbJKsOdCzg1JRxaWADgwq-wGSO47Dp8ZtyzA5wsBH5tmFicyj5752XyrIoZnHxyGyiFAhiBvBGockzeVGH0lr3mga3v1jzCdsE1d5BHquQjh-Kq5SIvukvZbexduA6WdLWmKYiZakAnmBCfJ7T5Is2lD7CVmpEMRKIhryPjpNJstMDglhqT32xB06BTxKL72rguFj8TLqmMIFlvBXqmQ.jpg",
     "description": "پایگاه خبری سهام نیوز \nwww.sahamnews.org\ninfo@sahamnews.org\nwww.fb.com/sahamnews.org\nwww.instagram.com/sahamnewsorg"
   },
   "posts": [
-    {
-      "id": 146857,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003eمصطفی نجفی: حملات امشب آمریکا گسترده بوده و به نظر می‌رسد ایران نیز در واکنش به این وضعیت، سطح پاسخ خود را گسترش خواهد داد. با توجه به شرایط موجود، تحولات مهم و داغی در پیش خواهد بود.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Sahamnewsorg\" target=\"_blank\"\u003e@Sahamnewsorg\u003c/a\u003e",
-      "date": "2026-09-01T19:19:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 42700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "سهام نیوز",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Lr3Gx8N2q8R-D21271MlWg7hahNMQjCJFsAC56cUVjQDGma7QtjYcqyKcD2QPAB-ihN5OCGoa5Yo5D1byyLUe6ttj8aFGld3-JaVnBaEJGhMh4vvHRk3XZJVZjeFG5SfG_Nu0i9ZczgoR-WK5TVl5szgYH3sV_DOJdbWQPnsOWhPwJ4JVd1Q9OVZfuJHyRm1pVQ0wb813Atb_6zbGEhCd1R2zYbumRrgI9P3DKa3v_pWFcWIxu7hFD095z1DWj0VkOWJpApydieS-DONAAsFm6dSuBqeAVjudKjRq4unKaORaTN2RBzzurqpu9IeWMTTkXQP6y6MowA1s9CYHHarPw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 146858,
-      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003eترامپ در گفت‌وگو با فاکس‌نیوز: اگر ایرانی‌ها تلافی کنند، ضربه‌ی بسیار سنگین‌تری خواهند خورد. و اگر باز هم این کار را بکنند، دیگر وجود نخواهند داشت\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Sahamnewsorg\" target=\"_blank\"\u003e\u003cb\u003e@Sahamnewsorg\u003c/b\u003e\u003c/a\u003e",
-      "date": "2026-09-01T19:23:11Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 42300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "سهام نیوز",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/MxtqQro7slWNrkMIYm1iTkTOhLXAFM_LR2yFkkhj1VSCxu08tQojA6kOiX-mzf-qMlih8N1fgTWXjQs_4b2QO8gzQ8nK9lS1RTKFH5YOgqtFCf1RkqyBxxAycggNHpmd6DV7UFembSzli7sp7wyeUVhCG_QFmAHf2HtybGZWuRyuxyTP_-jUUobLH0ID7mXGxBpvPH1vS8NVGAxwNk3bZKdPt41G8WZcpyPK18E8UG8f5DLc81RS8zKfaeFDE542c6bbkx-jXB-uOgq-imO4vyTTXC1BiAZa7qZ6zOnpVer7hMrtIEcb7Mnyw2yKzlm04fDPTdVxm-J7qFuu6v5BHA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 146859,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003eقیمت نفت برنت به بیش از ۹۵ دلار افزایش یافت، همزمان با حملات آمریکا به ایران.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Sahamnewsorg\" target=\"_blank\"\u003e@Sahamnewsorg\u003c/a\u003e",
-      "date": "2026-09-01T19:25:03Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 41200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "سهام نیوز"
-    },
-    {
-      "id": 146860,
-      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003eمرندی فرزند پزشک مخصوص خامنه ای:\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eرژیم‌های خانوادگی عرب از جنگ پیش‌رو جان سالم به در نمی‌برند!!\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003eبا توجه به اظهارات ترامپ و بسنت، به نظر می‌رسد که روزهای رژیم‌های خانوادگی عرب در خلیج فارس به شماره افتاده است. آن‌ها نمی‌توانند از جنگ پیشِ رو جان سالم به در ببرند.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Sahamnewsorg\" target=\"_blank\"\u003e@Sahamnewsorg\u003c/a\u003e",
-      "date": "2026-09-01T19:26:45Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 43300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "سهام نیوز"
-    },
     {
       "id": 146861,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003eکنسولگری آمریکا در اربیل به آمریکایی‌ها در اربیل هشدار داد به سرعت اربیل را ترک کنید. \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Sahamnewsorg\" target=\"_blank\"\u003e@Sahamnewsorg\u003c/a\u003e",
       "date": "2026-09-01T19:27:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 42300,
+      "views": 47000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -85,7 +25,7 @@
       "date": "2026-09-01T19:29:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 42300,
+      "views": 47200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -97,7 +37,7 @@
       "date": "2026-09-01T19:30:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 42200,
+      "views": 47100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -109,7 +49,7 @@
       "date": "2026-09-01T19:46:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 38100,
+      "views": 43500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -121,7 +61,7 @@
       "date": "2026-09-01T19:53:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 36100,
+      "views": 41600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -133,7 +73,7 @@
       "date": "2026-09-01T19:59:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 36100,
+      "views": 41700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -155,7 +95,7 @@
       "date": "2026-09-01T20:02:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 35100,
+      "views": 40800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -167,7 +107,7 @@
       "date": "2026-09-01T20:05:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 34100,
+      "views": 40400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -179,7 +119,7 @@
       "date": "2026-09-01T20:15:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31000,
+      "views": 36800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -191,7 +131,7 @@
       "date": "2026-09-01T20:20:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28900,
+      "views": 36000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -210,7 +150,7 @@
       "date": "2026-09-01T20:27:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28900,
+      "views": 37100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -229,7 +169,7 @@
       "date": "2026-09-01T20:47:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19700,
+      "views": 29600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -241,7 +181,7 @@
       "date": "2026-09-01T20:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16500,
+      "views": 27800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -253,7 +193,7 @@
       "date": "2026-09-01T21:02:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14500,
+      "views": 25700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -265,7 +205,7 @@
       "date": "2026-09-01T21:13:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8270,
+      "views": 22900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -277,6 +217,74 @@
           "width": 352
         }
       ]
+    },
+    {
+      "id": 146877,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003cb\u003eبرخورد خودرو سواری با تجمع نیروهای پرچم بدست شبانه در وکیل‌آباد مشهد\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e۴ نفر جان باختند و ۲۵ نفر مصدوم شدند\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eاین حادثه در محدوده بلوار وکیل‌آباد مشهد و در محل تجمع شهروندانی رخ داده است که در یکصدوهشتادوپنجمین شب حضور در «سنگر خیابان» تجمع کرده بودند.\u003cbr/\u003e\u003cbr/\u003eبر اساس گزارش‌های اولیه از محل حادثه، ۴ نفر از شهروندان جان خود را از دست داده‌اند و ۱۵ نفر نیز مصدوم شده‌اند.\u003cbr/\u003e\u003cbr/\u003eراننده خودرو پس از وقوع حادثه توسط نیروهای انتظامی دستگیر شده است.\u003cbr/\u003e\u003cbr/\u003eبررسی‌های اولیه نشان می‌دهد این حادثه عمدی نبوده و به دلیل مستی راننده در کنترل خودرو رخ داده است.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Sahamnewsorg\" target=\"_blank\"\u003e@Sahamnewsorg\u003c/a\u003e",
+      "date": "2026-09-01T21:28:47Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 19200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "سهام نیوز",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/hgZIpIaLYKHBrDvY0iSh29b5BuO1kruY4n134zj5DjAMNHD7fj2yI24331MLtYyNXqyplgRAeljfMWtBPAD4JOlGl1bV14P-oY4oReVxQijkS5NC9whd2q5Py86wFzXlGoo4h2rckCEDC06vKuA5kisLS4LQtRbV1lwOm3Ultru9jUyukDyQ9vaQnU4Sxyu6yg1ez7DDi3x7pbTFtHeIKTnekenS9o_kEuTyuS-LkLaEK7JezzmY1NkQ-uo-Y-Fs2LXQTw5SK6DmVXPidYCbYLpk-gwCpaPjJtNDTjrKRTQr-9lA0WM-AXLhU13X0OPZ0wjAUOIKdEAGBNUEEgMNwQ",
+          "width": 352
+        }
+      ]
+    },
+    {
+      "id": 146878,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003eحسین مرعشی: \u003cb\u003eچین روشن به ایران گفته سفر قالیباف به چین و گسترش روابط منوط به شروط زیر است\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e۱- باز کردن تنگه توسط ایران\u003cbr/\u003e۲- دریافت نکردن هیچ‌گونه عوارضی\u003cbr/\u003e۳- پایان دادن به اختلافات خود با عربستان\u003cbr/\u003e۴- پایان دادن به اختلافات خود با آمریکا!\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Sahamnewsorg\" target=\"_blank\"\u003e@Sahamnewsorg\u003c/a\u003e",
+      "date": "2026-09-01T21:45:19Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 15300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "سهام نیوز",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/pTHGmkKFCM3cQmE3DrC6a9K3dF2M8rnLzwdmDAtnsVXX4LdgB3da-s0kG2_-Ewsr1XzEDXCg75RjYT7bx1EbxkCTm3jCMmQYcSYngQ8yxhZsJSiG7ZUGNOyPI-D3UIhBDAc1xOByNEM2KaFJtuJECFkhkKeh6HbiBck1i1OzYbKo64ms2TvFXDNHrpDshJ7RNMfZcRrQ8E7ol6eNiVQ5RVpm8HxRA0PJg0Xqdv5WLWHHy9osODu5uaYQyuuYgTh_Ocq8o75K0jGcj6GoJvv-dz93z-AfwjfgaWA7m6P30s3hX9OroeDy1D91BszC5Y9-srwHXul_hOz7S-x0U650UQ",
+          "width": 640
+        }
+      ]
+    },
+    {
+      "id": 146879,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003eتصویری تاسف بار از دیدار سرپایی و کوتاه مسعود پزشکیان و شی جین پینگ. متاسفانه رییس جمهور چین حتی حاضر به ملاقات دوجانبه رسمی با رییس‌جمهور ایران نشد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BB.png\u0026#39;)\"\u003e\u003cb\u003e🔻\u003c/b\u003e\u003c/i\u003eپ ن: امیدواریم تصمیم گیران نادان حکومت که از غار و پناهگاه، ایران را به دره هدایت می کنند فهمیده باشند که هر چند نفت با تخفیف بسیار به چینی ها بفروشید و در ازای آن به جای پول جنس بگیرید تا مشکلتون را با دنیا حل نکنید هر روز خوار تر و تحقیر بیشتر می شوید\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Sahamnewsorg\" target=\"_blank\"\u003e@Sahamnewsorg\u003c/a\u003e",
+      "date": "2026-09-01T22:01:32Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 11000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "سهام نیوز",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/ZE0e9XggTMAkXobkSH7fHQVc6ENjNrcI-mOKEVxo7HGtm5ndVyaQi5vuh3ubCgCs6Fi-9iE-KpL3De47QTXegCGJBPLREvO3WSPA0S-RIujIPvt5bBRiHJCRqeyZd3zqgWJYxcBmdJA2V88wLImNPmqBe5B3MmOdlYhnhc2GxnVZH6qRGPPQC2kixK1026QKoF8mpsFbn7d5PW5dU1JcpoPAH2B5FnZNRg4sWYdWeJLrDe89cs0FuvIIYzF0cm4FaNFkLRKAevgwV_T52acERgUKZDr4canslASfdtKNTz1pbahKX9VVbU-os7_ZNW587ppabaaBQZE6tabOEgwHNA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 146880,
+      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003eاسکات بسنت: حساب‌ها و خانه‌های ۱۰۰ میلیون دلاری سپاه را شناسایی کرده‌ایم و همه را مسدود خواهیم کرد\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eاسکات بسنت، وزیر خزانه‌داری ایالات متحده، اعلام کرد واشینگتن در حال ردیابی دارایی‌های سپاه پاسداران و تمام شرکت‌ها و نهادهای مرتبط با آن است. او تأکید کرد دارایی‌های نامشروعی که رژیم جمهوری اسلامی از مردم ایران به سرقت برده است، مسدود خواهد شد و می‌تواند به مردم ایران یا قربانیان تروریسم بازگردانده شود.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eما در حال ردیابی دارایی‌های سپاه پاسداران هستیم و این را در برابر دوربین تلویزیونی و در پخش جهانی می‌گویم تا بدانید: ما می‌دانیم حساب‌های شما در کدام شرکت‌های تراست در جزایر ویرجین بریتانیا قرار دارند.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eبنابراین، دارایی‌های نامشروع رژیم جمهوری اسلامی را که از مردم ایران به سرقت برده شده‌اند، هدف قرار خواهیم داد. این دارایی‌ها می‌توانند به مردم ایران بازگردانده شوند یا به قربانیان تروریسم، مانند خانواده‌های نظامیانی که در ناو یو‌اس‌اس کول یا در پادگان‌های لبنان بودند، تعلق گیرند».\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Sahamnewsorg\" target=\"_blank\"\u003e\u003cb\u003e@Sahamnewsorg\u003c/b\u003e\u003c/a\u003e",
+      "date": "2026-09-01T22:27:13Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4740,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "سهام نیوز"
     }
   ],
   "last_updated": 0
