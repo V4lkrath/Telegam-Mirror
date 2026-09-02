@@ -8,84 +8,12 @@
   },
   "posts": [
     {
-      "id": 5121,
-      "message": "",
-      "date": "2026-08-31T07:45:21Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5126,
-      "message": "اگه دنبال ساختن یه AI Agent برای کارهای علمی و تحقیقاتی هستید، این پروژه رو حتماً ببینید: یه مجموعه از 163+ مهارت تخصصی که به Agentها کمک می‌کنه کارهای علمی رو فقط با تولید چند خط کد انجام ندن، بلکه بر اساس workflowهای تخصصی جلو برن.\u003cbr/\u003e\u003cbr/\u003eاز Bioinformatics، Genomics و Single-cell گرفته تا Drug Discovery، Protein Engineering، Molecular Dynamics، Medical Imaging، Machine Learning، تحلیل داده و Scientific Writing. حتی برای کار با دیتابیس‌های علمی مثل PubChem، UniProt، ChEMBL و ClinicalTrials.go‌v هم Skillهای آماده داره.\u003cbr/\u003e\u003cbr/\u003eنکته جذابش اینه که این‌ها خودشون مدل AI نیستن؛ در واقع یه لایه تخصصی روی Agentهایی مثل Claude Code، Codex، Cursor و ابزارهای مشابه قرار میدن. یعنی Agent می‌تونه بسته به کاری که ازش می‌خواید، Skill مرتبط رو پیدا کنه و از دستورالعمل‌ها و workflowهای تخصصی اون استفاده کنه:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/K-Dense-AI/scientific-agent-skills\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/K-Dense-AI/scientific-agent-skills\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-31T17:46:29Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/U6M_t1BwyahsM4n1BBAZh8gJlk_O86g06JjvzEiWrPX3XtNBh0JTeh0wRm5shn5qxcSQc5iRkA3pP8yEkFi172c4rYQv5UQIOnfCpmLDVC02ZhIe1hnaArMjxgc3qXtoyYAWsTSSR4XRGowAzBWxA2KGfxPDqXNpeVb8SCrnvPfYlOOhmidYLW-pMvmjhP-0z3xrPJcHBU0hnJxFGkVCYGAeZdspVv08Kb30PPd9xcKUy1ry-NmwfUTe6B4v-mUwsZxCAQnbGyq7zb24-rpq25BrtfyggFzmHsfDl3FdvkV0dRCDL3LpdC7vel4GvcfEqQmr3Qz9h3JsvcxWA-9dpg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5127,
-      "message": "خب بچه‌ها من تمام مدل‌های چینی و آمریکایی رو تست کردم. فعلا برای ترجمه، رتبه‌ی 1 رو \u003cbr/\u003eGemini 3.7 Flash \u003cbr/\u003eمیگیره. رتبه 2 هم متعلق به \u003cbr/\u003eClaude Sonnet 5 \u003cbr/\u003eهست\u003cbr/\u003eکه خب فلش توی هزینه، می‌بره. رتبه‌ی یک و دو به جهت قدرت ترجمه هستش\u003cbr/\u003eهم برای ترجمه‌ی کتاب فانتزی مقایسه‌ی سنگین کردم تمام مدل‌ها رو(از جمله GLM و MiniMax و.. تا GPT Sol و اینها)\u003cbr/\u003eهم برای ترجمه‌ی متون تخصصی علمی\u003cbr/\u003eهم برای ترجمه‌ی کتب برنامه‌نویسی به زبان عامیانه‌ی فارسی",
-      "date": "2026-08-31T21:01:15Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5128,
-      "message": "این کردیت ۲۰۰ دلاری آمازون رو هم موفق شدم بگیرم با Mpay\u003cbr/\u003eآموزشش رو می‌نویسم الان واستون",
-      "date": "2026-09-01T06:03:12Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5129,
-      "message": "با ثبت نام ۱۰۰ دلار میده بعدش یه سری تسک کوچیک انجام بدید ۵ تا ۲۰ دلار دیگه هم میده\u003cbr/\u003eو می‌تونید ۱۸۳ روز استفاده کنید\u003cbr/\u003eبه نظرم می‌ارزه",
-      "date": "2026-09-01T06:05:45Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/YGEU3PhXxUtRUlDIXDA56b7CuBMYo2wMm6siV_ceaEGIns7uuymYF0PjMrnd2jHjhhC-GN9pGv7lGQOZ1OkM9PInFV7AC6MRVU5-y_T8KLwkVIK7WLsr7NIDgGWXH2eXHl9woxP2ZM01op2X1IkfECY2zJ7zqr4kQDNbg9vHiSDh3r8TBeqMyljgKRv6oXN3yOwlICtgonfYmIuq5EMmwro6wBbTYJWZcGuzUlz21YG13rryNbjXZZiIS-qdCyYVFeEbEEiLA-IFWGnlbwEy87eRViaj5GXLy89GRuvbx53mD5d3JQIc0x7eOUg9xDUXa_Bb7mblsO4K-DQ1OgmEsg.jpg"
-        }
-      ]
-    },
-    {
       "id": 5130,
       "message": "\u003cb\u003eآموزش گرفتن 200 دلار کردیت رایگان AWS آمازون\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eبا این کردیت، شما می‌تونید روی آمازون سرور یا Storage و کلی چیز دیگه بسازید. اعتبارش 180 روز هست و اگر تموم شد هم، اکانت جدید:)\u003cbr/\u003e\u003cbr/\u003e1- اول از همه، شما باید یه حساب Mpay داشته باشید که حداقل 1 دلار موجودی داشته باشه. آموزش متنی: \u003ca href=\"https://t.me/MatinSenPaii/4915\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/MatinSenPaii/4915\u003c/a\u003e آموزش ویدئویی: \u003ca href=\"https://t.me/MatinSenPaii/5091\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/MatinSenPaii/5091\u003c/a\u003e\u003cbr/\u003e2- وارد سایت \u003ca href=\"https://aws.amazon.com/free/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://aws.amazon.com/free/\u003c/a\u003e میشید، و روی Create free account میزنید. بعدش سایت خودش شما رو هدایت میکنه به قسمت ثبت نام. VPN هم زیاد مهم نیست چی بزنید. من با کانفیگ‌های BPB رایگان رفتم که آموزش ساخت اون هم اینجاست: \u003ca href=\"https://www.youtube.com/watch?v=iAbYpjXyLpY\" target=\"_blank\" rel=\"noopener\"\u003ehttps://www.youtube.com/watch?v=iAbYpjXyLpY\u003c/a\u003e\u003cbr/\u003e3- برای آدرس، یه آدرس فیک از سایت \u003ca href=\"https://www.fakexy.com/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://www.fakexy.com\u003c/a\u003e وارد کنید. شماره تلفن هم من گوگل ویس زدم اما نامبرلند و سایت‌های شماره مجازی، همه‌شون برای Amazon یه بخش مجزا دارن و زیاد هم نیست هزینه‌اش\u003cbr/\u003e4- یه ایمیل تأییدیه واستون میاد و تمام! 100 دلار کردیت رایگان میگیرید، بعدش هم با انجام دادن تسک‌های بخش Explore AWS که تصویرش رو گذاشتم، می‌تونید 5 تا 20 دلار دیگه بگیرید.\u003cbr/\u003e5- ممکنه محیط آمازون واستون گیج کننده باشه. نزدیک‌ترین بخش به یه VPS معمولی و راحت، توی محصولات قسمت Compute، بخش Lightsail هستش. چندتا نمونه قیمتی هم واستون گذاشتم\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
       "date": "2026-09-01T06:42:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24400,
+      "views": 25600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -115,7 +43,7 @@
       "date": "2026-09-01T07:25:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23100,
+      "views": 24400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -133,7 +61,7 @@
       "date": "2026-09-01T07:35:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23500,
+      "views": 24800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -145,7 +73,7 @@
       "date": "2026-09-01T07:36:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24500,
+      "views": 25800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -163,7 +91,7 @@
       "date": "2026-09-01T07:50:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26000,
+      "views": 27300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -181,7 +109,7 @@
       "date": "2026-09-01T07:54:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26400,
+      "views": 27800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -193,7 +121,7 @@
       "date": "2026-09-01T08:03:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26900,
+      "views": 28400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -211,7 +139,7 @@
       "date": "2026-09-01T20:23:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22200,
+      "views": 25000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -223,7 +151,7 @@
       "date": "2026-09-02T06:01:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13900,
+      "views": 18900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -235,7 +163,7 @@
       "date": "2026-09-02T06:27:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12600,
+      "views": 18500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -247,7 +175,7 @@
       "date": "2026-09-02T09:11:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3620,
+      "views": 14100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -265,7 +193,103 @@
       "date": "2026-09-02T09:12:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3000,
+      "views": 13600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5145,
+      "message": "بازم مشکلی که خیلی از دوستان داشتن",
+      "date": "2026-09-02T09:24:41Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 12800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/LEdzTnBz7YQ4rvlZmuTBxaHLuP-Pn_VGFqQZfFr0KF7KJYiY9MeIr0CtwXmMesPgzdAhiM_ePnwJgquZZPQLXg_ID0FPUpe6JSTiTuZK8vxEP43rQj1Ol-nRMA9PlsSDTux2lq97q4MQH5xWcZFl1BBypmdov6pca-qWI-AplXKg8XU5ewxR-qr7E2vMb-Dz-AP6tbJiCcVIL-9bKjkXgBQbwL_CPRXgIdO3TgFhRL0p6BPUQjWxV1Fb1II32uPaLB9GOA2MUUaHMkcRXUnhoZ4LULpYGaZJ-lPzo9BLj5DqDpsWSin0UB25L85WLlO5FJesnuSBGBT2JEK4GTtUtQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5146,
+      "message": "یکی از بچه‌ها هم تونسته بود با گوگل پی+اندروید\u003cbr/\u003eاشتراک Claudeاش رو تمدید کنه با \u003ca href=\"https://t.me/MatinSenPaii/4917?single\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eMpay\u003c/a\u003e",
+      "date": "2026-09-02T09:51:35Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 11300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/QGlt43YaUNq6pla28MbEPdttNsxwKnQQ96XHJ4IO6tiBeP3EOFWX1K8RQQ0XwUVH6_8RuXqKy4YLqHfY9ygCdfoSGJD1NqvonOxqz4HvnmtbVg5Z6I5r-csBoqRgOKAbv50t647zsQepEZ9l4d-7x_xt0QAddaJx1RJnRcCAFOxHPpWfOJfYS4C5XYXCaEvmP07Z2tq5NhQUktLbj2FF-9EToluSzJt05VbpcinxsYegcuqNafp_fX0jc0Bx9lgPCkRWTT4yVovDUSvJ-yB8L2JT5FCU_-ZZutfaFma4YAf19qCaasiAoPQd_TFG4Ftqkb1PRRxmhcenp_pzKaBUsA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5147,
+      "message": "و گویا از apple pay ساپورت نمیکنه. فقط Google pay",
+      "date": "2026-09-02T09:52:15Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 11100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5148,
+      "message": "خب بچه‌ها من وظیفه‌ی خودم دونستم که همه‌ی 210 تا کامنت رو جواب بدم. مخصوصا چون سر و کارش با جیب شما بود توی این شرایط داغون.\u003cbr/\u003eو الان تموم شد دیگه\u003cbr/\u003eلطفا قبل از پرسیدن سؤال جدید کامنت های دوستانمون رو بخونید",
+      "date": "2026-09-02T10:00:42Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 10400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/ewZnr2vMNnwdbniwjVHUpjaCbmiXiWj9N8SaUUm-2Q6_u1370fKAPZEVIORGumfWiPTjYlQtNNXP1F5Lyb4SiJWd7eDPPcGFYCY0FF7HIL4mFSZ15Hi6Vx5vV8ceTkXOmTLtuxV1USZeDi9avuwjzB4dWXCjcjqW6LKy6-itX5anqD1IPlDmpx8wrftdFRxAK44JmkB8GgnmJwRnZTBcAS9_9HLe16AaBQm3dfSyKX72dnfV6T_V6KjJSvGxjEkIVyVUZxXoJU7wWmDuoa-z0nHZHZ7hrCj_6L2i_y9iwlgknzxiuobBw8scMUu2FmWkgKhb6qw5GYZ1pNhFrJLpPQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5149,
+      "message": "\u003cb\u003eآموزش گرفتن 300 دلار کردیت رایگان Google Cloud\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eاین سرویس \u003cb\u003eFree Tier دائمی\u003c/b\u003e داره. یعنی حتی بعد از تموم شدن کردیت، یه سری سرویس‌ها همیشه رایگان می‌مونن (مثلاً هر ماه یه سرور مجازی کوچیک e2-micro به‌صورت دائمی و رایگان) \u003cbr/\u003eو همینطور با این کردیت می‌تونید دسترسی به \u003cb\u003eبیشتر از ۲۰ محصول\u003c/b\u003e محبوب مثل Compute Engine، BigQuery، Cloud Run و APIهای AI گوگل داشته باشید.\u003cbr/\u003e\u003cbr/\u003e1- اول از همه، شما باید یه حساب Mpay داشته باشید که حداقل 1 دلار موجودی داشته باشه. آموزش متنی: \u003ca href=\"https://t.me/MatinSenPaii/4915\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/MatinSenPaii/4915\u003c/a\u003e آموزش ویدئویی: \u003ca href=\"https://t.me/MatinSenPaii/5091\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/MatinSenPaii/5091\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e2- وارد سایت \u003ca href=\"https://cloud.google.com/free\" target=\"_blank\" rel=\"noopener\"\u003ehttps://cloud.google.com/free\u003c/a\u003e بشید و روی Start free بزنید\u003cbr/\u003e\u003cbr/\u003e3- این قدم رو من حقیقتا چون واسه‌ی خودم جواب داده میگم. میتونید بدون این هم امتحان کنید. ابتدا از \u003ca href=\"https://policies.google.com/country-association-form\" target=\"_blank\" rel=\"noopener\"\u003ehttps://policies.google.com/country-association-form\u003c/a\u003e\u003cbr/\u003eدرخواست تغییر ریجنتون به امریکا رو ثبت کنید\u003cbr/\u003e\u003cbr/\u003e4- تایید که شد، توی سایت آفر گوگل کلاد، ثبت نام کنید با یه آدرس فیک امریکا از \u003ca href=\"http://fakexy.com/\" target=\"_blank\" rel=\"noopener\"\u003efakexy.com\u003c/a\u003e \u003cbr/\u003e\u003cbr/\u003e5- دقت کنید که برای این کردیت باید حدود 10 یورو موجودی داشته باشید. و این برای من کم شد و در عوض 257 یورو(معادل 300 دلار) حسابم رو شارژ کرد. برای یه سری دوستان یه دلار خواسته بود و نمیدونم داستان چیه\u003cbr/\u003e\u003cbr/\u003e6- من تونستم بگیرم و تا الان هم مشکلی نداشته. دقت کنید من تمام مراحل رو با یه آیپی ثابت امریکا رفتم و لوکیشنم رو هم امریکا زدم با ادرس و همه چیز، تهشم با گوگل پی پرداخت کردم\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
+      "date": "2026-09-02T10:27:32Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7680,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/OO6Pqs_RBpSSAf-6qqn3LI5vdFiyldj50D2h04dKMkShPscueeJfckuikVp8IQAAnT4d5H0e2O2LuhrBHJpHSE1NJUNnTwfKd5XqqNNedaO7b0VOi2N9f6gdzephi46JITlluGCP5NZMwmhrllimBhIQjCEiLadQyeTXeNoK6qY5HVM-Z095Sq8Mv_IqSCeaG2Q5XaVP5BKnE_aNWnsTIGq9PdcYLPK9foz-sH6m37G2H2PrJkJYAbEO4s8rIEjF_y94LidwuHhZ81XMfgTZvrItFG_gWYsLyGoDz6KpEVXQf6Sf2tzePtDCcabVGBbNHXII9WO9MkTip80vSImmNw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5150,
+      "message": "نکنید آقا من قلبم ضعیفه",
+      "date": "2026-09-02T10:36:05Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 6310,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
