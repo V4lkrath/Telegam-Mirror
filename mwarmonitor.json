@@ -8,93 +8,12 @@
   },
   "posts": [
     {
-      "id": 13996,
-      "message": "\u003ctg-emoji emoji-id=\"5404697415477381954\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938D.png\u0026#39;)\"\u003e\u003cb\u003e📍\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eهم‌اکنون آسمان اردن\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/mwarmonitor\" target=\"_blank\"\u003e@mwarmonitor\u003c/a\u003e",
-      "date": "2026-09-01T19:39:15Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5620,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "نظامی - سیاسی",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/YqBEi3qospiZtM2ERy_GAGxVA6WrTKBs8uirHU8AgbYF40lgzboAeQ34GYQ_f3r7AAbUg27h6tHaOKLVxdQ6TCyWV7lDzVNjOADPm39MDykh28Boex7zCYXOa6y0fHvU1ATTTVRz1JEMiqzltilNilZSA3n6o06RowWIFfMkBQgRIWv7X-cgTR_9uejgDXMPA7MQEspgr8a1M3-P7QUulZpZXZ-LeHat_rRN7-2FyaOdl3h3WRbUgmUA1T2Pk6yMggRfIS4eUpfLcEWeLCz09geAdpWeEaIIloMbeSqEDvs-1L-BLhWUn_Bg9gxLEi736SSKc0alt22nb_sMUc70yg",
-          "width": 352
-        }
-      ]
-    },
-    {
-      "id": 13997,
-      "message": "\u003ctg-emoji emoji-id=\"4981038280872035186\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eشنیده شدن صدای انفجار در کرمانشاه",
-      "date": "2026-09-01T19:39:43Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5530,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "نظامی - سیاسی"
-    },
-    {
-      "id": 13998,
-      "message": "\u003ctg-emoji emoji-id=\"4981038280872035186\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eهشدارهای اضطراری با بالاترین سطح در اردن صادر شده است. در این هشدارها به ساکنان اعلام شده که ممکن است طی چند دقیقه آوار، ترکش و قطعات ناشی از رهگیری یا اصابت موشک‌ها در مناطق آنها سقوط کند.\u003cbr/\u003e\u003cbr/\u003eاز مردم خواسته شده است در نزدیک‌ترین ساختمان پناه بگیرند یا در صورتی که امکان ورود به ساختمان وجود ندارد، داخل خودروهای خود باقی بمانند.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/mwarmonitor\" target=\"_blank\"\u003e@mwarmonitor\u003c/a\u003e",
-      "date": "2026-09-01T19:50:59Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "نظامی - سیاسی"
-    },
-    {
-      "id": 13999,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e بمباران‌ها مناطق مرتفع علی الطاهر، الدبشة، دوحه کفررمان و النبطیه الفوقا جنوب لبنان.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/mwarmonitor\" target=\"_blank\"\u003e@mwarmonitor\u003c/a\u003e",
-      "date": "2026-09-01T19:53:57Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5520,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "نظامی - سیاسی",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Wxlbd8UznPnjjz-OdksMN7KMWCprNNweC6_i2AgeS3X_sS16qixmTKgMZhftjU0Ss31Hz3jTVFI4Dtbmf5gVWW3JOl8aCbuvg0mkPPFZHksIWOw3l-lsfbwLyEzE1K1g3SScSJoYAdtSx0ccUIWIt4-oOM8YArwLNdkzxLuDh6D_tni6-MpwqYEZDnDXO-O8N4Noj4kst5KWTIPGYd32GLPjTzIP2A1oxM-TI2SF_lk3QcPZUarcRAR9c-PldOaE_PL5PB9uWzp6jsqRSl34ABtkIzZfCpLpg-cq8BnYLcfoZ6-vVuk49DGROYKfPbF07HyJ1i9WFPeaMHh1LvR7nw.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/E53i00XSpZGgxlkXPlXkDZ8sBQwPGGVcgSZay-nfcAJBZlBACMSbhXnYtGipwtILZHHiDMiJaoxtnsSdDU7EMiAsrocnCVKi2sHJ3YvHKhGO0AhOmjLEYvI41kAbwtItbpcQiEJvkekLhVttxE7uSwiI_ZDi395uIKqd4LiRNcTZ1dS-Yp04Adq7H81J6dYGbWH1ojy060B2gZYWPAhXr3ykZuMUGaOEE3tULtTyhNPqEFf_HecqqMEa6pYMlpMt-tOWt_JVJN77YqULOkY7TUUVsLHGuHyRGPqi3R3JOiTHuS4JCwr5h_yrk8M8O7BjJ5KdtoG7WDKm62jC0KCHmg"
-        },
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/JdFWbivrZds9f0M4O2yfmjf0SyUvKNaNUMfe_UvC6O-fNdiDQfsqbLS9Nv8SACrsjZSSvvgR60pjBlEwRXDtYAluPiNtFl7SkpxgcN1GAtwQ0i8GSgtIKk2dB_s042fAKI08usJlZfcy5cGdgJiLK6H23_Erzi_aI7TV0PbqpK7Dpvil1buzzqu68drWZCJhsqfuqj1jaIQvZ0MGtnQvUm1ndaLcKsBlif3oF3n9NR-eBX7Gi5iDrvspvmbPX1w9hAAVE0FPfzNQyEqPfKJkyhHhITTCLurNcyWxuNR25PZxMKTO5UNuf9BpH4gF1jKJQyS7ZJSTunQBbAjvJrcBkw"
-        }
-      ]
-    },
-    {
-      "id": 14002,
-      "message": "\u003ctg-emoji emoji-id=\"4981038280872035186\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eفعال شدن پدافند هوایی در تهران",
-      "date": "2026-09-01T19:55:19Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5870,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "نظامی - سیاسی"
-    },
-    {
       "id": 14003,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C88.png\u0026#39;)\"\u003e\u003cb\u003e✈️\u003c/b\u003e\u003c/i\u003eپروازهای ورودی به فرودگاه امان به حالت تعلیق درآمده‌اند.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/mwarmonitor\" target=\"_blank\"\u003e@mwarmonitor\u003c/a\u003e",
       "date": "2026-09-01T19:59:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5370,
+      "views": 6100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -112,7 +31,7 @@
       "date": "2026-09-01T20:00:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5320,
+      "views": 6040,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -124,7 +43,7 @@
       "date": "2026-09-01T20:04:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5530,
+      "views": 6300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -143,7 +62,7 @@
       "date": "2026-09-01T20:17:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5470,
+      "views": 6340,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -162,7 +81,7 @@
       "date": "2026-09-01T20:18:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5530,
+      "views": 6430,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -174,7 +93,7 @@
       "date": "2026-09-01T20:20:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5890,
+      "views": 6890,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -192,7 +111,7 @@
       "date": "2026-09-01T20:22:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6050,
+      "views": 7080,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -204,7 +123,7 @@
       "date": "2026-09-01T20:25:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6290,
+      "views": 7410,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -216,7 +135,7 @@
       "date": "2026-09-01T20:28:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6820,
+      "views": 8280,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -242,7 +161,7 @@
       "date": "2026-09-01T20:32:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5830,
+      "views": 7160,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -254,11 +173,114 @@
       "date": "2026-09-01T21:04:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4930,
+      "views": 6620,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "نظامی - سیاسی"
+    },
+    {
+      "id": 14019,
+      "message": "«همان‌طور که اخبار جعلی ABC گزارش داد، من سعی ندارم ایران را مجبور به آمدن به پای میز مذاکره کنم. برام اصلاً مهم نیست که آن‌ها یک توافق (از نظر خودشان) بی‌ارزش را امضا کنند یا نه. من وضعیت فعلی‌مان را بسیار بیشتر دوست دارم؛ با کنترل تقریباً کامل بر تنگه هرمز و فروپاشی کامل اقتصاد آن‌ها. آن‌ها فقط دارند روند اجتناب‌ناپذیر را فرسایشی کش می‌دهند. مردم ایران کی قرار است قیام کنند و بجنگند؟\u003cbr/\u003e\u003cbr/\u003eرئیس‌جمهور دونالد جی ترامپ»\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/mwarmonitor\" target=\"_blank\"\u003e@mwarmonitor\u003c/a\u003e",
+      "date": "2026-09-02T04:36:17Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1460,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "نظامی - سیاسی",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/WhdH88kqN9wINXa66X0OIgvEgWqkQs2WBuw4bWf-6mUMrCz7zX-uq63jqHnfCFDrgOkJ7RxmiZvdnTMtRMugEm8hfuh443sdSGf8dtrfW3jX_NcyC0MDvzrHJFr9DTCN7-n5SEefotbO_RMeISQ54jOOD-H2TowtZ57Souw7CnE9MDkuXibjhF9C6vm4A6_16PLx7P5PwDM5aK7Zg2eAXuw6_naXtMz-GM1_mkd0rD5C57podqBd-Z5z8xtA8YSbEsD_Jche9bCTwzmnDf9cZ6FvGYQofqWDpi_m42cWTbe8dmA4LcvV3Gpl63IPJPFwNgT19U8O91NmfRksvhRS2Q.jpg"
+        }
+      ]
+    },
+    {
+      "id": 14020,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eسنتکام حملات به اهداف سپاه پاسداران در ایران را به پایان رساند\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003eتامپا، فلوریدا — نیروهای فرماندهی مرکزی ایالات متحده (سنتکام) در روز اول سپتامبر، موجی از حملات علیه اهداف نظامی ایران را با موفقیت به پایان رساندند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003eنیروهای آمریکایی اهداف سپاه پاسداران انقلاب اسلامی را هدف قرار دادند که شامل مواضع پدافند هوایی، سامانه‌های راداری، تجهیزات و تأسیسات دریایی، توانمندی‌های مین‌گذاری و مراکز ارتباطی بود.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003eاین حملات پس از تلاش‌های اخیر سپاه پاسداران برای حمله به کشتیرانی تجاری در تنگه هرمز و نیروهای نظامی آمریکایی انجام شد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003eدر حال حاضر بیش از ۵۰ هزار نیروی نظامی آمریکایی در سراسر خاورمیانه مشغول فعالیت هستند و همچنان هوشیار، مرگبار و آماده‌اند تا به اجرای عملیات‌هایی که فرمانده کل قوا دستور می‌دهد، ادامه دهند.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/mwarmonitor\" target=\"_blank\"\u003e@mwarmonitor\u003c/a\u003e",
+      "date": "2026-09-02T04:38:11Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1390,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "نظامی - سیاسی",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/TkSo0gH4lQni8jlH4i-uBDJsw6Igp5CTyB-tvrFwMiWrsjRLDeKZ9_1-xwwUHz7DleXT7x4IuMUymMnWBdRxUqwD_z8FSFWIaYtNyY56u00hQ7KoYOUtMS0jGdjEW79hLzWMxcMrX3o-MNiPxokplunRH8za3tikXSbjxmor0keXsWHbx_p0s28MGCZlmn32cCfIldJTi79Pv3IxAtmm5rZCK47SrUwJr-ihyz74IgMW-Q_rfWVcSx4pzibY8cJDeARnkpwVmEZUdVVJl3RrAOfBDguEw7CEMwnuFqBWFzmptE5_-NW7Jo80r3I26MxkqoSqg2MpxhjKgUelngafLg",
+          "width": 640
+        }
+      ]
+    },
+    {
+      "id": 14021,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003eدونالد ترامپ، رئیس‌جمهور آمریکا، هانگ کائو (Hung Cao)، سرپرست فعلی وزارت نیروی دریایی آمریکا، را برای تصدی رسمی این سمت معرفی کرده است.\u003cbr/\u003e\u003cbr/\u003eاین نامزدی اکنون باید به تأیید سنا برسد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/mwarmonitor\" target=\"_blank\"\u003e@mwarmonitor\u003c/a\u003e",
+      "date": "2026-09-02T04:41:43Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1240,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "نظامی - سیاسی"
+    },
+    {
+      "id": 14022,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eآکسیوس ۱۰ مقام ارشد نظامی آمریکا را شناسایی کرده که در دوره ریاست‌جمهوری دونالد ترامپ و وزارت دفاع پیت هگست از سمت‌های خود کنار رفته‌اند:\u003cbr/\u003e\u003cbr/\u003eژنرال رندی جورج، رئیس ستاد ارتش آمریکا\u003cbr/\u003e\u003cbr/\u003eژنرال کریستوفر داناهیو، از فرماندهان ارشد ارتش\u003cbr/\u003e\u003cbr/\u003eژنرال جیمز مینگوس، معاون رئیس ستاد ارتش\u003cbr/\u003e\u003cbr/\u003eژنرال CQ براون جونیور، رئیس پیشین ستاد مشترک ارتش آمریکا\u003cbr/\u003e\u003cbr/\u003eدریاسالار لیسا فرانچتی\u003cbr/\u003e\u003cbr/\u003eژنرال جیمز اسلایف، معاون رئیس ستاد نیروی هوایی\u003cbr/\u003e\u003cbr/\u003eژنرال دیوید آلوین، رئیس ستاد نیروی هوایی\u003cbr/\u003e\u003cbr/\u003eدریاسالار آلوین هولسی، فرمانده ارشد نیروی دریایی\u003cbr/\u003e\u003cbr/\u003eژنرال تیموتی هاگ، مدیر آژانس امنیت ملی (NSA) و فرمانده سایبرکام آمریکا\u003cbr/\u003e\u003cbr/\u003eسپهبد جفری کروز، مدیر آژانس اطلاعات دفاعی (DIA)\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eدر این فهرست، دن دریسکول و جان فلان لحاظ نشده‌اند.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/mwarmonitor\" target=\"_blank\"\u003e@mwarmonitor\u003c/a\u003e",
+      "date": "2026-09-02T04:42:07Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1270,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "نظامی - سیاسی"
+    },
+    {
+      "id": 14023,
+      "message": "\u003ctg-emoji emoji-id=\"5819120583689899871\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eحملات آمریکا به نفت‌کش‌های ایرانی در چارچوب سیاست جدید «نفت‌کش در برابر نفت‌کش» AXIOS \u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003eمقامات آمریکایی اعلام کردند که ارتش ایالات متحده در جریان دور تازه‌ای از حملات که روز سه‌شنبه انجام شد، دو نفت‌کش دولتی ایران را هدف قرار داده است.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote expandable=\"\"\u003eچرا این موضوع اهمیت دارد: این نخستین باری است که ارتش آمریکا به تلافی حملات ایران به کشتی‌ها در تنگه هرمز — و نه برای جلوگیری از نقض محاصره دریایی — به نفت‌کش‌های ایرانی حمله می‌کند.\u003cbr/\u003eیک مقام آمریکایی گفت که این اقدام در راستای سیاست جدید «نفت‌کش در برابر نفت‌کش» صورت گرفته است که توسط رئیس‌جمهور ترامپ برای بازدارندگی بیشتر در برابر حملات ایران به نفت‌کش‌های عبوری از تنگه هرمز به تصویب رسیده است.\u003cbr/\u003eاخبار اصلی:\u003cbr/\u003eبه گفته مقامات آمریکایی، در جریان حملات روز سه‌شنبه حدود ۱۰۰ هدف مورد حمله قرار گرفتند.\u003cbr/\u003eهدف قرار گرفتن نفت‌کش‌ها: نفت‌کش‌های دولتی ایران در سواحل ایران، در شمال خط محاصره دریایی آمریکا لنگر انداخته بودند. پهپادهای آمریکایی موشک‌هایی شلیک کردند که به موتورخانه آن‌ها اصابت کرد.\u003cbr/\u003eسایر اهداف: به گفته مقامات آمریکایی، سایت‌های دفاع هوایی سپاه پاسداران انقلاب اسلامی، سیستم‌های راداری، قابلیت‌های مین‌ریزی، مراکز ارتباطی، پرتابگرهای موشک کروز ضدکشتی و پرتابگرهای پهپاد انتحاری از جمله اهداف مورد حمله بودند.\u003cbr/\u003eپاسخ ایران: مقامات آمریکایی اعلام کردند که پاسخ تلافی‌جویانه ایران ناموفق بوده است. ایران حدود ۲۵ موشک بالستیک شلیک کرد اما تنها نصف آن‌ها به آسمان اردن رسید. ۱۰ فروند رهگیری شدند و ۳ فروند بدون تلفات به زمین اصابت کردند.\u003cbr/\u003eحملات پهپادی: ایران دو جین پهپاد به سمت پایگاه‌های آمریکا در بحرین شلیک کرد که به گفته یک مقام آمریکایی، اکثر آن‌ها رهگیری شدند. همچنین موشک‌های بالستیک و پهپادهایی به سمت پایگاه‌های آمریکا در کویت شلیک شد. دو پهپاد نیز به سمت پایگاه آمریکا در اربیل (اقلیم کردستان عراق) شلیک شد که رهگیری گردیدند.\u003cbr/\u003eتصویر کلی:\u003cbr/\u003eکاخ سفید و فرماندهی مرکزی آمریکا (سنتکام) اعلام کردند این حملات در پاسخ به تلاش‌های اخیر سپاه پاسداران برای حمله به کشتی‌های تجاری در تنگه هرمز و همچنین پایگاه‌های آمریکایی در منطقه انجام شده است.\u003cbr/\u003eاما این حملات بخشی از طرحی بود که ترامپ و مشاوران ارشدش در روزهای اخیر برای بازداشتن ایران از بازسازی قابلیت‌های راداری و موشکی لازم جهت حمله به کشتی‌های عبوری بررسی می‌کردند.\u003cbr/\u003eیک مقام آمریکایی هدف از این طرح را کاهش خطر حملات ایران به نفت‌کش‌ها، کشتی‌های نیروی دریایی و هواپیماهای نیروی هوایی آمریکا دانست. وی این اقدام را اصطلاحاً «چمن‌زنی» (محدود کردن مداوم توانمندی‌های دشمن) توصیف کرد.\u003cbr/\u003eهمچنین یک مقام آمریکایی روز سه‌شنبه به آکسیوس گفت که این حملات جدید، توانمندی‌های هجومی ایران در تنگه را تضعیف کرده و «حداقل یک ماه» سطح تهدید برای کشتی‌های تجاری را کاهش داده است.\u003cbr/\u003eوضعیت موجود:\u003cbr/\u003eهم‌زمان با تبادل آتش میان آمریکا و ایران، نیروهای آمریکایی به هدایت و اسکورت کشتی‌ها از میان تنگه ادامه دادند.\u003cbr/\u003eبه گفته یک مقام آمریکایی، روز سه‌شنبه حدود ۴۰ کشتی حامل میلیون‌ها بشکه نفت از این تنگه عبور و مرور کردند. نیروهای آمریکایی چندین موشک کروز ضدکشتی و پهپاد شلیک‌شده از سوی سپاه به سمت کشتی‌ها را رهگیری کردند و به هیچ‌یک از کشتی‌ها آسیبی نرسید.\u003cbr/\u003eنقطه اصطکاک و اختلاف:\u003cbr/\u003eدو طرف بر سر گزارش رسانه‌های ایرانی مبنی بر تلفات مدنی دچار اختلاف شدند.\u003cbr/\u003eرسانه‌های ایرانی گزارش دادند که یکی از حملات آمریکا به یک مراسم عروسی در شهر کوهستک اصابت کرده و حداقل ۴ کشته و ۳۵ زخمی برجای گذاشته است.\u003cbr/\u003eکاپیتان تیم هاپکینز، سخنگوی سنتکام، در پاسخ گفت: «ما از گزارش‌هایی که منبع آن رسانه‌های دولتی ایران است مطلع هستیم. ارتش آمریکا، بر خلاف سپاه پاسداران، هرگز غیرنظامیان را هدف قرار نمی‌دهد.»\u003cbr/\u003eاظهارات مقامات:\u003cbr/\u003eیک مقام آمریکایی گفت: «ایرانی‌ها نه تنها کنترل تنگه هرمز، بلکه کنترل روی این مناقشه را نیز از دست داده‌اند. آن‌ها امروز هیچ دستاوردی نداشتند.»\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/mwarmonitor\" target=\"_blank\"\u003e@mwarmonitor\u003c/a\u003e",
+      "date": "2026-09-02T04:52:19Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 918,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "نظامی - سیاسی"
+    },
+    {
+      "id": 14024,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eبه نظر می‌رسد دو نفتکشِ بدون محموله مورد حمله قرار گرفته‌اند؛ و فرماندهی مرکزی آمریکا (سنتکام) معمولاً به نفتکش‌های حامل نفت حمله نمی‌کند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003eشرکت ملی نفتکش ایران (NITC) حدود ۱۲ نفتکش خالی در ایران دارد که سه فروند از آن‌ها پیش‌تر در تابستان هدف قرار گرفته‌اند.\u003cbr/\u003e\u003cbr/\u003eنفتکش‌های دیگری که متعلق به NITC نیستند نیز مورد حمله قرار گرفته‌اند، اما در حال حاضر نمی‌توان با قطعیت گفت که این دو نفتکش متعلق به NITC هستند یا خیر. تانکر ترکر \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/mwarmonitor\" target=\"_blank\"\u003e@mwarmonitor\u003c/a\u003e",
+      "date": "2026-09-02T04:56:09Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 761,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "نظامی - سیاسی"
+    },
+    {
+      "id": 14025,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e مناطق مورد حمله عمدتاً در جنوب کشور بوده‌اند. همچنین از چندین شهر، موشک‌هایی به سمت اهدافی در اردن شلیک شده است.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/mwarmonitor\" target=\"_blank\"\u003e@mwarmonitor\u003c/a\u003e",
+      "date": "2026-09-02T05:00:37Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 567,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "نظامی - سیاسی",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/c5I0jAit2dO9ukIOJ0_kdA9f_M-HgZ7-k-UYI2PBZ5V2JoeGsGFNqBAiPuRnWz4-8AjmNOTsWCGJIhAwJ1uxTjREIrGu-PMn6YX8IBHwZ1zYt0VP6cwIzQs7l2aMBAPUohxER-2cp9h3nB2cjyYwc7Sh4KQaQrYY9yeYaJdg_inV4tN-EL7ySS511ywtUdMydgs7nqk9PIh6l8i6zoLRLv9NXt8bfM-QjNC09VvzscnRDginGohT2rpLSg5bh9IbD0yTIREu6gGgTp6ulWpXg5JDmNyUPRK7fgQR6hFLW7_OMmsSaEIPrM8RLyuuU3uwkoRkMm3CHZS3oBuo8hvPJg.jpg"
+        }
+      ]
     }
   ],
   "last_updated": 0
