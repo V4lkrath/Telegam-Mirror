@@ -8,90 +8,12 @@
   },
   "posts": [
     {
-      "id": 5158,
-      "message": "مدل Muse Spark 1.3 توی OpenCode رایگان شده\u003cbr/\u003eاینم \u003ca href=\"https://t.me/MatinSenPaii/5036\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eآموزش استفاده‌اش\u003c/a\u003e",
-      "date": "2026-09-03T09:21:03Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5159,
-      "message": "کار کردن با مدل Fable 5.1 به قدری گرونه که می‌ترسم بهش سلام کنم لیمیت هفتگیم تموم بشه",
-      "date": "2026-09-03T11:51:49Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5160,
-      "message": "به این بنچمارک Arena کمی بیشتر اعتماد دارم حقیقتا\u003cbr/\u003eوضعیت کدنویسی جمنای 3.8\u003cbr/\u003eاما توی Text خیلی قوی ظاهر شده بود که باید بگم:\u003cbr/\u003e«ترجمه\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4B2.png\u0026#39;)\"\u003e\u003cb\u003e🤲\u003c/b\u003e\u003c/i\u003e»\u003cbr/\u003e(نگاهی به qwen 3.8 27b هم داشته باشید)",
-      "date": "2026-09-03T13:00:57Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/dIZ6EJxBrNNXYPix3vLvkSWBbTRZXfBVRDucinYiaPleozZU1I2rHDwW6-bpOCJZCNAxdzJiutvs-l0Cqgh5f57zR6rbnp9mkSHcZwSitQCVL0_5EuacSyDltaYY3SeCA752J2zZduYBMvNZAEsylwlYEkXI4ST8rtl-wdiR-4PNYOBNI-c9oAdF5Lqhf5-Vz8pzN8h4Cf5pOlcvLmxx-rEzuigU_jeGJCx10QkN10qoRcqxYTdq77102OzEjTnQN3lgafr3rIP0ebcGEe5VFRC-VTN8wm39kMASw0Qcoko5npeS7XYSeE0SSJuz59dC5MXaicaAL45H8A46uslhiw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5161,
-      "message": "این هم بنچمارک Fable 5.1\u003cbr/\u003eالبته با هزینه‌ی سرسام‌آور\u003cbr/\u003e10/50/0.25\u003cbr/\u003eIn/Out/Cache\u003cbr/\u003eکه خب با Fable 5 یکسانه، اما با پرامپت یکسان توکن بیشترس میخوره(و هزینه‌ی بیشتر طبیعتا)",
-      "date": "2026-09-03T14:02:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/adeIv7abP6xDFjCwUsf3P-wUqM22hdzkLe6BcoAiQEyQxavwfrO_azOpNdj3BXwosolvYa9Mqs0rr0iXqQFipY5m5rueUuVGmJlJ7S4SrWVP0D_tEYKKyHjJEUMB6XV-pR45dePsHFDt8gdWDdFMrPWMbzY9QZZLd739lKPYeCFNbQiJrshItXKBRPWERxjyd2XASeVkfqvOMO-tHf2avBgW-u2iDTC_fGm2wkO6Zj4s5E_jTLqntPEuhekHHR71sPgwXrxRz87nfk81a-YpPE6hNFGivthqkj81jL8Kym3xreXTlideJkmA7BIdl5PNt6r-K_0UbXQ4Pz5O60HMHg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5162,
-      "message": "اینم Muse Spark 1.3 \u003cbr/\u003eهم‌رده‌ی Kimi 3",
-      "date": "2026-09-03T15:51:17Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/m9nuLh_gPIDEY-aQRwMm5EZDvFvJl0yMScY5PPGo-Nw9dJtAQToFWGJvtucglj4H4PjDZbCQRVtlO4Td6RvLqSR7A5VzP_ynzOBXFkYwHH9JYMUCvfNtx6Mw6S8ObPOc49P5miN6STQM4pKmhV78pvCdvvh2v-_z40C4z_XJFH8LXjRiS1__R-yYLcCRTuYu1sV12YgAp6mwsoBkqXpkXVLDMIa2FBOuL_2bbxU2FU9xsqCzWugYcRT9uuQS9QoMyfqI1TxPpR84fm-hAMQ6FytBFGrpTAdPxKWhsspqF3_gf9LtDX0c7VW2gdC7QRZqtkdHc4gL6B7Tp2s8AZfPhw.jpg"
-        }
-      ]
-    },
-    {
       "id": 5163,
       "message": "نمیدونم چرا انقدر از مدل Kimi 3 خوشم میاد\u003cbr/\u003eزیاد هم فرصت نشده استفاده کنم توی تسک‌های سنگین\u003cbr/\u003eاما در نهایت برای کدنویسی، compatibility ای که مدلهای کلاد با خود هارنس claude code دارن رو هنوز توی هیچ ابزار دیگه‌ای تجربه نکردم",
       "date": "2026-09-03T15:52:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22700,
+      "views": 23000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -103,7 +25,7 @@
       "date": "2026-09-03T18:13:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22400,
+      "views": 23300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -133,7 +55,7 @@
       "date": "2026-09-03T18:31:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22200,
+      "views": 22700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -151,7 +73,7 @@
       "date": "2026-09-03T19:11:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23300,
+      "views": 24100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -169,7 +91,7 @@
       "date": "2026-09-03T19:37:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24400,
+      "views": 25200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -187,7 +109,7 @@
       "date": "2026-09-03T20:15:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25300,
+      "views": 26400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -205,7 +127,7 @@
       "date": "2026-09-03T20:18:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26500,
+      "views": 27600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -223,7 +145,7 @@
       "date": "2026-09-03T20:32:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26800,
+      "views": 28100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -241,7 +163,7 @@
       "date": "2026-09-03T22:14:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25300,
+      "views": 27000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -253,7 +175,7 @@
       "date": "2026-09-04T09:15:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20400,
+      "views": 23200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -265,7 +187,7 @@
       "date": "2026-09-04T10:34:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17600,
+      "views": 21300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -283,7 +205,49 @@
       "date": "2026-09-04T12:39:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10500,
+      "views": 16500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5179,
+      "message": "مدل \u003cb\u003eGPT\u003c/b\u003e-6 Astra بالاخره اومد \u003ctg-emoji emoji-id=\"5460681588331260715\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92BB.png\u0026#39;)\"\u003e\u003cb\u003e💻\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003eبعد از چند هفته شایعه‌های مختلف، OpenAI دیشب مدل جدیدش رو با اسم Astra رونمایی کرد. گرگ براکمن رسماً گفته «فکر می‌کنم رسیدیم به AGI» که خب فکر کنم بیشتر منظورش AGI ِتنظیم بازار بوده\u003ctg-emoji emoji-id=\"5370953476635368811\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e1- چی فرق کرده؟ برخلاف نسل‌های قبل که بیشتر یه چت‌بات باهوش بودن، تمرکز اصلی Astra روی کار کردن مستقیم با کامپیوترته: پر کردن فرم، کار با اکسل، رزرو نوبت، جست‌وجوی شغل، حتی دموی ساخت یه صحنه توی Blender و بردنش به Unreal Engine. توی بنچمارک OSWorld 2.0 حدود ۷۲.۶٪ گرفته (Sol حدود ۶۵.۷٪ بود) و کارها رو تقریباً با نصف زمان قبل انجام می‌ده(حالا اینکه هزینه‌اش 2-3 برابر شده رو کاری نداریم مثلا)\u003ctg-emoji emoji-id=\"5371039809772985021\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9891.png\u0026#39;)\"\u003e\u003cb\u003e😑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e2- کجاها واقعاً می‌درخشه؟ توی کدنویسی و کارهای عاملی طولانی، ریاضی و علم (توی FrontierMath Tier 4 حدود ۹۸٪!) و امنیت سایبری که توی ExploitBench صد از صد شده. برای همین OpenAI قابلیت‌های تهاجمیش مثل ساخت اکسپلویت رو برای کاربر عادی قفل کرده و فقط توی برنامه‌ی Daybreak بازه(فکر کنم همین بود که رفته بود Hugging face رو هک کرده بود)\u003cbr/\u003e\u003cbr/\u003e3- داستان اون ۹۹.۹٪ چیه؟ OpenAI گفته Astra توی ARC-AGI-3 نمره‌ی ۹۹.۹٪ گرفته که واقعاً وحشتناکه. ولی وقتی خود سازمان ARC Prize با harness استاندارد خودش و API خام تستش کرد، نمره افتاد روی ۶۲.۷٪. اون ۹۹.۹٪ فقط با یه harness اختصاصی خود OpenAI به دست اومده که حافظه‌ی استدلال مدل رو بین مرحله‌ها نگه می‌داره، و هزینه‌ی تستش هم حدود ۱۹ هزار دلار(4 میلیارد تومن) بوده. پس این عدد رو نمیشه مستقیم با بقیه‌ی مدل‌ها مقایسه کرد.\u003cbr/\u003e\u003cbr/\u003e4- توی مقایسه با Claude چطوره؟ این‌جا قضیه واقعی‌تر می‌شه. توی بنچمارک‌های خود OpenAI (کار با کامپیوتر، ریاضی سخت و...) Astra جلوتره. ولی توی Artificial Analysis Intelligence Index که میانگین چندتا بنچمارک مستقله، Astra نمره‌ی ۶۱ گرفته؛ دقیقاً هم‌سطح Sol\u003ctg-emoji emoji-id=\"5312015805095896450\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5312015805095896450\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e، و پشت Claude Fable 5.1 که ۶۶ گرفته. توی Coding Agent Index هم ۶۷ در برابر ۷۰ برای Fable 5.1. یعنی توی خیلی از تسک‌های واقعی استدلال و کدنویسی، فعلاً کلاد جلوتره؛ عوضش Astra توکن کمتری مصرف می‌کنه و برای خیلی کارها ارزون‌تر تموم می‌شه. (حالا اینکه Input Cache اش چهار برابر Fable هزینش هست رو کاری نداریم)\u003cbr/\u003e\u003cbr/\u003e5- قیمت و مشخصات؟ هر میلیون توکن ورودی ۱۰ دلار، خروجی ۵۰ دلار، کش ورودی هم 1 دلار و کش Writing هم 12.5 دلار؛ تقریباً هم‌قیمت Fable 5.1(به جز Cache که فیبل 0.25 دلاره) ولی ۲.۵ برابر گرون‌تر از Sol. پنجره‌ی زمینه حدود ۱.۰۵ میلیون توکن، خروجی حداکثر ۱۲۸ هزار، دانشش تا ۳۰ آوریل ۲۰۲۶ آپدیته. توی ChatGPT هم گفته می‌شه سهمیه‌ی پیام Astra روی پلن‌های پولی کمتر از Sol هست طبیعتا(بله AGI تنظیم بازار)\u003cbr/\u003e\u003cbr/\u003e6- دسترسی؟ فعلاً فقط سازمان‌های محدود (برنامه‌ی Daybreak) بهش دسترسی دارن(مثلا ادای Mythos رو در میارن). توی روزهای آینده میاد روی ChatGPT Plus و Pro و Business و Enterprise، از طریق API با شناسه‌ی gpt-6-astra، و روی Azure و Bedrock هم در دسترس قرار میگیره که برای ما ایرانیا زیاد اهمیتی نداره. ما اونقدری پول نداریم که پول api بدیم خوشبختانه\u003cbr/\u003e\u003cbr/\u003eحرف آخر: روی هوش عمومی و استدلال سخت هنوز از Fable 5.1 عقبه. گویا توی طراحی Front و سه بعدی خیلی بهتر عمل کرده اما خب، متأسفانه اون هم نمیشه اعتماد کرد. سر Kimi3 و Fable 5 هم همچین مقایسه‌هایی میکردن تهش گندش از آب در اومد که اینا پول گرفته بودن الکی قدرت Kimi رو خوب نشون بدن و خلاصه تا خودتون تست نکردید، یا عمومی نشده 7 سپتامبر، اعتماد نکنید.\u003cbr/\u003eمنم هیتر GPT نیستم؛ صرفا واقع‌بینانه مقایسه میکنم. وگرنه همین الان اشتراک GPT رو دارم خودم و میدونم اگر روی هارنس درستی باشه، توانا هست اما خب، چه فایده وقتی Ox Alpha انقدر قوی‌تر بود ازش:) متأسفانه \u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
+      "date": "2026-09-04T17:13:20Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7290,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/aaot6o1JDZb-RJBtgBhJCKZIdzNJMX2UzQgaGi1cVT5ObsQl7U01ypmy9lDlC7LMNKCLrHZvtkzyV5TtydiOC4aiMQjSD-jLpSvO6UXSfhyZBy_a10GstbXnUx93EXNEofB3h2k1f_Z6SewMz5sVuft_nVGHNR3uMWfR8zEGaZ88Y-RqXf4CTJkp_P32abeWxgRoS0j2IPJ5HssixU_I0BwzNCMa5_FDsr-LlcTaFasqVBhzIgIhHS_7hHHmAF6esMxjMkTg7HMmwitixYCGsNa2OLbFHm2uXBcWAe0UJH6ihvXQnnXH-71P1DOiJdvXf1Ne8Z5yW8Vm4fFCVNvRew"
+        },
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/U1T2fYJ1xQYnEotKKvbjgmRc6YrYYuL28eED1y6Q_gklhlFzqGHQfHKkrzzVZFl56kL32C4qarGkg6-7S608N4WIuGRFNzBEaXZA_8jEhgYt_T8p-4XWS-SUjeRlEB4fSOykZlb6Agf9BiWn_swYgDbalgf5ZUwYuoq8oU5pgl9S9akCBRWGD1coj75jnpzWoUYFgU41C8OXWgPb4DW2BHBp0SjYE6SmttRKEczRAW6jFljhzU41kS8RxfSq4unS59h7ywR8GGcZkPIRisOi9oWJPoaHPaXJUbm_FVdztsPiV8GFG8pZHNlWsaZvGDZ3thZZPsUk2AkepMaqaRtacQ"
+        },
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/jTzz4isxYhkqho1HNCMGMcI1-e3jO5YvhPRatVnws34gjogsOq8Iyex4SqPKPEEnvSEjEvRBIJrWs2SWr8O3THFhehp1_mnxkQ_dtpeVtpB_69e_GTUDp9z6yf60ZNpF1Uq9rP1o3XeeQZyCEX6ps1-HDnuNH_L24CtvEiD2Bay0TXrCot18p-uvGi9hFTSWCovPnjZHlezEu2L1_EahLiBaJA6oDM3H4d46jxF0XkvZDN_Zh9X81f4xpZhZxOowI90hPi22IT0NeUnqeDBx3UOPNh_EwCVTtTbVvk9Ft_meJTIdUNiMlzifuD6297t8pjFhtmpjX23VboZaEp8HMA"
+        },
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/JYll3NlqKr6d-b_ZNzpyMZCjXkIE_dWkhnF6MBP3GrqsOZtMsnxhQiO174Xjrxuc4pw90qwgnb_MZ41YvoePzgH1r_BYpn14tXw0yh69Abb0urXl1EYAih2J-KEcir0lyPhmAd2W7nTtgbDBh6WZ8a9xumIJQ2Oc6hmlm2DdPMn742xE43Vl_EphUp09lt85GHlzH7unYR9wJu61jo5XAzAhFC98vKXirxo88cJFMEXx7R4VxdtOK0OzruoZ5CIdxf60C2PQ9APyvR88rBQ56pvmygPjdcRxxV6l_TQT0sQzgKLoL5Vs6QcEgXRbTU4Kw_RSSQKjLuN2bQCpoG5kWw"
+        }
+      ]
+    },
+    {
+      "id": 5183,
+      "message": "خب بن نشدم هنوز. آموزشش رو واستون می‌نویسم تا یک ساعت دیگه",
+      "date": "2026-09-04T17:28:59Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4410,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
