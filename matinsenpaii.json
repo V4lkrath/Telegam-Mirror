@@ -8,24 +8,12 @@
   },
   "posts": [
     {
-      "id": 5163,
-      "message": "نمیدونم چرا انقدر از مدل Kimi 3 خوشم میاد\u003cbr/\u003eزیاد هم فرصت نشده استفاده کنم توی تسک‌های سنگین\u003cbr/\u003eاما در نهایت برای کدنویسی، compatibility ای که مدلهای کلاد با خود هارنس claude code دارن رو هنوز توی هیچ ابزار دیگه‌ای تجربه نکردم",
-      "date": "2026-09-03T15:52:29Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
       "id": 5164,
       "message": "دوستان با این سایت Nara که قبلا معرفی کرده بودم(\u003ca href=\"https://t.me/MatinSenPaii/4061\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/MatinSenPaii/4061\u003c/a\u003e)، اگر که داخلش اکانت تلگرامتون رو وصل کنید به رباتش و توی کانالشون جوین بشید، می‌تونید نامحدود از مدل muse-spark-1.2-contributor-free متا استفاده کنید؛ بدون محدودیت ریجن و...\u003cbr/\u003e\u003cbr/\u003eمینویسه 7 میلیون توکن داره، اما بیشتر میتونید استفاده کنید. توی تصویر میبینید که من 12 میلیون توکن مصرف کردم همین الان\u003cbr/\u003e\u003cbr/\u003eکسایی که اکانت قدیمی دارن(همون زمانی که پست رو گذاشته بودم)، یا اینکه پرداخت داشته باشن روی سایتش هم میتونن از مدلهایی مثل GLM 5.3 flash و دیپ‌سیک و Muse Spark 1.3 به رایگان استفاده کنن. برای من همین شکلیه الان. بدون اینکه پرداختی داشته باشم",
       "date": "2026-09-03T18:13:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23300,
+      "views": 23500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -33,19 +21,19 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/UC0tllpU9e2Ot6lVDRLDUkYpP8TNIdXCAg5KF_P2x8Lo2ZLC2h9MnfS3-6SD7bXAhZ29beRy7zWpfEKK8jac0c6OFCxDFEYmuchq3kcupddkCPJHTdZUvp97gQGHn2frSMr5E7jf9tAzC99Lm-D0CRZG4T0pLKUCmOMjyxREWrGP34UBmut_5N0tE4jZCD56qkFIhrQcaRpZ3HVOQrvb78RrbL3zoiXofFh7pDOQHoCsdMVCImgttFVxSIve6-mWFWD_sOKxEn8RejlUCOV6yZ6uLlkY0F3eYssUYPwMlxuZpg28y9vl2eAwhCxFkkvDvBhzNPKklXhohfeFweAt5A.jpg"
+          "url": "https://cdn1.telesco.pe/file/i3jL1afVNq35yHizJZ5fWM40MW5p5SaD8ze1A8R2PEC-sPT-TG9l5sbdj8buXfp3GPYgtfBM0V82-IFPA4P2jiWSVpbbLKXJZdpZDB6TIb7TOh9A94aUUdxYqMQ6PAxlWtfU6W4znb7XLVYEXdOOkZeigiAXQUCX2WnTs0asuA74mzgJbGaZmrcwtyv7WwEgt7b3nprN2xrRbPfklVt1NJesC4bsem0a_zS4NgpKuPtcFpcXUxDL2gMQG4pj55_kMA7e3NGHAnIGcjuzEY5lgDOheGGFQF7YwDLzBzC5zh3c5vcMWM7sIt8gS9jTSu77Ns8GNBljdtpw2Y-Mstz-Zw.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/VrHVJlgal-1x0Dade3jNoWDa2PM9wc5Tto4Fv7lILvN6PntkR2cuC70ueqB77OGx1QxfDRjd5efsbplXu0vlQ0B6doc18EV91R5XoDZu_-zZxZ7VAI9_bS5xlKIPAdAfFa1ku3APSCQzCrYHuUqYTEe85u8ar1MV9T7qLimPin3UFGHZTb0kZp2Ot94usHIXPVWjekkKofxY3iBnvCmM-i3ZaceNv26c5eFxgJq8ynPbI9zG3amu4b6HVMCE1OlSt78thSo8FLx_EUJh7n3RC_PPs37d66EkA7ofV_vmmuke205KnRisZjJexP4qLck4lpqbplQu1vCMm9kqMyZ6vw.jpg"
+          "url": "https://cdn1.telesco.pe/file/Gr-GBnRDCXdx5vnixQRBPqDSwyN_PS71L8zvKSWVkePWCz0gfqIlcUcDmKQNvVJjf6ie4KM-aV5Y0YcokVl8EENemSjFa7PTreGcdokw_Tpn7Cz0AcmnRd1MMnRlB5syd87ACaimvIrvT_9hSBZj_53U6VJOCnvR6slGsdHCPt2xamfjztsQQ_TYFdDibrylC32GTTVbhpBhbUwE6QUJGfX3xXToHq4atuKRo_fLWiNzkpJ8F6VYz1Y7Mfr1ARPGwyjyAxZnPZPvW7vlAPVye2zHrci-JnYLddgnhqjZqrRD3mwIM0F3uMu7TlmcmOoptPVc4Dj0dbDvu1CvGALQVw.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/Ga8dxo0hRUtqErKCn_0v2qmB93j-mylLf1hCKK6io4MMrj-9c3Vwxr-eZ654-Qsg-bGZ4UwNrmaWjuzkk14TX13OXZOas5a3CauUKrF4WYzsf5qI_meBfbEVHZ7dIIKBqva5oeP1jRd1y7eoxjGWokbMpemOSfN_cemv1gZ4xcqlIw3ulZh2ZxM56nnf8VTCOuGDmP_F8iF4MxcUCRzhHp9Y2U4EziAenHvqGxlT9BicpoUUTy_nRcKirNb3G5NyirEt9nWmJIVlWCdqVC70k4PM0u7tVF8rsc9deyUjund8MenBLssyYDuctZ942ySbbvABuf0Wf0KMXQRCc1nyUQ.jpg"
+          "url": "https://cdn1.telesco.pe/file/QY0M_vaLs7SzkoGNjonGVwqd9r4sxLUSCxmDtbIg71OJ-akJ_lufbDtn5qZ2lpeP2rJ6Po36YtljHW_UJwLV9gRjwS8EQUhE3AW1q_mc-8F9vwHdVfA2A34_xwO-1Umhw28kYJVFtMzQjYgs5ltOKS4silzZyEiHIaVcS3z49uptPQy7mEvMels3qqejWPC5tBc2HbyLO3MTWxr1ShIlBJy5EhgCOfryH2F7OEwMT7R1VXQ_UuXLp3_Btb1c4QIzOqO_PY3FlCfrBqhAIUv6bBOdphII8oaa2MdN-E5wWf4EMqnLWuW5X19n0R9uxicPtoQs0myosuFw5taX0d5FrQ.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/Kc0Ah0h0I6_nesWoI2pN9eYEL21Ulq6CVHZcpJ1x_3dqXEXPnLSGKg5FGYICsVrPlb4kT5HAMMtUooHKzj2sllo-2QLkURyXzDjiR7k44R139MvkBV2W7jHjml4hQ7syH-7BngYCQCp1PJmfPTZTXFfc3suVB8wQaVNzS4UjjPfnNeT2Ycn5ao7LF43W6cxo-A0Xzbnq66OJdx9sb7n8fCgW3oVTz3f9g7y-gc5WYWM0hMtz6HuuJJdffQEi5jwqs2hhOEHU_O_bGzQbQSk-XcncSVIHOAeRaWat497VRiMU4KKh3-JZEvcIQN_3sS_r3RCG-qhKIzEtCKe5Maiffg.jpg"
+          "url": "https://cdn1.telesco.pe/file/Fud7cUg7tlm1SS0Bv5kZ8ni4m8VKFM9nBIPL2YqDcV6COZKKs9t6V5LP_KXNVuoKtOOfXIOqaYU2DGGISPm1R7yLPu357T6AX03k09eZIx0wqu8xOsM3qh3Ik6CbF1kGGDvj7pdqwIlQnI250KXpxZ3igyQR4YoLnNCRAHA31z-PWWRfXl5vRa6vQo7TFCynI9L1zrvqBMlRng2JzZfmUe7G0VqypycHooibFPO0IJMr48snNTNwfyfoJ9sFCjBIV07qzp8-u3nEQ__yzT-dyz-30N7d5xWxRhuTwrCXF44quSQioBbUVAtOK_YSM6JQyOoQShJpsWsH1xIOHFgdTg.jpg"
         }
       ]
     },
@@ -55,7 +43,7 @@
       "date": "2026-09-03T18:31:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22700,
+      "views": 23000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -73,7 +61,7 @@
       "date": "2026-09-03T19:11:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24100,
+      "views": 24300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -91,7 +79,7 @@
       "date": "2026-09-03T19:37:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25200,
+      "views": 25500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -109,7 +97,7 @@
       "date": "2026-09-03T20:15:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26400,
+      "views": 26700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -127,7 +115,7 @@
       "date": "2026-09-03T20:18:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27600,
+      "views": 27900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -145,7 +133,7 @@
       "date": "2026-09-03T20:32:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28100,
+      "views": 28400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -163,7 +151,7 @@
       "date": "2026-09-03T22:14:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27000,
+      "views": 27300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -175,7 +163,7 @@
       "date": "2026-09-04T09:15:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23200,
+      "views": 23700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -187,7 +175,7 @@
       "date": "2026-09-04T10:34:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21300,
+      "views": 21900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -205,7 +193,7 @@
       "date": "2026-09-04T12:39:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16500,
+      "views": 17300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -217,7 +205,7 @@
       "date": "2026-09-04T17:13:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7290,
+      "views": 9350,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -247,11 +235,29 @@
       "date": "2026-09-04T17:28:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4410,
+      "views": 7100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5184,
+      "message": "تازه Long Context اش هزینش 2-1.5 برابره",
+      "date": "2026-09-04T17:58:36Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2510,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/ZApblh3gcGwevIjpNq7596wf5wkLyd6dxb68L61-MkDJz8xrVah05BAEBOEChSflr21poPXeklP9jXtN4vOe2Ypk1QX1er3lFZ6X5sqYzpWnA0SOgSxsxwMcEb3cftMRv1kNRsG5F2cTSDMiMRu2ZcrYf2h8FN6Tyx7OVTF1RV2uLRI86hIIFNsjIRApicHlUeq1UQjkgDgjP18onq26JLGxr4IVhjL9fxhHmj9n4eN0hEBwaI8Xa-rJyc4WMvabxrr71UU1WvKKqibc0xP2qsud1P2QKjeCHVYlxtNA23ZCXgTnngtqRX66UPbNjPna0Fw3xoeZEgiIAXDuLYP7OQ.jpg"
+        }
+      ]
     }
   ],
   "last_updated": 0
