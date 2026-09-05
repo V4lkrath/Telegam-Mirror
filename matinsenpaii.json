@@ -8,42 +8,12 @@
   },
   "posts": [
     {
-      "id": 5179,
-      "message": "مدل \u003cb\u003eGPT\u003c/b\u003e-6 Astra بالاخره اومد \u003ctg-emoji emoji-id=\"5460681588331260715\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92BB.png\u0026#39;)\"\u003e\u003cb\u003e💻\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003eبعد از چند هفته شایعه‌های مختلف، OpenAI دیشب مدل جدیدش رو با اسم Astra رونمایی کرد. گرگ براکمن رسماً گفته «فکر می‌کنم رسیدیم به AGI» که خب فکر کنم بیشتر منظورش AGI ِتنظیم بازار بوده\u003ctg-emoji emoji-id=\"5370953476635368811\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e1- چی فرق کرده؟ برخلاف نسل‌های قبل که بیشتر یه چت‌بات باهوش بودن، تمرکز اصلی Astra روی کار کردن مستقیم با کامپیوترته: پر کردن فرم، کار با اکسل، رزرو نوبت، جست‌وجوی شغل، حتی دموی ساخت یه صحنه توی Blender و بردنش به Unreal Engine. توی بنچمارک OSWorld 2.0 حدود ۷۲.۶٪ گرفته (Sol حدود ۶۵.۷٪ بود) و کارها رو تقریباً با نصف زمان قبل انجام می‌ده(حالا اینکه هزینه‌اش 2-3 برابر شده رو کاری نداریم مثلا)\u003ctg-emoji emoji-id=\"5371039809772985021\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9891.png\u0026#39;)\"\u003e\u003cb\u003e😑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e2- کجاها واقعاً می‌درخشه؟ توی کدنویسی و کارهای عاملی طولانی، ریاضی و علم (توی FrontierMath Tier 4 حدود ۹۸٪!) و امنیت سایبری که توی ExploitBench صد از صد شده. برای همین OpenAI قابلیت‌های تهاجمیش مثل ساخت اکسپلویت رو برای کاربر عادی قفل کرده و فقط توی برنامه‌ی Daybreak بازه(فکر کنم همین بود که رفته بود Hugging face رو هک کرده بود)\u003cbr/\u003e\u003cbr/\u003e3- داستان اون ۹۹.۹٪ چیه؟ OpenAI گفته Astra توی ARC-AGI-3 نمره‌ی ۹۹.۹٪ گرفته که واقعاً وحشتناکه. ولی وقتی خود سازمان ARC Prize با harness استاندارد خودش و API خام تستش کرد، نمره افتاد روی ۶۲.۷٪. اون ۹۹.۹٪ فقط با یه harness اختصاصی خود OpenAI به دست اومده که حافظه‌ی استدلال مدل رو بین مرحله‌ها نگه می‌داره، و هزینه‌ی تستش هم حدود ۱۹ هزار دلار(4 میلیارد تومن) بوده. پس این عدد رو نمیشه مستقیم با بقیه‌ی مدل‌ها مقایسه کرد.\u003cbr/\u003e\u003cbr/\u003e4- توی مقایسه با Claude چطوره؟ این‌جا قضیه واقعی‌تر می‌شه. توی بنچمارک‌های خود OpenAI (کار با کامپیوتر، ریاضی سخت و...) Astra جلوتره. ولی توی Artificial Analysis Intelligence Index که میانگین چندتا بنچمارک مستقله، Astra نمره‌ی ۶۱ گرفته؛ دقیقاً هم‌سطح Sol\u003ctg-emoji emoji-id=\"5312015805095896450\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5312015805095896450\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e، و پشت Claude Fable 5.1 که ۶۶ گرفته. توی Coding Agent Index هم ۶۷ در برابر ۷۰ برای Fable 5.1. یعنی توی خیلی از تسک‌های واقعی استدلال و کدنویسی، فعلاً کلاد جلوتره؛ عوضش Astra توکن کمتری مصرف می‌کنه و برای خیلی کارها ارزون‌تر تموم می‌شه. (حالا اینکه Input Cache اش چهار برابر Fable هزینش هست رو کاری نداریم)\u003cbr/\u003e\u003cbr/\u003e5- قیمت و مشخصات؟ هر میلیون توکن ورودی ۱۰ دلار، خروجی ۵۰ دلار، کش ورودی هم 1 دلار و کش Writing هم 12.5 دلار؛ تقریباً هم‌قیمت Fable 5.1(به جز Cache که فیبل 0.25 دلاره) ولی ۲.۵ برابر گرون‌تر از Sol. پنجره‌ی زمینه حدود ۱.۰۵ میلیون توکن، خروجی حداکثر ۱۲۸ هزار، دانشش تا ۳۰ آوریل ۲۰۲۶ آپدیته. توی ChatGPT هم گفته می‌شه سهمیه‌ی پیام Astra روی پلن‌های پولی کمتر از Sol هست طبیعتا(بله AGI تنظیم بازار)\u003cbr/\u003e\u003cbr/\u003e6- دسترسی؟ فعلاً فقط سازمان‌های محدود (برنامه‌ی Daybreak) بهش دسترسی دارن(مثلا ادای Mythos رو در میارن). توی روزهای آینده میاد روی ChatGPT Plus و Pro و Business و Enterprise، از طریق API با شناسه‌ی gpt-6-astra، و روی Azure و Bedrock هم در دسترس قرار میگیره که برای ما ایرانیا زیاد اهمیتی نداره. ما اونقدری پول نداریم که پول api بدیم خوشبختانه\u003cbr/\u003e\u003cbr/\u003eحرف آخر: روی هوش عمومی و استدلال سخت هنوز از Fable 5.1 عقبه. گویا توی طراحی Front و سه بعدی خیلی بهتر عمل کرده اما خب، متأسفانه اون هم نمیشه اعتماد کرد. سر Kimi3 و Fable 5 هم همچین مقایسه‌هایی میکردن تهش گندش از آب در اومد که اینا پول گرفته بودن الکی قدرت Kimi رو خوب نشون بدن و خلاصه تا خودتون تست نکردید، یا عمومی نشده 7 سپتامبر، اعتماد نکنید.\u003cbr/\u003eمنم هیتر GPT نیستم؛ صرفا واقع‌بینانه مقایسه میکنم. وگرنه همین الان اشتراک GPT رو دارم خودم و میدونم اگر روی هارنس درستی باشه، توانا هست اما خب، چه فایده وقتی Ox Alpha انقدر قوی‌تر بود ازش:) متأسفانه \u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-09-04T17:13:20Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/aaot6o1JDZb-RJBtgBhJCKZIdzNJMX2UzQgaGi1cVT5ObsQl7U01ypmy9lDlC7LMNKCLrHZvtkzyV5TtydiOC4aiMQjSD-jLpSvO6UXSfhyZBy_a10GstbXnUx93EXNEofB3h2k1f_Z6SewMz5sVuft_nVGHNR3uMWfR8zEGaZ88Y-RqXf4CTJkp_P32abeWxgRoS0j2IPJ5HssixU_I0BwzNCMa5_FDsr-LlcTaFasqVBhzIgIhHS_7hHHmAF6esMxjMkTg7HMmwitixYCGsNa2OLbFHm2uXBcWAe0UJH6ihvXQnnXH-71P1DOiJdvXf1Ne8Z5yW8Vm4fFCVNvRew"
-        },
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/U1T2fYJ1xQYnEotKKvbjgmRc6YrYYuL28eED1y6Q_gklhlFzqGHQfHKkrzzVZFl56kL32C4qarGkg6-7S608N4WIuGRFNzBEaXZA_8jEhgYt_T8p-4XWS-SUjeRlEB4fSOykZlb6Agf9BiWn_swYgDbalgf5ZUwYuoq8oU5pgl9S9akCBRWGD1coj75jnpzWoUYFgU41C8OXWgPb4DW2BHBp0SjYE6SmttRKEczRAW6jFljhzU41kS8RxfSq4unS59h7ywR8GGcZkPIRisOi9oWJPoaHPaXJUbm_FVdztsPiV8GFG8pZHNlWsaZvGDZ3thZZPsUk2AkepMaqaRtacQ"
-        },
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/jTzz4isxYhkqho1HNCMGMcI1-e3jO5YvhPRatVnws34gjogsOq8Iyex4SqPKPEEnvSEjEvRBIJrWs2SWr8O3THFhehp1_mnxkQ_dtpeVtpB_69e_GTUDp9z6yf60ZNpF1Uq9rP1o3XeeQZyCEX6ps1-HDnuNH_L24CtvEiD2Bay0TXrCot18p-uvGi9hFTSWCovPnjZHlezEu2L1_EahLiBaJA6oDM3H4d46jxF0XkvZDN_Zh9X81f4xpZhZxOowI90hPi22IT0NeUnqeDBx3UOPNh_EwCVTtTbVvk9Ft_meJTIdUNiMlzifuD6297t8pjFhtmpjX23VboZaEp8HMA"
-        },
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/JYll3NlqKr6d-b_ZNzpyMZCjXkIE_dWkhnF6MBP3GrqsOZtMsnxhQiO174Xjrxuc4pw90qwgnb_MZ41YvoePzgH1r_BYpn14tXw0yh69Abb0urXl1EYAih2J-KEcir0lyPhmAd2W7nTtgbDBh6WZ8a9xumIJQ2Oc6hmlm2DdPMn742xE43Vl_EphUp09lt85GHlzH7unYR9wJu61jo5XAzAhFC98vKXirxo88cJFMEXx7R4VxdtOK0OzruoZ5CIdxf60C2PQ9APyvR88rBQ56pvmygPjdcRxxV6l_TQT0sQzgKLoL5Vs6QcEgXRbTU4Kw_RSSQKjLuN2bQCpoG5kWw"
-        }
-      ]
-    },
-    {
       "id": 5183,
       "message": "خب بن نشدم هنوز. آموزشش رو واستون می‌نویسم تا یک ساعت دیگه",
       "date": "2026-09-04T17:28:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24000,
+      "views": 24400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -55,7 +25,7 @@
       "date": "2026-09-04T17:58:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23100,
+      "views": 23500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -73,7 +43,7 @@
       "date": "2026-09-04T18:49:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26500,
+      "views": 27100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -99,7 +69,7 @@
       "date": "2026-09-04T19:43:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25400,
+      "views": 26100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -111,7 +81,7 @@
       "date": "2026-09-04T20:04:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25300,
+      "views": 25900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -123,7 +93,7 @@
       "date": "2026-09-04T21:13:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23700,
+      "views": 24500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -135,7 +105,7 @@
       "date": "2026-09-04T21:52:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23500,
+      "views": 24300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -153,7 +123,7 @@
       "date": "2026-09-04T22:00:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25600,
+      "views": 26300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -171,7 +141,7 @@
       "date": "2026-09-04T23:31:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25800,
+      "views": 26600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -189,7 +159,7 @@
       "date": "2026-09-04T23:35:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26000,
+      "views": 27000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -201,7 +171,7 @@
       "date": "2026-09-05T12:24:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16700,
+      "views": 19300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -219,7 +189,7 @@
       "date": "2026-09-05T12:28:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16400,
+      "views": 18900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -231,7 +201,7 @@
       "date": "2026-09-05T12:46:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15100,
+      "views": 17800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -243,7 +213,7 @@
       "date": "2026-09-05T12:48:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14800,
+      "views": 17600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -255,7 +225,7 @@
       "date": "2026-09-05T15:22:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4120,
+      "views": 10500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -264,6 +234,54 @@
         {
           "type": "photo",
           "url": "https://cdn4.telesco.pe/file/IF5W6bsqeEdd56Xy80L2DSXtOpBgPpKvIamIIVxLDnoYp3vB39FegHJ7d3GtymXylTU_F3n9Svr2eAncY0q9xjChltku0Rhwn0CsouWHTalgdi0BCIZLslBmUOGYwIUQopl_co5VSYnnzOyBJPC6YsPtqq48qbw_Az2YGrx8CLjykX04YPgvWNI7YudDDU9i4zqFOI0rmD-raelFTLstd72Xwni6ZIVHMhq05MVv2CZLT5CrZnTH9Q8RagwTaewRUjByOCbmzw99IiODYFpW1HQDnI66DLYYfV6JbAaeTR7iHjGw4JZdqMd5DmloTjdC2W9QgWon8DTZYrqSfK6iMw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5201,
+      "message": "\u003cb\u003eآموزش خرید اشتراک Claude Pro با ویزاکارت شخصی و ایمیل خودتون\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eمن امروز تجربه‌ام رو از خرید اشتراک کلاد پرو می‌خوام باهاتون در میون بذارم، که چطوری خیلی راحت و بدون نگرانی بتونید با پرداخت کریپتو روی ایمیل خودتون فعالش کنید.\u003cbr/\u003eیکی از دوستانم دو ماهه و خودم هم از دیشب خریدم اشتراک Claude رو و مشکلی نداشتیم. صرفا باید ریز به ریز کارهایی که می‌گم رو انجام بدید\u003cbr/\u003eقیمت اشتراکش روی لایسنس مارکت الان 5.700 هست ولی این شکلی اگر بخرید با تتر 228 تومنی در میاد 4.800 که خب یه تومن به نفعمونه حدودا.\u003cbr/\u003eحتی اگر بعدا به مشکل خورد یک وقتی(که فعلا با این روش نخورده)، مبلغ رو برمی‌گردونن به حساب Mpay که ساختیم و مثل سایت‌های ایرانی نمیگن برو بیست روز دیگه بیا\u003cbr/\u003e\u003cbr/\u003eآموزش:\u003cbr/\u003e1- اول از همه، شما باید یه ویزاکارت مجازی داشته باشید. آموزش متنی ساخت ویزاکارت: \u003ca href=\"https://t.me/MatinSenPaii/4915\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/MatinSenPaii/4915\u003c/a\u003e آموزش ویدئوییش: \u003ca href=\"https://t.me/MatinSenPaii/5091\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/MatinSenPaii/5091\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e2- حتما باید حسابتون رو توی Google Pay اد کنید با این روش که دو دقیقه وقت می‌بره نهایتا: \u003ca href=\"https://t.me/MatinSenPaii/5092\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/MatinSenPaii/5092\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e3- توی گوگل پلی گوشی اندرویدتون، با همون ایمیلی که کارت رو روش ثبت کردید وارد بشید و بالا سمت راست روی پروفایلتون بزنید. \u003cbr/\u003eتوی قسمت Payments \u0026amp; Subscriptions که وارد بشید، باید بتونید اطلاعات کارتتون رو ببینید.\u003cbr/\u003e\u003cbr/\u003e4- اپ اندروید Claude رو از گوگل پلی دانلود کنید، وارد حسابتون بشید، توی تنظیمات روی Upgrade بزنید، پلن مورد نظرتون رو انتخاب کنید و خودش هدایتتون می‌کنه به پرداخت با گوگل پلی. \u003cbr/\u003eو به راحتی پلن واسه‌تون فعال می‌شه\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
+      "date": "2026-09-05T15:52:00Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9860,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/QGyBoQfyta1F8xllu7A0OYmx8DHb6C7urJXJF-wjfYmJJr7d_8kvpDQv0ar8cDUilNB_FLErofTiFFeNLu8fQvHiSKW7HnUxsMArBUhDv6w7YlMaJc3DraYmML84KgvFPmVEOdBn1u8Et6VN9AzyVd_urdhzbPHqw6rkjFfE7_caTe-C9JIoB6Ha_6DGNqDldpkNRLVIlzTqOy3XBEiDsj87eYh5Ve2_KF_r-PE-LJQtOsKKVhrxGYc-24Q-I3bsgJbspw67T4gl3nViT87ZS9ByNod7axSV8-fxV030D7P51V29v1K1zfktYn7pi9ahzuj-s_LrZ0oGNQP43VfJ3g.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5202,
+      "message": "لطفا به جزئیات دقت کنید. حتما از Google Play + اندروید استفاده کنید، هیچ مشکلی پیش نمیاد\u003cbr/\u003eو عرض کردم یکی از دوستان تمدید هم کرده بود حتی یعنی ماه دومیه که داره استفاده می‌کنه",
+      "date": "2026-09-05T15:58:04Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9630,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5203,
+      "message": "از اونجایی که کلاد و جی‌پی‌تی مدل جدید دادن... به زودی باید شاهد دستاوردهای برادران چینی باشیم",
+      "date": "2026-09-05T17:19:14Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1940,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/G7TDTVgvVrBhpBxRA8YFbuODOrDNjCEU4KB-VUMw-_UVyGHOWohkqu4cYK0io1eQe1E1gub8GGrBZv1z-1UpVGWL57Te6TxxsqbSGIptlsEXj6GrjW2X9rjBLoy6kIfI4GPdONko2YHy3JwH4dVOetQ5ifEKLMggquyEPTUnm69SD4lL4pcoM73VeAg5rL0h0kGLV1qs6PuiYqlc-9Xv2nPeQC6Maj3NgB73vfeJHpF68y__7gM0SH1W4NyrDpgzQCsxC2a62gDh4NsY2hzpxKDAdKoeCO7Ro4qfKicE8HTVx2mtw3NJdAnQCwooFF708Rq3ghWfBp3v4NvcrEFe7Q.jpg"
         }
       ]
     }

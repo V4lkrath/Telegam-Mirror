@@ -13,7 +13,7 @@
       "date": "2026-09-04T12:06:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 205,
+      "views": 208,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -67,7 +67,7 @@
       "date": "2026-09-04T12:59:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 209,
+      "views": 213,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -86,7 +86,7 @@
       "date": "2026-09-04T15:49:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 211,
+      "views": 220,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -105,7 +105,7 @@
       "date": "2026-09-04T16:55:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 245,
+      "views": 254,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -113,7 +113,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/IFxIa17scy-0S_UPalY9ka2cFfkqaPeAC5DSN74YwCvfFUqx3FP_r3vVivQdP_BTfpf2XQNwIDKixXCc0aP8uUrPAaWdyCqiCh3HUQHZJWXerpW8CPa2tUiBeIybnG_bFXT8ly1uHCMcjfuopHiSLoyD_UqAxlciMsKRuqvQnL2fgwwsWTg3TTar5DlYk3vUnrvNbBCbT1lMW1BqYP9WlwRuEOER_MGUyzAYl1PXEta7ZLs1XwMVfORxX-B5MekJJ4h6AhvlFV6ZkHDfOuiUixciFikSSyrwhFKXa3Bn_RfL4Y5R7_IeJSgdio4UKu7yPrqaM2LSXIE3tYvsYt-piQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/sulldW9kMA33Pip08dmSyhBEPDJJHfZQkA99h8nBDBqgEz0NcrLGlOipH90HORm2Cq-IKK2hBvjvxT5OBw8Kv_xPChEwEi6QNTeYU2em_-pa5Jvitr5aVvUWPHC1RFgoGl5c5TlmEpTlJjCY_RZhwF8EREP6N5mGmx2lDakLk9cDYpKJyFfc-_P6jZq1Np0ljp4b6MVrMs1MvNKpcBezjcvMabyaY5zJjRpzgNGiXNrzouIdYKYfO6elKf1nC7ZdZbPFuxQ30B2B-5cqI86yqvYWlqavY38gt6J5s4a2N_ERrXoDelJcUKblGGKtXuqRMrBm1V3xKS6vwZZhDjwqYg.jpg"
         }
       ]
     },
@@ -123,7 +123,7 @@
       "date": "2026-09-05T07:39:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 156,
+      "views": 171,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -141,7 +141,7 @@
       "date": "2026-09-05T07:47:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 180,
+      "views": 198,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -159,7 +159,7 @@
       "date": "2026-09-05T08:39:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 162,
+      "views": 172,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -177,7 +177,7 @@
       "date": "2026-09-05T09:10:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 180,
+      "views": 199,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -195,7 +195,7 @@
       "date": "2026-09-05T10:42:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 439,
+      "views": 476,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -213,7 +213,7 @@
       "date": "2026-09-05T13:50:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 77,
+      "views": 106,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -231,7 +231,7 @@
       "date": "2026-09-05T15:30:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27,
+      "views": 74,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -240,6 +240,24 @@
         {
           "type": "photo",
           "url": "https://cdn4.telesco.pe/file/Z8fOt4G3d1mFuocz-1eVTDzsFOHQaXnIdkajCv5hD3VRDincvPs6nQn1wAViBK5iP1ttUNGwJCxwGlxt1reuehJwPKA02EccyK-ShhQm6CEVUHRTvEXsx-H53O7M6xGPRHvp5Z60H88EH-emVl90BBBx2Rg5OUZBONto3sHHozo3I5hYLpCy1jXSgErTcLTf5ibe1T9HcJarqGI1pCNwvdDF_XTquWqd_gUuuVOD9UfTJ-XZhQySdm7pUTIm75tDKQQ6lcL_1s3r_hKSMTFsmILyvczdDC0Len-FLOfgUT1ys4D2Q6G125s-j8wkGzRNJLyDzjgSPrr2wbKYXtl3Nw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 20192,
+      "message": "هفت ماه بلاتکلیفی آرتین غضنفری؛ محرومیت از درمان تخصصی در زندان تهران بزرگ\u003cbr/\u003e\u003cbr/\u003eآرتین غضنفری، عکاس خبری و شهروند بهائی، بیش از هفت ماه پس از بازداشت همچنان بدون تعیین تکلیف نهایی در زندان تهران بزرگ نگهداری می‌شود. او در این مدت با وجود ابتلا به چند بیماری، از دسترسی به درمان تخصصی خارج از زندان محروم مانده است.\u003cbr/\u003e\u003cbr/\u003eبه گفته یک منبع مطلع، غضنفری با نارسایی قلبی، آسم و فشار خون بالا مواجه است و وضعیت جسمانی او نیازمند مراقبت پزشکی مناسب است. با این حال، تاکنون اقدام درمانی موثری متناسب با شرایط جسمی او صورت نگرفته است.\u003cbr/\u003e\u003cbr/\u003eخانواده این شهروند بهائی برای آزادی موقت او با سپردن وثیقه و فراهم شدن امکان درمان در خارج از زندان پیگیری کرده‌اند، اما این تلاش‌ها تاکنون نتیجه‌ای نداشته است. جلسه رسیدگی به اتهامات او نیز روز هفتم مرداد در شعبه ۱۴ دادگاه انقلاب تهران برگزار شده بود.\u003cbr/\u003e\u003cbr/\u003eآرتین غضنفری ۲۹ دی سال گذشته در منزل خود در تهران بازداشت شد و ماموران همزمان محل زندگی و کار او را مورد تفتیش قرار دادند. در جریان این اقدام، تعدادی از وسایل الکترونیکی، کتاب‌ها، تجهیزات حرفه‌ای و دیگر لوازم شخصی او نیز ضبط شد.\u003cbr/\u003e\u003cbr/\u003eدادبان تاکید می‌کند، تداوم بازداشت طولانی‌مدت یک متهم، بدون دسترسی موثر به وکیل و تعیین تکلیف قضایی، مغایر با اصول بنیادین دادرسی عادلانه و ناقض اصل ۳۲ و ۳۵ قانون اساسی و نیز مقررات آیین دادرسی کیفری درباره حق برخورداری از وکیل است.\u003cbr/\u003e\u003cbr/\u003eهمچنین، وضعیت جسمانی آرتین غضنفری مصداق بارز شرایط عدم تحمل کیفر موضوع ماده ۵۰۲ قانون آیین دادرسی کیفری است. بنا بر این ماده، هرگاه محکوم به مجازات (اعم از حبس و غیره) به بیماری جسمی یا روانی مبتلا باشد و اجرای مجازات سبب تشدید بیماری یا تاخیر در بهبودی شود، اجرای مجازات باید تا زمان بهبودی متوقف شود.\u003cbr/\u003e\u003cbr/\u003eمستقیم با وکیل در واتس‌اپ:\u003cbr/\u003e+905510332575\u003cbr/\u003e\u003cbr/\u003eبات دادبان \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Dadbanbot\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/Dadbanbot\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eایمیل \u003cbr/\u003esupport@dadban.info\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://dadban.info/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eوبسایت\u003c/a\u003e | \u003ca href=\"https://www.instagram.com/dadban2021/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eاینستاگرام\u003c/a\u003e | \u003ca href=\"https://twitter.com/dadban4\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eتوئیتر\u003c/a\u003e  | \u003ca href=\"http://youtube.com/@dadban2021\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eیوتیوب\u003c/a\u003e |\u003ca href=\"https://www.facebook.com/dadban2021?mibextid=ZbWKwL\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eفیس‌بوک\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Daadbaan2021\" target=\"_blank\"\u003e@Daadbaan2021\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%AF%D8%A7%D8%AF%D8%A8%D8%A7%D9%86\"\u003e#دادبان\u003c/a\u003e \u003ca href=\"?q=%23%D8%A2%D8%B1%D8%AA%DB%8C%D9%86_%D8%BA%D8%B6%D9%86%D9%81%D8%B1%DB%8C\"\u003e#آرتین_غضنفری\u003c/a\u003e",
+      "date": "2026-09-05T16:27:10Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 47,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "دادبان؛ مرکز مشاوره و آموزش حقوقی ویژه کنش‌گران",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/GJVCVAw15Vub2k3Yha1qdBGcuHvrGvSHaVxcLcffeZgJbiGxASQ62lZzZqbz7VfXIEpOt2Gxmt7gOU8m-Mbr673K7Rcxyho9vKaZJszJcpEQrDVLZpw53a7LyI_qYmm4ifGVVduI9-nomJz9Fg8k8f8yoZ2udb9Hc968jAZtQIC7Tdh_-f_PnBg2b0FOhNLiJv_P4mO-E1KiODykZ91NKfDTUs7rTxEs5qCbGopasuodQbHjWotE4s6N9w2LzYrQ2MlAytJ8PdP9mqeahFGkvWZXSdc8MvyCKgFydsc7HyFMLVKd0i10Td-Up2CqEDqMqKXcpWY-CIBsblX19cQLqQ.jpg"
         }
       ]
     }
