@@ -3,161 +3,17 @@
     "id": 0,
     "title": "Farsi VOA",
     "username": "farsivoa",
-    "photo_url": "https://cdn1.telesco.pe/file/eaV4tzoVNvlsYwHuYQ-ud7EHWmZ_oxezkBDXWU6AC_nQnHvDcNzt8JZZ2XMGIGyFfkiXY7P37bfJORtfQ1Gwau-vMhM1No8kU4tNGB7LO3dcEnTNeKqd3BeJaDTMOPvQ2xs4LiVUpC_srfpQtLikVmwQAy4-IVgMqE11MoHR67-471f37TF0lZUy-xKNledOM8ZhvTx1KqMmMKw0Tk3zB6btmA1kbvp5ieSVDCMvf0Ea4O7YJBy3v8aSuC07uehGm9k6K2zgUnmLKxHzQus0lHccW5IEHE1HGJ8G7Vn_xTY3dsnPu4XSqoRvo-IY_TflC6EwnKOSdJX2W4CDFggi8A.jpg",
+    "photo_url": "https://cdn1.telesco.pe/file/A3P8RZOswPlyM94vRf8a37olHjyOpaduA6W8XA0gtFNRdE1vVos5gTPKQO9eFnwQYCNGyZH0Q0v9cjTmLrfiyPvaKz88JKsB2HBMq8HN3iZHvRyBSE3jzzfpEL_Vln27HHwu95Fxp638SoobnCE1O4jX5aepNG_WCwLwW2R7BA7CRPriOLwoqTC96eyigGce-hAW057CovJIPn7iveUSaF2ZvXDTPyrB9surVQbBHKCLNhBBN4yKXWR0ChesYR4H4PpE5R_R1hfj_xL5Iof-J6cBjtmRKHH-lxNGwTPtv8cXIktYWVNcTKLA3btzbRfHliGz-8WMfNaf2KCQh1SXQg.jpg",
     "description": "تنها کانال رسمی بخش فارسی صدای آمريكا\nعكس، خبر و فيلم هاى خود را براى ما بفرستيد:\n@sendVOA"
   },
   "posts": [
-    {
-      "id": 229777,
-      "message": "صف برای دریافت بنزین در کرج در آستانه افزایش قیمت سوخت؛ سخنگوی دولت جمهوری اسلامی، یکشنبه شب ۱۵ شهریور اعلام کرد نرخ سوم بنزین از بامداد ۱۷ شهریور به ۱۰ هزار تومان خواهد رسید. افزایش تازه قیمت سوخت در شرایطی صورت می‌گیرد که دولت پرزیدنت ترامپ فشار اقتصادی بر جمهوری اسلامی را به‌شدت افزایش داده است.",
-      "date": "2026-09-07T17:50:21Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3110,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/G1Ymjd_I5XoIzyp17tMYCw_2cG1t_01ulPiC4RJhjFCHVloGfKW_2hifYvtvSoiM9Ih6FkWvRFwZLsHq2-1qdEUinE1XNouFMjMVhXZ9FtFLYdvOkmoqHHX0tYM3K2iHvvWTmXO5pXhOPFa5jE_W5JwQ3q6IpCZYPmCsuouJ0vzvIiJwaDHUi1l6XTp8Et3mc0stTTMVZoW7imifqIycnyN4p2kASnEErWtHlxG6pA1bAY8aQneUJhhTlZss-BkDo2tfQVB86qAOGroGDb69UKm0auDhQF2OEN8lF6TFw01u9HPCJhm6wGceAvpcXt6hGhUgjhiXoSgjbz9-RLCg2Q",
-          "width": 1920
-        }
-      ]
-    },
-    {
-      "id": 229778,
-      "message": "قصد اصلی حکومت ایجاد ابهام در قضیه هسته‌ای است. وضعیتی که نه رژیم به بمب می‌رسد و نه طرف مقابل مطمئن است که آنها توان ساخت بمب را ندارند. روح اللّٰه رحيم پور در «میدان».",
-      "date": "2026-09-07T17:57:38Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2880,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/G6HYxD9cE-CrdOypEwP9jgJj1N-yKhHP5XyjT2aklQB4JuJHMD93WfR9fQe6Hqovsh_jLgq4GWPDm8JCW30LTGLbc4AGhwx3yPO-mRXGrDkfVOw-hNNs4I2HZhavdiaxmajFKW1wGn9jtFySNMBvU0dqkn8NENP1YLYqGCN9NBUl2_pA2A4Qu4TmhSGfB_66P-A0ZWBsDiVjm_z9rHTezbqPqUySD8ZlArLzrSFhBq1LgkjOA3-6Roq5ekhwxoMA1MeU5Yr8jPUYcLWngcPKg1u4I9TqQTpjjpQqse02c4FJqGjSXYZzfT4juPQIxDIB66bT7GO_qYn6usnXuprtPA",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 229779,
-      "message": "ارتش اسرائیل اعلام کرد روز گذشته، دوشنبه، دو نیروی سازمان‌های تروریستی حماس و جهاد اسلامی فلسطین را در نوار غزه هدف‌گیری کرد.\u003cbr/\u003e\u003cbr/\u003e«صبحي حداد الهاشم البطریخی»، عضو جنبش جهاد اسلامی فلسطین، و «احمد فؤاد خلیل خلس»، عضو یگان نخبه در شاخه نظامی سازمان تروریستی حماس، که هر دو در کارگذاری بمب‌ها علیه نیروهای ارتش اسرائیل در منطقه مشارکت داشتند، در نوار غزه هدف‌گیری و حذف شدند.\u003cbr/\u003e\u003cbr/\u003eارتش اسرائیل تاکید کرد این دو در دوره اخیر طرح‌های تروریستی علیه نیروهای ارتش اسرائیل و شهروندان کشور اسرائیل را پیش می‌بردند و به‌صورت مستمر آتش‌بس را نقض می‌کردند.",
-      "date": "2026-09-07T18:07:47Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2840,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/PcxDDDV5TB0sYlTs3WRr_3AuUhR_M_mEEMae3L3nsgOIUpDac7twwwLuUEAoS3uABt5K1B9C5NcZ29F5H7APH2DrWU8zVVnsl8ZYVk4IgDTR71rvAVYFOTDAarXaLZrAfGg7ODAqQcxerebgPfXu3ocSHzfqpf4vfTiojC5wJbCQGqCeM37DndLVa5kmBH1KtHGnU729aJM-HEE-H1ToW9VrIqfuCnmk2o5UR0qVddgz9-MnDnbhBDCFYIuMEhLNCMysrpr-uXMHHOfMq-ZinZiqBhBktieEHNmBWoaLZwiNmoH2_1iA9RUZoXvup0cnGm5aiY4Ff3tF7pQml-dznw",
-          "width": 1920
-        }
-      ]
-    },
-    {
-      "id": 229780,
-      "message": "فرماندهی مرکزی ایالات متحده، سنتکام، روز دوشنبه ۱۶ شهریور تصاویری از تمرین شبانه با مهمات جنگی تفنگداران دریایی آمریکا بر عرشه ناو «یواس‌اس باکسر» منتشر کرد.\u003cbr/\u003e\u003cbr/\u003eبه گفته سنتکام، نیروهای حاضر در این تمرین از اعضای یازدهمین یگان اعزامی تفنگداران دریایی آمریکا هستند.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
-      "date": "2026-09-07T18:15:34Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2880,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/efeS_zrSe2i096YJrnzZfv8NNpPx4xlhR3wPo9VSocqG3wzgOTUkkqkSRjUEQe3xa_E0Qtk7d3oEcXV-RHaVYv38-_NO54565Deh-_D-fuSw0Pv5_4_gD03ehkiDsvcBTe04u-BMtWR3F1zGgRtc9iNx4CLh_EXYwbQeuBYeqzUBqDSpK-cdLe4QNChDs7wAFa1YBD-Wa4vkvKtKx8lasAWNyJtfnnNbOvJIc2ZKkneJGw0LDPXny752pcEvmPgkjmGN1lBfpCy06my8l_GXAON1OeUQZzVcsm6Kj-PC5lLi24qGKz--7oFA8JjkjVG-so2XgncNEA3jIqj_5owO8Q.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/qXBXy5jme8M9dEA8OuU1csFl62MgpjQz0pYefRaNPD4_TOQ4vAjeDr40W4DZQvSUywkHWDnMULkIlsNj4xAfqggKZqV_Rmeo6QoswBtCfzdeVLDVrpFdf6GwN4J278zHsFU57L0oFzgA7Jqbkjo0kTx-xNCzfI5ZlRItHk-7jijxZbnaSXdAoPFliuQh5k3a0mHdo9R-VPk6_jZC57ghsx5v7jEAg7AJxjjioniH3PnXWG3RBCXJLi_eMrdshBrWFKPw9KEpoUJvrvnHjYEsxbkQqLbbjuLW1XcyKfyGt63rVeBhAJa8Gq0jDa_WaNXw52P7EN02yvtkDf9SOEBIZw.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/VS2xzcxrLOR_bMYx1jRBXm5u_hUTxZn2lRYa-hi9iFjR3BQPCo29s1A3zQh_D0Bl5Scn3-y7IySQTRFYynqR5Dj0Vx9V-3v3e4MdMb74kR1SNcngZ7fWNWXM2eo6EJDTbGY0EEkIoyMOWhq1etXgqnSRKTg8MhG16sY8sKiw5n9D-9pQ8jDQ4hIy2cWkbe-9FC_F_BtK6LCPW__9qt_gj6FIhx3MAswdCPQKGke7jxYWWS-4fu87FxDg-6VRDtjpqPWZjQr05M6Ac3dasfAAv6Ifabu0AI_TtvYRjBJnQh8h0EElPIMHmCwSIcgakKblLp95_o5FQOK4ZMy72Xuu-A.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/IF94xZT7xgTHev4H5u7mWWxvRz_HzYxDB10XhQa0jVlkhDzEDUJRzuxzvrRa1w4tlrPqSsRu7W8kb5M0A-Iq6nrsBPNxLfAfnw-ehN2R7VTLR9Td-tJ5-8jWheVSIBxVc-T_UG5d-P7nnHXT9KNNw4OQuPIzAta80-gU3UH1Yic44aZ6pS88eAR8H6mzIOpzlWP-MoBDwCUu5Zh2Dy-DcExCbQWc2JWA8y77Blx11GA5ch4waTDbht4x6WQfCfHblW9NX0OXWKZ2kT92MY0-pxJLDJNQaf_C354lQAucuJqbVNeDy9ZN2XwBsZqVxWW8cRYVHiBKwlYuC2LfgEslag.jpg"
-        }
-      ]
-    },
-    {
-      "id": 229784,
-      "message": "گزارش برنامه تفسیر خبر: پشت پرده افزایش قیمت بنزین چه می‌گذرد؟",
-      "date": "2026-09-07T18:26:44Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2650,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/m2oqvtMADJjaYDTk2MsdAc-jfAXmQxPYHAwPQxWVCGiPIhh0qie5KQvbz6HTv39l03K30074tP1SCsgs0fH7wOQlBPuaqL9m_POg6fTEXSK6Edg7BJwPGKiKgpJS3A6zuM9EJD1yu4QeOBSfLl8WMXMAhRC2HH6WlY1KV7UmhGPwkD5gwHZD60mZo2y3IGg8gpTdOY42PmY61_cb9yDdx7fCRWhj6StqBDrF0YfLMtySA7vH56OZfiE4LiblAEK3AY1ia4PP35nMwgxc0kuR4YFu-zHOiWnSv0L3CdDLqZi50mWBFlZD50DtkUqVqnMXPzGfl2H0J6L77hHzFG3VfQ",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 229785,
-      "message": "پدر رضا ناصری، جوان کشته شده، ویدیویی از حضور بر آرامگاه پسرش منتشر کرده و می‌گوید: «نه می‌بخشم و نه فراموش می‌کنم. انتقام خون پاکش را می‌گیرم.»\u003cbr/\u003e\u003cbr/\u003eرضا ناصری، ۲۱ ساله، ۵ تیر ۱۴۰۴، با شلیک گلوله «نیروی بسیج» در خودروی خود در آبادان کشته شد.",
-      "date": "2026-09-07T18:34:38Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2620,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/YeY2DX9RmWAWEjCvDNqjq9E9RujJq-9eBF3_dSBmBSFWs00vmWRbwyvR5dnx76GixdxTP-VW2gl-ykqb7MeZAzAYbeWCk82Hej209MmsWZW8ovI7DAdHIMSvAVb8lyhnakPZNO9XPAQTDUr_oimob8BuITRwjvF7tiCmy0xVI4FitwBZdECnt8Q_C0rFFXV9Q99PFh3k7rLwfZXYBaisKHs2jy4lJQ6sEV1NTM3ws4lLZ1rTO7QE9ZgUqJWD4AOUEijUhrVXpYQBlNKNJhISJ-vUhK7RfO3mhbKbTVpPybtYI69T8H0P8GwCBHExQQ57DAsld4Sf-F14EdeH6SGmjw",
-          "width": 1920
-        }
-      ]
-    },
-    {
-      "id": 229786,
-      "message": "اختلاف نظر مهمانان میدان در مورد دلیل به نتیجه نرسیدن توافق هسته‌ای.",
-      "date": "2026-09-07T18:36:32Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2650,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/hNSJjL4ACGHrmzhyftuxasPxHWpOkMFMzaNYFAdE4-2aMAxkZse91eBdvnkS8odePZ7AUMM-fGzT71c7p5pC1LSgJnQ1c0xbGxZI0BGzM3udRox8Q_5lo0EuzQ4IpyW6mvTjlcfM4beXW7YM7RdqoniPViHHjEFxYALFaBnRhFIsDMDM77y5xRE8nTKOdaClXbVB1xEEgDyrdV8HcdTcxVmdr1KtwcrIyflNPFCgeO7EKnH0gDvK2ihKncG13lrc6qMeW7j-dVDP5To-TH4sDQLKALHfHSHX5VJHB2eptEFBe8qlMgZB0S7plA-UjZ6QoWpfA1PpoqEffOaVqBzHXA",
-          "width": 1280
-        }
-      ]
-    },
     {
       "id": 229787,
       "message": "عملیات «طرد اقتصادی» و اعمال شدیدترین فشارهای اقتصادی و سیاسی تاریخ بر جمهوری اسلامی",
       "date": "2026-09-07T18:47:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2300,
+      "views": 3340,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -176,7 +32,7 @@
       "date": "2026-09-07T18:50:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2310,
+      "views": 3440,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -195,7 +51,7 @@
       "date": "2026-09-07T18:55:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2150,
+      "views": 3310,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -214,7 +70,7 @@
       "date": "2026-09-07T19:00:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1940,
+      "views": 3070,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -233,7 +89,7 @@
       "date": "2026-09-07T19:10:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1740,
+      "views": 3020,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -245,7 +101,7 @@
       "date": "2026-09-07T19:14:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1740,
+      "views": 3110,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -257,7 +113,7 @@
       "date": "2026-09-07T19:20:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1710,
+      "views": 3370,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -269,7 +125,7 @@
       "date": "2026-09-07T19:24:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1550,
+      "views": 3440,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -288,7 +144,7 @@
       "date": "2026-09-07T19:31:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1330,
+      "views": 3480,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -307,11 +163,187 @@
       "date": "2026-09-07T19:54:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 360,
+      "views": 3350,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Farsi VOA"
+    },
+    {
+      "id": 229797,
+      "message": "ترس رژیم از جسارت، خلاقیت و مبارزه زنان به‌جاست؛ حضوری که نقطه عطف آن جنبش زن، زندگی، آزادی بود - گفت‌وگو با عطیه نیک‌نفس\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-09-07T20:31:29Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2760,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/VGkyVvP7dLHLebeafdXOCN_yF9_0JJQxfDhMSrNpHgsGi79Zlzht0b_EolHyjVyoguyq4YAzW36QncOAR4HS6Y2OZcD9w6c-o07El98hQUKcTu2VU_yNjWYorbtYtTjJ6UGG4-ftibWRl9_x24kDaKIpNQhCraMnmxUkD3nHI4JRHL6nQy66lKi8-Bn1Jaicz3LJ0GY5DdefyfOWvANcvcCODebMOR4hcy2Qu91rHLU_skxst1jNG4zGlGE2X_NCJHA1IsnuKUllGj3q0aaxg-XM7_dOf45xNHX2PpcIY3_lv5pAtXc2Y15B_n6dukZZ71DHqktzLx5jMENGh8rRtg",
+          "width": 640
+        }
+      ]
+    },
+    {
+      "id": 229798,
+      "message": "دستمزدها جلوتر از تورم؛ قدرت خرید آمریکایی‌ها افزایش یافت\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-09-07T20:41:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2700,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/oCqiYbXH--CApONpxtipoOUAtl9v68xiJSfw34U5jowIMqZKwDNMfpr8duZnFNvtWcPPpoPlj5_2Nhkctju9REGV_92MjgKr19TrjjKp5HAiBYbyX_wg5IIvvpmzOEOh_3jHQmu5xR6OdcXG47qKrUpvnzM80W8_woRoNuayMyVuw2bfOG7P07OAcUcwHMF2pkeQ3dxuz5tRPUvplNAvN0GeJ37u9v1DtOceZH2X1BwL14_5tfg4VESyXPnartcssjq6o4gs1NlcVIoziM06hAfJQfQazzkwTiogQ0Gj65PLSoesWgKRMnZGGtSULFNZo70INCpxTml1gHqoP5wn9A",
+          "width": 640
+        }
+      ]
+    },
+    {
+      "id": 229799,
+      "message": "افزایش نرخ بنزین برای سومین بار در سایه دلار ۲۲۰ هزار تومانی؛ نظرات کاربران شبکه‌های اجتماعی\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-09-07T20:56:46Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2160,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/Y-zsRdqlI67uouS6iu-TkBrxK9ICTBx0Yd_FrrPXCHvGqLt1MAD9eZ4SRgJZfnGc5QBmd0QFmVXSrxLOOIiJFJA9kZltW_gpvEvAYCOo8aQhe94ZuUgMX_Q_eFwEq0REPa7h89NkTARkKpjpB_Ei8ssKhavemK-CXFg4kGp9PsJ-NQjzoi2691tatX-pplStXmG0agYHXzgspyqUpe8mJYTe0YUqnpzVYinZ1tW7b4DSHsuSaAqgD4tnMZ9J9oeX6fVh8yRdXrEZRAnpd7HFk66LknpI4RThbtMKhzD5lwV1mbZqNn0VYD34HNfAJsGn6HDUYScx6kmbhIhE7FUuCg",
+          "width": 640
+        }
+      ]
+    },
+    {
+      "id": 229800,
+      "message": "ردپای اموال علی انصاری و مجتبی خامنه‌ای؛ از پنت‌هاوس‌های لندن تا هسن آلمان - گفت‌وگو با بهروز اسدی\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-09-07T21:32:25Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1320,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/njKOZWvnwq6_g0XkpQ-jBH7yi_ztbrco4C_4cZ3DkvR5LAYX2LqWEDIjuatR1_Gdj64dLSAPwBHTcZ25QlWUW6cln-XaNAiN0EV9LvOwvbaAOESizdg7UefKzyP46VbC3n0L8k9xO3OI8ejr1cULCZUD5UABdFcXRt9JLyFrTJr-XU2_4_5hSSxFs5e6fkYeff41Sp_zHS167UZu3wQsXo6h15qnaQQsbjhyBQTyXzo8IJ1Rkn0yRs8pMwOeS44CM4IxQNm3DEm5Qu9fLcXzqIdW5pEuIlj8RNvg_n4L1ugjZg2TF6kVlYFPJGnVTWz4XIZn_SUT0Y5tEouij08ScA",
+          "width": 640
+        }
+      ]
+    },
+    {
+      "id": 229801,
+      "message": "بازتاب تنش‌های نظامی با جمهوری اسلامی و تاثیر آن بر انتخابات میان‌دوره‌ای در رسانه‌های آمریکا\u003cbr/\u003e\u003ca href=\"https://t.me/FardiVOA\" target=\"_blank\"\u003e@FardiVOA\u003c/a\u003e",
+      "date": "2026-09-07T21:39:09Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1070,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/ltAPtLXu0X4Kys_lfMXFmax1Q1IA6tL7FgSrrAbtvScQmx0DasJG90cKswShLMun0inTP0rSXPCbX0tQZ-NsAqpH45E5uQEf3Q6nsGom6CRCzrF7B_LJi-_EP1sqrJLs4QVQVjZh_xTZJOlsePYtDs8fsigGzeUIAx0Jenczd6vMRAI31ueSZ_C4u_yvP8d9pdB5yXNrZLYWKZPw3BljMgtghPBFLLRK9lvdQXSsQ-gk2pzMwOfpZGHGCSBc4GLiuDGZZqTiYIoOlxZvH9xZvI9YePUJNDj43gBJy12m-Lp2bw2BgotldGEO97FECqvbwZnt5eUrBGYUPExxLY_KdA",
+          "width": 640
+        }
+      ]
+    },
+    {
+      "id": 229802,
+      "message": "همزمان با آغاز نشست شورای حکام آژانس بین‌المللی انرژی اتمی، رافائل گروسی، دبیرکل آژانس، بر ضرورت بازگشت به بازرسی‌های عادی توسط رژیم ایران تأکید کرد. این نشست در حالی برگزار می‌شود که گزارش‌ها از تلاش کشورهای غربی برای ارجاع دوباره پرونده هسته‌ای جمهوری اسلامی به شورای امنیت حکایت دارد.\u003cbr/\u003e\u003ca href=\"https://t.me/farsiVOA\" target=\"_blank\"\u003e@farsiVOA\u003c/a\u003e",
+      "date": "2026-09-07T21:47:17Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 870,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/j4hY3DzLKfhk6Gd7dUJJ8t4LzKqHZBBZTxBek_3zqA0agmGnE44Un-RWReuxksfZTY-DoffE_H_JPd04OS38qUDbkcuYhkAtRxSA-b3G0NZHE0FH3gtmTQiwbwBHpcihmTbAHk4guvwhR9-PDeNJaauZ9vVJTF3eN1jbIEY58qzABZOXeIh0-iUZAH9aLLRNK93jZ6IGEkQpGoQVf3uZpw7ZZcqrMrpPhtdJgLVC-fiHmYBAzEMMsSZ9K0xbSybRBAQ56BUogId_JU-cNnVG5_8xbZWOMRoomIuQFoenCY-yxDOE7pXTcCHO_KaRVTPvQlRZF9Kw3wtJ3-rqI6kbSg",
+          "width": 640
+        }
+      ]
+    },
+    {
+      "id": 229803,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eسنتکام مسیر ۹۴ کشتی تجاری را در جریان محاصره دریایی علیه جمهوری اسلامی تغییر داده است\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eستاد فرماندهی مرکزی آمریکا، سنتکام، روز دوشنبه اعلام کرد نیروهای آمریکایی تاکنون مسیر ۹۴ کشتی تجاری را در چارچوب اجرای موج دوم محاصره دریایی علیه جمهوری اسلامی تغییر داده‌اند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/8195203.html\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/8195203.html\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-09-07T21:49:18Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 839,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA"
+    },
+    {
+      "id": 229804,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eخبرنگار سی‌بی‌اس: کامران حکمتی، شهروند آمریکایی از زندان اوین آزاد شد اما همچنان ممنوع‌الخروج است\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eمارگارت برنان، خبرنگار شبکه خبری سی‌بی‌اس آمریکا، روز دوشنبه ‍‍۱۶ شهریور اعلام کرد کامران حکمتی، شهروند دوتابعیتی ایرانی-آمریکایی، سه روز پیش از زندان اوین آزاد شده است، اما همچنان اجازه خروج از ایران را ندارد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/8195205.html\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/8195205.html\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-09-07T22:03:55Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 520,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA"
+    },
+    {
+      "id": 229805,
+      "message": "محمد قاعدی: جمهوری اسلامی با اتهام به بازرسان آژانس سعی می کند از برنامه اتمی خود کارت بازی بسازد\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-09-07T22:10:21Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 295,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/tQfUiOQHvQ7ADG_2QQ1A8s0aAur2SsvrDrpOxg7y9KL1LWUeLPPub_rcd8HNXI48xTH5-XrG3_kG3oqYYNlLejxk-1Y9OaGyF2hTdu1qtp-dNTLJtZ9yTscqI9STJZyY94YEpidj-_hMO9FMLNifZHHaetQxxBClr2TMPAsEUq4qKLM686ivz0IwQXXAgAX6FikDxG87M7Vbt6MofvXHJf_CoRnLqFScKNPsygRiCHlgNHsKrdfZ4TOrolcsLIPsAoy57joZbLKL9SP7ZU1dULPzD7CYPOqZa0ipcNS4t8aul8Rk5AHdYMjadxsUm2OPQJhoyh0JtF2UiUbV4zkZSg",
+          "width": 640
+        }
+      ]
+    },
+    {
+      "id": 229806,
+      "message": "آنتونیو گوترش خواستار لغو فوری ممنوعیت کار زنان افغان در دفاتر سازمان ملل متحد شد\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-09-07T22:18:53Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/b6A3ablu11E6FSHa23dAWmxdSx9a2SnXgUZKyosDFr9qljG2t0murJBkKdI8-e1M86GbVAvm1tbTvYaoqN9SxNShCgmEk_uVIK5VC-2EPHgzedzzERLjkHAd1H8ML3tMVNb4WO8JHN2YCA04BOSBqYTMmKjHShp7Ls9PukbdUZGbBMIABdl_yoPZr5vbfRa3vvr8gmXHtiI7pATIcUOUX4VTHu0Lz71CRAumB6qJ2aAfWIS_n43OXEWUN-VB0h5lXNGi7gNn2FvAQvopjRx1ouD5uzK7s9iTHamPC5sOYV6Psmjt5yguRkTpMITazkPHbTDIMuWcHSIUzU7TcxgDkg",
+          "width": 640
+        }
+      ]
     }
   ],
   "last_updated": 0
