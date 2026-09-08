@@ -8,12 +8,58 @@
   },
   "posts": [
     {
+      "id": 20207,
+      "message": "",
+      "date": "2026-09-07T09:17:17Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 170,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "دادبان؛ مرکز مشاوره و آموزش حقوقی ویژه کنش‌گران",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/f0RRB76wX0uB09QCG3MkE67aw6wO9_WHk_qD7s26w2DDn6Pco-nhDqJ5rsFy_Z7DuZ_va6ycT7ZZQNMm9ibYTJ9oahn7bXg_n9ei0midna3CMtB_p3aMpMUcwusAzr4XzidAj0znmQ5hOfleYVxR-QDeRui2gwx19xjSPyqWFC-NGmjuNckH27d7qWIPrzH0TqxhGs4TDkN6NwN2SCgLAulx0KI9UFrGeJS7yCtI7v2cO9EmMbJk76bMzbKHz_4NyrpGdK1ma0nJpZVsTRoAEKiJMO_su1UWonqsLdu-1jsm1oFEGoj45JaQBgRBsC0Ec60A0RNtbtlD_0qVTL9H4A.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/CCMhLp7hrC4rkrto3-rPwD_n8V7rw2GwltNXMw-KkvnPm8-kn70mgh4ebm9N_Iozm5DccEdKOi20mud7uXUbDx6B_sVN2xzN9_Oa2lsqZ2tyxe2CWhjNmZX4X2S6zOnu7a3e5hY8C12PrWpvrM8kcwkRkMqgreUdhEyMp-w4erRAJMo7-ttD4OyTUL4RDtYu42yzP-ae_cabXnW0cMFUW10ejboK6r1psjN8pz0mQSk__DUd6KekLrYDtbuEoXYba10g0PRROrXABHTznbxTf5bDq9AidSkjrjmQH3_KLyViK-KfwqU5DYFZgIM7c79B3MAweaE8FttpuyNL-5hv0g.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/RKrasObv1ZHrkDirEMEULTRBdbdDdkQ8gVxWMD4kTiR6F8WW1tqvlkkewlwlMPHT_llEiJp4TQLIfyTmmlFGPzPYTiUAsRB3HqnfqmzKMiLStbpJqtKEWh4L_HyYp1TaD98eIdtFDHmmLEcpIr0pGKDwWjaPp-bgh09vH5u088435prMXRcaFm8rZANR3vL5xUy-in3onJYhUTOL___DG5GMLsExyHwnG_hN0dVPqCBeYs_OIg4W-ZjhKfxzOr0l4rW1OviSicCsTKVlF7TUAUN0O6lq4qVqYAVmJnR18UyTStTc3UtSuPbJE4i3v9k67fjGslpbl3D907PtM-nKyw.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/b8iYc0mGEGdxP5pv828dyEhBsy4tw-7x_5lgM4PrjsnXXWZVYvHgiWKICPE3Wd_lfUT_zPBiZr3_2Ha-xGxLCIu0n2ixB2uFvE23F0qnCt7EB8qjnPMLQ6y5XC-sCVfXKSZ9raYjxeGXec5bPEsTLIFGck-2JZYVzZqeJsXsfgRysy5JUTcFqb5zeMlZ9fV0XRM624k4Eg6fHJ7cbYvaSis9yUnpPRPW7K5N-d62TN2U-tnJMhQFhcEExYL7O0_W28shNIMSltk4bcMf-tJQa49xY7o1leplQDTyH_Lj0NuOoa_NMrbw7qrmzxaCM3-yPWh7ayWI4I-l8FTTNKs54w.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/rrSZLXYpvwhHc8ED4xsp8GOzL_6TXOcOLg0i6-k91bfjmo8JCKSCVqtmk2vjKsvH9fGU1YzeJ5e71BrxfDKeeBrFqjhXniSGDpUXJ3K2kCzqo4lUFF2ravlmIZGFwogkdgE4Xo5CEm2bCQYv0oGI0mDXG67cuddZa2WMIw2VvYSZKrgUHVmW_cdo1Gj9cEeeZmsxScoc9YKXH6ajMAXrslGDoqQwmlisTchBdyXv1arXjcFT0aSS4IzTitvF2BaaK1RLpiVpKuUXLR3VBYL7O1ztOhjv1L1syGznQ7z0TNUoJslG3Gx2JVFzE3N3dv4qw74MTV24kkaDh6wxIiGkjg.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/n-Ok6U4IDPaqlp4qBPPVdjbpzOJkTi-p8CbNJMlYO_vEWjL2axw-JYDn5Cp6R_-ozTkqXpZ2f3dVJBDeh9MlOExxU0ztEdOOCBTDJJq831uwb3bSsT-5NYUSWPRubpiL8Gs9eDrRfaaLIHWsWdhflQ-LVmyl1eKzvqBpz88qePfoNNKXFOHOmBsOSpuCZR_TA-poen9qSWFJG432lnC0-f2fE9u0rFYHHLvi2E1gMlDq9ErHQxHbbKeuK4Awc9huzWLoIQe3So6_xFxJvXYKpIFvkqmTuYMO8qzZgknEZRbqa5Gk7J03BZz_HHLOCRvLHGUl-StpfSS1qChgLjZV7Q.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/YrxKPfGagqS0rwHO_BTrQJD7fdtIpIHmo8Nd9Azkhzlgu4XnXJR6lt-lqEJUtJWV65aKegh0aGTgZTMnowah4kCSqwoZaZTR2pM_eLE_6hC1KdTm7sl0MRAc28XHw98VEnpIUpLsFkquDJu0yvgXNTBULfRk2Nw5Rtxwsvzy28ZF8ZiQJjSsSV97yGiHHbqd4b7kgCtD_Ac-zkG-bOdgkBPvit4NrQh2U2IpPlBUvUT3_F53x9ad0zeXTja0_OFdqB8MfUrPi9K0pzkY6TceWHHmY8he-xeoVRd8I1suVqFt39tkKvQC1oco19lGYPqoMjGSVlBlBTcMtPgH8Yx4Kg.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/I0fcbptMBPhrsCYBWhMh9pB2wNC71alHywKSXrqqMB-DEK9eZdeJLIu6dQQ3HInyS19k8Y0Rda1kqZxh3JCc7NUtqeECPS4FCxdobF9GJCMgKHHE-TXBiei7uWiyDmxy9Bo8i_UaxXFifHHHfxNubPsAWWY44N2BKLFk_2yX2DE3LnWRmb5lNE4tIQ9DSrCNGaDx3jrxcySMm6ivmOhFpETTVIo5cwXyE56C1p4ki3f7tgwABYo1A5jn0fHr_fxbhwcE893kRQvNisJEgyusBXh4rVuVgvuRWzrqqi70WUAghtWaIus-fyTe_NOAZp2jjuQqVMlvwO49mgTYwrP8LQ.jpg"
+        }
+      ]
+    },
+    {
       "id": 20212,
       "message": "⁨ \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29A96.png\u0026#39;)\"\u003e\u003cb\u003e⚖️\u003c/b\u003e\u003c/i\u003e وکالت زیر فشار؛ \u003cbr/\u003eوکیل حقوق بشری در ایران، خودش متهم بعدی است.\u003cbr/\u003e\u003cbr/\u003eوضعیت وکلای حقوق بشری در ایران در پرتو اصول اساسی سازمان ملل درباره نقش وکلا\u003cbr/\u003e\u003cbr/\u003eوکیل، یکی از مهم‌ترین ستون‌های تحقق عدالت و تضمین حق دفاع است. هیچ نظام قضایی عادلانه‌ای بدون حضور وکلایی مستقل که بتوانند آزادانه و بدون ترس از موکلان خود دفاع کنند، معنا پیدا نمی‌کند.\u003cbr/\u003e\u003cbr/\u003eبر اساس استانداردهای بین‌المللی، وکلا باید بتوانند وظایف حرفه‌ای خود را بدون تهدید، ارعاب، آزار، مداخله و فشار انجام دهند. آنها نباید به دلیل دفاع از موکلان یا بیان دیدگاه‌های حرفه‌ای خود مورد تعقیب و مجازات قرار گیرند.\u003cbr/\u003e\u003cbr/\u003eاما در ایران، استقلال حرفه وکالت و حق دسترسی شهروندان به وکیل مستقل، سال‌هاست با محدودیت‌ها و فشارهای گسترده روبه‌رو است.\u003cbr/\u003e\u003cbr/\u003eمحدود کردن حق انتخاب آزادانه وکیل، محروم کردن برخی متهمان از دسترسی مؤثر به وکیل مورد اعتمادشان، اعمال محدودیت بر فعالیت وکلای مستقل، فشارهای امنیتی و قضایی، تشکیل پرونده، بازداشت و صدور احکام علیه وکلا و تلاش برای محدود کردن استقلال نهاد وکالت، تنها بخشی از چالش‌هایی است که این حرفه در ایران با آن روبه‌روست.\u003cbr/\u003e\u003cbr/\u003eاین محدودیت‌ها تنها متوجه وکلا نیست؛ بلکه مستقیماً حق دفاع شهروندان و امکان برخورداری آنها از یک دادرسی عادلانه را نیز تحت تأثیر قرار می‌دهد.\u003cbr/\u003e\u003cbr/\u003eوقتی یک وکیل نتواند بدون نگرانی از پیامدهای امنیتی و قضایی از موکل خود دفاع کند، حق دفاع نیز محدود می‌شود. و هنگامی که شهروندان نتوانند آزادانه وکیل مورد اعتماد خود را انتخاب کنند، یکی از مهم‌ترین تضمین‌های دادرسی عادلانه از بین می‌رود.\u003cbr/\u003e\u003cbr/\u003eگزارش دادبان، با نگاهی به اصول و استانداردهای بین‌المللی مربوط به استقلال وکلا، وضعیت حرفه وکالت و وکلای حقوق بشری در ایران را بررسی می‌کند؛ و نشان می‌دهد که فشار بر وکلا چگونه می‌تواند به محدود شدن حق دفاع و تضعیف عدالت قضایی منجر شود.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e برای خواندن گزارش کامل و آشنایی با جزئیات بیشتر، به سایت دادبان مراجعه کنید:\u003cbr/\u003e\u003cbr/\u003eخواندن گزارش کامل در سایت دادبان\u003cbr/\u003e\u003cbr/\u003eلینک استوری نیز موجود خواهد بود. \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://dadban.info/iranian-human-rights-lawyers/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://dadban.info/iranian-human-rights-lawyers/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eمستقیم با وکیل در واتس‌اپ:\u003cbr/\u003e+905510332575\u003cbr/\u003e\u003cbr/\u003eبات دادبان \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Dadbanbot\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/Dadbanbot\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eایمیل \u003cbr/\u003esupport@dadban.info\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://dadban.info/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eوبسایت\u003c/a\u003e | \u003ca href=\"https://www.instagram.com/dadban2021/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eاینستاگرام\u003c/a\u003e | \u003ca href=\"https://twitter.com/dadban4\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eتوئیتر\u003c/a\u003e  | \u003ca href=\"http://youtube.com/@dadban2021\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eیوتیوب\u003c/a\u003e |\u003ca href=\"https://www.facebook.com/dadban2021?mibextid=ZbWKwL\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eفیس‌بوک\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Daadbaan2021\" target=\"_blank\"\u003e@Daadbaan2021\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%AF%D8%A7%D8%AF%D8%A8%D8%A7%D9%86\"\u003e#دادبان\u003c/a\u003e \u003ca href=\"?q=%23%D9%88%DA%A9%DB%8C%D9%84_%D8%AD%D9%82%D9%88%D9%82_%D8%A8%D8%B4%D8%B1%DB%8C\"\u003e#وکیل_حقوق_بشری\u003c/a\u003e⁩",
       "date": "2026-09-07T09:17:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 217,
+      "views": 220,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -62,58 +108,12 @@
       ]
     },
     {
-      "id": 20207,
-      "message": "",
-      "date": "2026-09-07T09:17:17Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 166,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "دادبان؛ مرکز مشاوره و آموزش حقوقی ویژه کنش‌گران",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/f0RRB76wX0uB09QCG3MkE67aw6wO9_WHk_qD7s26w2DDn6Pco-nhDqJ5rsFy_Z7DuZ_va6ycT7ZZQNMm9ibYTJ9oahn7bXg_n9ei0midna3CMtB_p3aMpMUcwusAzr4XzidAj0znmQ5hOfleYVxR-QDeRui2gwx19xjSPyqWFC-NGmjuNckH27d7qWIPrzH0TqxhGs4TDkN6NwN2SCgLAulx0KI9UFrGeJS7yCtI7v2cO9EmMbJk76bMzbKHz_4NyrpGdK1ma0nJpZVsTRoAEKiJMO_su1UWonqsLdu-1jsm1oFEGoj45JaQBgRBsC0Ec60A0RNtbtlD_0qVTL9H4A.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/CCMhLp7hrC4rkrto3-rPwD_n8V7rw2GwltNXMw-KkvnPm8-kn70mgh4ebm9N_Iozm5DccEdKOi20mud7uXUbDx6B_sVN2xzN9_Oa2lsqZ2tyxe2CWhjNmZX4X2S6zOnu7a3e5hY8C12PrWpvrM8kcwkRkMqgreUdhEyMp-w4erRAJMo7-ttD4OyTUL4RDtYu42yzP-ae_cabXnW0cMFUW10ejboK6r1psjN8pz0mQSk__DUd6KekLrYDtbuEoXYba10g0PRROrXABHTznbxTf5bDq9AidSkjrjmQH3_KLyViK-KfwqU5DYFZgIM7c79B3MAweaE8FttpuyNL-5hv0g.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/RKrasObv1ZHrkDirEMEULTRBdbdDdkQ8gVxWMD4kTiR6F8WW1tqvlkkewlwlMPHT_llEiJp4TQLIfyTmmlFGPzPYTiUAsRB3HqnfqmzKMiLStbpJqtKEWh4L_HyYp1TaD98eIdtFDHmmLEcpIr0pGKDwWjaPp-bgh09vH5u088435prMXRcaFm8rZANR3vL5xUy-in3onJYhUTOL___DG5GMLsExyHwnG_hN0dVPqCBeYs_OIg4W-ZjhKfxzOr0l4rW1OviSicCsTKVlF7TUAUN0O6lq4qVqYAVmJnR18UyTStTc3UtSuPbJE4i3v9k67fjGslpbl3D907PtM-nKyw.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/b8iYc0mGEGdxP5pv828dyEhBsy4tw-7x_5lgM4PrjsnXXWZVYvHgiWKICPE3Wd_lfUT_zPBiZr3_2Ha-xGxLCIu0n2ixB2uFvE23F0qnCt7EB8qjnPMLQ6y5XC-sCVfXKSZ9raYjxeGXec5bPEsTLIFGck-2JZYVzZqeJsXsfgRysy5JUTcFqb5zeMlZ9fV0XRM624k4Eg6fHJ7cbYvaSis9yUnpPRPW7K5N-d62TN2U-tnJMhQFhcEExYL7O0_W28shNIMSltk4bcMf-tJQa49xY7o1leplQDTyH_Lj0NuOoa_NMrbw7qrmzxaCM3-yPWh7ayWI4I-l8FTTNKs54w.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/rrSZLXYpvwhHc8ED4xsp8GOzL_6TXOcOLg0i6-k91bfjmo8JCKSCVqtmk2vjKsvH9fGU1YzeJ5e71BrxfDKeeBrFqjhXniSGDpUXJ3K2kCzqo4lUFF2ravlmIZGFwogkdgE4Xo5CEm2bCQYv0oGI0mDXG67cuddZa2WMIw2VvYSZKrgUHVmW_cdo1Gj9cEeeZmsxScoc9YKXH6ajMAXrslGDoqQwmlisTchBdyXv1arXjcFT0aSS4IzTitvF2BaaK1RLpiVpKuUXLR3VBYL7O1ztOhjv1L1syGznQ7z0TNUoJslG3Gx2JVFzE3N3dv4qw74MTV24kkaDh6wxIiGkjg.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/n-Ok6U4IDPaqlp4qBPPVdjbpzOJkTi-p8CbNJMlYO_vEWjL2axw-JYDn5Cp6R_-ozTkqXpZ2f3dVJBDeh9MlOExxU0ztEdOOCBTDJJq831uwb3bSsT-5NYUSWPRubpiL8Gs9eDrRfaaLIHWsWdhflQ-LVmyl1eKzvqBpz88qePfoNNKXFOHOmBsOSpuCZR_TA-poen9qSWFJG432lnC0-f2fE9u0rFYHHLvi2E1gMlDq9ErHQxHbbKeuK4Awc9huzWLoIQe3So6_xFxJvXYKpIFvkqmTuYMO8qzZgknEZRbqa5Gk7J03BZz_HHLOCRvLHGUl-StpfSS1qChgLjZV7Q.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/YrxKPfGagqS0rwHO_BTrQJD7fdtIpIHmo8Nd9Azkhzlgu4XnXJR6lt-lqEJUtJWV65aKegh0aGTgZTMnowah4kCSqwoZaZTR2pM_eLE_6hC1KdTm7sl0MRAc28XHw98VEnpIUpLsFkquDJu0yvgXNTBULfRk2Nw5Rtxwsvzy28ZF8ZiQJjSsSV97yGiHHbqd4b7kgCtD_Ac-zkG-bOdgkBPvit4NrQh2U2IpPlBUvUT3_F53x9ad0zeXTja0_OFdqB8MfUrPi9K0pzkY6TceWHHmY8he-xeoVRd8I1suVqFt39tkKvQC1oco19lGYPqoMjGSVlBlBTcMtPgH8Yx4Kg.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/I0fcbptMBPhrsCYBWhMh9pB2wNC71alHywKSXrqqMB-DEK9eZdeJLIu6dQQ3HInyS19k8Y0Rda1kqZxh3JCc7NUtqeECPS4FCxdobF9GJCMgKHHE-TXBiei7uWiyDmxy9Bo8i_UaxXFifHHHfxNubPsAWWY44N2BKLFk_2yX2DE3LnWRmb5lNE4tIQ9DSrCNGaDx3jrxcySMm6ivmOhFpETTVIo5cwXyE56C1p4ki3f7tgwABYo1A5jn0fHr_fxbhwcE893kRQvNisJEgyusBXh4rVuVgvuRWzrqqi70WUAghtWaIus-fyTe_NOAZp2jjuQqVMlvwO49mgTYwrP8LQ.jpg"
-        }
-      ]
-    },
-    {
       "id": 20226,
       "message": "شروط ضمن عقد را بدون مشورت حقوقی امضا نکنید؛ یک عبارت می‌تواند سرنوشت حقوق مالی را تغییر دهد\u003cbr/\u003e\u003cbr/\u003eوکیل پرند قره‌داغی، با انتشار یک استوری به مساله اهمیت استفاده از وکیل و مشاوره حقوقی پیش از تنظیم و امضای سند شروط ضمن عقد ازدواج پرداخته است.\u003cbr/\u003e\u003cbr/\u003eتنظیم شروط ضمن عقد ازدواج، به‌ویژه درباره وکالت در طلاق، موضوعی نیست که بتوان صرفا با استفاده از یک متن آماده یا نمونه‌های منتشرشده در فضای مجازی انجام داد. انتخاب نادرست واژه‌ها یا تعیین ناقص حدود اختیارات می‌تواند آثار حقوقی مهم و گاه پیش‌بینی‌نشده‌ای برای زوجین ایجاد کند.\u003cbr/\u003e\u003cbr/\u003eبرای نمونه، در برخی اسناد وکالت در طلاق ممکن است اختیار طلاق به بخشیدن مهریه محدود نشود و متن، اختیار بذل «تمامی حقوق مالی قابل اعمال» را نیز در بر گیرد. چنین عباراتی می‌تواند دامنه‌ای بسیار گسترده‌تر از تصور فرد هنگام امضای سند داشته باشد و حقوق مالی دیگری را نیز تحت تاثیر قرار دهد.\u003cbr/\u003e\u003cbr/\u003eهمچنین باید به حدود اختیارات وکیل، امکان یا عدم امکان عزل او، حق توکیل به غیر و نحوه اعمال وکالت توجه ویژه داشت. درج عباراتی مانند «وکالت بلاعزل» یا اعطای اختیار گسترده بدون شناخت آثار حقوقی آن، ممکن است بعدا امکان تغییر تصمیم یا کنترل نحوه استفاده از وکالت را بسیار محدود کند.\u003cbr/\u003e\u003cbr/\u003eاز این رو، حتی اگر دفترخانه متن سند را تنظیم کرده باشد، نباید تصور کرد که متن لزوما متناسب با خواسته‌ها و منافع حقوقی هر دو طرف تنظیم شده است. وظیفه تنظیم و ثبت سند با ارایه مشاوره حقوقی مستقل و بررسی پیامدهای تک‌تک شروط برای هر یک از زوجین یکسان نیست.\u003cbr/\u003e\u003cbr/\u003eبنابراین پیش از امضای شروط ضمن عقد یا تنظیم وکالت‌نامه‌هایی مانند وکالت در طلاق، بهتر است متن نهایی توسط وکیل بررسی شود یا دست‌کم درباره حدود و پیامدهای حقوقی آن مشورت تخصصی صورت گیرد. چند کلمه در یک سند رسمی می‌تواند در آینده بر مهریه، سایر حقوق مالی، اختیار طلاق و نحوه پیگیری حقوق طرفین اثر تعیین‌کننده بگذارد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Daadbaan2021\" target=\"_blank\"\u003e@Daadbaan2021\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%AF%D8%A7%D8%AF%D8%A8%D8%A7%D9%86\"\u003e#دادبان\u003c/a\u003e \u003ca href=\"?q=%23%D8%B9%D9%82%D8%AF\"\u003e#عقد\u003c/a\u003e \u003ca href=\"?q=%23%D8%B7%D9%84%D8%A7%D9%82\"\u003e#طلاق\u003c/a\u003e",
       "date": "2026-09-07T13:12:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 201,
+      "views": 205,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -131,7 +131,7 @@
       "date": "2026-09-07T15:34:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 206,
+      "views": 208,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -149,7 +149,7 @@
       "date": "2026-09-07T17:22:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 212,
+      "views": 216,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -167,7 +167,7 @@
       "date": "2026-09-07T17:54:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 246,
+      "views": 252,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -185,7 +185,7 @@
       "date": "2026-09-07T22:14:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 216,
+      "views": 222,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -204,7 +204,7 @@
       "date": "2026-09-08T07:23:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 156,
+      "views": 163,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -222,7 +222,7 @@
       "date": "2026-09-08T08:16:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 163,
+      "views": 170,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -240,7 +240,7 @@
       "date": "2026-09-08T09:42:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 167,
+      "views": 177,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -258,7 +258,7 @@
       "date": "2026-09-08T11:56:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 124,
+      "views": 139,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -276,7 +276,7 @@
       "date": "2026-09-08T11:58:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 124,
+      "views": 140,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -294,7 +294,7 @@
       "date": "2026-09-08T12:28:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 123,
+      "views": 138,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -312,7 +312,7 @@
       "date": "2026-09-08T13:33:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 104,
+      "views": 124,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -331,7 +331,7 @@
       "date": "2026-09-08T14:43:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 89,
+      "views": 114,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -349,7 +349,7 @@
       "date": "2026-09-08T15:36:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 80,
+      "views": 111,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -367,7 +367,7 @@
       "date": "2026-09-08T16:19:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 71,
+      "views": 120,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -376,6 +376,24 @@
         {
           "type": "photo",
           "url": "https://cdn4.telesco.pe/file/Y2l1ioMjxi-fOzB0xcIQBd6jsrfmo3SN5W0AWn9YVEHAjIxw5r9KGvCDShWjun-GCMEL0R8plDprGphN8MpW1UvAMJzFkZD6a1YR4wNw4gUVC2RXVn7CbUSwd_ZnuE7Yq0gb9v6LWpvd9tp_NNb9udH2Sp0lRxFNFGbdAliB5MODpKhuRy9tqHwUSch_yyY-Nvm0mZ1qcBHzhLCI-Iup-KXKRFFeIfrBZFAR2D55Um8nvZFlfui6_TgsTKErp0zV8fip0SztOLQuRNum3W9pddtiSLN-nlvryOR5niZpuAYKSY2aCjoEPbkZ5V-O27sZcPofSVl_BBjg-dEP9_FPsg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 20242,
+      "message": "محرومیت از تحصیل و اخراج رضا نیاپرست، دانشجوی ارشد دانشگاه شهید بهشتی\u003cbr/\u003e\u003cbr/\u003eرضا نیاپرست، دانشجوی کارشناسی ارشد رشته تاریخ دانشگاه شهید بهشتی، با رای بدوی کمیته انضباطی این دانشگاه با دو ترم محرومیت از تحصیل و اخراج از دانشگاه مواجه شده است. این حکم روز یکشنبه ۱۵ شهریور صادر شده است.\u003cbr/\u003e\u003cbr/\u003eبه گزارش دانشجویان متحد، کمیته انضباطی دانشگاه اتهاماتی از جمله «ایجاد بلوا و آشوب در محیط دانشگاه» و «توهین به شعائر اسلامی یا ملی» را علیه این دانشجو مطرح کرده است. جزییات رفتارهایی که مبنای این اتهامات و صدور حکم قرار گرفته‌اند، در گزارش منتشرشده مشخص نشده است.\u003cbr/\u003e\u003cbr/\u003eرضا نیاپرست در مقطع کارشناسی ارشد رشته تاریخ دانشگاه شهید بهشتی تحصیل می‌کند. اجرای چنین مجازاتی می‌تواند روند تحصیلات دانشگاهی او را متوقف کرده و ادامه مسیر آموزشی‌اش را با موانع جدی روبه‌رو کند.\u003cbr/\u003e\u003cbr/\u003eحکم صادرشده بدوی است و در چارچوب مقررات انضباطی دانشگاه، امکان اعتراض و بررسی مجدد آن اهمیت ویژه‌ای دارد. به‌ویژه مجازات‌هایی مانند محرومیت از تحصیل و اخراج، به دلیل آثار سنگین و بلندمدت بر آینده تحصیلی دانشجو، مستلزم رعایت دقیق حق دفاع و تناسب میان تخلف و مجازات است.\u003cbr/\u003e\u003cbr/\u003eدادبان تاکید می‌کند، برخورداری از آموزش و ادامه تحصیل از حقوق اساسی افراد است و اصل ۳۰ قانون اساسی نیز دولت را مکلف به فراهم کردن زمینه آموزش عالی تا سرحد خودکفایی کشور می‌کند. محروم‌کردن دانشجو از این حق بر خلاف اصول ابتدایی حقوق شهروندی است و مجازات انضباطی نباید به ابزاری برای محدودکردن حق تحصیل تبدیل شود.\u003cbr/\u003e\u003cbr/\u003eتماس مستقیم با وکیل در واتس‌اپ:\u003cbr/\u003e+905510332575\u003cbr/\u003e\u003cbr/\u003eبات دادبان \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Dadbanbot\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/Dadbanbot\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eایمیل \u003cbr/\u003esupport@dadban.info\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://dadban.info/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eوبسایت\u003c/a\u003e | \u003ca href=\"https://www.instagram.com/dadban2021/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eاینستاگرام\u003c/a\u003e | \u003ca href=\"https://twitter.com/dadban4\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eتوئیتر\u003c/a\u003e  | \u003ca href=\"http://youtube.com/@dadban2021\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eیوتیوب\u003c/a\u003e |\u003ca href=\"https://www.facebook.com/dadban2021?mibextid=ZbWKwL\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eفیس‌بوک\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Daadbaan2021\" target=\"_blank\"\u003e@Daadbaan2021\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%B1%D8%B6%D8%A7_%D9%86%DB%8C%D8%A7%D9%BE%D8%B1%D8%B3%D8%AA\"\u003e#رضا_نیاپرست\u003c/a\u003e \u003ca href=\"?q=%23%D8%AF%D8%A7%D8%AF%D8%A8%D8%A7%D9%86\"\u003e#دادبان\u003c/a\u003e",
+      "date": "2026-09-08T19:06:16Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 72,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "دادبان؛ مرکز مشاوره و آموزش حقوقی ویژه کنش‌گران",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/eqywfqtuB7--E4h8-gxyd13m_ZpfRCk6RcSrUwDB4OT9jKPqzSf1cDh8IdnuAdx1sWJSDDDogH3v-T_8Pq-5ARrAwk_QOYQW6E9jkbHAQ-PpreGXoebUMya_kbMVsL9ekRAD9CpFOq3_GHqVCb3SssYmU4WIduShKyTEJuHnmF1vnA1mrBKUzkM3x0n528ie0ll7letXtXgmnSgRMLeOBRCag3Ph8XeV-BP_m1_SIgCjQskCYEaMZrI9GWyqVFz4vIVUKj4oF3KkmX_WUP2fpo-eZSfGcfsRpnJcDiln4dfYaZvCeqk3OIPpH00W7vQFS_XQJBu8Q9jpRy-kow2pJw.jpg"
         }
       ]
     }
