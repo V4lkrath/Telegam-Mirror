@@ -8,66 +8,12 @@
   },
   "posts": [
     {
-      "id": 20205,
-      "message": "",
-      "date": "2026-09-07T09:17:17Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 152,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "دادبان؛ مرکز مشاوره و آموزش حقوقی ویژه کنش‌گران",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Wfc0Bq_CEc_61pf06ePyWVEBSt2QGDCriT4gOnGizKvnPGjUmAf_8_6Z2NIpmYj98Y2zAvh0K-jYXPC52xbUkeeoHB5xnVpy53gz8mKWnYWFnamE6nF5FfjPMPgwTDaaSCX7cVBEeVPbuE6WhW053pQNDUY3Y_IydlqGcKIzDlLxsuxN5ZMZnM4caKPQghanlVQpenwNJasD0bXjPauVoxGTaAGZVBnw5-ResGV8poJy1xCDPeojdJXG80NUgmUi-afzhMtEZV26V4xQHgQJ7nUWusw9jHifM4COkia9mKFjJDCVCh4gn04mnONapb_uqGKDwk86V2S26mCDD2ts6g.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/XYWuPL4nkpJ8XjadaILBw5qdtVVQd2757Y-a2850l2RYEiYflnw9moH4I4b-gX38O3DD8iTUxqYo0eppryd0BL3ljleT94WlWMW8DWCKenHpe99AIxvtAU4wLIqP14Fy0DHHrjNLM3_HFwFKaMdPM-Nf-05B_TNXow126ydbWcYE4MfEIbQGHk0sz5UEPPwFlLGG7pGTzvAOB3zbzQKAESkecvdqs2MYF7V8fYoFEI7x7Ge6jKVKCBog2TEYi-WjrPJ2kGB5xf7sb9WEB-j2Jlca3aDjFuSRC7VVbV7Wm7GrT6oVa4NxjP2WMUuTiEqLBE5q1yjlBv0nlJVneRrW1Q.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/nJ32ZiRZX1T8hiNQIX3TQRyhQa_Ptm-ENw7dhDmHTpr4csqVvcykJhByBnPxYm4Lc_BOOa6U6FuFxD-IuFG6KjWyVW5sXIa_mho3YVsatY-MEY2gLjbx4B0HOnPQuBmazUvu3M0Gsn_nKbwbTqwlWtTKgJcWpQRiSu3ToQoHYm2IQTlKjMEzRGvvtg5fASTlIAanjfsSYZtbPDNpbzuhQOoYaxuwunkzEU8NEUCwzHjMDM7fpJzo2ezjMABR88qFaGhldB2VhfwC4uFXiM3OuSM4IuykN8GTiPyJ5Q5cIEMCsfSd5HynIhDknzten0bLfcUrbr21K-z8Ms5-IJl8tQ.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/H9WUs4xX0YKy8ayPXYGOUQrtpFNwzSCaX1WnkI8mnnihOybjslmWKtyqjiJdMhkKk2ITCxSSVnkahs-zu16xl_qmi_EN1d5-sTsMCihPK9k6ZkKNN5BpybqG61bRz4ajU3Op7GPP2iqk2Z-BvxRoIEssx4qjVkZqw2Qizg18B1XfjApOdY3O-y42a9TPKO6aMIDe_iUudEgbwHhYKpbvUq2H_qnmQa94UAStwvxyDMboFMWB4BuwnI9Bd886pi6D_cDhfDF4_BmCC_t5EAXqfqST58mH1TzbGOOcXcbHhrLHqD1Yj7K4eTeQFENU2V2GjOtN7te_lc-HQ8OrUDclAA.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/kdz1-kzCe6kab2w3x5-tIR-Y15uCFrhZCt-1HvHP10gtdSt5QNu1gEfXy6-oAliF4GkGuzggMtiwnyasCe08_PT_r-i0vKh8huAVKkjNVcIFm8Xw7SvsusCyGTkAQheFS7JxSt2wl8lvcweJTForTW8qB6S8fP3b_wFOZ45P10HKvKXwSLLTxt1Qjuaw1aPWAx7LwYK1fN80TuHEzpJPJm4LioOsGlerjKM_h6QuZ3JoCa02mkebcHhkMqDHZnNa_5fSwJXZddORxUSdyZMIDFsq4fj3ApDbGM20_E7T9Lw3d07aZ5soD-lfT3wdXWus2zcmi5e1GmuiKKR9U2Pehg.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/scFctrnnrj1GIrpcikFjkRCmQdXXlRRUCInEkkxqJOyhlUhNANQz10-Zhd9kZCBr4r_2r8lm_5gTaWsjRAS6-c3VpmjbtIBIyWcZk3QDLB4qNcwYALBlFlfbIdlatophMlaq3uGs2tK2ENef7JEi-JNXR56MW1mAUFkaIfGIC7wh4XazwCqHkYquCwKdF4xzWS5tIiJpRNHJyoqaOAnLdQVNMhM3TJBPiF1jd-5VZ4iP6WEDZXoitLOCU0aVZCeA3tH67Nvf8lgTlM76lpUGy5FFr2z6Wl_0WjqQcLylM4iZycSoPHRDksd8SSaB-3RUPBZFkiaB7yai7iH9dm0WIw.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Uy4ylgP4DYyerkZVmuvk9fa8iuYtABAipvacOaCQ9l-wYw6QFjulziEATMj6WLz0c5eI6qkj0CmWGCjTTIXLTEVNyThbJV6DKZT5caJZg9nxzYIR7WczY5Sq-aqF9xKTp3H9xq6heVGq0aysIxehp9jIlp5rzWlK0L3Vts7KxxP1mYAXAR4aHjJ_6bFc8rYZMafmfv2By1jUT1UBoK20DpFvjhKR-UGhaDjx6dtvYkONdBXwQ6jQlecO0nb7CB3Kr_TdLVyPb6FWZbMpszjVisem6q_hV9wGqmdI5KMi8EJU2T5r1LHF_de5XmmJhor9qbo9XNOrxs2e7m0L7bZ2hg.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/i6EnZsRSccnWsXMPU6gYNaQ_giXh-vDzaRp6M5HtDluY7QDI6VU6z6mcBqufDdpz6kpfIE3DPYv5VgSURdtEvhk603M7w1kij8kC4O6NzjprnaNa6F8xXvZulNfLRG_tgb7nIS7MhRlGGUQd0okFT_81kol0mBM_8RXoxXE_D9ZE1f8ZdwRdsQvKwyHMk9F03IllPnAXgoYIDCwvNbvpgk-8wKSFyENVZKiF08BlPifKr2h33r_wL581ZstyOYOxky4jOjyYf5hLX0OwVk6SqYM8FB6BRVZer0xWCcO-7bBD6dBepPNlrQ23vQ1PkYnPsFEmMDJtb1DuWYtMvoibCg.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/NCI2E9OUq2HKnHGmrLg-aA7hSNbdmCiSKHiwZ5ZMHv_StfDCiOYmtZRIxmCiGVijHsRW4uVlcBY4ac_bRrgBrIuoswdqQtgLs8GU-sbt1xn5sTaKqjE60m4HiXN7R6ra3Hc0JpUeN9u_TunsBJUDt-aES9JHnm0wUshns0dsdGZaxpXfTkJc8mApPWk5XMjdegSDF_AdhuDQx1uc02Q39z7MovTJE5kqsmOnAk9oQjsgG3NhtvUQJr5F55jnAIbCmCpCQTrIgGxzcXI64m5cG0ylXZOnJVijhe23zJG-U2hx8FZLuaXQ5L7_TcjaHjgt9iW4SCiV2kRbydYODFJl3w.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/gNyZCxWxvfXqbLY7XX0T30XMDWE0g2eB8WY1SiC7D9FGywegx1kVDolq91vDF3iwFHdw78NbbRR7_L_hAJJtSec_FIlzpFLa2JquGyhpdw--IkjbzbPLhmJnK6Yg9220Aax8gFFqc_r3e4qabVBDKw1CMJSQNfYDER2mUhHaV3ZpAEB934v2xFeVQfJT6LwyTJu3XEnI-n693L2TK5l9O06OMGvIq76kOwflfA7ZoNf46FTovnkdJWPi_lzz7fGcD-lfDgbUp471lW2tnxOHU-xLgvS5M2ViBFTXELChrkrq7lduW0_3jjXxDdpE9egP_LsPkQeMxFmz5IXZsI8zIA.jpg"
-        }
-      ]
-    },
-    {
       "id": 20212,
       "message": "⁨ \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29A96.png\u0026#39;)\"\u003e\u003cb\u003e⚖️\u003c/b\u003e\u003c/i\u003e وکالت زیر فشار؛ \u003cbr/\u003eوکیل حقوق بشری در ایران، خودش متهم بعدی است.\u003cbr/\u003e\u003cbr/\u003eوضعیت وکلای حقوق بشری در ایران در پرتو اصول اساسی سازمان ملل درباره نقش وکلا\u003cbr/\u003e\u003cbr/\u003eوکیل، یکی از مهم‌ترین ستون‌های تحقق عدالت و تضمین حق دفاع است. هیچ نظام قضایی عادلانه‌ای بدون حضور وکلایی مستقل که بتوانند آزادانه و بدون ترس از موکلان خود دفاع کنند، معنا پیدا نمی‌کند.\u003cbr/\u003e\u003cbr/\u003eبر اساس استانداردهای بین‌المللی، وکلا باید بتوانند وظایف حرفه‌ای خود را بدون تهدید، ارعاب، آزار، مداخله و فشار انجام دهند. آنها نباید به دلیل دفاع از موکلان یا بیان دیدگاه‌های حرفه‌ای خود مورد تعقیب و مجازات قرار گیرند.\u003cbr/\u003e\u003cbr/\u003eاما در ایران، استقلال حرفه وکالت و حق دسترسی شهروندان به وکیل مستقل، سال‌هاست با محدودیت‌ها و فشارهای گسترده روبه‌رو است.\u003cbr/\u003e\u003cbr/\u003eمحدود کردن حق انتخاب آزادانه وکیل، محروم کردن برخی متهمان از دسترسی مؤثر به وکیل مورد اعتمادشان، اعمال محدودیت بر فعالیت وکلای مستقل، فشارهای امنیتی و قضایی، تشکیل پرونده، بازداشت و صدور احکام علیه وکلا و تلاش برای محدود کردن استقلال نهاد وکالت، تنها بخشی از چالش‌هایی است که این حرفه در ایران با آن روبه‌روست.\u003cbr/\u003e\u003cbr/\u003eاین محدودیت‌ها تنها متوجه وکلا نیست؛ بلکه مستقیماً حق دفاع شهروندان و امکان برخورداری آنها از یک دادرسی عادلانه را نیز تحت تأثیر قرار می‌دهد.\u003cbr/\u003e\u003cbr/\u003eوقتی یک وکیل نتواند بدون نگرانی از پیامدهای امنیتی و قضایی از موکل خود دفاع کند، حق دفاع نیز محدود می‌شود. و هنگامی که شهروندان نتوانند آزادانه وکیل مورد اعتماد خود را انتخاب کنند، یکی از مهم‌ترین تضمین‌های دادرسی عادلانه از بین می‌رود.\u003cbr/\u003e\u003cbr/\u003eگزارش دادبان، با نگاهی به اصول و استانداردهای بین‌المللی مربوط به استقلال وکلا، وضعیت حرفه وکالت و وکلای حقوق بشری در ایران را بررسی می‌کند؛ و نشان می‌دهد که فشار بر وکلا چگونه می‌تواند به محدود شدن حق دفاع و تضعیف عدالت قضایی منجر شود.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e برای خواندن گزارش کامل و آشنایی با جزئیات بیشتر، به سایت دادبان مراجعه کنید:\u003cbr/\u003e\u003cbr/\u003eخواندن گزارش کامل در سایت دادبان\u003cbr/\u003e\u003cbr/\u003eلینک استوری نیز موجود خواهد بود. \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://dadban.info/iranian-human-rights-lawyers/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://dadban.info/iranian-human-rights-lawyers/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eمستقیم با وکیل در واتس‌اپ:\u003cbr/\u003e+905510332575\u003cbr/\u003e\u003cbr/\u003eبات دادبان \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Dadbanbot\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/Dadbanbot\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eایمیل \u003cbr/\u003esupport@dadban.info\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://dadban.info/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eوبسایت\u003c/a\u003e | \u003ca href=\"https://www.instagram.com/dadban2021/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eاینستاگرام\u003c/a\u003e | \u003ca href=\"https://twitter.com/dadban4\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eتوئیتر\u003c/a\u003e  | \u003ca href=\"http://youtube.com/@dadban2021\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eیوتیوب\u003c/a\u003e |\u003ca href=\"https://www.facebook.com/dadban2021?mibextid=ZbWKwL\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eفیس‌بوک\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Daadbaan2021\" target=\"_blank\"\u003e@Daadbaan2021\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%AF%D8%A7%D8%AF%D8%A8%D8%A7%D9%86\"\u003e#دادبان\u003c/a\u003e \u003ca href=\"?q=%23%D9%88%DA%A9%DB%8C%D9%84_%D8%AD%D9%82%D9%88%D9%82_%D8%A8%D8%B4%D8%B1%DB%8C\"\u003e#وکیل_حقوق_بشری\u003c/a\u003e⁩",
       "date": "2026-09-07T09:17:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 199,
+      "views": 209,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -116,12 +62,12 @@
       ]
     },
     {
-      "id": 20226,
-      "message": "شروط ضمن عقد را بدون مشورت حقوقی امضا نکنید؛ یک عبارت می‌تواند سرنوشت حقوق مالی را تغییر دهد\u003cbr/\u003e\u003cbr/\u003eوکیل پرند قره‌داغی، با انتشار یک استوری به مساله اهمیت استفاده از وکیل و مشاوره حقوقی پیش از تنظیم و امضای سند شروط ضمن عقد ازدواج پرداخته است.\u003cbr/\u003e\u003cbr/\u003eتنظیم شروط ضمن عقد ازدواج، به‌ویژه درباره وکالت در طلاق، موضوعی نیست که بتوان صرفا با استفاده از یک متن آماده یا نمونه‌های منتشرشده در فضای مجازی انجام داد. انتخاب نادرست واژه‌ها یا تعیین ناقص حدود اختیارات می‌تواند آثار حقوقی مهم و گاه پیش‌بینی‌نشده‌ای برای زوجین ایجاد کند.\u003cbr/\u003e\u003cbr/\u003eبرای نمونه، در برخی اسناد وکالت در طلاق ممکن است اختیار طلاق به بخشیدن مهریه محدود نشود و متن، اختیار بذل «تمامی حقوق مالی قابل اعمال» را نیز در بر گیرد. چنین عباراتی می‌تواند دامنه‌ای بسیار گسترده‌تر از تصور فرد هنگام امضای سند داشته باشد و حقوق مالی دیگری را نیز تحت تاثیر قرار دهد.\u003cbr/\u003e\u003cbr/\u003eهمچنین باید به حدود اختیارات وکیل، امکان یا عدم امکان عزل او، حق توکیل به غیر و نحوه اعمال وکالت توجه ویژه داشت. درج عباراتی مانند «وکالت بلاعزل» یا اعطای اختیار گسترده بدون شناخت آثار حقوقی آن، ممکن است بعدا امکان تغییر تصمیم یا کنترل نحوه استفاده از وکالت را بسیار محدود کند.\u003cbr/\u003e\u003cbr/\u003eاز این رو، حتی اگر دفترخانه متن سند را تنظیم کرده باشد، نباید تصور کرد که متن لزوما متناسب با خواسته‌ها و منافع حقوقی هر دو طرف تنظیم شده است. وظیفه تنظیم و ثبت سند با ارایه مشاوره حقوقی مستقل و بررسی پیامدهای تک‌تک شروط برای هر یک از زوجین یکسان نیست.\u003cbr/\u003e\u003cbr/\u003eبنابراین پیش از امضای شروط ضمن عقد یا تنظیم وکالت‌نامه‌هایی مانند وکالت در طلاق، بهتر است متن نهایی توسط وکیل بررسی شود یا دست‌کم درباره حدود و پیامدهای حقوقی آن مشورت تخصصی صورت گیرد. چند کلمه در یک سند رسمی می‌تواند در آینده بر مهریه، سایر حقوق مالی، اختیار طلاق و نحوه پیگیری حقوق طرفین اثر تعیین‌کننده بگذارد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Daadbaan2021\" target=\"_blank\"\u003e@Daadbaan2021\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%AF%D8%A7%D8%AF%D8%A8%D8%A7%D9%86\"\u003e#دادبان\u003c/a\u003e \u003ca href=\"?q=%23%D8%B9%D9%82%D8%AF\"\u003e#عقد\u003c/a\u003e \u003ca href=\"?q=%23%D8%B7%D9%84%D8%A7%D9%82\"\u003e#طلاق\u003c/a\u003e",
-      "date": "2026-09-07T13:12:55Z",
+      "id": 20207,
+      "message": "",
+      "date": "2026-09-07T09:17:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 180,
+      "views": 164,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -129,7 +75,53 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Zef_nLYdFpCgU2clkLhXaph0c90j0o7hLxHmxgyyHOL_nuk3KgJgs8yCIZ8_vAUTpsWV1VNb6XWLiiH6Jy_8Mkc8ziZHfPZ5xHgQyYtmHfLrSnGgdqkhQh16IlaXaUYes8vQ5V-y34uIEBIe1u2-t1b5GPye_RgmJERvwWHjfYjeVA3xghpyExY24Jey5XFVueImkBlLx9Mle_ulHVBebOG6bpnlQlxDakd3M47pg8qRO1pRYZiRAZoiDwrJ6b7SSUaLgdhrOIZ3gGnAtBRUumIv4OeFJ4u3zlFEY_aCR7FVip_qyuMEskMTlQCEXanFFuA3zZL4S2AKW3WHDFTfZQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/f0RRB76wX0uB09QCG3MkE67aw6wO9_WHk_qD7s26w2DDn6Pco-nhDqJ5rsFy_Z7DuZ_va6ycT7ZZQNMm9ibYTJ9oahn7bXg_n9ei0midna3CMtB_p3aMpMUcwusAzr4XzidAj0znmQ5hOfleYVxR-QDeRui2gwx19xjSPyqWFC-NGmjuNckH27d7qWIPrzH0TqxhGs4TDkN6NwN2SCgLAulx0KI9UFrGeJS7yCtI7v2cO9EmMbJk76bMzbKHz_4NyrpGdK1ma0nJpZVsTRoAEKiJMO_su1UWonqsLdu-1jsm1oFEGoj45JaQBgRBsC0Ec60A0RNtbtlD_0qVTL9H4A.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/CCMhLp7hrC4rkrto3-rPwD_n8V7rw2GwltNXMw-KkvnPm8-kn70mgh4ebm9N_Iozm5DccEdKOi20mud7uXUbDx6B_sVN2xzN9_Oa2lsqZ2tyxe2CWhjNmZX4X2S6zOnu7a3e5hY8C12PrWpvrM8kcwkRkMqgreUdhEyMp-w4erRAJMo7-ttD4OyTUL4RDtYu42yzP-ae_cabXnW0cMFUW10ejboK6r1psjN8pz0mQSk__DUd6KekLrYDtbuEoXYba10g0PRROrXABHTznbxTf5bDq9AidSkjrjmQH3_KLyViK-KfwqU5DYFZgIM7c79B3MAweaE8FttpuyNL-5hv0g.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/RKrasObv1ZHrkDirEMEULTRBdbdDdkQ8gVxWMD4kTiR6F8WW1tqvlkkewlwlMPHT_llEiJp4TQLIfyTmmlFGPzPYTiUAsRB3HqnfqmzKMiLStbpJqtKEWh4L_HyYp1TaD98eIdtFDHmmLEcpIr0pGKDwWjaPp-bgh09vH5u088435prMXRcaFm8rZANR3vL5xUy-in3onJYhUTOL___DG5GMLsExyHwnG_hN0dVPqCBeYs_OIg4W-ZjhKfxzOr0l4rW1OviSicCsTKVlF7TUAUN0O6lq4qVqYAVmJnR18UyTStTc3UtSuPbJE4i3v9k67fjGslpbl3D907PtM-nKyw.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/b8iYc0mGEGdxP5pv828dyEhBsy4tw-7x_5lgM4PrjsnXXWZVYvHgiWKICPE3Wd_lfUT_zPBiZr3_2Ha-xGxLCIu0n2ixB2uFvE23F0qnCt7EB8qjnPMLQ6y5XC-sCVfXKSZ9raYjxeGXec5bPEsTLIFGck-2JZYVzZqeJsXsfgRysy5JUTcFqb5zeMlZ9fV0XRM624k4Eg6fHJ7cbYvaSis9yUnpPRPW7K5N-d62TN2U-tnJMhQFhcEExYL7O0_W28shNIMSltk4bcMf-tJQa49xY7o1leplQDTyH_Lj0NuOoa_NMrbw7qrmzxaCM3-yPWh7ayWI4I-l8FTTNKs54w.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/rrSZLXYpvwhHc8ED4xsp8GOzL_6TXOcOLg0i6-k91bfjmo8JCKSCVqtmk2vjKsvH9fGU1YzeJ5e71BrxfDKeeBrFqjhXniSGDpUXJ3K2kCzqo4lUFF2ravlmIZGFwogkdgE4Xo5CEm2bCQYv0oGI0mDXG67cuddZa2WMIw2VvYSZKrgUHVmW_cdo1Gj9cEeeZmsxScoc9YKXH6ajMAXrslGDoqQwmlisTchBdyXv1arXjcFT0aSS4IzTitvF2BaaK1RLpiVpKuUXLR3VBYL7O1ztOhjv1L1syGznQ7z0TNUoJslG3Gx2JVFzE3N3dv4qw74MTV24kkaDh6wxIiGkjg.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/n-Ok6U4IDPaqlp4qBPPVdjbpzOJkTi-p8CbNJMlYO_vEWjL2axw-JYDn5Cp6R_-ozTkqXpZ2f3dVJBDeh9MlOExxU0ztEdOOCBTDJJq831uwb3bSsT-5NYUSWPRubpiL8Gs9eDrRfaaLIHWsWdhflQ-LVmyl1eKzvqBpz88qePfoNNKXFOHOmBsOSpuCZR_TA-poen9qSWFJG432lnC0-f2fE9u0rFYHHLvi2E1gMlDq9ErHQxHbbKeuK4Awc9huzWLoIQe3So6_xFxJvXYKpIFvkqmTuYMO8qzZgknEZRbqa5Gk7J03BZz_HHLOCRvLHGUl-StpfSS1qChgLjZV7Q.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/YrxKPfGagqS0rwHO_BTrQJD7fdtIpIHmo8Nd9Azkhzlgu4XnXJR6lt-lqEJUtJWV65aKegh0aGTgZTMnowah4kCSqwoZaZTR2pM_eLE_6hC1KdTm7sl0MRAc28XHw98VEnpIUpLsFkquDJu0yvgXNTBULfRk2Nw5Rtxwsvzy28ZF8ZiQJjSsSV97yGiHHbqd4b7kgCtD_Ac-zkG-bOdgkBPvit4NrQh2U2IpPlBUvUT3_F53x9ad0zeXTja0_OFdqB8MfUrPi9K0pzkY6TceWHHmY8he-xeoVRd8I1suVqFt39tkKvQC1oco19lGYPqoMjGSVlBlBTcMtPgH8Yx4Kg.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/I0fcbptMBPhrsCYBWhMh9pB2wNC71alHywKSXrqqMB-DEK9eZdeJLIu6dQQ3HInyS19k8Y0Rda1kqZxh3JCc7NUtqeECPS4FCxdobF9GJCMgKHHE-TXBiei7uWiyDmxy9Bo8i_UaxXFifHHHfxNubPsAWWY44N2BKLFk_2yX2DE3LnWRmb5lNE4tIQ9DSrCNGaDx3jrxcySMm6ivmOhFpETTVIo5cwXyE56C1p4ki3f7tgwABYo1A5jn0fHr_fxbhwcE893kRQvNisJEgyusBXh4rVuVgvuRWzrqqi70WUAghtWaIus-fyTe_NOAZp2jjuQqVMlvwO49mgTYwrP8LQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 20226,
+      "message": "شروط ضمن عقد را بدون مشورت حقوقی امضا نکنید؛ یک عبارت می‌تواند سرنوشت حقوق مالی را تغییر دهد\u003cbr/\u003e\u003cbr/\u003eوکیل پرند قره‌داغی، با انتشار یک استوری به مساله اهمیت استفاده از وکیل و مشاوره حقوقی پیش از تنظیم و امضای سند شروط ضمن عقد ازدواج پرداخته است.\u003cbr/\u003e\u003cbr/\u003eتنظیم شروط ضمن عقد ازدواج، به‌ویژه درباره وکالت در طلاق، موضوعی نیست که بتوان صرفا با استفاده از یک متن آماده یا نمونه‌های منتشرشده در فضای مجازی انجام داد. انتخاب نادرست واژه‌ها یا تعیین ناقص حدود اختیارات می‌تواند آثار حقوقی مهم و گاه پیش‌بینی‌نشده‌ای برای زوجین ایجاد کند.\u003cbr/\u003e\u003cbr/\u003eبرای نمونه، در برخی اسناد وکالت در طلاق ممکن است اختیار طلاق به بخشیدن مهریه محدود نشود و متن، اختیار بذل «تمامی حقوق مالی قابل اعمال» را نیز در بر گیرد. چنین عباراتی می‌تواند دامنه‌ای بسیار گسترده‌تر از تصور فرد هنگام امضای سند داشته باشد و حقوق مالی دیگری را نیز تحت تاثیر قرار دهد.\u003cbr/\u003e\u003cbr/\u003eهمچنین باید به حدود اختیارات وکیل، امکان یا عدم امکان عزل او، حق توکیل به غیر و نحوه اعمال وکالت توجه ویژه داشت. درج عباراتی مانند «وکالت بلاعزل» یا اعطای اختیار گسترده بدون شناخت آثار حقوقی آن، ممکن است بعدا امکان تغییر تصمیم یا کنترل نحوه استفاده از وکالت را بسیار محدود کند.\u003cbr/\u003e\u003cbr/\u003eاز این رو، حتی اگر دفترخانه متن سند را تنظیم کرده باشد، نباید تصور کرد که متن لزوما متناسب با خواسته‌ها و منافع حقوقی هر دو طرف تنظیم شده است. وظیفه تنظیم و ثبت سند با ارایه مشاوره حقوقی مستقل و بررسی پیامدهای تک‌تک شروط برای هر یک از زوجین یکسان نیست.\u003cbr/\u003e\u003cbr/\u003eبنابراین پیش از امضای شروط ضمن عقد یا تنظیم وکالت‌نامه‌هایی مانند وکالت در طلاق، بهتر است متن نهایی توسط وکیل بررسی شود یا دست‌کم درباره حدود و پیامدهای حقوقی آن مشورت تخصصی صورت گیرد. چند کلمه در یک سند رسمی می‌تواند در آینده بر مهریه، سایر حقوق مالی، اختیار طلاق و نحوه پیگیری حقوق طرفین اثر تعیین‌کننده بگذارد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Daadbaan2021\" target=\"_blank\"\u003e@Daadbaan2021\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%AF%D8%A7%D8%AF%D8%A8%D8%A7%D9%86\"\u003e#دادبان\u003c/a\u003e \u003ca href=\"?q=%23%D8%B9%D9%82%D8%AF\"\u003e#عقد\u003c/a\u003e \u003ca href=\"?q=%23%D8%B7%D9%84%D8%A7%D9%82\"\u003e#طلاق\u003c/a\u003e",
+      "date": "2026-09-07T13:12:55Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 195,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "دادبان؛ مرکز مشاوره و آموزش حقوقی ویژه کنش‌گران",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/jP9H1G3GNXs1CxBPax7zDR84YRoXEcTnHfFNv9U5oaJrsyNZ2cnKX9FvQ2JLbpAqvs9ajKOmzKsP97-ZsLyYXQ2sFIg7lh6Ykf-yP2c8FRgxSqUBdEK7ve9_0MX-GfJySgDU3gy1j3PWMm944qnp1PpmBkAiBTYK1qHNFTjjgYzQxMibXuG7sKKuCLZSFdgJSf2oXzo2qOXxUYhyoMynIbvetlibSWljGi46gJzXXXb4YznTA8myDWFtorwtK92PlZsPijvmNCZrJ0M7lWg6W7A2YqoUUTna4dLxckN08dpZNyO174mBuUxNQseSIiP7jYbL37tRrHeFMHN1m3Qc-Q.jpg"
         }
       ]
     },
@@ -139,7 +131,7 @@
       "date": "2026-09-07T15:34:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 170,
+      "views": 196,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -157,7 +149,7 @@
       "date": "2026-09-07T17:22:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 183,
+      "views": 203,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -175,7 +167,7 @@
       "date": "2026-09-07T17:54:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 224,
+      "views": 239,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -193,7 +185,7 @@
       "date": "2026-09-07T22:14:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 164,
+      "views": 201,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -212,7 +204,7 @@
       "date": "2026-09-08T07:23:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 78,
+      "views": 139,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -230,7 +222,7 @@
       "date": "2026-09-08T08:16:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 63,
+      "views": 142,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -248,7 +240,7 @@
       "date": "2026-09-08T09:42:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15,
+      "views": 145,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -257,6 +249,79 @@
         {
           "type": "photo",
           "url": "https://cdn4.telesco.pe/file/LNN6KK7N0e_w6FPgjf2L-u5sKyJ8u-Ag4VV1h81xIwFwvz5ISRSq_eikGMIZBM1cFU8XhsGOg3HsXOIDjzXdth8s5SF66EdnrSLREOb6bnlSLzITjxTDpi7T0VYEzg53o75UMHcrf2uEU5X4RGNbk-5ZO1cMtqQZ7rnMNVeba4a9Skci50L1Z11GlWqm2KK9OYGfVknym8ToKqj-SZa2HrC5bJn5-7qeepScHgggS6w7LrzngsqkHH57IzuA3uPgSdKPgQiUW56Oxy15_E5czfwjFCL0F0v9KTsDl4cK5codgGcPBPVEuJ-gGV7xje6QMyZWupnu7g-OIEXr88wMnQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 20235,
+      "message": "تداوم کارزار «سه‌شنبه‌های نه به اعدام»؛ هفته صدوسی‌وهفتم در ۶۲ زندان کشور\u003cbr/\u003e\u003cbr/\u003eدر هفته‌ای که گذشت، ماشین سرکوب و اعدام حکومت با شتابی بی‌وقفه به کشتار زندانیان ادامه داد و دست‌کم ۱۱ تن را به دار آویخت. آمارها نشان می‌دهند که از ابتدای شهریورماه تاکنون، بالغ بر ۴۵ زندانی اعدام شده‌اند. هم‌چنین در روزهای گذشته، علی زارعی، از آسیب‌دیدگان چشمی اعتراضات ۱۴۰۱، در زندان قزل‌حصار به اعدام محکوم شده است.\u003cbr/\u003eدر همین حال، گزارش‌ها از مرگ مشکوک یک زندانی سیاسی به نام عرفان میرزایی در زندان دستگرد اصفهان حکایت دارند که توسط عوامل حکومت به قتل رسیده است. در خبری دیگر پس از موافقت دیوان عالی کشور با اعاده دادرسی در پرونده علی‌رضا سپاهی، زندانی محکوم به اعدام در اصفهان، پرونده وی به شعبه هم‌عرض ارجاع شد. با این حال، این شعبه بدون تشکیل جلسه رسیدگی، اعاده دادرسی را نپذیرفت و پرونده را جهت اجرای حکم اعدام به شعبه اجرای احکام ارسال کرد.\u003cbr/\u003eبر اساس اطلاعات تکمیلی، ترانه رحیمی، نوید الیاسی، ابوالفضل دادگستر، مهدی منصوری، احمدرضا سعیدی، مهرداد بوئری، محمدمهدی اسدی، آرمین غلامی، پارسا جعفری و مهدی جعفری (خسروی)، هر یک به اعدام و ۱۱ سال حبس محکوم شده‌اند. همچنین رومینا رحیمی و میلاد بوئری هر کدام به ۳۶ سال حبس، حامد مهرعلیان به ۲۶ سال حبس و ستایش ساعدی، سجاد عابدی و علی بوئری، هر یک به ۱۶ سال حبس محکوم شده‌اند. بر این اساس، مجموع احکام حبس صادرشده برای ۱۶ متهم این پرونده به ۲۵۶ سال می‌رسد. این احکام در مرحله بدوی صادر شده است. ما هفته پیش به این پرونده جمعی اشاره کردیم.جان این زندانیان در معرض خطر است.\u003cbr/\u003e\u003cbr/\u003eشدت گرفتن این سرکوب‌ها و اعدام‌ها به صورت انفرادی و جمعی، بازتاب هراس حاکمیت از اعتراضات سراسری و قیام‌های پیش‌رو است.  وخامت روزافزون بحران اقتصادی، تورم سه‌رقمی، جهش نرخ دلار به ۲۳۰ هزار تومان، آغاز گران شدن رسمی بنزین از روز سه‌شنبه و کوچک‌تر شدن روزمره سفره کارگران و زحمت‌کشان، بیش از هر زمان دیگری چشم‌انداز یک انفجار اجتماعی را ترسیم می‌کند.\u003cbr/\u003eدر این شرایط بحرانی، ضرورت استمرار کارزار «سه‌شنبه‌های نه به اعدام» علی‌رغم تمام مخاطرات و محدودیت‌های درون زندان، دوچندان شده است. ما اعضای این کارزار، بار دیگر تمامی نهادهای بین‌المللی، وجدان‌های بیدار، مدافعان حقوق بشر و لغو حکم اعدام را در سراسر جهان به همراهی و همبستگی فرامی‌خوانیم.\u003cbr/\u003e\u003cbr/\u003eاعضای کارزار «سه‌شنبه‌های نه به اعدام»، روز سه‌شنبه ۱۷ شهریور ۱۴۰۵، در صدوسی‌وهفتمین هفته متوالی این حرکت اعتراضی، در ۶۲ زندان زیر دست به اعتصاب غذا زده‌اند:\u003cbr/\u003eزندان قزل‌حصار (واحدهای ۲، ۳ و ۴)، زندان اوین (بندهای زنان و مردان)، زندان مرکزی کرج، زندان فردیس کرج، زندان تهران بزرگ، زندان قرچک، زندان خورین ورامین، زندان چوبین‌در قزوین، زندان اهر، زندان اراک، زندان لنگرود قم، زندان خرم‌آباد، زندان بروجرد، زندان یاسوج، زندان اسدآباد اصفهان، زندان دستگرد اصفهان، زندان شیبان اهواز، زندان سپیدار اهواز (بندهای زنان و مردان)، زندان نظام شیراز، زندان عادل‌آباد شیراز (بندهای زنان و مردان)، زندان فیروزآباد فارس، زندان دهدشت، زندان زاهدان (بندهای زنان و مردان)، زندان برازجان، زندان رامهرمز، زندان بهبهان، زندان بم، زندان یزد (بندهای زنان و مردان)، زندان کهنوج، زندان طبس، زندان مرکزی بیرجند، زندان مشهد، زندان گرگان، زندان سبزوار، زندان گنبدکاووس، زندان قائم‌شهر، زندان رشت (بندهای مردان و زنان)، زندان رودسر، زندان حویق تالش، زندان ازبرم لاهیجان، زندان دیزل‌آباد کرمانشاه، زندان اردبیل، زندان تبریز، زندان ارومیه، زندان سلماس، زندان خوی، زندان نقده، زندان میاندوآب، زندان مهاباد، زندان بوکان، زندان سقز، زندان بانه، زندان مریوان، زندان سنندج، زندان کامیاران، زندان ایلام، زندان کرمان، زندان بروجن، زندان نیشابور، زندان گچساران، زندان نور و زندان ایرانشهر.\u003cbr/\u003e\u003cbr/\u003eهفته صدوسی‌وهفتم\u003cbr/\u003eسه‌شنبه ۱۷ شهریور ۱۴۰۵\u003cbr/\u003e\u003cbr/\u003eمستقیم با وکیل در واتس‌اپ:\u003cbr/\u003e+905510332575\u003cbr/\u003e\u003cbr/\u003eبات دادبان \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Dadbanbot\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/Dadbanbot\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eایمیل \u003cbr/\u003esupport@dadban.info\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://dadban.info/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eوبسایت\u003c/a\u003e | \u003ca href=\"https://www.instagram.com/dadban2021/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eاینستاگرام\u003c/a\u003e | \u003ca href=\"https://twitter.com/dadban4\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eتوئیتر\u003c/a\u003e  | \u003ca href=\"http://youtube.com/@dadban2021\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eیوتیوب\u003c/a\u003e |\u003ca href=\"https://www.facebook.com/dadban2021?mibextid=ZbWKwL\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eفیس‌بوک\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Daadbaan2021\" target=\"_blank\"\u003e@Daadbaan2021\u003c/a\u003e",
+      "date": "2026-09-08T11:56:05Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 95,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "دادبان؛ مرکز مشاوره و آموزش حقوقی ویژه کنش‌گران",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/mLW83O8cDgNXJ-t2PEuLiIC-z0F2FU98MvUwtBqc9UvhNnoGF5f5MWJpoIHUzOrpJS-dinP6N8Wkj3WLnB3PY_B__CikHzfJ9uHG7IOGnUWLCuz5xx_gXPgy6oLmHppJoXnm7JcZXQb-uJ8fD3bxN0zZAzY8YlA386YXfBTX6BjA6ot99PmR9ghJLNF0BwWwXcD4Bwg9lMZlQYUXUbm-eUXVkmvYMeUDs1WXfAHHtu-P8tKZAy2hE8-IYDNJGhkRrV_6-_DscNjEM-6vj6VevgT-ODwHGGjeXSHsDlHJpdi18ypzT5fqgEDQQS3oVGTF08jKh5uaDKtlGEkHcPEJMQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 20236,
+      "message": "دادبان را در یک سال گذشته چگونه دیده‌اید؟\u003cbr/\u003e\u003cbr/\u003eاین نظرسنجی برای ارزیابی عملکرد دادبان و شناخت بهتر نیازها و انتظارهای مخاطبان برگزار می‌شود.\u003cbr/\u003e\u003cbr/\u003eانجام نظرسنجی حدود ۵ دقیقه زمان می‌برد. منتظر انتقادها و پیشنهادهای شما هستیم.\u003cbr/\u003e\u003cbr/\u003e لینک فرم \u003cbr/\u003e\u003cbr/\u003e‏\u003ca href=\"https://qfreeaccountssjc1.az1.qualtrics.com/jfe/form/SV_9S08ucIwkysDU6a\" target=\"_blank\" rel=\"noopener\"\u003ehttps://qfreeaccountssjc1.az1.qualtrics.com/jfe/form/SV_9S08ucIwkysDU6a\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eهمراهان عزیز دادبان همواره سعی کرده‌ در کنار شما باشد، این بار نوبت شماست، ۵ دقیقه از وقتتان را به ما بدهید و این فرم را برای ما پر کنید.\u003cbr/\u003e\u003cbr/\u003eلینک در بایو اینستاگرام نیز موجود است. \u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eبات دادبان \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Dadbanbot\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/Dadbanbot\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%AF%D8%A7%D8%AF%D8%A8%D8%A7%D9%86\"\u003e#دادبان\u003c/a\u003e",
+      "date": "2026-09-08T11:58:46Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 98,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "دادبان؛ مرکز مشاوره و آموزش حقوقی ویژه کنش‌گران",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/jdr4tS0XfbhhpIfpihx5ZdrbG3TJx6feIO-OjT65LBS82lYZA-ymn8_UKjZfRMz_4xUfP_KHohjMoDhZiBeRsmBn7HIZWVUTpBmcZyqW4D44p84Pr5Ocwt4SaRu9P8wBf29JAgIplWdb6l2YUCRzaP3lJvUxGSCGZkddatHYRAG-Q4beSqjvtoi7YNOmeJzUQfAy9rsq1UYJ_JXeZrgJSjIPmQpLonf6zJti_dtIaoXsNd1wyZERKikhA8ky3TcyQ5Yt8Cv_gpRfYI0Ol7Ttz_obwFLKkH3OD5zErS9-5UAffGIp3XVHOPUpzdgrDrRCa7AcpfLJZJCgp9LD2raDVA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 20237,
+      "message": "حمله با چماق به حسین معصومی، وکیل دادگستری، در مشهد پس از اجرای حکم قضایی\u003cbr/\u003e\u003cbr/\u003eحسین معصومی، وکیل دادگستری در مشهد، می‌گوید پس از پیگیری و اجرای حکم تحویل یک ملک به موکلانش، هدف حمله چند نفر قرار گرفته است. در این حمله دو فرد چماق‌به‌دست او را مورد ضرب‌وجرح قرار داده و به خودروی وی نیز آسیب زده‌اند.\u003cbr/\u003e\u003cbr/\u003eبه گفته معصومی، پرونده مربوط به چند عضو یک خانواده بود که با وجود صدور رای به نفعشان، برای بازپس‌گیری ملک با مشکل مواجه شده بودند. او پس از قبول وکالت، همراه مامور کلانتری برای اجرای حکم به محل رفته و پس از تخلیه ملک، کلید تحویل و صورت‌جلسه قانونی تنظیم شده است.\u003cbr/\u003e\u003cbr/\u003eاین وکیل گفته است حدود یک ساعت پس از پایان اجرای حکم، هنگامی که به‌تنهایی در مسیر خانه و در محلی خلوت بوده، خودرویی راه او را مسدود کرده است. چند نفر از خودرو پیاده شده و دو نفر از آنان با چماق به او حمله کرده‌اند.\u003cbr/\u003e\u003cbr/\u003eمعصومی با اشاره به سخنان مهاجمان درباره همان ملک، مدعی شده است که حمله با پرونده و اجرای حکم ارتباط داشته و مهاجمان از سوی محکوم‌علیه اجیر شده بودند. او در این حادثه از ناحیه کتف‌ها، آرنج و پهلو آسیب دیده و با آمبولانس به یک مرکز درمانی منتقل شده است.\u003cbr/\u003e\u003cbr/\u003eپس از انجام معاینات پزشکی و تصویربرداری، این وکیل از مرکز درمانی مرخص شده و اکنون در حال پیگیری قضایی حادثه است. حمله به یک وکیل به دلیل انجام وظایف حرفه‌ای، علاوه بر تعرض به امنیت شخصی او، می‌تواند امنیت و استقلال حرفه وکالت و امکان دفاع موثر از حقوق شهروندان را نیز تحت تاثیر قرار دهد.\u003cbr/\u003e\u003cbr/\u003eدادبان تاکید می‌کند، آمارها حاکی از افزایش خشونت فیزیکی علیه وکلای دادگستری در سال‌های اخیر در ایران است. شدت این خشونت‌ها به حدی رسیده که پیشتر گروهی از وکلا از تدوین پیش‌نویس لایحه‌ای خبر داده بودند که به موجب آن، مجازات افرادی که علیه تمامیت جسمی و امنیت روانی قضات، وکلای دادگستری و کارشناسان رسمی قوه قضاییه اقدام می‌کنند، تشدید خواهد شد.\u003cbr/\u003e\u003cbr/\u003eمستقیم با وکیل در واتس‌اپ:\u003cbr/\u003e+905510332575\u003cbr/\u003e\u003cbr/\u003eبات دادبان \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Dadbanbot\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/Dadbanbot\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eایمیل \u003cbr/\u003esupport@dadban.info\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://dadban.info/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eوبسایت\u003c/a\u003e | \u003ca href=\"https://www.instagram.com/dadban2021/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eاینستاگرام\u003c/a\u003e | \u003ca href=\"https://twitter.com/dadban4\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eتوئیتر\u003c/a\u003e  | \u003ca href=\"http://youtube.com/@dadban2021\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eیوتیوب\u003c/a\u003e |\u003ca href=\"https://www.facebook.com/dadban2021?mibextid=ZbWKwL\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eفیس‌بوک\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Daadbaan2021\" target=\"_blank\"\u003e@Daadbaan2021\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%AF%D8%A7%D8%AF%D8%A8%D8%A7%D9%86\"\u003e#دادبان\u003c/a\u003e \u003ca href=\"?q=%23%D9%88%DA%A9%D9%84%D8%A7%DB%8C_%D9%85%D8%B9%D8%B1%D8%B6_%D8%AE%D8%B7%D8%B1\"\u003e#وکلای_معرض_خطر\u003c/a\u003e",
+      "date": "2026-09-08T12:28:15Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 91,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "دادبان؛ مرکز مشاوره و آموزش حقوقی ویژه کنش‌گران",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/Wja2i_zqAJ7Saeb4ayhazpJYOIRG8DL96GMnqkTjnj-6OkUsIn1AXWM70nK9snDixAEcac8869T7bEyHSopObuPAgK9hPXdyb2hDMWV2qd3hylPTKUrM6IvsseJ-5cPoZnm8MFaUOjeiIdh1Z_AQb9cJKMQub-5TOxubh9pYsQyZ-cbPZVhC5Vbw5fTpDKN4ZknYqGlTFRwrlZwFlA9HwdRQBTv-F0dOuWxJw0WSYXGOYrleZ8J8kVeSCkXLNDyjX3Z7UlubedX847F3yAXDBnar7DpaPTe29UsPptA934gAkxY5oCw_1uWuzpxGPqkNZ7flS0iCSWpBy6y5OwymHQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 20238,
+      "message": "‏میثم قادری ۱۸ دی در اعتراضات کرج مقابل پایگاه بسیج خیابان هشتم شاهین ویلا از ناحیه گردن هدف گلوله قرار گرفت و کشته شد. میثم قادری به تازگی عقد کرده بود.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eاو ۳۲ ساله بود و پس از ۱۱ سال عاشقی و گذراندن موانع مختلف، به‌تازگی با همسرش زیر یک سقف رفته بودند.\u003cbr/\u003e\u003cbr/\u003eاو در ۱۸ دی ۱۴۰۴، در شاهین‌ویلای کرج، با اصابت گلوله به گلو کشته شد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%AF%D8%A7%D8%AF%D8%A8%D8%A7%D9%86\"\u003e#دادبان\u003c/a\u003e \u003ca href=\"?q=%23%D9%85%DB%8C%D8%AB%D9%85_%D9%82%D8%A7%D8%AF%D8%B1%DB%8C_%D9%BE%D8%A7%DA%A9\"\u003e#میثم_قادری_پاک\u003c/a\u003e",
+      "date": "2026-09-08T13:33:58Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 43,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "دادبان؛ مرکز مشاوره و آموزش حقوقی ویژه کنش‌گران",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/Fy5NAcOkzTRqVd67d68qTohz4ZHJ7U9WXiab5t0UieJ59zJSGaP7hTlpGvwXBcpKPVXLX6dszDHypoZpLGXX5w0H2PCHLP9eBjOxFqSS4Td4VcAJbmyJRJtequnNLxVQzX6AUltll6O1WeC2GjunZdY_j76R1RRFw8SpTtN-1X-ib_7AX1PplZ4ZQFmxt6R-ng0vYkmDGoq-dft8uOlrOgsmPAyAelg-li26LE_M5psYZheQzb-kFE3m1bQbg0MliS2OgCCEOTPNjA7qr4EGsBKXS3zqBXjS8iX8n7uiPj07MqoO5DGij76NM3pm1K-J8tS26pxVWWnocgd9bm6C7w",
+          "width": 464
         }
       ]
     }
