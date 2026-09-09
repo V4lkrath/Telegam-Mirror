@@ -8,42 +8,12 @@
   },
   "posts": [
     {
-      "id": 28775,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e رعد برق دیشب تهران.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/IranianMinds\" target=\"_blank\"\u003e@IranianMinds\u003c/a\u003e",
-      "date": "2026-09-09T10:48:44Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 46900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Iranian Minds",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/rApXrtFgKJHyxACowQRySMQXjDv4q8Blx13fFEDemD03NyRRbdBMJrKrlvbmWFOxj7d_gjStdZeipa7vlF_lLgZGQ5B6xtVDcHub5gkYjV0k_WNAKe74vbeDONJqr1ecZJXdSiRZs6PRqL2CR0SvZOFJVPG01VeojEHIazXBZu7L1Y30PUesKBeOKvrfCZZWMWZwftr9o1BXk4K1Of_rFN65JBdvsDOOCCNl6Xx1-MGqkDXgNvvwOfiGCAUwj3MQWsFEPNqz_pnqkErRRCGEgxjCv7bTABlFS3Ob5oBTeiTZnR-cMy1udPcVCzVYfTNa58h36l9QXuWKbANAQnNhfw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 28776,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e رئیس‌جمهور لبنان:\u003cbr/\u003e\u003cbr/\u003eما تصمیمی مبنی بر مذاکره با اسرائیل اتخاذ کردیم، این کار به نفع لبنان است و نه برای خشنود کردن هیچ‌کس در خارج از کشور.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/IranianMinds\" target=\"_blank\"\u003e@IranianMinds\u003c/a\u003e",
-      "date": "2026-09-09T11:03:38Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 42700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Iranian Minds"
-    },
-    {
       "id": 28777,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e سخنگوی سپاه:\u003cbr/\u003e\u003cbr/\u003eهر کشتی که از منطقه ممنوعهٔ تنگه هرمز عبور کند تحریم می‌شود.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/IranianMinds\" target=\"_blank\"\u003e@IranianMinds\u003c/a\u003e",
       "date": "2026-09-09T11:10:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 45200,
+      "views": 45800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -61,7 +31,7 @@
       "date": "2026-09-09T11:48:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 45400,
+      "views": 46300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -73,7 +43,7 @@
       "date": "2026-09-09T12:27:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 44600,
+      "views": 45800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -92,7 +62,7 @@
       "date": "2026-09-09T13:35:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 37600,
+      "views": 39100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -111,7 +81,7 @@
       "date": "2026-09-09T14:13:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 34100,
+      "views": 35900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -137,7 +107,7 @@
       "date": "2026-09-09T14:32:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32299,
+      "views": 34100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -149,7 +119,7 @@
       "date": "2026-09-09T15:10:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29400,
+      "views": 31900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -161,7 +131,7 @@
       "date": "2026-09-09T15:13:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29200,
+      "views": 31700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -179,7 +149,7 @@
       "date": "2026-09-09T15:20:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30500,
+      "views": 32900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -198,7 +168,7 @@
       "date": "2026-09-09T15:26:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29300,
+      "views": 32000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -210,7 +180,7 @@
       "date": "2026-09-09T15:34:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28500,
+      "views": 31500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -222,7 +192,7 @@
       "date": "2026-09-09T16:09:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24000,
+      "views": 28300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -240,7 +210,7 @@
       "date": "2026-09-09T17:02:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13800,
+      "views": 21500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -252,7 +222,7 @@
       "date": "2026-09-09T17:03:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14300,
+      "views": 21300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -264,7 +234,7 @@
       "date": "2026-09-09T17:26:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5920,
+      "views": 16000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -282,7 +252,7 @@
       "date": "2026-09-09T17:28:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3810,
+      "views": 14500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -291,6 +261,42 @@
         {
           "type": "photo",
           "url": "https://cdn4.telesco.pe/file/RS81IVx8ePyCNWGtXdz-g0rXuY8WS5vLe5FlnIfqrLU-yns8gXcsfw5Nk8qoiE8cjAtKgqcwn1ej1aaJuqsu87_N8bR9h7enJHeVyE2lwMD0lEtQ2TLjfEPzLTcUoUl0Sl6YpTyeEQbSjquOZs0_OOLoB6zl_kRgYJwwlE99h8c6PGMwNH7nQvgTpLf6kOR0cRyTWHKUQJZ0aVUfxjEh5UlkmPn8NBcDwgZKzW4Y7V9wTpv8mvjlcmKlyVYiT8_WbSr3py5WpIJbylpFYnuUxLjELgloUh3UfkyVrOorgB0mhUjqE5dGbSOElAZDHz1hZXwo2OG7WDm0FjnHofNC2w.jpg"
+        }
+      ]
+    },
+    {
+      "id": 28795,
+      "message": "اپل واچ جدید هم قابلیتی داره که هر حرفی در ۱۵ ثانیه اخیر دورت زدن رو برات به صورت متنی می‌نویسه\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/IranianMinds\" target=\"_blank\"\u003e@IranianMinds\u003c/a\u003e",
+      "date": "2026-09-09T18:04:09Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Iranian Minds",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/HVF0we7DvsiRTdwOhfo_dm6KB1fO1xXTH3nKwMDrn4mLFqhdLFJb3XJaN2z6mvQu74QbMcDKJRBVhL5YmmtrBLT2dCHuZAJQXiRp9ZUcByn0eO_HeqNuKUET5nNMtwpH0SioRN1ththqbiBMQFCNTo5G3vkClGt_KQ06iib03s1HF2x1V11uMAqIObb9eyuHaH62akfR27H9xM_lYA4XBM4b3es0znuS3SCvd75bOU2pBLe_osJ4Txo5MMJM7QHthqVgDIXDEpcNLeKZDHnmzwUOO6j9KNvYDUMHcZGAlostwRP_zM-Un38mPVWavJKZcBKz6_80HLGEBVLxTI19NQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 28796,
+      "message": "طبق اعلام اپل، آیفون‌های جدید در ۱۵ دقیقه ۵۰ درصد شارژ می‌شن.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/IranianMinds\" target=\"_blank\"\u003e@IranianMinds\u003c/a\u003e",
+      "date": "2026-09-09T18:04:25Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1220,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Iranian Minds",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/a7QLZYyOKOU3JcWQiaDdX1ydp8YZEar8WLHDpcqZB7UiP6gxndvjsBjZ2FxPMNfvY3d5wePSaNx3bUM2zqxvHNEqhAdiY4d1YDZPLs0YfGtSMT3qW1AO2FazoqrCwNiheL0IWidc8WxqBGWW_ApM-_5yAzYAqgCtYERiiYn2f8Ep7Na5t9ID9zGBShXJp1X7iMsFmkq48llwWaW1uqR1_Yc-26M4pSFxwCMusD5kdiYWQMVYmxl5gxej63hki0lzb8kUPV2qyoy5wTAiV4fzl2VHv-zOMBdMZOP96ZTpr_t3ijJlYDTHH1WovrRacGyYTLZxY__BzUwCvQEEXHTngg.jpg"
         }
       ]
     }
