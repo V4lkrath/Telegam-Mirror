@@ -8,25 +8,6 @@
   },
   "posts": [
     {
-      "id": 7776,
-      "message": "\u003ctg-emoji emoji-id=\"5949286409478082944\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9598.png\u0026#39;)\"\u003e\u003cb\u003e🕘\u003c/b\u003e\u003c/i\u003e خبر ۲۱\u003cbr/\u003eسه‌شنبه ۱۷ شهریور ۱۴۰۵\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%AE%D8%A8%D8%B1%DB%B2%DB%B1\"\u003e#خبر۲۱\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e@DEJradio\u003c/a\u003e",
-      "date": "2026-09-08T19:54:45Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1930,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "DEJ",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/u6iM5gGxXCbs6rC9_MCQrpBt0d4nCOIM1QU9V_h5MNVa_k16KfOeV0qjEXlTM4x8g-5OjpGu2dO_uvQrfWUAuznbgDRNmRWYGPPGJrPxx_TCuvoHadZoHIHe4V5r7p2uzY0X2zxiTksg8qPBT97gR1__D9yNPxp47lESevOOWNgftH7Xsmnv6P5xGwbmEJhyk5QfKKx-pPhctcaDcmuz7W5GCkX7HyXZvFRnGPneRg1fCvXRJskyIHzlK2DqT2F3ga1GIRqF2BwUI5fHogXrEWqUf_rdN5KVWFwGrNlU87vS_BRTdWEQAD1WaEXLtdk5qVQYuUVWFWpqfal9vpbqQw",
-          "width": 852
-        }
-      ]
-    },
-    {
       "id": 7777,
       "message": "\u003ctg-emoji emoji-id=\"5213419616725903784\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5949629152163271756\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e ارتش آمریکا سه‌شنبه شب ۱۷ شهریور ۱۴۰۵ به نفتکش‌های ایرانی در خلیج فارس و حوالی تنگه هرمز حمله کرد. \u003cbr/\u003eهنوز از میزان خسارات این حمله اطلاعی در دست نیست. \u003cbr/\u003e\u003cbr/\u003eساعاتی پیش از این حمله «قرارگاه خاتم‌الانبیا» هشدار داده بود، در صورت هرگونه تعرض به کشتی‌های ایرانی، نیروهای مسلح جمهوری اسلامی ایران پایگاه‌ها و منافع آمریکا را در منطقه به شدت هدف قرار خواهند داد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%AC%D9%86%DA%AF\"\u003e#جنگ\u003c/a\u003e \u003ca href=\"?q=%23%D8%AA%D9%86%DA%AF%D9%87_%D9%87%D8%B1%D9%85%D8%B2\"\u003e#تنگه_هرمز\u003c/a\u003e \u003ca href=\"?q=%23%D8%AD%D9%85%D9%84%D9%87_%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7\"\u003e#حمله_آمریکا\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e@DEJradio\u003c/a\u003e",
       "date": "2026-09-08T19:59:28Z",
@@ -80,7 +61,7 @@
       "date": "2026-09-09T07:09:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1360,
+      "views": 1380,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -99,7 +80,7 @@
       "date": "2026-09-09T07:15:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1140,
+      "views": 1150,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -125,7 +106,7 @@
       "date": "2026-09-09T07:26:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1080,
+      "views": 1090,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -163,7 +144,7 @@
       "date": "2026-09-09T07:43:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1300,
+      "views": 1310,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -182,7 +163,7 @@
       "date": "2026-09-09T07:48:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1230,
+      "views": 1240,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -201,7 +182,7 @@
       "date": "2026-09-09T08:03:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1420,
+      "views": 1430,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -219,7 +200,7 @@
       "date": "2026-09-09T08:53:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1320,
+      "views": 1340,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -238,7 +219,7 @@
       "date": "2026-09-09T09:04:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1330,
+      "views": 1340,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -256,7 +237,7 @@
       "date": "2026-09-09T09:39:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1230,
+      "views": 1260,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -275,7 +256,7 @@
       "date": "2026-09-09T10:03:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1260,
+      "views": 1300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -293,7 +274,7 @@
       "date": "2026-09-09T11:01:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1120,
+      "views": 1170,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -311,7 +292,7 @@
       "date": "2026-09-09T12:54:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 717,
+      "views": 813,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -330,7 +311,7 @@
       "date": "2026-09-09T13:36:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 402,
+      "views": 537,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -340,6 +321,24 @@
           "type": "video",
           "url": "https://cdn4.telesco.pe/file/eaOwP0fY_qzeh1TaVQ0_oJeocqEeQLjOf87Nm50jAZPRFqumLKEmPg1IHUAU_fa5j_VjZRPfc1xNIjWxpn4VZdTLS7Z2EYoP-925W8Cd3CAyVNRwoO8BLtOjhmnW1DVs3r7qGLFU0kpLbe6PXy4KNTGASF40x7v4FmkvuYA3VbD5RjkdE4WdmL4QFt-7AzgZXrwB4lBUZwcRFFOtPojPqwstxhy61KA7ogUzkuH1d0e5GtGYsLGYjVqZtMf1Gb474FQjzSkZAyTmrLx9wpgloL9gHz6ULKrOskVfK3WgDXiIGJ9Dg-vQM0JwovL10uNf_PmRitDx7ABlM4CTubal6A",
           "width": 640
+        }
+      ]
+    },
+    {
+      "id": 7796,
+      "message": "\u003cb\u003e\u003ctg-emoji emoji-id=\"5828025979334823630\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5951842387465605469\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e بنیامین نتانیاهو، نخست‌وزیر اسرائیل، چهارشنبه ۱۸ شهریور در بازدید از کوه هرمون در سوریه گفت: \u003cbr/\u003e«کار اصلی شکست دادن رژیم تروریستی ایران است. ما بسیار به آن نزدیک هستیم؛ ما متعهد به انجام آن هستیم و آن را انجام خواهیم داد.»\u003cbr/\u003e\u003cbr/\u003eنتانیاهو که همراه یسرائیل کاتز، وزیر دفاع اسرائیل، و تامیر یادای، معاون رییس ستاد ارتش، از این منطقه بازدید کرد،، گفت اسرائیل اجازه نخواهد داد هیچ «ارتش تروریستی» در مرزهای این کشور مستقر شود.\u003cbr/\u003e\u003cbr/\u003eاو همچنین گفت: «ما کل منطقه از کوه هرمون تا یرموک و از آنجا تا مدیترانه را کنترل می‌کنیم.»\u003cbr/\u003e\u003cbr/\u003eنتانیاهو در این بازدید در جریان فعالیت‌های نظامی ارتش اسرائیل در این منطقه قرار گرفت.\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003ca href=\"?q=%23%D8%A7%D8%B1%D8%AA%D8%B4_%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%DB%8C%D9%84\"\u003e\u003cb\u003e#ارتش_اسرائیل\u003c/b\u003e\u003c/a\u003e\u003cb\u003e \u003c/b\u003e\u003ca href=\"?q=%23%D8%A8%D9%86%DB%8C%D8%A7%D9%85%DB%8C%D9%86_%D9%86%D8%AA%D8%A7%D9%86%DB%8C%D8%A7%D9%87%D9%88\"\u003e\u003cb\u003e#بنیامین_نتانیاهو\u003c/b\u003e\u003c/a\u003e\u003cb\u003e \u003c/b\u003e\u003ca href=\"?q=%23%D8%AC%D9%86%DA%AF\"\u003e\u003cb\u003e#جنگ\u003c/b\u003e\u003c/a\u003e\u003cb\u003e\u003cbr/\u003e\u003c/b\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e\u003cb\u003e@DEJradio\u003c/b\u003e\u003c/a\u003e",
+      "date": "2026-09-09T14:21:47Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 192,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "DEJ",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/SufwyFJx3DL6ZFqOPkJLPTxZeE7tKMEvS-6kqCjXOZUTjGineMnT8CHiY32FPpiCxMhn29OYBB3JHTUdfXPKlcruiyhcPTBLrmGDezd-iMwXyI7aCgTgh8SB_e1lyg-YTQnUq16QEiCFKcVzpn4XOl3RNfXsQtqkDCy404KS5X6D91EHZsZfpJACcIUmIS20F8pXfu61C4_H-yWwQp3I3zj37XRNPoq9FXlpiVQJVhKL8TmA_pilbt8iDiPt7OL2CBvpR0c7QO0DwkIQd1aDsR1WN2cxvvLnkMtjdcb3_kmXHlCwSxKpOxedPrVN6oJ0FMicRD0SWBGt6RZQ7kg6uQ.jpg"
         }
       ]
     }
