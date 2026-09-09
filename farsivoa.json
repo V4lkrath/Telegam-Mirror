@@ -3,167 +3,17 @@
     "id": 0,
     "title": "Farsi VOA",
     "username": "farsivoa",
-    "photo_url": "https://cdn1.telesco.pe/file/lrPpjCDJnS7V7gohmjLUKu-LlPYaNH2jn5uYdYqvOXHp1mEY3bPHDDKk3WIPKP7hfMPyEuYdquk5LMcV3dDYzYbF7RI_HiioKbQ5NlxHx2icDWaTcct7StBH3n5Ig92FcSVbVzDPbBm6klepSVscSheX4pihq-ZQ2W0Z5CK0xnlF6BUYurfKBzXXrGSoGkT8zIplodEqfFYHNAIjQJXXi3xbBBYSAb8rChpC2zkE4yPfRIPsVKLI-FluOj1J3wsW-O_8bHsgdnV5HId3wqpzKPtYFIrdgyVHV2j9LyiOCfoDaW3O6EFmLufAUrwv9zdDd9UR1UufIsPZJmj5lGxqfw.jpg",
+    "photo_url": "https://cdn1.telesco.pe/file/SY-g4f1tQKFG2hsKocaahCNvj-Unp0HEp2wRJlC71FW1FE_uUGoQPo_ci7c6cFV6Yx_uMco8MIKsHJfYNxt0J8UVro2o05LZ88u9k_anr29QrSMaZ4_OrqTnAuZJbbyStYVwqkcZbgp8ygEJ9g0ldE5Q4DIPovCQdFUfORB4woKpOmpjsBBAqAMLOGl2hqehlnfaiuh_UHRc1ti5Xbgbw7J89LN1bFUoU6eVtlsh8m-jd_6oYuFMomCGTkNvOAz5oRILq0SWHVOSJ-HxnXUyP4LKNSOg-_TgnSDSxFnExXgaezA3LQBDrx1HhvpSlIozL5F-YTnByi6HmevmfqG-Hw.jpg",
     "description": "تنها کانال رسمی بخش فارسی صدای آمريكا\nعكس، خبر و فيلم هاى خود را براى ما بفرستيد:\n@sendVOA"
   },
   "posts": [
-    {
-      "id": 230002,
-      "message": "ایمان آقایاری، تحلیلگر سیاسی در میدان: وقتی هیچ نهاد و سازمانی برای شفاف‌سازی و پرسش‌گری از بخش‌های متخلف که ریشه در حاکمیت دارند وجود ندارد، جلوگیری از فساد معنی ندارد!",
-      "date": "2026-09-09T16:36:03Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2340,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/ZSgZZtW4flnu0CS110sUdYU5Eur0IM2isQa_eXnEHXXBERLYX7ulRziX5mUzGsfqMDRteaPpfBDwEGumUDiuTi7K9STw3-g2tGJUZw-MJuLw3O9KI6Uw5cS9gi7bv9X94HWuaj2tfveeyB7EewuZh39-kfwO6zG5HDPNyjxGGzZEQ8G31FYSvokSlgbCSmSm-NMIaouWxJ0AztDbVYNLtuHFJvTHedv-rz39y24EVMUbSLvQm1qipybG6nmRTi7Sk9aF5SCpAO-ErJl97lc3qz959BKFeI-f3Eqzo_SMzf4HdmgZito8-RYcdRA_LM-FEfC-2Qd1oytahXbSep0wPA",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 230003,
-      "message": "چهار دموکرات برای مقابله با کنوانسیون ملی جمهوری‌خواهان راهی دالاس شدند",
-      "date": "2026-09-09T16:49:52Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1980,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/LYZnsGQu2j33vESL68H6fAAEKKxFFlqoKSsApfZB4ZpIeKnVMcQWm7xOiF4_MMXqXMl3AnrlpOR3Mr69dyQxYHcexCZxikROZdGiAfrnY-rpVzsjwOcR6_mHvz2L8gNmY96kziAsT32vaM4vWCeRedvWss8uMv9sF7Ca_JqlPRu-qa-2BAitf2_afQP2QiJsN5BFIPJkj9iOH7xKEeAaKTlx90GKD3byEr8O0VxEjTCny58K3un5CIAlQDMD1sNLts9yDQfjnXbmOxxEAj3CNapT8yBX4o_B3MQZwG8pc7NbKSi0mJVYydnd_1VU7e1tGhpsx2lNVxPROhO7vPDOSQ",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 230004,
-      "message": "\u003cb\u003eهشدار: حاوی محتوای مربوط به خودکشی\u003cbr/\u003e\u003cbr/\u003eهیچ‌چیز مهم‌تر از جان انسان نیست. اگر به خودکشی فکر می‌کنید، برای کمک‌گرفتن با این شماره‌های ویژه تماس بگیرید:\u003cbr/\u003e\u003cbr/\u003eدر ایران: اورژانس اجتماعی ۱۲۳، صدای مشاور ۱۴۸۰، یا اورژانس روان‌پزشکی تهران ۴۴۵۰۸۲۰۰\u003cbr/\u003e\u003cbr/\u003eدر آمریکا: مرکز پیشگیری از خودکشی ۱۸۰۰۲۷۳۸۲۵۵، یا خط ملی پیشگیری از بحران و خودکشی ۹۸۸\u003cbr/\u003e\u003cbr/\u003eدر کانادا: شماره‌ ۹۱۱ یا ۱۸۳۳۴۵۶۴۵۶۶\u003cbr/\u003e\u003cbr/\u003eدر بریتانیا: ۱۱۶۱۲\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eو در افغانستان: ۱۱۹\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eکاملیا سجادیان، مادر دادخواه محمدحسین ترکمان، از کشته‌شدگان اعتراضات ۱۴۰۱، پیامی ویدیویی در حمایت از خانواده‌های دادخواه منتشر کرد و گفت: «رسالت ما بازماندگان، زنده نگه داشتن نام و یاد جاویدنامان است. نباید اجازه بدهیم دشمن از نبود ما خوشحال شود.»\u003cbr/\u003e\u003cbr/\u003eبراساس خبرهای منتشر شده دانیال کریمی، پدر دادخواه امیرمحمد کریمی، ۱۵ شهریور و آیدا حیدری، دختر ۲۵ ساله و نامزد ابوالفضل سلیمانی الموتی، از جان‌باختگان اعتراضات دی‌ ۱۴۰۴، ۱۲ شهریور به زندگی خود پایان دادند.",
-      "date": "2026-09-09T16:54:32Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1980,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/ZKztaWiKMkTJU1gqExA3VQP2XKb_VJeg9eiHuuJuAoV73LmWxvY0AfdIBbrapSO_4KOc5qEEC_I8f_wKQifa-J5QWzXUia2ipytqKf8hUPoSjbSTQLj9y_yyRcxH3tEorn0epYx98Bgh5EFI5WRN4ZlP5_pBFUr_yV_XRbGxahmsPWBztXxEoMthLLYtSfYeQ3KFM6yQuH0MrOH9JQcugRKTAWoDy4nh3LCVDqPOaRI5lhsnWWpNOOJ3fuPNJM_7z2yE5ti6YBDovFlG72tBsmiRIEgatpt5XBDUUlThBwwwMKl871liPrYABobPNyjSusksEJi_mci1Pes8U0_kzg",
-          "width": 1920
-        }
-      ]
-    },
-    {
-      "id": 230005,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eآژانس پرونده فعالیت‌های هسته‌ای گذشته سوریه را مختومه اعلام کرد\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eشورای حکام آژانس بین‌المللی انرژی اتمی روز چهارشنبه ۱۸ شهریور با تصویب قطعنامه‌ای، ضمن بستن پرونده فعالیت‌های هسته‌ای مخفی سوریه در دوران حکومت خاندان اسد، اعلام کرد که مقام‌های جدید این کشور به حل‌وفصل همه پرسش‌های باقی‌مانده کمک کرده‌اند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/iaea-board-governors-syria-past-nuclear-activities/8196081.html/?nocach=1\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/iaea-board-governors-syria-past-nuclear-activities/8196081.html/?nocach=1\u003c/a\u003e",
-      "date": "2026-09-09T16:56:23Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2050,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA"
-    },
-    {
-      "id": 230006,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A2.png\u0026#39;)\"\u003e\u003cb\u003e📢\u003c/b\u003e\u003c/i\u003e‌ پادکست تفسیر خبر- چهارشنبه ۱۸ شهریور\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9B9C.png\u0026#39;)\"\u003e\u003cb\u003e🛜\u003c/b\u003e\u003c/i\u003eدر صورتی که با مشکل اینترنت مواجه هستید میتوانید اخبار صدای آمریکا را از نسخه‌های پادکست خبری ما به صورت صوتی دنبال کنید و یا اخبار را از نسخه سبک وب‌سایت ما پیگیر باشید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/lite\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/lite\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A1.png\u0026#39;)\"\u003e\u003cb\u003e📡\u003c/b\u003e\u003c/i\u003eبروزترین فرکانسهای ماهواره‌ای را نیز میتوانید از صفحه زیر پیگیری کنید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/satellite\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/satellite\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9494.png\u0026#39;)\"\u003e\u003cb\u003e🔔\u003c/b\u003e\u003c/i\u003eدیگر شبکه‌های اجتماعی ما را هم دنبال کنید:\u003cbr/\u003e\u003ca href=\"https://linktr.ee/voafarsi\" target=\"_blank\" rel=\"noopener\"\u003ehttps://linktr.ee/voafarsi\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eبا دوستانتان به اشتراک بگذارید\u003cbr/\u003e\u003ca href=\"https://t.me/farsivoa\" target=\"_blank\"\u003e@farsivoa\u003c/a\u003e",
-      "date": "2026-09-09T17:02:52Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1960,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA"
-    },
-    {
-      "id": 230007,
-      "message": "از سفارت ایران تا پارلمان؛ رژه موتورسواری برای آزادی لیندزی و کریگ فورمن از زندان جمهوری اسلامی",
-      "date": "2026-09-09T17:10:20Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/kWPF7h1iK2Lr2q5C1SKgt6pQRbw-YI3htY8YRFmzB5l7Z7EAhxPQuMVkUE1Ag1GQt6kv6ec8g6NoEPkLJHCxi9cgrOyTKfzZLAmEAPie1FWHqqCA_LxX0nMSEVPWGa7Q65LU7FE9VEoq7rI8fgHovdt6naAzL7WPjB7d0FsnxS-thu9uBVwA6QcciZerqE5erYqKPlGRBC_jlUR295dp_u4CQuzj7l62vc8aVs6fw4mw7bIAdD38qATCLnywexVH27zNLrGRbwZcZQg48HgMde3KJba1e_dsZYJn8PxpIU7iX5mpmWnyt8zVxs2gZHZqWViOD3M7a2vnuyet3agiwQ",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 230008,
-      "message": "از همکاری در یک پروژه بین‌المللی تا استفاده از دارایی‌های بلوکه‌شده؛ دو روی روابط پرتنش اروپا و روسیه",
-      "date": "2026-09-09T17:15:53Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1650,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/uGOrV91VfSXmi-n03uK0zPL866-TUfddxLrrS4NbytGliUU4KQYZatWHckWVvX8oh6XAtCg-nQIjMwTzleUs74a1mn02KbIMNtufwQf6CPOGcKU3z_2UX_dN_oxPgEU8YoL0wPYn7wVDoAMZYhW5EzIYUzZR4PAQ1sNFy2T9ouCdVJa1IhUo69YH8SK2aeFyMQkplxV4_Q3RxsWK0xqvfK3pTMmD4WQnhR93JW5Cru-FOOdordpIIUYkqcM5WizlWgoK46Vf5b0W-i_iX95XJzcxfL4TFBBY9lz90g6ik29vlrnUZsih5Y7T9o2RVK57XnwCB1s40Ab78aHp5iyEbA",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 230009,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eایالات متحده شبکه جنایی فراملی چینی‌زبان را به دلیل کلاهبرداری سایبری از شهروندان آمریکایی تحریم کرد\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eدولت آمریکا در چارچوب کارزار پرزیدنت دونالد ترامپ برای مقابله با جرایم سایبری و کلاهبرداری از شهروندان آمریکایی، یک سازمان جنایی فراملی و دو شرکت پشتیبان آن را تحریم کرد. همزمان وزارت دادگستری آمریکا زیرساخت‌ها و کیف‌پول‌های دیجیتال مورد استفاده این شبکه را توقیف کرد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/us-sanctions-xinbi-guarantee-cyber-scam-group/8196084.html/?nocach=1\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/us-sanctions-xinbi-guarantee-cyber-scam-group/8196084.html/?nocach=1\u003c/a\u003e",
-      "date": "2026-09-09T17:23:03Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1610,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA"
-    },
-    {
-      "id": 230010,
-      "message": "دیدگاه مهمانان برنامه میدان در مورد تأثیر جانبی تحریم‌ها در بازنمایی میزان بالای فساد در برنامه‌های اقتصادی دولت.",
-      "date": "2026-09-09T17:29:23Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1290,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/MlAhWAZV5VgZV6-HI6TLQlLgvf6eZKj_2KvlykD7q4nL8iFnwBHZAoqPHveplxEpQwXcEg-JN_r0sd9iKigmjZ3dTDxd849jXnfkZPZwuiDsKtJubXND7AZGwgEEw8uujllJY__6bvwpVca-2cwKpi3TNjwEq1MG49fxqmlo1U9K2xVgz9HYQUTxEFPNC_LDZ1l9xdzVGU8TvTvRjWTucVSkRIVCFn8vql7E4kTnC3Ht9T1E9pzm1Cu4VMhLdkKu2-61OEtqdOaMmxYtVUGRntlLAJ5N_r7bkgCxbmSOVeOXgmF2Jk-GArBJjyKJWQ_0wYBfu-qOC5_HnwNO0t3hag",
-          "width": 1280
-        }
-      ]
-    },
     {
       "id": 230011,
       "message": "وزارت خارجه آمریکا روز چهارشنبه ۱۸ شهریور تصاویری از دیدار مارکو روبیو، وزیر خارجه آمریکا، با آبلاردو د لا اسپریلا، رئیس‌ جمهوری کلمبیا، و خانواده او منتشر کرد.\u003cbr/\u003e\u003cbr/\u003eد لا اسپریلا نیز تصاویری از حضور روبیو و همسرش، جنت روبیو، در خانه خود در بارانکییا و صرف شام خانوادگی منتشر کرد و این دیدار را نشانه تقویت روابط و دوستی میان دو کشور خواند.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
       "date": "2026-09-09T17:33:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1390,
+      "views": 3390,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -205,7 +55,7 @@
       "date": "2026-09-09T17:41:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1090,
+      "views": 3360,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -224,7 +74,7 @@
       "date": "2026-09-09T17:46:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 864,
+      "views": 3410,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -243,7 +93,7 @@
       "date": "2026-09-09T17:52:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 706,
+      "views": 3630,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -262,7 +112,7 @@
       "date": "2026-09-09T17:59:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 288,
+      "views": 3630,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -272,6 +122,230 @@
           "type": "video",
           "url": "https://cdn1.telesco.pe/file/RjRFVIPshiGdcuSY9Ko01O5ysqRA8zNL8Y3yJriwkVr4aTELGL4pj2bObPyG66eEF4Bmw9fGgrhpHAS7bRXYoguZg0pybNXxBbaiR-bt_VQrMB1Boi-hL-NTHSR399QSn3iJXZWdOzLUyqCZ9vV_8gE8uRjQoo7QUgg52JI3WemvRvHfQjc1jhcbHfPtl_FEY4vZqgtLZ2HYOK623EgcDJQ07zrqJ5hYj21tpdRp7vI0Syr919l18S_WtLPWlOAfXiujQPM81B7pKcq4Pdybjw8uN7L3g1fXiJjzFOHIhb7EJ5lD0zCjaF3xjO6KokJdaMZxuQbXxRyqbST1HtdC6Q",
           "width": 1280
+        }
+      ]
+    },
+    {
+      "id": 230023,
+      "message": "مادر ستاره رفیعی، از کشته‌شدگان دی ماه ۱۴۰۴، به یاد دخترش شمعی روشن کرد و گفت: «نه فراموش می‌کنم و نه می‌بخشم.»\u003cbr/\u003e\u003cbr/\u003eستاره رفیعی، ۱۹ ساله، ۱۸ دی ۱۴۰۴، با شلیک گلوله ماموران حکومتی به سرش در تهران کشته شد.",
+      "date": "2026-09-09T18:08:03Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3520,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/Ik94KKRR4wVo5Om0tk33Vu6MWs8aAJVfCh6YKPlNmPOADE5nfECUzPYFwO8CHIM8mIPrpbv-GucEn7NUfsLskCXKzllTy36tSeZXvNmPXOIz79PQVt82G8WpelCN3Qw2CwZUmA35PXzEnG-DPCRuuYSE3uMWcGVnEZEXG8yLf__owkaMsJiXHMmz_zQrjf8D8fRt4N9j6IwiTuKZ1IMuojQoDnZwa3MMKf-VpykEA01euQmT9rh5SBjNI6aBNWzxkvB-xRzhdummDXZ5TYLWetRDjjG4ILkWctLFgXxXxSXvJW-hmNqkaT7cfN0gpq5VIkP1ezyTgJalulrwxa8eOA",
+          "width": 1920
+        }
+      ]
+    },
+    {
+      "id": 230024,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eگزارش‌ها از شنیده شدن صدای دو انفجار در نزدیکی جاسک و تنگه هرمز\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eمنابع حکومتی در ایران، از جمله خبرگزاری‌های فارس و تسنیم که وابسته به سپاه هستند، شامگاه چهارشنبه ۱۸ شهریور از شنیده شدن صدای یک انفجار از سمت دریا در مناطق جنوبی شهرستان جاسک و صدای انفجاری دیگر از سمت تنگه هرمز خبر دادند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/reports-two-explosions-near-jask-hormuz/8196103.html/?nocach=1\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/reports-two-explosions-near-jask-hormuz/8196103.html/?nocach=1\u003c/a\u003e",
+      "date": "2026-09-09T18:17:26Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3780,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA"
+    },
+    {
+      "id": 230025,
+      "message": "خلع سلاح پ‌ک‌ک وارد فاز اجرایی شد؛ آغاز تخلیه مواضع و تحویل سلاح",
+      "date": "2026-09-09T18:28:27Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3530,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/nboLYiZalAsipAh2j8cr-XRwL2qmk-QcfWbvMl0QTYqhyYWj9ip2sj-NZobuZvDNS9MzGJ3fAFxh8yixZCww5HeIjItD3U_Kpd0AgvhyYAYL47SZy8iabiBlbAFTjVeGaHdlRpBopugronu7FVffnMYZv-JYsstUNlkEEJqD7EQiDtkcFYeWe0wsuURdAlerR7yb_85Wu1d2bSVl-8EbCVGeueo1XbPRV254AB_SvVUQnE1-85QU_zMcmSyhuhooNuzR1QCHHZXmuQnSFGVu5UJJ1Ynp02lDsvV9lypypZJD9_OSdU3Og0JfZ_ufI1DycgJpd4tK3QAdMe-q_c3g8Q",
+          "width": 1280
+        }
+      ]
+    },
+    {
+      "id": 230026,
+      "message": "ویژه برنامه صدای آمریکا، در سالگرد حملات تروریستی ۱۱ سپتامبر ۲۰۰۱\u003cbr/\u003eجمعه ۴ تا ۷ عصر به وقت ایران",
+      "date": "2026-09-09T18:43:28Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3090,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/mvgvyBSULnGEVqceKAPjZEClt460Use2EYHqQo2e-KTzOlo2136YywQdDdMaixEiCEAFrLk8h2qnJfFPSTrDHp1bf4Z5_prRrmOY4OvDTKFsbHutSMvuQ4jrDUBvkvElBKk3-JbnIylOKUvVZDHHGWijhVVvPPO_JrU1T0tPhTYvhzd4cr8qiiVHDy67EZy1yyzvcoGD3l8PPxsxMOney0XGvFRofzrD6tdqhyxOZv8GYjE6X149PoYwsdnPW5UCEN9FtXbgx4M02ejiMu0OvoGyJ93sx5vjEeIq-He_jrX-Fq-xn8gNORFJk5pMA8cGjPBw4QKfh3mf8p20luZ0Ng",
+          "width": 1920
+        }
+      ]
+    },
+    {
+      "id": 230027,
+      "message": "امیر سلطان‌زاده: دولت توان تأمین ارز ندارد؛ برخی اقتصاددانان می‌گویند از نوسان ارز سود می‌برد",
+      "date": "2026-09-09T19:00:51Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2570,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/PLuuD-ymk9x0KzXOtQOr6VMP65Xcd6zIPC-riwgTZcKa2-fk4k4px7hBhJ6jEescLCGr4txiYLlON-k_7jRs15p8NO4IHgImWNxkvB2Mm7fKg1dGhMxWomtSbw0VLaGtaaXuDAJ9iFyKZLDa8nJYDaRVVsorLIJxD2iKeoAO-LjrkdCtfGUuOtAuXVivhc0TYxr4gvlukr7e95xSHB7SiQOj-ftJN3dqlflNLmflU4JC7t6VIHTOXP-djv-7uEW2UvnvGPVtJCNqVXmzxDNTukb4WlCBbiqznoeuycFVNjeMpu65bHYk70GrXbYnGxhpt7621fGwv56d0Vjw-uXFKQ",
+          "width": 1280
+        }
+      ]
+    },
+    {
+      "id": 230028,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eپرزیدنت ترامپ: تنگه هرمز تحت کنترل آمریکا است؛ اشاره به شرایط بحرانی حکومت ایران\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E297BE.png\u0026#39;)\"\u003e\u003cb\u003e◾️\u003c/b\u003e\u003c/i\u003eرئیس جمهوری آمریکا با اشاره به وضعیت بحرانی اقتصاد ایران و شرایط بسیار وخیم جمهوری اسلامی، تاکید کرد که آمریکا کنترل تنگه هرمز را در دست دارد و قیمت نفت پس از انتخابات میان‌دوره‌ای آمریکا به سرعت کاهش خواهد یافت.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/donald-trump-strait-of-hormuz-us-control-critical-situation-of-the-iranian-government-drop-in-oil-prices/8196134.html\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/donald-trump-strait-of-hormuz-us-control-critical-situation-of-the-iranian-government-drop-in-oil-prices/8196134.html\u003c/a\u003e",
+      "date": "2026-09-09T19:03:47Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2850,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA"
+    },
+    {
+      "id": 230029,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E280BC.png\u0026#39;)\"\u003e\u003cb\u003e‼️\u003c/b\u003e\u003c/i\u003eبا پوزش فراوان از خوانندگان صدای آمریکا، ویدئویی را که به نقل از شبکه‌های اجتماعی با عنوان لحظه فوران یک آتشفشان در اندونزی منتشر کرده‌ بودیم، ساخته هوش مصنوعی است. قطعا از تکرار چنین اشتباهاتی جلوگیری خواهیم کرد.",
+      "date": "2026-09-09T19:07:17Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2730,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA"
+    },
+    {
+      "id": 230030,
+      "message": "رویداد بزرگ اپل؛ آغاز عصر جدید با مدیریت جان ترنوس و رونمایی از نسل تازه محصولات",
+      "date": "2026-09-09T19:14:43Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2270,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/jCzg20a6fVs2EPh1bc6h_ekajZRc36rKhsM5_gvEcLmbCUTr9cg1Hw8NQo6VC2X0CYOGWN7JLCSn9iEYuHd499a-P1kviCAjoOWBAuI5nuw5lLW0_42UGRuhpptacEGF8DmpdL0oBzq1V_M5hAdIre8zooMcfMDRWIVBOjlv1QJNcD4pwiiYxR57DgpUbMlerc-VT3eiIrBkvXrU20zUEGVgtM4m9iNPS1xSjc1RmFXsEfd5g0GR2-MWx3x-IZhLCElM0DKkHJtOSTAeCMpJFE1VQkRrF3IgdCX6bGcbuauEc3ZM7wTnmBfWr78QK3sjNb5qOuLUkEdvKzJHQBVDag",
+          "width": 1280
+        }
+      ]
+    },
+    {
+      "id": 230031,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eوضعیت حقوق بشر ایران در کانون توجه شصت‌وسومین نشست شورای حقوق بشر سازمان ملل\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E297BE.png\u0026#39;)\"\u003e\u003cb\u003e◾️\u003c/b\u003e\u003c/i\u003eشورای حقوق بشر سازمان ملل متحد در شصت‌وسومین نشست خود وضعیت حقوق بشر در ایران و نقض این حقوق توسط جمهوری اسلامی را مورد بحث و بررسی قرار داد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/un-human-rights-council-concerned-about-iran/8196029.html\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/un-human-rights-council-concerned-about-iran/8196029.html\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-09-09T19:29:12Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2090,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA"
+    },
+    {
+      "id": 230032,
+      "message": "گزارش برنامه تفسیر خبر: ارجاع پرونده هسته‌ای ایران به شورای امنیت سازمان ملل در دستور کار شورای حکام آژانس بین المللی انرژی اتمی",
+      "date": "2026-09-09T19:31:19Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2040,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/b1ndGFCOCIb1n_Z0JN0b56LXV6RWuC-1FyH_Alw0otKdzRqPN_Nc-CzJPQ2IaGS7a6o4Bk-Scv7LbC3wDu6qEsKBSBy5dHqMGhvbMfiLHM9uun-ibMWsJVzPg9QiEsFpR9OIp5KMpZ_hvblUzylB3A0YziWP5CVWIMyoLEAU95njdzlpVUfXAkh72IqYpzRZ53i8snRUtLMd8ENzmjVxe2DiZGVSSM-Xg11ANhRU97_AXigXNUfqFHbc23W6mrbb9k5EhzAQPtN9Kbqv_fnfpLEk39EwrA0GY9af6ogyCGXsALNGqmtoPHgK14EX0Uq6RdnRWcRmMvEKFn6Fk-9hwA",
+          "width": 1280
+        }
+      ]
+    },
+    {
+      "id": 230033,
+      "message": "آخرین تحولات جنگ اوکراین؛ حمله روسیه به کی‌یف و آتش‌سوزی در بندر نفتی روسیه\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-09-09T19:47:40Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1560,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/mqqyQe4Y2jPXtJRcgJ3vIEe7sRlYBtuUDesppJGf42UMifTs0nZcK-Ke06ss_sjAb6xF0trM3YKcv2VY1KPz35wC9IbtqxPdFHeo8CWOujmTx5_dL5t8o78dYcAog-TGtz1mmyefsfZnDD3qXMCC0-UBVrdWzxyuQCXhHERiwJ4LQHh94bXE_uPYV8akq9OrPA7rGb7odTt2-ZF_GIbOCb72yp0tp9y9BPnqSnE-6UGA3hSrqeWBhAMAQNxZCwlAI9Mz0Sek06TF8MSQgFwiB-q4sEX9oEpOCi1SzoLXhYkxdDZ-ZskA_V5bWzGD6QOMsAEUKKR9bvdFIz362IwHcA",
+          "width": 640
+        }
+      ]
+    },
+    {
+      "id": 230034,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A2.png\u0026#39;)\"\u003e\u003cb\u003e📢\u003c/b\u003e\u003c/i\u003e‌ پادکست میدان - چهارشنبه ۱۸ شهریور\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9B9C.png\u0026#39;)\"\u003e\u003cb\u003e🛜\u003c/b\u003e\u003c/i\u003eدر صورتی که با مشکل اینترنت مواجه هستید میتوانید اخبار صدای آمریکا را از \u003cbr/\u003eنسخه‌های پادکست خبری ما به صورت صوتی دنبال کنید و یا اخبار را از نسخه \u003cbr/\u003eسبک وب‌سایت ما پیگیر باشید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/lite\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003ehttps://ir.voanews.com/lite\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A1.png\u0026#39;)\"\u003e\u003cb\u003e📡\u003c/b\u003e\u003c/i\u003eبروزترین فرکانسهای ماهواره‌ای را نیز میتوانید از صفحه زیر پیگیری کنید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/satellite\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003ehttps://ir.voanews.com/satellite\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9494.png\u0026#39;)\"\u003e\u003cb\u003e🔔\u003c/b\u003e\u003c/i\u003eدیگر شبکه‌های اجتماعی ما را هم دنبال کنید:\u003cbr/\u003e\u003ca href=\"https://linktr.ee/voafarsi\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003ehttps://linktr.ee/voafarsi\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eبا دوستانتان به اشتراک بگذارید\u003cbr/\u003e\u003ca href=\"https://t.me/farsivoa\" target=\"_blank\"\u003e@farsivoa\u003c/a\u003e",
+      "date": "2026-09-09T19:55:43Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1390,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA"
+    },
+    {
+      "id": 230035,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eیاشار سلطانی از صدور کیفرخواست به «اتهام اختلاس» برای مقامات ارشد فدراسیون فوتبال جمهوری اسلامی خبر داد\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E297BE.png\u0026#39;)\"\u003e\u003cb\u003e◾️\u003c/b\u003e\u003c/i\u003eیاشار سلطانی، روزنامه‌نگار تحقیقی ساکن ایران، روز چهارشنبه ۱۸ شهریور اعلام کرد برای چند چهره و مقام ارشد فدراسیون فوتبال ایران در پرونده «فساد فوتبال» به اتهام اختلاس کیفرخواست صادر شده است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/yashar-soltani-journalist-bribery-iran-football-federation-charge-conviction-indicetment/8196138.html\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/yashar-soltani-journalist-bribery-iran-football-federation-charge-conviction-indicetment/8196138.html\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-09-09T19:56:24Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA"
+    },
+    {
+      "id": 230036,
+      "message": "تحریم‌ شرکت‌های هواپیمایی و سیل در شمال ایران؛ واکنش‌ کاربران ایرانی\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-09-09T20:19:06Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 310,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/ruBBuhIbpZ-7MTZ6MppsvWPiZbm3R73uzFy9SLs03U7nkvT1MKn1aPV9PLK5v5UDRAPbIwZSzhEEQWjQEZPOeh1L3zxhPMeQoKs3KKYkCG6F_xprwFmgR4emlsp-2xG--c2u1I9NmYhc41i1odYLrZJD9ApfeubW2SNRHew4YUUiGNCwCFlDs15a5prAnpCuzGydDfVS3to6KrophitoVAjzhMDmzIe6h6WZTfezzjankVmqcV-4C6VyNIE_-EUshGv2jclUQnVNtm7ZONdkUm-is-DJZz9R8sCmsbwgfBHAVuBdVdc5yLzF60ByHo0UhJ7__Dugq2UQaLcQ-PGN8Q",
+          "width": 640
         }
       ]
     }
