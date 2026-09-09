@@ -8,218 +8,12 @@
   },
   "posts": [
     {
-      "id": 230011,
-      "message": "وزارت خارجه آمریکا روز چهارشنبه ۱۸ شهریور تصاویری از دیدار مارکو روبیو، وزیر خارجه آمریکا، با آبلاردو د لا اسپریلا، رئیس‌ جمهوری کلمبیا، و خانواده او منتشر کرد.\u003cbr/\u003e\u003cbr/\u003eد لا اسپریلا نیز تصاویری از حضور روبیو و همسرش، جنت روبیو، در خانه خود در بارانکییا و صرف شام خانوادگی منتشر کرد و این دیدار را نشانه تقویت روابط و دوستی میان دو کشور خواند.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
-      "date": "2026-09-09T17:33:50Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3480,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/Iof-BvDlviMnSXB4SQFGN68d29bAw9y5Uje6vYZm5GV8MsWeO9-uXBCY8a62_nj7Uy-RlhETGfVdyEClmE8XlJfdr7gZGWWc5B7cXmHkbZI00d-gHUTDcdc6qQcKeDMDQCHKzU2y3x2bUOv5__I_bJh8_aMN1rBHy4F5bsmJLZ2i0cV2WutD72yfrA7lyYcy0s_Yqh83zHwxAgFfPTE8I650DJuAmWFP4z1TpUUmEL_Dc_EjonbtZOi6yYKWtfQ3RoVoYvJtOoMD_LsfqxFkx9bnw4XHVou-2-BCgLgfxoBkADpAl4tNMpzpBl0GsiihUV1Hy80AAGWSYD8QTBR-EQ.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/QYVsV_lwZrJdQrqO8K3uep8_fPgo-idb32EDEb6d8W_pWXLqPRsqqjXp-pllCz7WdZFhl5yek7JGcKNrFaARbQrzuaLPWWlDMO4UozQ7RTMm4Xy2lrubcg2cFcP7HyjBWQE4ZML_TI-HRAM9R-tDaTrFlL9pDnm98uOcFNjove10y3i0huIA8MBf1kT26hg-FIua65sD0nSo-nXjXxh0F5RC8vX9otBgTEMCwVPmOPIbrMvcq2CkzA0dGuBi2eqOlhPMs0DJHtluPnzPnF3IISw9OgQ0Pnd1Yw3zQw7E7Kop-J08ro_oVbIEIsPLLl2Hb4x5uvPpNsheXfg37O6rUw.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/Sj1HAABrjth2CHw0Ch_ou_a1QLuMLraEowfARvNXojmhJWZUFQf5xTrkrGsrxArgVVMusO57afIMw5ERSwrdB4S0ZiWGhNGVkRtLq3TW0moSoTCaZ5wpKxuKTBjmAypGvU78psR7fq4_5qRhDwe2MZragKVBciI7-8WH4Mls2Tmf8Zb5V0PRuFXbBcVKe0tSstvkRyAt5WbcnEU207vVxuxfToMiDoBbjheVQ7oGuiUp4lW3RE0UwWod4kO5k-Wkwcp3pL1V_Z7J3EXnm_HuFy66AFAP2K3zMdrOPuD9236i7efjXdu0RL0DBidfVjQsJ5yfS5lGRce2e9OH2Q2CpA.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/HiXt1Xo7l1tSXvbCV0nGTXV-5HzU6hLGCskW59iLMjjkTczqSYLtmLLxNOMlSf2Bp5av1mX2mqpEUYbb3nt8aUPj-nvyWlxzIZFao3DTSWKSaV4y1xBIAC7Vo4MkSf2CA7v2UCg4kSBpr5JeCbq7Gj-jpwE2roeFdzWfbTTNlbKIGVonzBsQDynybWN0SugixD-jUNH3Mu0hAbc2w9qTZNaSYQJUCNalQ7Lt5jL4SmBCsJlC_dCMBunqotXqira9wh847BaUhlLwDFHiTN13cbjRhton12RFsoJGqG184V1CCpPnI7l1DxCC4N7QvfJvktJH5Vy6vXnUc9eGUag4Vg.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/odPSLj8o3v_JWKKAOEOwbtlaib1yVI28UZgvVSDGZIzE_rokqac4hkke4cT1dkDHYqS9F5_sriw4Q2zmxjmaEPe5uELM3s3h0BiQAVK2n3jkfiMRBJezTT_o8r2neRdtfx5gUNnziYOp6VuH5OWAQOABzMAKd1tqs6Wy7Kj-0jWZWGdUqpi8VIreFSOvSsW0GkRfld3tbnjCKdwaJHCJevDMZ0DtGIWYnuGrx-m0iENhtT3eYlBcma2UMp6iJGFV8lc_YbpCwXYXPfj6cOGFA2xJiuiDEwkaPr2TrmKVqbSxYVi462091I98OneNJlrttaalVbrpwKlVlHBF_s38KQ.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/GDqizh8g0ISQWXPUhsNUAOnzSS12V2EczBCI2Qucq_tujLrWZ-LZ_9jvI6s_VNv_0i3vshwmQssBSidsSBqwMUdhTP60kgK2qC1u-QOAmQJxG5vjG9lCn97F9WfoicOoOAI6iKmUKFQWsXaY4z2c7Iw2XUGm-8EDx2kJ7l-w2ZzcJfv6ZKjGoxwRZxcpQ3BGdLvKjUKXHTHOpmFsBvRZ0wR5dDgEWeD1yluThezkLNx_qXZ2u3u0Bpe34HOW4lW7KIG4z7qPR4MQurkvHeLO5Dg_ITkU4Ky9kCxR49eUPQnqA9AcWynHn4XYKJBvtS-pKwBOM4qTp4lRRMSwhbCMOA.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/Qbo0XeRa6cXYb7sN4Nq6Qa5N7UmXw_ErOwOAaHivvHlhVSiH5O8WaSKudC2AWcdjfk6QY-70tevJCRsnLFg6jq3H-Y-wKxfzeflSXHijfzaI_BOymjKLTIlo5jvGYxqPWeuceBm45G9HzxxCc9CiB4IetjV1Qkp4diOzDLMF6_UKAwjYnEhH9OESVfGwl896gJ3NFDi1ArpSsV6bWK1vfJVMHm2UD4Kt7ANMWSYVXe3iU6Mjsn4O11gPKGYQo46ZWOT3BWgZo5jyf1kHyLfISWytzN7XRxWxaQv8zKpLLNqbtl2PJ0T-1o_9u80imOvhsPJZFGK1jdRfpIX4Q3m4BA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 230018,
-      "message": "بابک دربیکی، تحلیلگر سیاسی در میدان: بهترین تصویری که از «حکمرانی شخصی‌سازی شده» می‌توان مثال زد، وقتی است که مجرم خود را طلب‌کار دولت می‌داند.",
-      "date": "2026-09-09T17:41:25Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3460,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/O47D5DxI3DAv0MCWMKUGg0RBh2UKVZKcm0iST969zbhy-mgon6fFlhmJp3WLtFTLHBk1qt9GHD2xQuc6UAlpIDsnhq5h5emA5KX4aV5OgfWSYf1xNsMBNLsH2J_lpTFN25TpA7DGkJZfgib8TDz_i9wNrmt6wj0xw76T8SYRUslZ99krK_qV4E_fst7J3yst6gxmS95CWH4g-_gIW98gdMEX1XXuESdRHR5kv_nNa2cT3lxqPZ8qpezKCUdhurT8vgP1rZBCNQQi25G2oHKCpyay_XAkqBJhkAJabFEbbL7XsvmB8YEUrdiwev1HmM2ABd_5vdvJ1-B6-AKP2fZq3w",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 230019,
-      "message": "در گفت‌وگو با جمشید اسدی، از تحریم کامل صنعت هوانوردی جمهوری اسلامی و ابعاد تازه تشدید محاصره اقتصادی آمریکا گفتیم. او معتقد است دولت ترامپ با هدف قرار دادن همزمان نفت، کشتیرانی، بانکداری و هوانوردی، عرصه را چنان بر جمهوری اسلامی تنگ کرده که راهی جز تسلیم ندارد.",
-      "date": "2026-09-09T17:46:54Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3540,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/Sp5heT3B9WMB6R6C7yDFPgdEg1ftu_TKkD6ZyUZBrvogAylCfw6o-6Y-C7nJlmTzD8QAQC-o-b38eT4HuHsrlVx0PFwyvGZ6ekFLJCD6PKrGktBjV6ItHHjGJK9cENJv5Y7D5j9sA8I5_8cEuTH8AP63TCSXvKvn120bjD3yFU83at5Y30wZxOO_5GscVJWLMmOuK1qYS5BfCV4SFKq6PXHxDlGV205aVFdSQ4WC4gJGfcJXntuH9sxSuLRfK3bL5CBUAA4Kk9c6uU4TlpsllQMu3CNlCuzm5uWPy7aYyrtmIE-pfHigdsjR0dBx022ubAco5GRUZglOIYSflUy6vQ",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 230020,
-      "message": "نخست وزیر اسرائیل روز چهارشنبه ۱۸ شهریور، در آستانه فرا رسیدن سال نوی عبری، در پیامی تصویری از یک پایگاه نظامی مشرف به سوریه بر بلندای کوه‌های هرمون گفت کار اصلی اسرائیل شکست دادن «رژیم تروریستی ایران» است، و اسرائیل به انجام آن کار متعهد و به آن هدف نزدیک است و آن را «انجام خواهیم داد.»",
-      "date": "2026-09-09T17:52:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3750,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/D8mklwsH6U8NpMt_WBNPojEJVrCtFOoBM9_OzXbVbIzHCD7CzW93A4IQ_OZaOtao76ktD1LHpTsbo_dl7RgsW1jNy221VlBrz6P2DqtUwQ8S1K0Fjk44gENr0Org-DXRn4mZGwNUBif_6DYBIXZ1TbKZZTySrvfQY61kkVrafufcsIEsWScEAbQMPIZyHGcMYAKMpHijLnqQxeC52lGuwDSD4t6_5zzlQrUhhlPnHrui26fCcOzn5OFDpZXb5ceZUshwZ0WeVwry9Hvxne8D3t3r9n2vpLVKtu8rmpPeILCF3H1TWKTfI8vfEYnD0N7LM3_YRBcGeJYmAMYVSkJWnA",
-          "width": 1920
-        }
-      ]
-    },
-    {
-      "id": 230022,
-      "message": "صف‌های طولانی بنزین در سیستان و بلوچستان ادامه دارد؛ همزمان پیک‌های اسنپ‌باکس در سمنان اعتصاب کرده‌اند و اسماعیل بخشی در هفت‌تپه تحصن کرده است. گروهی از زنان نیز با حضور بر مزار نیلوفر مجاوری، خشونت علیه او را محکوم کردند",
-      "date": "2026-09-09T17:59:09Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3750,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/RjRFVIPshiGdcuSY9Ko01O5ysqRA8zNL8Y3yJriwkVr4aTELGL4pj2bObPyG66eEF4Bmw9fGgrhpHAS7bRXYoguZg0pybNXxBbaiR-bt_VQrMB1Boi-hL-NTHSR399QSn3iJXZWdOzLUyqCZ9vV_8gE8uRjQoo7QUgg52JI3WemvRvHfQjc1jhcbHfPtl_FEY4vZqgtLZ2HYOK623EgcDJQ07zrqJ5hYj21tpdRp7vI0Syr919l18S_WtLPWlOAfXiujQPM81B7pKcq4Pdybjw8uN7L3g1fXiJjzFOHIhb7EJ5lD0zCjaF3xjO6KokJdaMZxuQbXxRyqbST1HtdC6Q",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 230023,
-      "message": "مادر ستاره رفیعی، از کشته‌شدگان دی ماه ۱۴۰۴، به یاد دخترش شمعی روشن کرد و گفت: «نه فراموش می‌کنم و نه می‌بخشم.»\u003cbr/\u003e\u003cbr/\u003eستاره رفیعی، ۱۹ ساله، ۱۸ دی ۱۴۰۴، با شلیک گلوله ماموران حکومتی به سرش در تهران کشته شد.",
-      "date": "2026-09-09T18:08:03Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3620,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/Ik94KKRR4wVo5Om0tk33Vu6MWs8aAJVfCh6YKPlNmPOADE5nfECUzPYFwO8CHIM8mIPrpbv-GucEn7NUfsLskCXKzllTy36tSeZXvNmPXOIz79PQVt82G8WpelCN3Qw2CwZUmA35PXzEnG-DPCRuuYSE3uMWcGVnEZEXG8yLf__owkaMsJiXHMmz_zQrjf8D8fRt4N9j6IwiTuKZ1IMuojQoDnZwa3MMKf-VpykEA01euQmT9rh5SBjNI6aBNWzxkvB-xRzhdummDXZ5TYLWetRDjjG4ILkWctLFgXxXxSXvJW-hmNqkaT7cfN0gpq5VIkP1ezyTgJalulrwxa8eOA",
-          "width": 1920
-        }
-      ]
-    },
-    {
-      "id": 230024,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eگزارش‌ها از شنیده شدن صدای دو انفجار در نزدیکی جاسک و تنگه هرمز\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eمنابع حکومتی در ایران، از جمله خبرگزاری‌های فارس و تسنیم که وابسته به سپاه هستند، شامگاه چهارشنبه ۱۸ شهریور از شنیده شدن صدای یک انفجار از سمت دریا در مناطق جنوبی شهرستان جاسک و صدای انفجاری دیگر از سمت تنگه هرمز خبر دادند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/reports-two-explosions-near-jask-hormuz/8196103.html/?nocach=1\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/reports-two-explosions-near-jask-hormuz/8196103.html/?nocach=1\u003c/a\u003e",
-      "date": "2026-09-09T18:17:26Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3910,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA"
-    },
-    {
-      "id": 230025,
-      "message": "خلع سلاح پ‌ک‌ک وارد فاز اجرایی شد؛ آغاز تخلیه مواضع و تحویل سلاح",
-      "date": "2026-09-09T18:28:27Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3660,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/nboLYiZalAsipAh2j8cr-XRwL2qmk-QcfWbvMl0QTYqhyYWj9ip2sj-NZobuZvDNS9MzGJ3fAFxh8yixZCww5HeIjItD3U_Kpd0AgvhyYAYL47SZy8iabiBlbAFTjVeGaHdlRpBopugronu7FVffnMYZv-JYsstUNlkEEJqD7EQiDtkcFYeWe0wsuURdAlerR7yb_85Wu1d2bSVl-8EbCVGeueo1XbPRV254AB_SvVUQnE1-85QU_zMcmSyhuhooNuzR1QCHHZXmuQnSFGVu5UJJ1Ynp02lDsvV9lypypZJD9_OSdU3Og0JfZ_ufI1DycgJpd4tK3QAdMe-q_c3g8Q",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 230026,
-      "message": "ویژه برنامه صدای آمریکا، در سالگرد حملات تروریستی ۱۱ سپتامبر ۲۰۰۱\u003cbr/\u003eجمعه ۴ تا ۷ عصر به وقت ایران",
-      "date": "2026-09-09T18:43:28Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3250,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/mvgvyBSULnGEVqceKAPjZEClt460Use2EYHqQo2e-KTzOlo2136YywQdDdMaixEiCEAFrLk8h2qnJfFPSTrDHp1bf4Z5_prRrmOY4OvDTKFsbHutSMvuQ4jrDUBvkvElBKk3-JbnIylOKUvVZDHHGWijhVVvPPO_JrU1T0tPhTYvhzd4cr8qiiVHDy67EZy1yyzvcoGD3l8PPxsxMOney0XGvFRofzrD6tdqhyxOZv8GYjE6X149PoYwsdnPW5UCEN9FtXbgx4M02ejiMu0OvoGyJ93sx5vjEeIq-He_jrX-Fq-xn8gNORFJk5pMA8cGjPBw4QKfh3mf8p20luZ0Ng",
-          "width": 1920
-        }
-      ]
-    },
-    {
-      "id": 230027,
-      "message": "امیر سلطان‌زاده: دولت توان تأمین ارز ندارد؛ برخی اقتصاددانان می‌گویند از نوسان ارز سود می‌برد",
-      "date": "2026-09-09T19:00:51Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2760,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/PLuuD-ymk9x0KzXOtQOr6VMP65Xcd6zIPC-riwgTZcKa2-fk4k4px7hBhJ6jEescLCGr4txiYLlON-k_7jRs15p8NO4IHgImWNxkvB2Mm7fKg1dGhMxWomtSbw0VLaGtaaXuDAJ9iFyKZLDa8nJYDaRVVsorLIJxD2iKeoAO-LjrkdCtfGUuOtAuXVivhc0TYxr4gvlukr7e95xSHB7SiQOj-ftJN3dqlflNLmflU4JC7t6VIHTOXP-djv-7uEW2UvnvGPVtJCNqVXmzxDNTukb4WlCBbiqznoeuycFVNjeMpu65bHYk70GrXbYnGxhpt7621fGwv56d0Vjw-uXFKQ",
-          "width": 1280
-        }
-      ]
-    },
-    {
       "id": 230028,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eپرزیدنت ترامپ: تنگه هرمز تحت کنترل آمریکا است؛ اشاره به شرایط بحرانی حکومت ایران\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E297BE.png\u0026#39;)\"\u003e\u003cb\u003e◾️\u003c/b\u003e\u003c/i\u003eرئیس جمهوری آمریکا با اشاره به وضعیت بحرانی اقتصاد ایران و شرایط بسیار وخیم جمهوری اسلامی، تاکید کرد که آمریکا کنترل تنگه هرمز را در دست دارد و قیمت نفت پس از انتخابات میان‌دوره‌ای آمریکا به سرعت کاهش خواهد یافت.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/donald-trump-strait-of-hormuz-us-control-critical-situation-of-the-iranian-government-drop-in-oil-prices/8196134.html\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/donald-trump-strait-of-hormuz-us-control-critical-situation-of-the-iranian-government-drop-in-oil-prices/8196134.html\u003c/a\u003e",
       "date": "2026-09-09T19:03:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3040,
+      "views": 4080,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -231,7 +25,7 @@
       "date": "2026-09-09T19:07:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2920,
+      "views": 3960,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -243,7 +37,7 @@
       "date": "2026-09-09T19:14:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2500,
+      "views": 3540,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -262,7 +56,7 @@
       "date": "2026-09-09T19:29:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2350,
+      "views": 3640,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -274,7 +68,7 @@
       "date": "2026-09-09T19:31:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2330,
+      "views": 3620,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -293,7 +87,7 @@
       "date": "2026-09-09T19:47:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1880,
+      "views": 3260,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -312,7 +106,7 @@
       "date": "2026-09-09T19:55:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1810,
+      "views": 3380,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -324,7 +118,7 @@
       "date": "2026-09-09T19:56:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2050,
+      "views": 3910,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -336,7 +130,7 @@
       "date": "2026-09-09T20:19:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1010,
+      "views": 3260,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -355,11 +149,193 @@
       "date": "2026-09-09T20:30:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 442,
+      "views": 3580,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Farsi VOA"
+    },
+    {
+      "id": 230038,
+      "message": "خروج «آب به جای بنزین» از نازل سوخت؛ شکایت مصرف‌کنندگان ایرانی\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-09-09T20:40:39Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/twfZnDRcV5JYOJr1obG_LCNraX2W9D6PheVrbVesVeKvABOcpR_sWw-MDgi3d6Pq2oP1fUp-_Kh4Lx1T6zaxSipMih9TgC_ItlV760zyc5t_B6kFt3gtONIvySvVBkfEazPgObmEAEmUs1VFdWSP_3hVp4ET65ZCKVEpBTCfO11Mmwbp8l7bYFqg9S4YEb_ELmk-xw8tVcknikzdPB-rnG660rLdda8wNei4hz0vDN7qQV0Unq0fq1GKkDOeFoQYTqf-LRLckd4ROx2OSvoPKkJqV2yiM1b5FqOJF58ux9AC9BPJN4yFB6IlyGW5JLH4ZZnSCO-2Jy1Ku5M7kiwIyQ",
+          "width": 640
+        }
+      ]
+    },
+    {
+      "id": 230039,
+      "message": "بنیامین نتانیاهو در بازدید از ارتفاعات حرمون گفت اسرائیل اجازه استقرار «ارتش تروریستی» در نزدیکی مرزهایش را نمی‌دهد. او همچنین شکست جمهوری اسلامی را «مأموریت اصلی» اسرائیل خواند و گفت این کشور به این هدف نزدیک شده است.\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-09-09T21:03:56Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2700,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/bSBCfp_3G7fZXep3atmlVVMQsUj0Nv2_6LWWAOwVRCIyh8oCOCD_yPO3PCXwyEJVwDf3-segbsa5qSVphmZWW7Azh1n9dQRypp2ghjmbV5lCBlMFIsn0BoK-DU8rdeeZpjAc5_Aa1slAF0AjKFnpAF6yAYODdfoYjEFxAtHbWeSBP0-3rpql7PyvhW54jhYS2epX9cDL_OpYpsq1DMcyBjHM-J1FakOd41xXv9KVjnCbFoOpbqZNJa_O9DSam9-TJCoUgWqrptZbaCeNiXymldC5xhhD735K_xW6dsZvvVDfh3QrvrRmleIlgKS6vIPAzG-jq14LLOcL-ReyUAm6jA",
+          "width": 640
+        }
+      ]
+    },
+    {
+      "id": 230040,
+      "message": "کانال تلگرامی وحید آنلاین به نقل از کاربران در جزیره قشم بامداد پنج‌شنبه ۱۹ شهریور از شنیده شدن صدای انفجار شدید در قشم خبر داد. بر اساس پیام‌ها منتشر شده، برخی کاربران از لرزش منازل و شیشه‌ها در پی وقوع صدای انفجار خبر داده‌اند.\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-09-09T21:09:26Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2910,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/EGOY_yzNbjjzKXpjUmUDaZOFele5lAREvPzqxrPjjdr0oDb86lz42RjEexUkPCMhxVhYG2_dWR5m0tDEAOIZJxa0dml30TZg8Dp0PfL4bND3TY0UpP_Jfj7qid8CnHEmaCMzdPRE8dVW1Osn-Aig2OcVmvijaFZLvUTw9ZRUrrIhCnR61zK6Scv8gT5m33Hqn2mxuWMyhp2KJeU2vzDX0X2ODVSjF5CGQlhB0E_tCqFjdx8pw7QOxLhIqm4vGyWWCnBeSUjYZFmMsuffl1a9L7jqRwz7jYzp_v9XRKKBSNGFqFBw-02z00DwJXpXK6SKGkW0jyxXFJcxDtpUkkrYqw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 230041,
+      "message": "حامد آئینه‌وند، روزنامه‌نگار می‌گوید «تندروهای سپاه» در ایران «دست بالاتر» را دارند\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-09-09T21:19:48Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2440,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/MCUSqbwiVAJiaLQeSlXj82-WO0MO0K5fows3tm8mevZ_cWO0TJPglUJ0dIfRT9NrxsJl6Y1HCQDMJW81T1vpd7dy8jkuTB-UMqXqbi3S35dw9n3qJ4Uz3OQzYlvHT4kxXcv9prmy30ja854-et7j8SRbP-KhIgV7enUB3X72TsKvWm6_XrtQ-Sf-k7RxhrwGRl_52ffMh_70MWjEqDbjU53xeuqgyo3bsSv_bsimOWmMdNsYnwr3oP_vF_TEYsmWqlxjTd-fnhxTZkNTAkA8-az0kF928CkQ2I5BYM6o4DKWMB-xn5VjdH9hmSg4JfKIg0-JGEyrCvpgcsOPg-k2bg",
+          "width": 640
+        }
+      ]
+    },
+    {
+      "id": 230042,
+      "message": "جزئیات حملات آمریکا به نفتکش‌های «ناوگان سایه» جمهوری اسلامی\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-09-09T21:31:13Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2250,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/klm3pEQk8fMHMbJklRTBjmT2PbkSPi6ANnorZv8qSvXGxRP7_XNn_P_ot4PFxjfcEAZ32sQW3O33xhrNL8RPU7OxOfJkMeDHnyXJ--zfxjUBrn4PxJ8rrzRE1hylxOa6YbSDGJiBWsAKyEDzulgjyyT_EJRovv0mt3D8Fn19OuQroE_o2oe9Li10tcrU41KSho82RLwC--BCXqPNxHH79zUcYj4XTX0nfQpgqMz95YVm1rCfaHXRksYhpXN2apyVP-5tqNjZQqAHR8vfQ4aVoz90Oz-Heb155uZ93LUcAfBWzAzMPXHHIdmVhqogwvDRG_TLG78Y5o8nMzWfJI_-7Q",
+          "width": 640
+        }
+      ]
+    },
+    {
+      "id": 230043,
+      "message": "آمریکا چگونه ادعاهای حملات جمهوری اسلامی به مواضع و نفتکش‌ها را بررسی می‌کند؟ گفت‌وگو با نیما خویی\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-09-09T21:43:33Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1870,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/WBwiLFWiiEbQxUMk1kvVH9ad1oo-JFuUg1rtdozGnmWabPEvIDQ8ruqb5a_Win5DGYyn94FfCN0rNZ3xKShs9iskL4af7KnpnWwTlDXARpm3xGSIwHZ9qR_uGDhoG5yXIji2y2GumLRo7RT1bHWHF0I5zC08DETCMFQyQrlqCb0GZ0m3ealkKNviLfbdVFT62sqGTA7LWY_HXPl1CVaDbY80o0BnMz92lzC7Ln2kYux3X03zluwyqmIOsgCbWODlNaeH6tZsPCTSXG_BDBiKsmdCr1dk1bxD-EtJTfezy18ZvlWNzyV9n6yaw_fORW7guIC7OurgG8d0KQwCebl7eg",
+          "width": 640
+        }
+      ]
+    },
+    {
+      "id": 230044,
+      "message": "پیامدهای روانی سرکوب خانواده‌های دادخواه؛ گفت‌وگو با پیمان رئوفی\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-09-09T21:55:10Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1560,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/AGMJo3OkwIIvjQhzuA1r6IRommW_2bYq_iOKpVlGBFIYrz4cGxrtm5eth7JB0Vxe7tPVKXi9gAQ_F9mV-1XXxL-N2AdBC-XvkVrBML58lARJp7QH3vDCtKBkxwtP-mOnhwrQSz2iaefuELZabaHsBNFKA7h1uSEtKmxgwC2Tn3A3rHrRLRypomglaz-u67oQwO0Kjxo8Q499WDcPDR3c6DRRPzr5c5Z9DPZkj7aYxW-sihZFvJpDtqoJEFWXY2oIjZRbGafBlwfa78Le6L__jwpE0rd5GbE4pBGQFomtce-CPXKjJPdrSp8m-L3IeLUHBFesIGNLlK6X_Z6YkKHCrg",
+          "width": 640
+        }
+      ]
+    },
+    {
+      "id": 230045,
+      "message": "حساب کاربری دونالد ترامپ، رئیس‌جمهوری آمریکا در شبکه اجتماعی ایکس، ویدیویی را روز چهارشنبه ۱۸ شهریور منتشر کرد که در بخشی از آن سخنان پیشین رئيس‌جمهوری آمریکا به گوش می‌رسد که به «مردم بزرگ پرافتخار ایران» می‌گوید «ساعت آزادی شما نزدیک است.»\u003cbr/\u003e\u003cbr/\u003eدر بخشی از این ویدیو، آقای ترامپ با اشاره به عملیات «خشم حماسی» به ایرانی‌ها می‌گوید «وقتی کارمان تمام شد حکومت خود را به دست بگیرید.»\u003cbr/\u003e\u003cbr/\u003eرئیس‌جمهوری آمریکا این سخنان را در اوایل عملیات خشم حماسی که به کشته شدن علی خامنه‌ای، رهبر جمهوری اسلامی منجر شد بیان کرد.\u003cbr/\u003e\u003cbr/\u003eعملیات خشم حماسی آمریکا، با مشارکت اسرائيل، چند هفته پس از آن آغاز شد که نیروهای سرکوب جمهوری اسلامی، به دستور علی خامنه‌ای، ده‌ها هزار ایرانی معترض را در شهرهای مختلف ایران در دی‌ماه کشتند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/8196175.html\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/8196175.html\u003c/a\u003e",
+      "date": "2026-09-09T22:11:28Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1260,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/HLrcA3N5zryhVr6eBPKcBONRFaM3b-a9ed-6eo_MTJvD3_037L56pltHpsIr9z02YYehnXaHuiwoF2TWJ0HijXoJHWt1amC_946Aclj2tesC_jlmRXXiLjeq6kW6Tcx4ILymY44LXQnKucj4RtBbFQSV9UCMb9WiInOZxqZGnW45L0zFBEjuEjlaUSx4OIHPigTkGVMg2xZhwG4HkWJgQOR_P7xBsHjwPX5tXUEa0o4vIMwYTMcj8OsJj6nWbQWALk5rwmVobLaXoFAxPfzxn64oBAy2UMJZtNDwhhbmbh0qna-BXKqnRNBsz71m6aIZKyc8HWs0SvtSwTKPbKJZTQ",
+          "width": 1920
+        }
+      ]
+    },
+    {
+      "id": 230046,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eاپل از نخستین گوشی تاشوی خود به نام «آیفون دوئو» رونمایی کرد\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E297BE.png\u0026#39;)\"\u003e\u003cb\u003e◾️\u003c/b\u003e\u003c/i\u003eشرکت آمریکایی اپل، روز چهارشنبه ۱۸ شهریور ۱۴۰۵ همزمان با معرفی گوشی‌های تلفن همراه سری ۱۸، از نخستین گوشی تاشوی خود به نام «آیفون دوئو» که مانند یک کتاب به یک صفحه نمایش عریض تبدیل می‌شود، نیز رونمایی کرد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/apple-unveiled-its-first-foldable-phone-named-iphone-duo/8196165.html\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/apple-unveiled-its-first-foldable-phone-named-iphone-duo/8196165.html\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-09-09T22:35:48Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 329,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA"
+    },
+    {
+      "id": 230047,
+      "message": "رویارویی سیاسی در دالاس؛ دموکرات‌ها با نشست خبری و انتقاد به استقبال کنوانسیون جمهوری‌خواهان رفتند\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-09-09T22:41:56Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 67,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/XBdjYY3ImLKdMrT7vBx0r0tWZv9hxGBOo41Sk-Y8sBbilrCcoTeDszHcVdGiWdw3ahawDeqO6ltc16ROkQechmznFkT3TbHiDFRNCyMJ3p00Cluwo2Xq_LHzku5SrpoX6QibCZ6KfVLqe8JswE627eG9nANbSfVJyYTfdTQY_C3B_TGBs7dHMxt3LaNJCos3BLzt6xsOzPM0uISEotEwqU2yw1s0OIuBLjP3wZdhz7-Q7qamrV501s4_6vlZP5GuHUNtLxoFooSX5RBfAEP0OI3owElNeIUaSm3w91fste-6vt4X2BUUjfLA46wjlTN-3dMEhs4-zeI5gv6jPPujgg",
+          "width": 640
+        }
+      ]
     }
   ],
   "last_updated": 0
