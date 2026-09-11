@@ -3,119 +3,17 @@
     "id": 0,
     "title": "Matin SenPai",
     "username": "matinsenpaii",
-    "photo_url": "https://cdn1.telesco.pe/file/fZNYdaAULDdkltn_htMR5FiV7aKg_wgR6oKa8KzQnavPYYzHZF8eneqGLYz4mmUkt_Uqw-VOtNfdYjtSGvBTO7dMs1EeYDVi9769FI0JfRJwuJ7f5Kx9CcxphuOB5XwKqIc4TxNvkVqoGWC38SKS_EqvN002QR5ue80Sv0WAR8AXMJMGnPlKtWnSe4qY94D6iTLvMouXLuQ7hGZvbh-KlXqJATTYDN-ju15D28uwIfk_9HcxGQx6Do-1Su_W0OrgM1QVtuFsuD0r4wHbztR-zZFh4ZyHNACpcGO5e5qedR89SzwtkWwzJKnkqclKWGlduaTTdGpPtWmT7PyHBuGguA.jpg",
+    "photo_url": "https://cdn1.telesco.pe/file/F04PpKAk83HgbVFsJ3iVE0-hmPLMozXn2Otb1-LFPTRjSLeWLVS_hfpEsiJ-0iSI7N2a3ocrKkUggTgnPJkjktMXl85b81hSaKU4SPRUN3dm3I3VDQwxoUjAlCyh0P9FNQEdJuKpIIdRH1t84qJ5JKGva7clV0Izo2LvuMrg1p2gHiv35epZ3-vs28chMwaPN3hOO_EFJxjznsWTldGqY7ptqWR0FR8NqVDtymzHum7h0tda6Bq9E9V8FzVzk9uIddB875iq125PblAxVpWz8sZXNFz4AbzY-SrJEFUoFhY33YgbHrODYCFDLBbvl1JcSk9SZC5Pc16DyCcDvshtcA.jpg",
     "description": "متین هستم و کامپیوتر رو دوست دارم! در حال یادگیری هستم و چیزهایی که یاد میگیرم رو سعی میکنم به شما هم یاد بدم اگر به دردتون بخوره=)\n\n•YouTube:\nhttp://www.youtube.com/@Matin_SenPai\n\n•Github:\nhttps://github.com/MatinSenPai"
   },
   "posts": [
-    {
-      "id": 5193,
-      "message": "لیمیتم رو پنج روز پیش تموم کردم. از کجا می‌فهمیدم می‌خوای مدل جدید بدی خب\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FABAA.png\u0026#39;)\"\u003e\u003cb\u003e🫪\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e(مدل Astra الان برای کاربرای پلاس بیست دلاری هم در دسترسه)",
-      "date": "2026-09-04T23:31:53Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 36500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/YBeHgh79pAZGcQo90kObk3K-LjTrbtWRs4Bvj1I43SZusGk7WBp0ksEi_Fvhj3q3TiZnHmA31VRi2KDgIvssHQH15VDB2MbLQPrhM-FaX013xnw9ikCf8yJE6nHtSYzeMwt-cHsFTaYFWPUv53D86AuMf09X9nCGEqgDEOD1X_xInRWFM7AOmVIEg9Q8CQPil2nZylvMMtVPprV6pjoAMtOpdJTn-knD8Us-uaLrzfxbbkBv9aTJs9EUYYvSkjQUkyKOQpirASZqWuJZKmJiLtDQfHTzkIgecdJCHpE-4bYAWrKdbXZKKW5eSBz3QjodXTp_16G6XIPMtOvTt27weA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5194,
-      "message": "این 25 دلار توی حسابتون می‌مونه دوستان. یه سریا فکر کردن 25 دلار از سر راه آوردیم بدیم دست هتزنر\u003cbr/\u003eشما اگر که استفاده‌ت میشه طبیعتا پولش رو میدی. مثلا من عموما قدیم از هتزنر برای استقرار ربات‌های تلگرامم استفاده می‌کردم\u003cbr/\u003eهزینه‌اش نسبت به سایت‌های دیگه خیلی اوکی تره طبیعتا نسبت به منابعی که میده.",
-      "date": "2026-09-04T23:35:25Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 36300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5196,
-      "message": "سلام، من پدی (پدرام) هستم!\u003cbr/\u003e\u003cbr/\u003eهمون‌طور که احتمالاً حدس زدید، برنامه‌نویسم و این اولین ویدیوی این کاناله.\u003cbr/\u003e\u003cbr/\u003eاینجا قراره درباره‌ی دنیای نرم‌افزار، برنامه‌نویسی و ابزارهای مختلف، مخصوصاً هوش مصنوعی، حرف بزنیم؛ اما با یه تفاوت مهم:\u003cbr/\u003e\u003cbr/\u003eقرار نیست با اومدن AI، هنر برنامه‌نویسی، مهندسی نرم‌افزار و طراحی درست سیستم‌ها رو فراموش کنیم.\u003cbr/\u003e\u003cbr/\u003eتوی این ویدیوی کوتاه، خیلی کلی درباره‌ی دیدگاهم، دلیل ساختن این کانال و مسیری که قراره با هم جلو بریم صحبت می‌کنم.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5934029049260150525\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B9.png\u0026#39;)\"\u003e\u003cb\u003e📹\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://youtu.be/h920xIQCMP4\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eتماشا ویدیو از یوتیوب\u003c/b\u003e\u003c/a\u003e",
-      "date": "2026-09-05T12:24:16Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 34100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/bvzf0Nv6V_wI1pRIEiQGC8O6yBz6up8LN2NUqCm6jvmDN59pChQlXpOnCwrsRj3p-ZD2ashZP1wiomC0070MbUmv0iQYreK3ykfHIR9NFA_vM1la8s6q-xYjgw9bk0bSek9LTwdj13OgnSW-Q3alFMqvpLbxPBYSZ9oD6222hIR2Wtg8r-zCK2Cu5S19mojXnbOYEl5HRagqkUGrnF2_0eU_0wBqWIryL4xibXf4wBeGXSwkm2F5x6WgB3Zb3blg3UEnjpUgPl3Ba3z6CBVJLhX2ry0UU5QI4iEauoSpJ1YjHfXNAf3z1NS_j0UY8JPh_tQy5PLPrei4w2TOza5seQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5197,
-      "message": "اگر می‌خواید برنامه‌نویس بشید؛\u003cbr/\u003eاگر به هر دلیلی از Replace شدن می‌ترسید\u003cbr/\u003eاین ویدئو رو ببینید",
-      "date": "2026-09-05T12:28:49Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 38200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5198,
-      "message": "البته اگر می‌خواید برنامه‌نویس بشید توی ایران اول از همه بهتون تبریک میگم که با دلار ۲۲۵ هزار تومنی و بدبختی اینترنت و نامعلوم بودن آیندمون و جنگ و اقتصاد و فلاکت و بدبختی تصمیم گرفتید توی این حوزه قدم بذارید و شجاعت به خرج بدید",
-      "date": "2026-09-05T12:46:50Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 38200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5199,
-      "message": "ببخشید خواب بودم قیمت جدید رو چک نکردم",
-      "date": "2026-09-05T12:48:10Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 36100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5200,
-      "message": "\u003ctg-emoji emoji-id=\"5332724926216428039\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9387.png\u0026#39;)\"\u003e\u003cb\u003e📇\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eیکی از ابزارهایی که باید توی هر پروژه‌ای استفاده بشه، Codebase Memory هست.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://deusdata.github.io/codebase-memory-mcp/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://deusdata.github.io/codebase-memory-mcp/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5863885503102718533\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9FA2.png\u0026#39;)\"\u003e\u003cb\u003e🟢\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eکاری که می‌کنه در ظاهر ساده‌ست: کل Codebase شما رو index می‌کنه و از ارتباط بین بخش‌های مختلف کد یک Knowledge Graph می‌سازه؛ از function و class و interface گرفته تا call chainها، dependencyها، routeها و حتی جریان داده بین functionها.\u003cbr/\u003e\u003cbr/\u003eنتیجه اینه که Agent برای جواب دادن به سؤال‌هایی مثل:\u003cbr/\u003e«این function کجاها استفاده شده؟»\u003cbr/\u003e«اگه اینو تغییر بدم چه چیزهایی ممکنه بشکنه؟»\u003cbr/\u003e«این request از کجا وارد سیستم می‌شه و تا کجا می‌ره؟»\u003cbr/\u003eدیگه مجبور نیست هی grep بزنه، فایل باز کنه، دوباره سرچ کنه و نصف context window رو صرف پیدا کردن کدی کنه که اصلاً دنبالشه.\u003cbr/\u003eبه‌جاش از طریق MCP مستقیماً روی گراف Codebase query می‌زنه.\u003cbr/\u003e\u003cbr/\u003e \u003ctg-emoji emoji-id=\"5197269100878907942\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8D.png\u0026#39;)\"\u003e\u003cb\u003e✍️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eتفاوتش هم فقط تئوری نیست.\u003c/b\u003e\u003cbr/\u003e توی مقاله‌ای که روی ۳۱ پروژه‌ی واقعی تستش کرده، Codebase Memory با حدود ۱۰ برابر توکن کمتر و ۲.۱ برابر tool call کمتر به 83٪ کیفیت پاسخ رسیده؛ در مقایسه با 92٪ برای Agentی که کدها رو به روش معمول file-by-file می‌خونه.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5429651785352501917\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28697.png\u0026#39;)\"\u003e\u003cb\u003e↗️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eخود پروژه هم برای ۵ تا structural query مشخص benchmark گرفته: حدود ۳,۴۰۰ توکن با graph در مقابل ۴۱۲,۰۰۰ توکن با روش file-by-file. یعنی توی اون تست خاص چیزی حدود 120x مصرف توکن کمتر.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5379999674193172777\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94AD.png\u0026#39;)\"\u003e\u003cb\u003e🔭\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e ایجنت از اول یک دید ساختاری نسبت به پروژه داره. می‌تونه call chain رو دنبال کنه، impact یک تغییر رو پیدا کنه، dead code رو تشخیص بده، architecture پروژه رو دربیاره و حتی ارتباط بین چند service رو دنبال کنه.\u003cbr/\u003e\u003cbr/\u003eامکان Semantic Search هم داره؛ یعنی لازم نیست حتماً اسم دقیق function رو بدونید. مثلاً دنبال مفهوم send بگردید، می‌تونه چیزهایی مثل publish یا dispatch رو هم پیدا کنه.\u003cbr/\u003e\u003cbr/\u003eضمن اینکه همه‌ی indexing و queryها لوکال انجام می‌شن و کدتون برای ساخت این graph جایی آپلود نمی‌شه.\u003cbr/\u003e\u003cbr/\u003eخلاصه اینکه به‌جای اینکه Agent هر بار پروژه رو از صفر «کشف» کنه، یک نقشه‌ی قابل سرچ از Codebase جلوش می‌ذارید.\u003cbr/\u003e\u003cbr/\u003eمخصوصاً روی پروژه‌های بزرگ، تفاوتش خیلی محسوس‌تر می‌شه.\u003cbr/\u003eو بالاخره کمتر شاهد Agentی هستیم که برای پیدا کردن یک function شروع می‌کنه با grep و find و jq کل repository رو شخم زدن \u003ctg-emoji emoji-id=\"5350708280702281097\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A2.png\u0026#39;)\"\u003e\u003cb\u003e🤢\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
-      "date": "2026-09-05T15:22:32Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 34700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/uKlwVxN3cpkqXZifisaASBPB-huI_QR1cOaf8YVa9oAop8rDeEbQmQtGRZ7-YGxmlDsFJtfUhAQTdeL2MVMRpxIgDSJ3ttlGDNG_DbeuzvqfhfCwbvIC4B21uhH8v-W1rCm7P99CCb-F7C9LF5O_gVmM3hgTIgPGiIgrYAcosHt9ycMxL-bHYLUrhBiG7yXMjIfL1ev0XasV3gENfREKo_4mIG-SDOw5ubgueQTcSHU5I1FYjl-nTUp-GxINVN3jlukq31-4SLAt9Ud4EzRNR54RE_pgruEWmgVKQPjxoFDdxHWUF9YDNtsVRlR2_x4Fac-LGIC05pHlWIrpw5uTOg.jpg"
-        }
-      ]
-    },
     {
       "id": 5201,
       "message": "\u003cb\u003eآموزش خرید اشتراک Claude Pro با ویزاکارت شخصی و ایمیل خودتون\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eمن امروز تجربه‌ام رو از خرید اشتراک کلاد پرو می‌خوام باهاتون در میون بذارم، که چطوری خیلی راحت و بدون نگرانی بتونید با پرداخت کریپتو روی ایمیل خودتون فعالش کنید.\u003cbr/\u003eیکی از دوستانم دو ماهه و خودم هم از دیشب خریدم اشتراک Claude رو و مشکلی نداشتیم. صرفا باید ریز به ریز کارهایی که می‌گم رو انجام بدید\u003cbr/\u003eقیمت اشتراکش روی لایسنس مارکت الان 5.700 هست ولی این شکلی اگر بخرید با تتر 228 تومنی در میاد 4.800 که خب یه تومن به نفعمونه حدودا.\u003cbr/\u003eحتی اگر بعدا به مشکل خورد یک وقتی(که فعلا با این روش نخورده)، مبلغ رو برمی‌گردونن به حساب Mpay که ساختیم و مثل سایت‌های ایرانی نمیگن برو بیست روز دیگه بیا\u003cbr/\u003e\u003cbr/\u003eآموزش:\u003cbr/\u003e1- اول از همه، شما باید یه ویزاکارت مجازی داشته باشید. آموزش متنی ساخت ویزاکارت: \u003ca href=\"https://t.me/MatinSenPaii/4915\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/MatinSenPaii/4915\u003c/a\u003e آموزش ویدئوییش: \u003ca href=\"https://t.me/MatinSenPaii/5091\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/MatinSenPaii/5091\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e2- حتما باید حسابتون رو توی Google Pay اد کنید با این روش که دو دقیقه وقت می‌بره نهایتا: \u003ca href=\"https://t.me/MatinSenPaii/5092\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/MatinSenPaii/5092\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e3- توی گوگل پلی گوشی اندرویدتون، با همون ایمیلی که کارت رو روش ثبت کردید وارد بشید و بالا سمت راست روی پروفایلتون بزنید. \u003cbr/\u003eتوی قسمت Payments \u0026amp; Subscriptions که وارد بشید، باید بتونید اطلاعات کارتتون رو ببینید.\u003cbr/\u003e\u003cbr/\u003e4- اپ اندروید Claude رو از گوگل پلی دانلود کنید، وارد حسابتون بشید، توی تنظیمات روی Upgrade بزنید، پلن مورد نظرتون رو انتخاب کنید و خودش هدایتتون می‌کنه به پرداخت با گوگل پلی. \u003cbr/\u003eو به راحتی پلن واسه‌تون فعال می‌شه\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
       "date": "2026-09-05T15:52:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 37100,
+      "views": 39100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -133,7 +31,7 @@
       "date": "2026-09-05T15:58:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 34100,
+      "views": 36900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -145,7 +43,7 @@
       "date": "2026-09-05T17:19:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 39200,
+      "views": 40500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -163,7 +61,7 @@
       "date": "2026-09-05T17:39:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 39900,
+      "views": 40300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -175,7 +73,7 @@
       "date": "2026-09-05T21:11:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 44100,
+      "views": 45000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -193,7 +91,7 @@
       "date": "2026-09-06T06:35:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 42900,
+      "views": 44400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -205,7 +103,7 @@
       "date": "2026-09-06T18:01:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 39800,
+      "views": 41700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -217,7 +115,7 @@
       "date": "2026-09-06T19:26:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 44400,
+      "views": 46100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -235,7 +133,7 @@
       "date": "2026-09-06T20:10:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 45900,
+      "views": 47600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -247,7 +145,7 @@
       "date": "2026-09-06T20:42:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 46500,
+      "views": 48300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -259,7 +157,7 @@
       "date": "2026-09-09T07:47:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31100,
+      "views": 32299,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -271,7 +169,7 @@
       "date": "2026-09-09T23:36:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24500,
+      "views": 26900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -283,7 +181,7 @@
       "date": "2026-09-10T05:32:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21000,
+      "views": 24300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -292,6 +190,99 @@
         {
           "type": "photo",
           "url": "https://cdn1.telesco.pe/file/BPGPrRbEv0uAdiWgUodCDgEcU6-JaZVtm4TzIvMqxjk_BXX2NRmo5jTsHUM6RGnU9tT67tGOJv1-ceDbECvc9TtZgnnNU76I0YoLViti-WTlAmZgui0hNocJ65QkhYpgYvyRishvqmP2qKNDA_8hE3aEHdFfaV1J5Pr5Nfh5HsX6fw923F4q_XhQpNs-MC6um0JlHGKDoMoHmoV1xbPfhp7cTHWrs1DldIYud0pJHB5agnkQyWFKj-Ro3jwOsUPh6jdm8RIO8ZQZKA0H5YqAs43AVkX6mQB1nmlXeldb_xeBeFXc8K97zLFspkyQOG8oHqVUhaFWm9H3ojvU0lywtg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5214,
+      "message": "ناگفته نمونه اوپن دیزاین خودش چینیه\u003cbr/\u003eولی توی توییتر دارم می‌بینم که بچه‌ها خیلی خوب از دیپ‌سیک نتیجه گرفتن روی هارنس‌های Cursor و کلاد کد",
+      "date": "2026-09-11T08:56:33Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 8650,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5215,
+      "message": "گوگل لبز یه اپلیکیشن آزمایشی جدید به اسم Dreambeans ساخته که رویکردش کاملاً برعکس شبکه‌های اجتماعیه؛ یعنی به جای اینکه شما رو بکشونه توی چرخه اسکرولِ بی‌انتها و نویزهای تموم‌نشدنی، هر روز فقط یه مجموعه جمع‌وجور، حدود ۱۰ تا ۱۴ تا استوری یا همون Dreambean تحویلتون می‌ده که کاملاً متناسب با زندگی واقعی و شخصی خودتونه. \u003cbr/\u003e\u003cbr/\u003eمنطق اسمش هم جالبه؛ سیستم در طول شب داده‌هاتون رو سبک‌سنگین و اصطلاحاً پردازش و خواب‌دیدن (Dream) می‌کنه و صبح مثل یه فنجون قهوه تازه و غلیظ، خلاصه‌ای از نکات مفیدِ روز رو می‌ذاره جلوتون تا به چیزهایی وصل بشید که واقعاً براتون مهمن.\u003cbr/\u003e\u003cbr/\u003eروش کارش این‌طوریه که با اجازه خودتون، از سیستم هوش مصنوعی گوگل (Personal Intelligence) استفاده می‌کنه تا اطلاعات رو از اپلیکیشن‌های مختلف‌تون بیرون بکشه و ترکیب کنه. می‌تونید اون رو به جیمیل، گوگل کلندر، گوگل فوتوز، یوتیوب، جست‌وجوی گوگل و اخیراً جمینای وصل کنید. برای راه افتادنش کافیه حداقل یکی از این‌ها رو متصل کنید و البته دست خودتونه که دسترسی کدوم‌ها باز باشه. این تنظیمات هم کاملاً مجزاست و تاثیری روی دسترسی‌های Personal Intelligence توی بخش‌های دیگه گوگل مثل خودِ جمینای نمی‌ذاره.\u003cbr/\u003e\u003cbr/\u003eحالا این داستان‌ها دقیقاً چی هستن؟ هر دریم‌بین ترکیبی از ایده‌ها و نکته‌های روزمره‌ست؛ مثل معرفی جاهای دیدنی برای گشت‌وگذار، یادآوری قرارهای تقویم، پیشنهاد رستوران‌ها و تفریحاتی که ممکنه از دست بدید، یا ایده‌هایی متناسب با سرگرمی‌هاتون.\u003cbr/\u003e\u003cbr/\u003eبخش جالب‌تر اینجاست که اگه دسترسی گوگل فوتوز رو باز کرده باشید، تصاویر این استوری‌ها با مدل هوش مصنوعی Nano Banana 2 شبیه نقاشی و اسکچ تولید می‌شن و جوری طراحی می‌شن که انگار خودتون و اطرافیانتون وسط اون ماجرا حضور دارید.\u003cbr/\u003e\u003cbr/\u003eفضای این اپلیکیشن فقط تماشا کردن نیست؛ اگه روی هر داستان ضربه بزنید وارد جزییاتش می‌شید و می‌تونید اطلاعات وب، نقشه و راهنماهاش رو ببینید. امکان بوک‌مارک، اشتراک‌گذاری و بازخورد دادن هم هست؛ مثلاً می‌تونید بگید از این موضوع کمتر نشون بده یا «درباره این بیشتر بگو» تا سلیقه‌تون دستش بیاد.\u003cbr/\u003e\u003cbr/\u003eدر حال حاضر استفاده ازش کاملاً رایگانه و دیگه نیازی به اشتراک Google AI Ultra نداره، ولی فعلاً فقط برای کاربرهای بالای ۱۸ سال در آمریکا و روی دو سیستم‌عامل اندروید و iOS فعاله.\u003cbr/\u003e\u003cbr/\u003eدر واقع Dreambeans مثل نسخه جمع‌وجور، داستانی و تصویری از Google Now قدیم یا Google Discover جدیده؛ با این تفاوت که به جای پرتاب کردن خبرهای عمومی به سمت کاربر، مستقیماً از دلِ اتفاقات زندگی خودتون الهام می‌گیره تا هم به کارتون بیاد، هم به جای اعتیادآور بودن الهام‌بخش باشه.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5370728141176200323\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296B6.png\u0026#39;)\"\u003e\u003cb\u003e▶️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://play.google.com/store/apps/details?id=com.google.android.apps.labs.lotus\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eDreambeans\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5321160207080901158\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C88.png\u0026#39;)\"\u003e\u003cb\u003e✈️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://t.me/mohammad_zammani\" target=\"_blank\"\u003e@mohammad_zammani\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5319160079465857105\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B1.png\u0026#39;)\"\u003e\u003cb\u003e📱\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://www.instagram.com/mohammad.zammani.offical?igsh=MWhwM3M4cjMwb3h0YQ==\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eMohammad.zammani.offical\u003c/a\u003e",
+      "date": "2026-09-11T09:14:06Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 6590,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/rzm77phY6L3_AKZOLXNRbsT7DhHpKLP0eyfCm9w6V1jTfltsPQMbjFXtbPD8j-bSiRPbF5OYzFrMGN4hykxoYkyKrbk3cxqWz-twajKl0lA6GHspaVGiY6kqY3vekbYFmF07y1eq3IheWNj1ys_olDGRqefJF9GvXgd73gOzwAayUMJM829eNcPRzD1vQ49hdPbbbdvSBbYvRk77rLuqOL_FWdvIBEMsHiH35N-O9b7yop9Xtzk-4mH-0r_N-8C5nT4jCkWgIM9J0cSdsXJRjBWwjW9yXPC6zVlWO5PUKRNouly7Dmnk4DJlk9i29QOnB1Zo4wMhIFRC53bzA0fO3A.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/pkP-4-P6thsgdgStcKoPOqWriOHQU7S_Pfa4q30uZw0sQKeb2PQXKV4Mt2gQd_5amRB-sLfydmWur5zMdXWLWLK_fP0W7LOfbI4JjltvzHF_bkguwYt03LXLEa90TkNcNtlHB4rTuEaMFwG93_ItmcPyTcPHAEtjq9OBE2odbELjccjBqPszuWWgD_HRy1vdugbnIVD56BxXpqyS8cv2qrKxGUElSqTQxvXDpHiPqZ5GRZrpUE6MPWXRlWAH1hU-6eqB34ao-SvBuvnrSMdpBP4fJhhDneXYbXFxjiolk_eBRegxPnOXBLJWppYf0-dtBHZttn7rwbKh2p_DYeiENQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5217,
+      "message": "من نصبش کردم. باحاله و تمام اپ‌های گوگلم رو کانکت کرد. چند ساعت بعد واسم می‌چینه و بهتون نشون میدم",
+      "date": "2026-09-11T09:15:10Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 6250,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/h4u68F0kNWso6ApHEcHBPxx9uDPrNpek3hmMGhFUUWb3PkAC7eti52ayz2UhwkcLP5Wc0yE5Afx5sG0vxIh7jYdKa0RR5XTZGMZE908i8GSGF7FQuH6Kr1I6rJZoz-BSmGCPej8EkndAm0AgvAdF2g3ULbqsPvUyE2rP5r8ApRNnyoZNqQLZXEvlio43JSLdCpo7pUjz50yz5HTImgWnDJ55D9pgtXSfqm9tRpthqRFDs9Qvnsi-kxP1Dtt8lW2bfk0HQbI_fHgxZKMUptT5GIFTqv8MeNkc7rRAXSuwewzgi1IyAr7Bxv3_0_lSh4jgrVC3lzeOezEiGz19lDW7LQ.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/MC8xOqHOSfaGlLKlypNX0YUCpvsG6QabAgiHnZcQA4KnG6KJ1VLzjOuhXjUjXxAAzJmu3Do2eD8Wb6uhqDeX1pCmqjGIWsoiIzoQn1hk4aFakgFYIJHRQz--Wdb5CihbQwTelWIfTsPUma7PRxzMJlPtAfyRvvxw_r1Wj0LGLzOqmKfHZ0aR53A_YNNovnLBtOYzD_HTVvEHiyMZ69nnv85TW0a4H3IOfkdMryxmKjv_GoeHtKx3ROETvZ6SoPvta5v01CkGOAKJXwSxkA5Nbd6GCuEBrC2aYL176k3NNA9Xfx-1EN9hSN2wbOdHDcvQ9cnAh_uQ03x9a6g6R6_GMA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5219,
+      "message": "می‌تونید فید خودتون رو هم Tune کنید\u003cbr/\u003eکه مثلا از فلان موضوع دوست دارم بهم مطلب نشون بدی،\u003cbr/\u003eیا از فلان موضوع دوست ندارم بهم چیزی نشون بدی",
+      "date": "2026-09-11T09:20:07Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5440,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/V-woGUZf8c0vYykYjYrMVSVPzPo0cpUWrrIfKxXCAVTEwxVUaJKhCcWMF174NVcxXIgXODJg0FbMGmdH3-5Zx_8O8U4FKPdShRORQtz4bD9-CHiP1EQjx0NmhRaWv0mz2XePFQPO5hhlk9KuuFq597amWesn3LyggSnh74u2CU03dXCEeakOG3CZ3usxZ3rlyY9_DYLKGaZw1s26o9O1sxn5HDYNZplydVOsXK-d7c4PZjR62lRAy2MOlfs18Chj3xXNkLOAEhZtSdvMqxBl2biZ5n8TfloA3aXEQvF4OVmwRlN2-GfHgd0-UdGVbyv-Kv8-bDo5skOQ2TRIcOThSA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5220,
+      "message": "ایونت رونمایی از آیفون 18 توی قم\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9280.png\u0026#39;)\"\u003e\u003cb\u003e💀\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9280.png\u0026#39;)\"\u003e\u003cb\u003e💀\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9280.png\u0026#39;)\"\u003e\u003cb\u003e💀\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eبدون شرح",
+      "date": "2026-09-11T09:46:27Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1270,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/qjhdIX0MB7AarjdzNcXG2cdz8c8QGZAsqndr3u4okAQz76IjDYJ4Y_jDA18fr2lHLzw4CoYSOYWMP8nYkjShkprVpkJyBkGVoeSH6Qlv0Qb21OcM-cqVx9GjedvkTTW1sdGyxbCo7_E4QOO9wlbaCymtMICLzNVvdnXWye_sCWV3D5U0aqrKtH22fxVTrZkbO0Nb1oHw81X5CxLdqFCQmLcEk9g878DEBBO5FSWADIJ9ftInWNC9G4uiYpRr4IB39FjxrFwRpbT4oXWPy4-ySuBj4p8oVW5r74ynnXGpiLQ4lR3RvvXHqMFsRjEl1MTOiefXDzliWUZ5VIDAQxUfMw",
+          "width": 720
         }
       ]
     }
