@@ -8,72 +8,12 @@
   },
   "posts": [
     {
-      "id": 5205,
-      "message": "تست \u003cb\u003ePelican comparison\u003c/b\u003e روی مدل‌های GPT به علاوه‌ی هزینه‌شون.\u003cbr/\u003eهزینه‌ی Astra تقریبا پنجاه برابر Lunaست",
-      "date": "2026-09-05T21:11:14Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 46400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/JhQ0wcZO6Cb9g05iZxaAWv9OFObhrdrSHAG-eelh0beVP-gT0lvZwoDD9afejrlDbg2aSthFR7Kq6p8_m60oav6DO1cCfxtrfc1tk_Ut5yWikmKgJt7sQFfYHtaDoa3q29Nh0F-bAT2wd8LuhAFGpG3gTL3G37q9H4oZl3cmS9OJ4ac6UQowkLuIcO1PQy2AAPpMy0qdDWVwJBqK4pj6uaf6ZE5Yn5RmxYM1kYy35rFmy2KUHddqSZ0NsTIOjBWCjCDBhSyEriJWblDJmigrPF6dt4WyacItz6PkBSI0i3UcY6XFNdysMDlKEnaiBzLQneIuG-9OspybUZl9NOQ6EQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5206,
-      "message": "چند تا کوهنورد تو آمریکا با جمنای برنامه چیدن و جمینای بهشون گفته خیلی کمتر آب و غذا ببرن. و به خاطر این مشورت اشتباه با جمنای گیر افتادن و آخرش گروه نجات مجبور شده بره دنبالشون. عاقبت سپردن عقل سلیم دست AI\u003cbr/\u003eخلاصه برای جونتون هیچ‌وقت فقط به چت‌بات اعتماد نکنید\u003cbr/\u003e\u003ca href=\"https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمنبع\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-09-06T06:35:45Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 46200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5207,
-      "message": "گویا گوگل Mantis رو اوپن‌سورس کرده\u003cbr/\u003eفریم‌ورک ایجنتی مانتیس این شکلیه که کل چرخه‌ی آسیب‌پذیری رو خودکار می‌کنه. از پیدا کردن و تأیید، تا بازتولید و فیکس. فرقش با اسکنرهای معمولی اینه که با ایجنت‌های منتقد و بازبین و... و اجرای سندباکسی، گزارش‌های الکی و باگ‌های توهمی رو فیلتر می‌کنه و مصرف توکن رو هم تا ۸۵٪ پایین میاره. پیشنهاد می‌کنم بک‌اندکارا و امنیت‌کارا یه نگاهی بهش داشته باشن:\u003cbr/\u003e\u003ca href=\"https://cloud.google.com/blog/products/identity-security/getting-started-with-the-mantis-harness-to-find-and-fix-bugs\" target=\"_blank\" rel=\"noopener\"\u003ehttps://cloud.google.com/blog/products/identity-security/getting-started-with-the-mantis-harness-to-find-and-fix-bugs\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-09-06T18:01:35Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 44600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5208,
-      "message": "جواب من به هرکسی که فنی نیست و سختشه که پنل بسازه توی کلودفلر و... :\u003cbr/\u003eDefyx\u003ctg-emoji emoji-id=\"5472375242385005771\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F918D.png\u0026#39;)\"\u003e\u003cb\u003e👍\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003ca href=\"https://play.google.com/store/apps/details?id=de.unboundtech.defyxvpn\" target=\"_blank\" rel=\"noopener\"\u003ehttps://play.google.com/store/apps/details?id=de.unboundtech.defyxvpn\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eالبته WhiteVPN هم از لحاظ راحتی و امکانات برابری می‌کنه و می‌تونید ساب خودتونو هم وارد کنید اما برای کسایی که یه کوچولو فنی‌تر باشن مثل جمعی که اینجا هستیم خوبه.\u003cbr/\u003eدیفیکس در حد سایفون راحته، با این فرق که واقعا وصل میشه\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-09-06T19:26:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 49000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/lvxfo-qyA_QwXinBZmPSM17EzpBCGvscZTFN7k7SPQE0IawvrTL7K_oJRaUJL03lng8FB6OfFjtwbGZSrH51SwDu24lTdTUoPWb3xLMqpebELHrjYe6I903Z1IR6AgB5cVb-bkrCPqDLL8ikC6oT7DzNaIOWx_Eh3VFTUuEmoE7Y_88googsZnrZxhYCNvqId0kheHFlrvzI7VMwtvaC2AztBLO-fNtmEUAZeHSXLs0u1bO0rHv1E_mMbKaNqTqajdxCk_36Ov9WCWQHlQu_48_MUajBOLJW2Dq5hFfb8hc1W5HlxqpXQk2XnwRLqoG7RImcTCUFqaa2OryhJJ8ftA.jpg"
-        }
-      ]
-    },
-    {
       "id": 5209,
       "message": "توی تک کرانچ \u003ca href=\"https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eیه مقاله نوشتن\u003c/a\u003e راجب «\u003cb\u003eمشکل منوهای بی‌مزه‌ی ساخته‌شده با هوش مصنوعی\u003c/b\u003e»\u003cbr/\u003e\u003cbr/\u003eخیلی از رستوران‌ها با هوش مصنوعی عکس و توضیح منو می‌سازن ولی نتیجه‌ی همه‌شون شبیه هم از آب در میاد و مشتری هم سریع حس می‌کنه یه چیزی سر جاش نیست. مشکل همون یکسان شدن خروجی مدل‌ها هستش که تفاوت واقعی رو از بین می‌بره.\u003cbr/\u003e\u003cbr/\u003eبه نظر میرسه بالاخره داریم به اون نقطه‌ای میرسیم که خروجی‌های ai با یه ورودی عادی، یه‌شکل شده و کارفرماها برای نوآوریِ بیشتر پول میدن.\u003cbr/\u003eوقتشه دست به کار بشیم و از مخمون کار بکشیم\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9982E2808DE28695.png\u0026#39;)\"\u003e\u003cb\u003e🙂‍↕️\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
       "date": "2026-09-06T20:10:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 50900,
+      "views": 51700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -85,7 +25,7 @@
       "date": "2026-09-06T20:42:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 51500,
+      "views": 52500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -97,7 +37,7 @@
       "date": "2026-09-09T07:47:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 34000,
+      "views": 34600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -109,7 +49,7 @@
       "date": "2026-09-09T23:36:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30300,
+      "views": 31400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -121,7 +61,7 @@
       "date": "2026-09-10T05:32:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29000,
+      "views": 30300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -139,7 +79,7 @@
       "date": "2026-09-11T08:56:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19500,
+      "views": 21700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -151,7 +91,7 @@
       "date": "2026-09-11T09:14:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18800,
+      "views": 21100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -173,7 +113,7 @@
       "date": "2026-09-11T09:15:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18500,
+      "views": 20300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -195,7 +135,7 @@
       "date": "2026-09-11T09:20:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19700,
+      "views": 21500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -213,7 +153,7 @@
       "date": "2026-09-11T09:46:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21900,
+      "views": 24200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -232,7 +172,7 @@
       "date": "2026-09-11T10:56:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18100,
+      "views": 21100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -244,7 +184,7 @@
       "date": "2026-09-11T13:10:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10900,
+      "views": 16300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -262,7 +202,7 @@
       "date": "2026-09-11T13:23:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9450,
+      "views": 15100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -274,7 +214,7 @@
       "date": "2026-09-11T13:43:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6570,
+      "views": 14000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -283,6 +223,64 @@
         {
           "type": "photo",
           "url": "https://cdn4.telesco.pe/file/Tx2cf82-2fzfGWPBxAObMFnfu4-Argvlyi-AH4dTPUP7aCpjhby4QDxgulybG8MYiBqpNOIXKI2BxA-57qLqeLYTw8qMt0PKnj7EpbPz2ORCKcc89Wa_o40i-ADoSzhqsRO1IX6nXZBqThcYLeT5cfR7U_wZ4o2I_GGNKkD-16tdxNePnJYz_MhBFcpTiSI5q0CBCoAKuSX9SnGH619ndkdoIyp9Y7U2IhAcJvo_3LsMevHDzzUnblW3suzo6T48yOBoCorMJgQzWqDrtzUWaV8DTa0qPHqvMx5Mwp_15QmdV0sG-IVCtqxHApPIIvgyllI7EAVb2-mdvNvuOQ1HpQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5225,
+      "message": "اپ DreamBeans بالاخره فید من رو حاضر کرد\u003cbr/\u003eخیلی اخبار رو تر تمیز بهم میگه.\u003cbr/\u003eاز اخبار تکنولوژی و ai گرفته، تا معرفی سایت فیلم و یه کم پیشنهاد آشپزی و سفر و...\u003cbr/\u003e\u003cbr/\u003eانگار که جادو می‌کنه\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eدقیقا چیزایی رو میگه که توی ذهنمن\u003cbr/\u003eچون عملا دیتا سرچ گوگل، جیمیل، یوتوب، عکس‌هام، جمنای و همه چیزم رو میدونه و همزمان ترسناکه و باحال",
+      "date": "2026-09-11T14:58:22Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/mKUIdFoGxzdscDgRiPbm1vuDi8wy5mQrvD8AtUG0Idqvuma7nkGOT9eXrWLeyQDfWymnJGzdbHQp47o16_lp4X3BLEnoqlgkAXfd6He_lNy1nzkKat_n_8s6VfwxrSjSPNIsI27nj1AIwX3qrI70TL7Q9_N9tQ4wedZU7XmNDGH7vSs6IrpcYK6N8XXi1iBcSJ7UqZJHY8TTGVvF5INFk1MQy6urSvEVDen4oh_a6_jajEiUTFVz5sONHUTO-ficI5fNjYZQu2sSqg_R_z8psHe9FBI2kmJAZeAhXCvlW7kZq6Ua166GHqfSmUZ-gckQ6mBoRUj3qQmJfsbT3fJLDQ.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/R9v8qr67IHzYg9ZoDNPVNZ_nclREidIpvoOxy3bwfKFxbnvznW3_olpmN-oHc--2VrwZK7QMaTq9LR6BTs6a6uRzAfQDkTwdxado6wouAOyimswTZrGsAWZD5AQx0WGz1B2_PDYSJPgL-xEih3PbTHwfNMtNz9QSZaNWsZRgBRY8hn6yApYGYQAWbw5PEkvKt3evhtkBUH6IimYlwVoLJaYxzrLtaLxQklfUe_9FhylEbU0Wr7sTn7-MA-gbMSGpLxO269IRqw8BHAwuMaHcDW9tcA-KotfYd-OfTaAE3mEFheD6Ru0QpCFZshoIg07ezK4Bgrpud3jU8DLpdSN5Ww.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5227,
+      "message": "ترسناکیش اینجاست که بهم پیشنهاد داده :\u003cbr/\u003e\u003cblockquote\u003e\u003cb\u003eبیا با Adobe AI، نویز و سر و صدای ضبط شده‌ی دوربین کلاه کاسکتت رو حذف کن\u003c/b\u003e.\u003c/blockquote\u003e\u003cbr/\u003eچون از سرچ‌های من و سابقه ویدئو دیدن یوتوبم، می‌دونه که دارم موتور میگیرم، کلاه کاسکت دارم، دوربین دارم، و شاید ویدئو بگیرم و همینطور اخیرا از Adobe Podcast استفاده کردم:) و دوربینی هم که اون رو گذاشته دقیقا همونیه که خریدم یه ماه پیش. هرچند واسه این کار نبوده",
+      "date": "2026-09-11T15:29:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 11600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/QrEnYkgekLy_fukth4tJI8jPxFgRK5pkhZJMkPgatGtwvHYcSA4_n6DDYXCCEXv8hYaGc0wgTSnyglLnXfq-vwo-cELToA-64_MCn3AulXUBgDoc1j3zaMVD7fBZOn-zQHrkCIq33fQ44himPeHEh0jgo-OyBb7y2Mmla6qhmEa_rhDhpk7zDV5s3FrLS6NmXRLGC-L5e8PkSvEmfAAW4QtvYdzFkMrbTSjoTqgL210K4zyK0UvlGANUGvt_S7yJhz_6A86GmrHqn3P2Pq51zTJTmAvAuwmO9rfewaZnwXMQiBrrrpmPZ-BpODHW7x0nfXejLcGj_qF26w0GZS0nsQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5228,
+      "message": "\u003ctg-emoji emoji-id=\"5330280024673101519\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8DB7.png\u0026#39;)\"\u003e\u003cb\u003e🍷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eدرود به همه رفقا...\u003cbr/\u003eپس از مدت ها آپدیت جدید \u003ca href=\"?q=%23%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86\"\u003e#فیلترشکن\u003c/a\u003e محبوب خودم یعنی oblivion منتشر شد.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5924532026165171950\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA791E2808DF09FA6B1.png\u0026#39;)\"\u003e\u003cb\u003e🧑‍🦱\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eبا کلی تغییرات از جمله اضاف شدن هسته \u003ca href=\"?q=%23%D8%AC%D8%AF%DB%8C%D8%AF\"\u003e#جدید\u003c/a\u003e وارپ(Aether) اضافه شدن  Cdn fronting،بهبود حالت سایفون پروتوکل های متفاوت تغییر به کل UI و کلی تنظیمات جذاب از جمله پیدا کردن اتوماتیک اندپوینت ها و... که بیشتر میپردازم بهش اضافه شده\u003ctg-emoji emoji-id=\"6100568059724960300\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5312536423851630001\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A1.png\u0026#39;)\"\u003e\u003cb\u003e💡\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eتنظیمات پیشنهادی موقت روی همه نتا از سمت خود برنامه نویس(بنی):\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eحالت مسک(MASQUE)\u003cbr/\u003eو کانکشن تایپ h2 برای نت های محدود اوکیه.\u003cbr/\u003eو اگه زیاد محدود نباشه و Quic باز باشه  برای طرف\u003cbr/\u003e H3 مسک \u003cbr/\u003eخداس\u003cbr/\u003e\u003cbr/\u003eو یا وایرگارد حالت اسکن توربو و Obfuscation دیفالت هم مشکلی نیست عالیه\u003cbr/\u003e\u003cbr/\u003eبرای حالت وارپ این وارپ (Gool)\u003cbr/\u003eبنویس براشون که حالت اسکن رو بزارن Balanced و ازش لذت ببرن و به صورت امن و رایگان وصل شن به اینترنت آزاد...\u003cbr/\u003e\u003c/blockquote\u003e\u003ctg-emoji emoji-id=\"5933540612694347912\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B1.png\u0026#39;)\"\u003e\u003cb\u003e📱\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eگیتهاب پروژه جهت دانلود:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/bepass-org/oblivion/releases/tag/v8\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/bepass-org/oblivion/releases/tag/v8\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5931594395508805861\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9B92.png\u0026#39;)\"\u003e\u003cb\u003e🛒\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eنسخه پلی استور جهت دانلود:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://play.google.com/store/apps/details?id=org.bepass.oblivion\" target=\"_blank\" rel=\"noopener\"\u003ehttps://play.google.com/store/apps/details?id=org.bepass.oblivion\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6005916300600152073\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92BB.png\u0026#39;)\"\u003e\u003cb\u003e💻\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eبه زودی نسخه ویندوز منتشر خواهد شد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/xsfilterrnet\" target=\"_blank\"\u003e@xsfilterrnet\u003c/a\u003e \u003ctg-emoji emoji-id=\"5053169761232356354\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/CluvexStudio\" target=\"_blank\"\u003e@CluvexStudio\u003c/a\u003e \u003ctg-emoji emoji-id=\"5927000992410242619\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29891.png\u0026#39;)\"\u003e\u003cb\u003e☑️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-09-11T17:15:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2890,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/qc3Q1_O7EoMqLeZnugukRHGb--H9VMtk6CaAf0QSI4bZMFbMMf9gZKSqcjoxp0BVG1lCiAt4CLpSafRY4drvi_rLy98vwyqPTX_I4ricZ_e9DekF62MtsYXJVxwlrL48BkhW_Mk9Bncf4Dn6zax0V6_oWp2GSWfROTShTGpRmjszXWHNijhxLQNtG7mv6_sZ0Q1e3MYlaVV7Ist1mIBfEwfIQn7qYcuZWXwjux9rfgoTR-ucLpA-nr1GKOlsaNB_97s40wGsoO4_h8sVeOa9QpGdO1cY6tE1nKrz9TJ7FWVLJnjRhe3JE_hXGUCrRmcJgbqMO_KU7I_JAGsOdVp8rw.jpg"
         }
       ]
     }
