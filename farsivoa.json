@@ -3,207 +3,17 @@
     "id": 0,
     "title": "Farsi VOA",
     "username": "farsivoa",
-    "photo_url": "https://cdn1.telesco.pe/file/l0IRb_8PgiCoKkA9vsyu74sYzsm7bRHzzw_mnnSwZBpFxRiiaUcQ-wQThYSWDv3l1d5pkI9E7dy70PLxduMoCEhrXO3Hr9n6NJ6XfIbJxePREGd7zc3967HNVjzLf6U72U3XqgPN9XqRNDTSKq2F19OD6QVIFgytLFOdJL_2556r4MAf3PK8TFdxma5icfzSm4qANnbqBZY3oEb9V7pNXiNbztfKwLtVTmJyEPYfa32U91b5hvwTasBQXRCGZoTqw7-SfI2J_1pGK8R-Bj1HpI5jwpXGZJHUCEI1rYUrVr6_ROjkj1TYeo2sKuY5in3vTF1otm_Tbwt-dC8i52_A7w.jpg",
+    "photo_url": "https://cdn1.telesco.pe/file/Wmz4L4gqCECEfLcnjF67NejRxoQ4nTHqSrhjKFttVCRfDkcUAGwoUjc44nBbl1JdtDZr749LN578iBIG3ohAZ8rjs9x4DD1SwgsjTb5dvF1J-leAPjGFzoJ5L0EfWQsFVmeUf3ZHKffdoRQA4NHCbMq0OlvU3XRl1czJ54FXq3NNtaybxwRdRP4vhYWM6IT06QZ81OelDdM_nZ6UwfS3ivE3Clm89ycdOq0UISiNp02yXnQDgU8ahYmcADscbgb46lKSORiiF7h8WXp1ecuNEhbIC9vWdpC_mGSckvUN-Xj_8ZmIuG_-Lp6BUbYurpZRc-gbsyicDDnlmh1xD3-Z4A.jpg",
     "description": "تنها کانال رسمی بخش فارسی صدای آمريكا\nعكس، خبر و فيلم هاى خود را براى ما بفرستيد:\n@sendVOA"
   },
   "posts": [
-    {
-      "id": 230296,
-      "message": "فرماندهی مرکزی ایالات متحده، سنتکام، روز شنبه ۲۱ شهریور، تصاویری از تمرین تفنگداران دریایی این کشور بر عرشه ناو «یواس‌اس پورتلند» منتشر کرد.\u003cbr/\u003e\u003cbr/\u003eبه گفته سنتکام، این تمرین در حالی انجام شده که ناو پورتلند در دریای عرب در حال حرکت است.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
-      "date": "2026-09-12T15:18:45Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3480,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/IikZ5wQic-kcJM5fey_Yy_6jitXNVVrJraPo9wIQKIpCf7_HVWiwT8EKvZgMmsuQUSzssjkwqtk8RgPc1r3hqKEKPDJUH5a08NTvd9tyGvhMDKqB3XAHfEFfqxTTFzSOoFmLb8E2r0P3o5VlD-uiQZvRpWWdDq0veU59k-myqmKygH2xblswQSZP1Ks4dO4mGGlKosa42PWyIAQFy07Awq4qpjXRkggd7gJaKw5x38nVXPDXhSWOZdSh_45WGsQmivOu3ET9Hejz4feRmeo2vQ54T6cMxpSbQhJY9kWpskJRt3X8ywyZXl-10BfYMvjy04Ti8QjpIXafWGviJntjOQ.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/pcOO1HFzU12TuChSG-T7W0CqgflaixbPGjdJRtZ41sBMCSPMwSUwWI3wT0cXJBRrHZChdOcYqVdAMWh8rRoebPeffiE96XKsXtDo2E_eHmUqlruPsN3G1nepAQ_FUCg9Hgxoh_bt6mBs-EyYUc1VIa27LR6t3ZXMNydM1OsIzkzgOiV515UTui-Pm2pxTCyjgmi9BL_jwviI3_KjJGqiG6Vy7t7a58HVHu6fcdx5kS91J53OYhOdaV0INwMGzDv-J9yBVYlTrwRiKaD3SSgkpnLKYEdR9xyC3AOVkncNN_DY9-jzKTLRGVPxocttA6XvEdAARCo2IbVf8gJoZPLzNA.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/BV8OuvYoSYgPkDZe7vVvufgOxezuNifv60Yx-GHN6uSctWr23wo7wr1e7-1s25mxOZn0YsrMN4J2A7B46HHt-B8WikS18pS-iGxkEoNvccJ2jCfeDL4s420RUWuhiMjpGrZzH_UJSdSJDWWlLqrGFvtBAzv9U2sX0n7WpRdrLLv4FyrxJmbOOiAFrhjdSdbtw6rVNEQr_5xZrLjBsk_lvsCpc0bcNrGK2j5lPkv2BwXn_QG2-9U5dW7oWm-aCCTY1BziOmijJVBDTBFQnCkt0b0PvpvWmO8XwcE_Wmu9EsLWkqKEtcubXUYz9AzdBAZRubLGUYLrLl0t46y62ApZKg.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/E9LWP4O7xa0WOBoSYCzuCSygsO_Rr0DvPtm7mkoS7pJDS1ht5us9hCdvZZt-1SSK_6yQSGwZMO9w_XGT8OUaUV-wLyfgNogMy8gXHaAMuzaka3fWcTaBbYZvhA5KEbAaYMrlGdHCsT_NXHzPBkYFt7ndA85oi7x93jn8kWR6Dh3difqeFEYYGIlombljYHj1hitSz7VD6os24CvHk_K8kNI7KyKT0gisY5XRqkrgbNMGSfqH-fDXlwi0xBrPAlnn3fs2mTPsA60SLmPIhAFJDINo-u2FzdGS9al98Y7rrTQ53PjbA6m89gvJEBaXgNKXXwBlWTJcLi09VekDGHZqVA.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/teTj-EJaZm4lCmFiIc3UqOIsJjPirVe5EiXRIU8o9wFyUG81qPu0L6SCA3Kd0BMqRgRbLbZ04NBeYa56FTMSYKB80GreTqCUCBPJNugMkTejjBE-zgY-bkLetVcgfB2pkg6e82GWAZARzo14L3u0LWmIveMwyFoKMUlHsQ2v28KpPOpSU3Nh1UFRVaiWSc0Dt5f97SK5qQJp906Yq8VoY1-cjiQIrR0avVQk-BH1G0STCm-FmagJ8MOidy8iOp-jLoKHXGQYzAD2HEEaOV4JcdIWWmMbiLlbz3UJkN0RDRz6efUl2UXUHGExdffpZwModXFdL0c9g2zW2gYE7EyjAA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 230301,
-      "message": "انجمن خانواده‌های قربانیان پرواز «پی‌اس ۷۵۲» با انتشار ویدیویی علاوه بر گرامی‌داشت یاد متولدین شهریور ماه، در آستانه سال‌روز کشته شدن مهسا ژینا امینی، یاد او و «تمامی جان‌باختگان راه آزادی و عدالت» را گرامی داشتند.",
-      "date": "2026-09-12T15:26:13Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3540,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/E4EyHZ6fp2AaDF22NrMuvQ65CULeAsTosdr0T6Kwruk3LBEu7FuTj0HeuIZLDsFC_4XwUx4qSXaoPkq_24mLbPuoME9kDNFfG4wMKmYZNuzm5x3w8vu2jLp1Z-cdDmTEtp5rMTvFh7itcGueiZh49nrDw4s0oo_HW6Y8ocHFduEK3ZNZds6UN0p5txz3VUGbqJG2GxOBubbYfMb5sT4_1culztbr0E_mGSDJyTBNU399cc77iRGYxSMghrN56EnomjN-leghZUtegOVQW9me4wIRiylgKHjz_SLtyW3lVsIhgAm_xupCDo9MIzPaJakvyFs38-VaInsI3aPQZsZ7mg",
-          "width": 1920
-        }
-      ]
-    },
-    {
-      "id": 230302,
-      "message": "مسعود الفک، کارشناس امور خاورمیانه، درباره پیشروی‌های اخیر حوثی‌ها در سواحل دریای سرخ و عقب‌نشینی نیروهای دولت قانونی یمن از برخی مناطق می‌گوید که این شرابط را نباید به معنای شکست راهبردی آنها تلقی کرد و تصرف المخا و مناطق پیرامونی نیز به معنای تثبیت کنترل حوثی‌ها بر این مناطق نیست.",
-      "date": "2026-09-12T15:41:34Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3490,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/hJ3iVnZj_0AJaq8t5xJ7QVlgd-XxVMQjFAP5_krBKNt65aupMp98jbulBY3MmWU3PHP2PrZNa2MrBD2PHemqsdH7H4qk7-Ca5CB7ceNTabzXEJTlyA3jJL-rLn7j428vpAvcVZWJeRU8mnrCRP-mrj3nl3iN6_Kl6aetZgIVG3FhW5piSMiVNucD3TOC8mCnRjy4V7l0PyrtZD1_GN6DYZUn9hh5OnHbss8hxug0GApxJFfQtw_8yJiEy5pBF5YuJq5CSiaI9Xy_e1Tm8rtBFMEOuT9UbiA4SiJdYmSWZfL3IDjdaAi5Qi2LN7-FhQfwOaChM5vZi1nZbCGSYIKpfA",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 230303,
-      "message": "پیش‌بینی کاهش شدید رشد اقتصاد فرانسه در سال ۲۰۲۶ میلادی",
-      "date": "2026-09-12T16:13:03Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3050,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/t8Khw2dtq8jzM3kcg9NA2UNhhQZO9IJIUv780A2ZFn1dw302Jj1BkJTlM3uoG7zafk2XDNFSSKZzIfymxYCTIZ1xUxfSBX3oa2DClIy5zFT_g7idbaS6OXLmjop5r_XaiOzdhz4zVbVfCO4rQjj8SUqRxUO5XbESvJQ3vD27Nf8PYb1sa-LK-_B2XU_8zmMA0k22Iy6ZBfaUyplzhLGfmuTU5__DDgTj2NJxpPmUSe6n3thFlDfEwipV5bMQfbJkhIq9P3i-hj0ffakU8djQpAlDcOTVq5h9exrVanxRb7oKKC7CfgCXMWRWjQ3S4hfIiIxexv1ZsIGNbHAdd68F-g",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 230305,
-      "message": "مدرس: هند و چین به جای حمایت از جمهوری اسلامی، اولویت را به منافع راهبردی خود می‌دهند",
-      "date": "2026-09-12T16:30:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2740,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/Kw8Z4mwv45EzPerRHNPkLRy4nOesq1SrlQoGuo7QnjbKAPLW55UkdqPmcA0z7pGPsPlM3FWjDzXYzPh28FKHlW9XAi9juoPyzDY10MOhSCq3tfICdkb37Yk6VaPzk4F1p_oUOKhrv8rERArG8krJtfcDk1b9Ae1eY4iUlppz0kxTJ9nzDNV6nkU3gwyzFE-IDsBMkEjHWpiCwEX6uIRnue9H1x0ozfzmeUrB28GKXJ-ywg4frgf9ap0g60KTianZ8pPJ6ZoHusnMLdOntdDRjPqL8Z0ZRLVlG0eX6eiUV4LzOwOxQcQD8A5bDjOyaaIo8Y1HO4U8WgtL48s5cDy23A",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 230306,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eسنتکام درباره محاصره دریایی رژیم ایران: ۱۰۰ کشتی وادار به تغییر مسیر شده‌اند\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eفرماندهی مرکزی ایالات متحده، سنتکام، روز شنبه ۲۱ شهریور اعلام کرد نیروهای آمریکایی طی ۶۰ روز گذشته و از زمان ازسرگیری «محاصره دیوار فولادی» علیه جمهوری اسلامی، مسیر ۱۰۰ کشتی تجاری را تغییر داده‌اند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/centcom-us-iran-trump-persian-navy/8197347.html/?nocach=1\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/centcom-us-iran-trump-persian-navy/8197347.html/?nocach=1\u003c/a\u003e",
-      "date": "2026-09-12T16:49:50Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2420,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA"
-    },
-    {
-      "id": 230307,
-      "message": "صحبت‌های میثاق زارع، بازیگر فیلم «کمی نور»، در کنفرانس خبری این فیلم",
-      "date": "2026-09-12T17:03:29Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1950,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/htRUyRuWiI_0GMaOPGpralFB3tg_J0oCHmOmWyk0fVsQg5CfOcWZozZ0eXrHDjmleJuDQhCa2VWUVnHpHVwyW0pmYbbP0FZeu_ZYvmdNnuzCGdNKydyTr3-1gliNTajivULAHWkkqn5gFiHCoQVD9CNmPLZkaW6J6rNFlbSmXT8rwxBofk-0dRD4ViYf45exZCxT6OstiN-shVySpdNjC4hvKecE3vn9bHWm-grZ6Q8RN0BSP9hVjttBpiSq54VgNFDSqJQDR2s3n5YiEsUIx9yRRoei3C_lnwsDaZFTXfAWejRhlmUZIRixSg3U-86jyzwubkcRsOlg5_JNxdCPsA",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 230308,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eنگرانی از اجرای حکم اعدام علیرضا سپاهی پس از انتقال به انفرادی\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eمنابع حقوق بشری از انتقال دوباره علیرضا سپاهی، بازداشت‌شده اعتراضات دی‌ ۱۴۰۴ در اصفهان و از متهمان پرونده معروف به «میدان علیخانی»، به سلول انفرادی و افزایش خطر اجرای حکم اعدام این جوان خبر دادند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/iran-protests-death-penalty-executions/8197356.html/?nocach=1\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/iran-protests-death-penalty-executions/8197356.html/?nocach=1\u003c/a\u003e",
-      "date": "2026-09-12T17:06:30Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2020,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA"
-    },
-    {
-      "id": 230309,
-      "message": "سپیده قلیان، کنشگر مدنی و زندانی سیاسی پیشین امشب، شنبه، ۲۱ شهریور، ساعت ۱۰ شب در گفت‌وگوی اختصاصی با فهیمه خضر حیدری در «عمق میدان».\u003cbr/\u003e\u003cbr/\u003eعمق میدان را در تلویزیون صدای آمریکا و شبکه‌های اجتماعی ببینید.",
-      "date": "2026-09-12T17:12:37Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1980,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/kJKSHDSTC-4Unk1rebICNwkRRxyGHTL3Z3FemNXqY_D_2OlWxEuAw-26j4BI-AOf1NIeee_hNf3X-oNlE6oyqn1o7bTAfYuTaBXHmFoStaGFIOu0H1mOAGXmzT90ldcy4GKrXwK-lVUOViRdp5OXdQ4zkH1gqhmucOllIDUavBpKYfCPTr4sX1HXJ7f3VBo_cQXyTyBh_iCNeb5FLNrLiVxsJwWrBQzKlJ-3bN4gBDCbwDwkIBt76rl4hKdMSUztWNWo00aQc_4c0pW3nCvngI6xlBZrkhxNNVnCekSOygc9dsI-V1rtycFFS6nEM1RzHebYdNK84d-MK8c7tCdOgA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 230310,
-      "message": "مادر بهبود حسن‌زاده، از کشته‌شدگان دی ماه ۱۴۰۴، به یاد پسرش شمعی روشن کرد و گفت: «نه می‌بخشم و نه فراموش می‌کنم.»\u003cbr/\u003e\u003cbr/\u003eبهبود حسن‌زاده، ۳۶ ساله، ۱۸ دی ۱۴۰۴، هدف گلوله ماموران حکومتی قرار گرفت و ۲۰ دی در کازرون کشته شد.",
-      "date": "2026-09-12T17:24:13Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1690,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Farsi VOA",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/UpeBiVuxwfPNOKabRPsaUBPd2xTlcCwIIsKUkaVdPgRl7Yhn-kvXIiyuUCS5ReusVaFUmrZPJjdVnvWdLt7ic2ASelUp64w9Ungnh2IXDvY0-UQv6EBi9fyD7LAmEqcwoGRBnNEaGzNSLhvF6ZcD0D5VPft33C-Uxp_DVS74K1Ah19QC8rQwKWX5K7uO00CwFvFsKE9MhrFsOc_lUtOKvttpR9SnLPvwv5pAQOfOFHPN5YG3K7m_IpYdRMIPG3dv-3VSb11br39dQ0ta887PudtShNhDNJ5VeZU4uQ2jzwNSxMRAYc7S1ZUbm4Kkr3WNxzc_hJAxE1I-DhUUPXPHxA",
-          "width": 1920
-        }
-      ]
-    },
     {
       "id": 230311,
       "message": "کارولین لیویت تصاویری از حضور خود در «مجمع ملی جمهوری‌خواهان» در دالاس تگزاس منتشر کرد.\u003cbr/\u003e\u003cbr/\u003eاین گردهمایی روزهای ۱۸ و ۱۹ شهریور با حضور پرزیدنت ترامپ، معاون او جی‌دی ونس، و شماری دیگر از چهره‌های جمهوری‌خواه برگزار شد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
       "date": "2026-09-12T17:30:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1650,
+      "views": 3080,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -237,7 +47,7 @@
       "date": "2026-09-12T17:37:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1460,
+      "views": 2990,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -256,7 +66,7 @@
       "date": "2026-09-12T17:49:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1130,
+      "views": 2890,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -275,7 +85,7 @@
       "date": "2026-09-12T17:57:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 912,
+      "views": 3070,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -287,7 +97,7 @@
       "date": "2026-09-12T18:04:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 504,
+      "views": 3170,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -299,7 +109,7 @@
       "date": "2026-09-12T18:12:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33,
+      "views": 3140,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -311,6 +121,137 @@
           "width": 1280
         }
       ]
+    },
+    {
+      "id": 230321,
+      "message": "آزمایش موشکی کره شمالی؛ پاسخ پیونگ‌یانگ به رزمایش آمریکا با کره جنوبی و ژاپن",
+      "date": "2026-09-12T18:26:22Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2830,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/APVC1aPR8Vnl537NJU__XSgD4tpf8R5dbw31t3NenxD0EMPdZ3gBj0T5RkGM4nQBS15EKV0UkK1Mtll0PrjK3I2GyISdLDE0KkRufQSyIVfKslT3eOTi-uBeY7xfOd6ahv_lRJekAF8n44YYnF2TN7EFqtlIxt8cW7lpBiwO35eQ4dZBS-mJBIlx0Kbt52_N_97ZmHkTotER0-D6sB4pfBCs9ISWJWt4qRuHoIbiMVxJ6dbRzhYlhJpmg_v3R0qZVzKpXvomPcZLeiG_A72BTSmwwKmrXjmEX6HwRRkn2rR3mM-l88BQmTjp42t46gabhTJ-M1paBA8nU1hTT-kpmQ",
+          "width": 1280
+        }
+      ]
+    },
+    {
+      "id": 230322,
+      "message": "نیروی زمینی آمریکا روز شنبه ۲۱ شهریور تصاویری از آغاز رقابت «بهترین یگان نیروی زمینی آمریکا» در فورت بنینگ ایالت جورجیا منتشر کرد.\u003cbr/\u003e\u003cbr/\u003eدر این رقابت، تیم‌های پنج‌نفره از یگان‌های ارتش طی چند روز در مجموعه‌ای از آزمون‌های سخت جسمانی و تاکتیکی با یکدیگر رقابت می‌کنند تا برترین یگان مشخص شود.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-09-12T18:37:24Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2830,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/FKfV3IEc1JtKr9pNJJiBQOILxq9c92eLWjbbBLrKqlr-n7fDOpLkYoWdv349jagRVbUd3xJBEz4FXuGBQbMJhwSCQ_7I0yxeF72mQzphd9EH7bR5PHY0ssOI7NHFIXse3flxqltxdw_cRzPxL1vduOFKcVpGG2miVQOGzScb83xEyRR06_a6XwQrQjH_tkPoCT-S9kP2LjkT_FX7ziT4H4BPB9FvLyygf2JsqxwvAjoQv_2C8u4mRgFnW1KOo_OcqDPp8HCmwXaXH7UyE6zBqmqXn4zAGqriQy9kDlRKbGn5FdJX-mOpRJBSKkIXXXm0siYra3kuRwWGB_Sqm5RcgA.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/TkjqPRwwtZsXJf_zw1IsMQFBAjrQjdrUXdzOBTl0j00jA91EiONpvEBQyZvi7ZEurROm7VdUswi55_4gSfIbJKCA4cU_cM49i3UINhuWFDiNF1blfngWlvMWh7EFURA2RMsfiLfpior0HETTWYqEChJMcUCliSAQr52XuAa620aXbB1P1YLJY-oYN0tAsowxaOUKazb-ZVVjBAmWTbec6T8OVM8BOpDKx6fzzLMmGjsiTh_ioYBYcOrXs8L-WNyJTbPvv4QXreLaMJ8kDCLAdnM7Q1ezL2z5n3PNthMnV_0GfH9Bwa1g-oai15uj53Aij1ESKN9Q39CFqo3yW-PeuA.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/VBHIZQos-kQ2baw7_lLK8XbRaacGlZGOyeTc_Sr-ytYKnvAR5r41sypd9zTf2TRT9i7JKhMOiXiJDrO-FrGs_1JQ6rXpKibMEbMynHY6qqAxNAOcOa9OJln2cXJicx-DAwgo07q262Tpam4T6cRZ_So4OAbAo5NC1Fv_1jRWIt-2joJfLQ0QQaNg2rMk17q8qJq41qZ5KtFEzxA2cV2FZD2_YJ2qaNvmcopTEcFGalcibRdeWJRf0amNENffNGOroXDsPDO9N1QASPs7E1uDWY5POi1lrd0MXWdy8T332rOrpAps1Z_JrYxyJJGQcxHVP4kvSdhic_h3h1oJ1uyMHQ.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/jCWxRotN1InmJQ7PVpfnL7DErES2X5yMZv6M_CbZfmoz8minwwA2Cy1_tMQmzSyrOqCyWxJyeUPHqQOdqcQCOpC8vR4Q4q_545POUm_fDTpjaN6PwbCR-vsgB3U6a85z7nLSiNeEccK_3by2EZHA8IqJR8b5TgJhjEcRBFAbekAzPncAft738N1E8zAJkn-YpUWfWGlokdbftqXRBh_s3iZ5HsMTYLXxJ-FGcbcMtuD6ZMQ3-L2_YDLV-dyI8hKltPQVoxsE16wSm5ERa9jI_TQnRuAnmgKqtPc-rMr15mVZWzUqYEUUYjpQ3t7LJFtGSSOLlfwBdBqXTcAGsCHhdQ.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/i8FJLWjsZ8g9tnMfs0kSY38iqxXg2EkLJ288tJUMiyCxy3pKSRfs8U38j2jEmSCCypW5mWzr3PqcBJT4uKMdykNCGbkFWl7AihpweGEAhRa4B6ZdPvPDWgh0naxz6cvaaHKv09jMCiFxY4hq3knn9QFBD0A1NfqIlpUZeS0XVQya7m0y4kKMeRCbYcVzibHP0p9Lv4zt7en_Pc82dMTzLiHxTF0tuY5qAi_M1aMqTftoRISgDp1TLyKUWSj8nqBht_1oUCjxNO6z9gCaNyPQA-WHSqLjsbErfHjWTyJKQ6hEU9BjiGRWc19JUWLsshWhDYboy5bqAx7HqoyoyBQD1Q.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/LG_P_NjcWSy77Av-cJkYHPLP0eyOUj0aXS54fVT64dPMXUd9pZeK_ix6vn7HUNE6iocZovbediigIMqZ8IG5E8VcHMtDPuHF3OTU2YBjuF2jH3FMbafvUB5kKYYA1apOwEMNMsZ8vHSwgYlb03MGztePeiHxfPICW32aEEKW90KyhIFsjSdwZdZSdnNzjSkKPeN8X4ZKXLidtMspndZS9PTjA3kYlNo4b-TjJVx8p4wWPpTsDQhdTAdDY0VJ6wyM_AH9OP02B2vyhqhHyR9utQ4JOtgCvzRGphYBxIriPgae31UP8ahLu1PMVk4IbWnWhKqfO4L2cuA6R3fwVpWjPA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 230328,
+      "message": "طرح جدید کارت‌های جایگاه سوخت؛ اعمال محدودیت بیشتر بر مصرف توسط جمهوری اسلامی",
+      "date": "2026-09-12T18:50:21Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2380,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/RXBiXrC76koZpvVdYw0KOOonQROxQhBgSqOUKKZORxdR9lSJsKzQZvJ-ffHhO-6I2yH999F3oIH-3mePINj_j79sAt-q7GvaMB5etuqMW5p_tiJ55f7imgPFV3BoDsrUwPndyxdhgXJuadAO4R_4kuDSPzVsso0Lu-M2NZxD064I8yFS0X5CnYfXCHtniyKxX9F8kHES6v96ibH54ANEMZloxuFFOze0KAZGvArSBkylF2zGvHi29kjnOSHCdhdSDZV4qeOd8cPY29qDrLGcqfjB-sN2wR_qaHEXfxnHA3jUaIjTQSjIqVtaMqPkBm0bWLHFtzX41aZC3ruzsdi44g",
+          "width": 1280
+        }
+      ]
+    },
+    {
+      "id": 230329,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eسناتور کاتن درباره موثر بودن محاصره دریایی: رژیم ایران در ضعیف‌ترین موقعیت چند دهه‌ اخیر قرار دارد\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eتام کاتن، سناتور جمهوری‌خواه آرکانزاس و رئیس کمیته اطلاعات سنای آمریکا، روز شنبه ۲۱ شهریور بخشی از مصاحبه اخیرش خود را در حساب رسمی‌ خود در ایکس بازنشر کرد و با اشاره به سیاست پرزیدنت ترامپ در قبال جمهوری اسلامی گفت حکومت ایران اکنون در ضعیف‌ترین موقعیت خود طی چند دهه گذشته قرار دارد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/cotton-blockade-weakens-regime/8197372.html\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/cotton-blockade-weakens-regime/8197372.html\u003c/a\u003e",
+      "date": "2026-09-12T18:57:34Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2260,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA"
+    },
+    {
+      "id": 230330,
+      "message": "اسرائیل رسماً اعلام کرده که تونل‌های سازمان حزب‌الله لبنان را در منطقه «علی الطاهر» واقع در جنوب این کشور را نابود کرده و به زودی به سراغ باقیمانده توانمندی‌های حزب‌الله خواهد رفت. در این میان، دیگر از تهدیدهای مقامات جمهوری اسلامی خبری نیست. موضوعی که صدای هواداران افراطی حکومت را هم درآورده است.\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-09-12T19:11:35Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1780,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/fti-MXhWyNjqpu_J1YWJV27bGPjOwLn95jVALcSag5Uhf3NJ88XiwpJZMoDs7RaJy4tpAGA3E5hoJ8JKU1sDvsqyPm6ijlNNB3PMt8rX3pJkSM8pX29YrQylWlfMbQV9c8qT_Zhd_a7BtLZBj4BtoSgjmDksnZrXslzA4bcNHB9kTX-YFWt6g-tod7DbJ1EquxM7OZxHlTFeBx_40isotUNn-ZBog5zLePQXx6d2wyw8y2yZGne0WMBzkHEO7EL42WuJMhkLEMnEkSZHNRSqfsSx4sUYC0ET5GLl71I85ex90CRkwSO0pkc0rKvYomcYzV82dXtqTpvNdXx_CdAsLg",
+          "width": 640
+        }
+      ]
+    },
+    {
+      "id": 230331,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eتشدید تلاش‌های جمهوری اسلامی برای سرکوب مخالفان؛ از تداوم صدور احکام حبس تا بازداشت وکلای دادگستری\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eمنابع حقوق بشری روز شنبه ۲۱ شهریور گزارش دادند که رژیم جمهوری اسلامی در ادامه تلاش‌هایش برای سرکوب مخالفان، یک جوان معترض را به ۱۱ سال حبس محکوم و یک وکیل دادگستری را احضار و بازداشت کرده است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/iran-protests-death-penalty-human-rights/8197363.html\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/iran-protests-death-penalty-human-rights/8197363.html\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-09-12T19:20:00Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1340,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA"
+    },
+    {
+      "id": 230332,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eلاله مرزبان جایزه بهترین بازیگر زن بخش افق‌های جشنواره ونیز را به زنان ایران تقدیم کرد\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003eلاله مرزبان، بازیگر ایرانی، شامگاه شنبه ۲۱ شهریور جایزه بهترین بازیگر زن بخش «افق‌ها» در هشتادوسومین جشنواره بین‌المللی فیلم ونیز را برای بازی در فیلم «مراقب» دریافت کرد و جایزه خود را به زنان ایران تقدیم کرد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e بیشتر بخوانید:\u003cbr/\u003e\u003ca href=\"https://ir.voanews.com/a/marzban-honors-iranian-women/8197383.html\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ir.voanews.com/a/marzban-honors-iranian-women/8197383.html\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FarsiVOA\" target=\"_blank\"\u003e@FarsiVOA\u003c/a\u003e",
+      "date": "2026-09-12T19:23:09Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1220,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Farsi VOA"
     }
   ],
   "last_updated": 0
